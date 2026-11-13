@@ -7,9 +7,9 @@ import type { Source } from './types';
  */
 export const SOURCES: Source[] = [
   // België
-  { id: 'tijd', naam: 'De Tijd', url: 'https://www.tijd.be/rss/top_stories.xml', regio: 'belgie', land: 'België', soort: 'krant' },
+  { id: 'tijd', naam: 'De Tijd', url: 'https://www.tijd.be/rss/politiek_economie.xml', regio: 'belgie', land: 'België', soort: 'krant' },
   { id: 'tijd-ond', naam: 'De Tijd Ondernemen', url: 'https://www.tijd.be/rss/ondernemen.xml', regio: 'belgie', land: 'België', soort: 'krant' },
-  { id: 'lecho', naam: "L'Echo", url: 'https://www.lecho.be/rss/top_stories.xml', regio: 'belgie', land: 'België', soort: 'krant' },
+  { id: 'lecho', naam: "L'Echo", url: 'https://www.lecho.be/rss/entreprises.xml', regio: 'belgie', land: 'België', soort: 'krant' },
   { id: 'vrt', naam: 'VRT NWS', url: 'https://www.vrt.be/vrtnws/nl.rss.articles.xml', regio: 'belgie', land: 'België', soort: 'omroep', breed: true },
 
   // Europa
