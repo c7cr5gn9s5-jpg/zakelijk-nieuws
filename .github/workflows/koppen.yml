@@ -1,0 +1,36 @@
+name: Koppen ophalen
+
+# Elke nacht, ruim voor de briefing van 02:00 Belgische tijd (zomer en winter).
+on:
+  schedule:
+    - cron: '30 23 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: koppen
+  cancel-in-progress: false
+
+jobs:
+  koppen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci --no-audit --no-fund
+      - run: npm run koppen
+      - name: Bewaar de koppen
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/koppen.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Koppen van $(date -u +%Y-%m-%d)"
+          git pull --rebase
+          git push
