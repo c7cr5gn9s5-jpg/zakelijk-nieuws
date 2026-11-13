@@ -1,6 +1,22 @@
 {
- "opgehaaldOp": 1794605732184,
+ "opgehaaldOp": 1794606022834,
  "items": [
+  {
+   "id": "vrt-dgeu0x",
+   "sourceId": "vrt",
+   "titel": "Alle vliegtuigen in VS moeten aan de grond blijven, vermoedelijk door technische storing",
+   "link": "https://vrtnws.be/p.WkjeKOJdB",
+   "snippet": "Alle vliegtuigen in de Verenigde Staten moeten tot nader order aan de grond blijven. Dat meldt de Amerikaanse luchtvaartautoriteit Federal Aviation Administration (FAA) op X. Een technische storing zou aan de oorzaak liggen. Volgens de FAA gaat het om \"buitengewone omstandigheden en veiligheidsredenen\".",
+   "datum": 1794605667000
+  },
+  {
+   "id": "tijd-ond-1ijp2py",
+   "sourceId": "tijd-ond",
+   "titel": "Luchtvaartwaakhond houdt alle vluchten in VS aan de grond",
+   "link": "https://www.tijd.be/r/t/1/id/10700930",
+   "snippet": "In de Verenigde Staten heeft de luchtvaartwaakhond FAA bevolen om alle vliegtuigen per direct aan de grond te houden. De maatregel komt er vanwege 'uitzonderlijke omstandigheden en om veiligheidsredenen'.",
+   "datum": 1794605603000
+  },
   {
    "id": "nyt-bgd1l7",
    "sourceId": "nyt",
@@ -114,6 +130,14 @@
    "datum": 1794599521000
   },
   {
+   "id": "lecho-122thho",
+   "sourceId": "lecho",
+   "titel": "Les drones belges MQ-9B SkyGuardian seront armés dès le printemps 2027",
+   "link": "https://www.lecho.be/r/t/1/id/10700567",
+   "snippet": "Le ministre de la Défense a finalisé l'achat de 16 missiles Brimstone 3 auprès des Britanniques pour les drones MQ-9B SkyGuardian. Ceux-ci pourront être armés au printemps prochain. Par la suite, la Belgique achètera des missiles américains Hellfire.",
+   "datum": 1794598783000
+  },
+  {
    "id": "techcrunch-1ql877i",
    "sourceId": "techcrunch",
    "titel": "AI agent startup LangChain hits $3B valuation",
@@ -192,6 +216,14 @@
    "link": "https://vrtnws.be/p.qENpl7XpK",
    "snippet": "De wereld vergaat vandaag: dat is wat wetenschapper Heinz von Foerster in 1960 voorspelde. Volgens hem zou de wereldbevolking op vrijdag 13 november 2026 letterlijk oneindig groot worden zodat mensen elkaar zouden platdrukken. \"Hij wilde met die voorspelling vooral waarschuwen voor de snelle bevolkingsgroei\", legt w…",
    "datum": 1794593801000
+  },
+  {
+   "id": "lecho-122text",
+   "sourceId": "lecho",
+   "titel": "Digi signe un trimestre impressionnant avec 20.000 nouveaux clients",
+   "link": "https://www.lecho.be/r/t/1/id/10700250",
+   "snippet": "L’opérateur télécom Digi poursuit sa montée en puissance en Belgique. Avec 20.000 nouveaux clients, il signe un solide troisième trimestre. Pour son CEO, Serghei Bulgac, ce rebond \"n’est pas une exception ni un effet temporaire\".",
+   "datum": 1794593462000
   },
   {
    "id": "tijd-ond-1ijoxnr",
@@ -458,14 +490,6 @@
    "datum": 1794583796000
   },
   {
-   "id": "tijd-ond-1i2xwcb",
-   "sourceId": "tijd-ond",
-   "titel": "Digi groeit weer sneller en heeft 20.000 nieuwe telecomklanten: ‘We gaan door in dit tempo, of sneller’",
-   "link": "https://www.tijd.be/r/t/1/id/10699664",
-   "snippet": "Het telecombedrijf Digi groeit verder in België. Met 20.000 nieuwe klanten heeft het een sterk derde kwartaal achter de rug. Volgens CEO Serghei Bulgac is de sprong ‘geen uitzondering en geen tijdelijk effect’.",
-   "datum": 1794583264000
-  },
-  {
    "id": "vrt-xgljc9",
    "sourceId": "vrt",
    "titel": "Vierde miljoenenwinst van Lotto in Pelt in 12 jaar tijd: familie wint 1,5 miljoen euro",
@@ -496,6 +520,14 @@
    "link": "https://vrtnws.be/p.oLqp3wjXY",
    "snippet": "Noord-Koreaanse hackers hebben de afgelopen 18 maanden meer dan 400 miljoen dollar in crypto buitgemaakt aan de hand van deepfakevideo's. Dat zegt de Amerikaanse politiedienst FBI. Noord-Korea zelf verwerpt alle beschuldigingen.",
    "datum": 1794582739000
+  },
+  {
+   "id": "lecho-11m2ed5",
+   "sourceId": "lecho",
+   "titel": "Panne chez Microsoft: des améliorations en Europe et en Amérique du Nord",
+   "link": "https://www.lecho.be/r/t/1/id/10699653",
+   "snippet": "Une panne mondiale majeure perturbe depuis ce vendredi matin plusieurs services Microsoft dans plus de 74 pays. Dans l'après-midi, l'entreprise a annoncé des \"améliorations\" en Europe et en Amérique du Nord.",
+   "datum": 1794582665000
   },
   {
    "id": "vrt-jaj1qh",
@@ -544,14 +576,6 @@
    "link": "https://www.nytimes.com/2026/11/12/business/mortgage-rates-home-sales-housing-market.html",
    "snippet": "The average 30-year, fixed-rate home loan fell slightly, to 7.11 percent, pushing buyers and sellers to the sidelines until conditions improve.",
    "datum": 1794580109000
-  },
-  {
-   "id": "vrt-iouj7p",
-   "sourceId": "vrt",
-   "titel": "Bestuurder (18) sterft na zwaar ongeval in Lembeke, wagen doormidden gebroken",
-   "link": "https://vrtnws.be/p.GvoDJBoJJ",
-   "snippet": "Een jongeman van 18 jaar is vanmiddag om het leven gekomen bij een zwaar verkeersongeval in de Vrombautstraat in Lembeke, een deelgemeente van Kaprijke. De wagen kwam tegen een boom en een woning terecht en brak doormidden. Hulpverleners deden nog een poging tot reanimatie, maar die mocht niet baten.",
-   "datum": 1794580012000
   },
   {
    "id": "bbc-tkbyll",
@@ -682,12 +706,28 @@
    "datum": 1794568037000
   },
   {
+   "id": "lecho-11m2f3u",
+   "sourceId": "lecho",
+   "titel": "Méga-panne de Microsoft : banques, hôpitaux, aéroports... Les entreprises trouvent des alternatives",
+   "link": "https://www.lecho.be/r/t/1/id/10699717",
+   "snippet": "Banques, opérateurs télécoms, supermarchés, hôpitaux, aéroports... Toutes les entreprises belges subissent la panne du géant Microsoft. Les échanges entre collègues et vers l'extérieur sont ralentis. Mais les entreprises trouvent des alternatives. L'impact sur les services aux clients semble limité.",
+   "datum": 1794567786000
+  },
+  {
    "id": "sifted-pyze2e",
    "sourceId": "sifted",
    "titel": "Inside Samsung’s year of European deal making",
    "link": "https://sifted.eu/articles/samsung-european-tech/",
    "snippet": "",
    "datum": 1794567639000
+  },
+  {
+   "id": "lecho-11m2eew",
+   "sourceId": "lecho",
+   "titel": "Comment des hackers nord-coréens auraient dérobé 400 millions de dollars en crypto via de faux appels vidéo",
+   "link": "https://www.lecho.be/r/t/1/id/10699670",
+   "snippet": "Plusieurs cyberattaques attribuées à la Corée du Nord ont récemment fait l'actualité. Selon le FBI, des hackers nord-coréens auraient dérobé plus de 400 millions de dollars en cryptomonnaies en piégeant leurs cibles lors de faux appels vidéo.",
+   "datum": 1794567533000
   },
   {
    "id": "techcabal-1mloc78",
@@ -832,6 +872,22 @@
    "link": "https://www.scmp.com/business/markets/article/3374300/mainland-china-stock-sentiment-turns-bearish-again-morgan-stanley-indicator-shows",
    "snippet": "Investor sentiment has weakened again, with a gauge of mainland Chinese stock market sentiment tracked by Morgan Stanley falling back into bearish territory, prompting the investment bank to maintain a cautious outlook on the broader market. The weighted Morgan Stanley A-Share Sentiment Indicator fell 16 percentage…",
    "datum": 1794546006000
+  },
+  {
+   "id": "lecho-11m2ec8",
+   "sourceId": "lecho",
+   "titel": "Les data centers engloutissent déjà près de 10% de l'électricité consommée en Wallonie",
+   "link": "https://www.lecho.be/r/t/1/id/10699643",
+   "snippet": "Les centres de données représentent déjà près de 10% de l'électricité consommée en Wallonie, selon le cabinet de la ministre wallonne de l'Énergie. Une proportion appelée à augmenter au regard des perspectives de croissance du secteur.",
+   "datum": 1794544200000
+  },
+  {
+   "id": "lecho-11m2dh2",
+   "sourceId": "lecho",
+   "titel": "Trade Republic promet un taux de 4% à ses nouveaux clients: publicité trompeuse?",
+   "link": "https://www.lecho.be/r/t/1/id/10699533",
+   "snippet": "Trade Republic frappe fort sur l'épargne avec un taux de 4% pour ses nouveaux clients. Ils ne profiteront pourtant pas de ce rendement sur une année complète. Une pratique commerciale qui interroge.",
+   "datum": 1794542544000
   },
   {
    "id": "scmp-1qkhi5m",
@@ -994,6 +1050,14 @@
    "datum": 1794517212000
   },
   {
+   "id": "lecho-11m2ed2",
+   "sourceId": "lecho",
+   "titel": "Nvidia: Jensen Huang aurait entretenu une troisième liaison extraconjugale",
+   "link": "https://www.lecho.be/r/t/1/id/10699650",
+   "snippet": "Contraint à la démission après la révélation de deux relations extraconjugales, Jensen Huang aurait également entretenu une liaison avec une autre employée de Nvidia, selon Reuters.",
+   "datum": 1794516881000
+  },
+  {
    "id": "bbc-9008p2",
    "sourceId": "bbc",
    "titel": "Jensen Huang has resigned, what's next for Nvidia?",
@@ -1082,6 +1146,14 @@
    "datum": 1794508200000
   },
   {
+   "id": "lecho-11m2ebb",
+   "sourceId": "lecho",
+   "titel": "Mercedes suspend ses investissements en Allemagne et examine des fermetures",
+   "link": "https://www.lecho.be/r/t/1/id/10699633",
+   "snippet": "Mercedes-Benz a annoncé en interne la suspension de tout nouvel investissement en Allemagne. Le constructeur dit examiner la fermeture de sites allemands et la production des prochains modèles à l'étranger.",
+   "datum": 1794507033000
+  },
+  {
    "id": "nyt-ha9493",
    "sourceId": "nyt",
    "titel": "What Do You Want to Know About New York Times Journalism and A.I.?",
@@ -1136,6 +1208,14 @@
    "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
    "snippet": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
    "datum": 1794502800000
+  },
+  {
+   "id": "lecho-11m2diu",
+   "sourceId": "lecho",
+   "titel": "Jensen Huang démissionne et plonge Nvidia dans l'incertitude de l'après",
+   "link": "https://www.lecho.be/r/t/1/id/10699551",
+   "snippet": "Jensen Huang, CEO et cofondateur de Nvidia, a démissionné ce jeudi, après des révélations sur ses relations extraconjugales et l’ouverture d’une enquête sur une possible opération de renseignement étrangère. Le géant des puces doit désormais organiser l’après-Huang.",
+   "datum": 1794501592000
   },
   {
    "id": "techcabal-1k8yuex",
@@ -1967,120 +2047,119 @@
    "ok": false,
    "aantal": 0,
    "fout": "HTTP 404",
-   "at": 1794605729808
+   "at": 1794606020659
   },
   "tijd-ond": {
    "ok": true,
    "aantal": 10,
-   "at": 1794605729808
+   "at": 1794606020659
   },
   "lecho": {
-   "ok": false,
-   "aantal": 0,
-   "fout": "HTTP 404",
-   "at": 1794605729808
+   "ok": true,
+   "aantal": 10,
+   "at": 1794606020659
   },
   "vrt": {
    "ok": true,
    "aantal": 30,
-   "at": 1794605729808
+   "at": 1794606020659
   },
   "sifted": {
    "ok": true,
    "aantal": 21,
-   "at": 1794605729808
+   "at": 1794606020659
   },
   "techeu": {
    "ok": false,
    "aantal": 0,
    "fout": "HTTP 403",
-   "at": 1794605729808
+   "at": 1794606020659
   },
   "eustartups": {
    "ok": false,
    "aantal": 0,
    "fout": "HTTP 403",
-   "at": 1794605729808
+   "at": 1794606020659
   },
   "ecb": {
    "ok": true,
    "aantal": 1,
-   "at": 1794605729808
+   "at": 1794606020659
   },
   "euronews": {
    "ok": true,
    "aantal": 9,
-   "at": 1794605729808
+   "at": 1794606020659
   },
   "dw": {
    "ok": true,
    "aantal": 3,
-   "at": 1794605729808
+   "at": 1794606020659
   },
   "guardian": {
    "ok": true,
    "aantal": 11,
-   "at": 1794605729808
+   "at": 1794606020659
   },
   "bbc": {
    "ok": true,
    "aantal": 26,
-   "at": 1794605729808
+   "at": 1794606020659
   },
   "economist": {
    "ok": true,
    "aantal": 3,
-   "at": 1794605729808
+   "at": 1794606020659
   },
   "nyt": {
    "ok": true,
    "aantal": 30,
-   "at": 1794605729808
+   "at": 1794606020659
   },
   "cnbc": {
    "ok": true,
    "aantal": 7,
-   "at": 1794605729808
+   "at": 1794606020659
   },
   "techcrunch": {
    "ok": true,
    "aantal": 5,
-   "at": 1794605729808
+   "at": 1794606020659
   },
   "crunchbase": {
    "ok": true,
    "aantal": 6,
-   "at": 1794605729808
+   "at": 1794606020659
   },
   "mittr": {
    "ok": true,
    "aantal": 7,
-   "at": 1794605729808
+   "at": 1794606020659
   },
   "fed": {
    "ok": true,
    "aantal": 4,
-   "at": 1794605729808
+   "at": 1794606020659
   },
   "nikkei": {
    "ok": true,
    "aantal": 30,
-   "at": 1794605729808
+   "at": 1794606020659
   },
   "scmp": {
    "ok": true,
    "aantal": 30,
-   "at": 1794605729808
+   "at": 1794606020659
   },
   "row": {
    "ok": true,
    "aantal": 2,
-   "at": 1794605729808
+   "at": 1794606020659
   },
   "techcabal": {
    "ok": true,
    "aantal": 10,
-   "at": 1794605729808
+   "at": 1794606020659
   }
  }
 }
