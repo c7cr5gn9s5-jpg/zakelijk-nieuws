@@ -1,21 +1,53 @@
 {
- "opgehaaldOp": 1794606022834,
+ "opgehaaldOp": 1794614433594,
  "items": [
   {
-   "id": "vrt-dgeu0x",
-   "sourceId": "vrt",
-   "titel": "Alle vliegtuigen in VS moeten aan de grond blijven, vermoedelijk door technische storing",
-   "link": "https://vrtnws.be/p.WkjeKOJdB",
-   "snippet": "Alle vliegtuigen in de Verenigde Staten moeten tot nader order aan de grond blijven. Dat meldt de Amerikaanse luchtvaartautoriteit Federal Aviation Administration (FAA) op X. Een technische storing zou aan de oorzaak liggen. Volgens de FAA gaat het om \"buitengewone omstandigheden en veiligheidsredenen\".",
-   "datum": 1794605667000
+   "id": "scmp-w73vzq",
+   "sourceId": "scmp",
+   "titel": "Life after Labubu? Pop Mart struggles for relevance as its toy sales plummet",
+   "link": "https://www.scmp.com/business/companies/article/3374342/life-after-labubu-pop-mart-struggles-relevance-its-toy-sales-plummet",
+   "snippet": "Pop Mart International will once again send a giant float down Sixth Avenue later this month for the Macy’s Thanksgiving Day Parade in New York City, but the company feels rather less buoyant than it did when it debuted at the event last year. The Chinese toymaker’s global ascent has stalled badly as the hype surrou…",
+   "datum": 1794614405000
+  },
+  {
+   "id": "nyt-jrm3tb",
+   "sourceId": "nyt",
+   "titel": "Trump Administration Delays Enforcement of Medicaid Work Requirement",
+   "link": "https://www.nytimes.com/2026/11/13/us/politics/medicaid-work-requirement-delay.html",
+   "snippet": "The federal government had planned to require poor adults to prove they were working or lose insurance coverage starting Jan. 1. Now, it will let states wait until July.",
+   "datum": 1794611421000
+  },
+  {
+   "id": "guardian-y8xun8",
+   "sourceId": "guardian",
+   "titel": "Nationwide FAA ground stop: nearly 11,000 flights delayed or canceled at airports across the US",
+   "link": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
+   "snippet": "Transportation secretary said stoppage is due to ‘communication issue’ and homeland security says there’s no indication of ‘nefarious attack’ Flights grounded at all US airports due to communications outage – live The Federal Aviation Administration (FAA) has issued a nationwide ground stop for all flights that are…",
+   "datum": 1794610866000
   },
   {
    "id": "tijd-ond-1ijp2py",
    "sourceId": "tijd-ond",
-   "titel": "Luchtvaartwaakhond houdt alle vluchten in VS aan de grond",
+   "titel": "Alle vluchten in de VS aan de grond, software-update bij luchtverkeersleider is mogelijke oorzaak",
    "link": "https://www.tijd.be/r/t/1/id/10700930",
-   "snippet": "In de Verenigde Staten heeft de luchtvaartwaakhond FAA bevolen om alle vliegtuigen per direct aan de grond te houden. De maatregel komt er vanwege 'uitzonderlijke omstandigheden en om veiligheidsredenen'.",
-   "datum": 1794605603000
+   "snippet": "In de Verenigde Staten heeft de luchtvaartautoriteit FAA vrijdagavond bevolen om alle vliegtuigen aan de grond te houden. De maatregel kwam er ‘vanwege uitzonderlijke omstandigheden en om veiligheidsredenen’.",
+   "datum": 1794610613000
+  },
+  {
+   "id": "nyt-5dy1g",
+   "sourceId": "nyt",
+   "titel": "Wall Street Makes Its Pitch for Anthropic’s I.P.O.",
+   "link": "https://www.nytimes.com/2026/11/13/business/anthropic-ipo-roadshow.html",
+   "snippet": "As market uncertainty deepens, investment banks are on a roadshow to sell investors on what could be the largest public offering ever.",
+   "datum": 1794609975000
+  },
+  {
+   "id": "nyt-19loniw",
+   "sourceId": "nyt",
+   "titel": "Microsoft’s Global Outage and Fixes: What We Know",
+   "link": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
+   "snippet": "The company described “encouraging” progress on efforts to overcome a second day of disruptions to its email, messaging and other services.",
+   "datum": 1794609039000
   },
   {
    "id": "nyt-bgd1l7",
@@ -66,22 +98,6 @@
    "datum": 1794603897000
   },
   {
-   "id": "vrt-5t4vyf",
-   "sourceId": "vrt",
-   "titel": "Tanker botst tegen cruiseschip in New Orleans: vaartuig kapseist, verschillende mensen uit water gered",
-   "link": "https://vrtnws.be/p.M9mAxXvNy",
-   "snippet": "In de haven van New Orleans, in de staat Louisiana, is een tanker op een riviercruiseschip op de Mississippi gevaren. Het cruiseschip van de rederij American Cruise Lines had 129 passagiers aan boord en is gekapseisd, blijkt uit beelden op sociale media. Daarop is ook te zien hoe mensen uit het water gered worden.",
-   "datum": 1794602896000
-  },
-  {
-   "id": "guardian-1il3892",
-   "sourceId": "guardian",
-   "titel": "Microsoft outage: company ‘deeply sorry’ for disruption affecting millions and says it’s ‘not related to cyber or AI’ – as it happened",
-   "link": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
-   "snippet": "This live blog is now closed. Tell us: have you been affected by the Microsoft outage? Microsoft struggles to fix huge outage affecting Outlook and Teams What happened and when will it be fixed? There are plenty of essential services that remain unaffected by the outage, which is largely impacting email systems. The…",
-   "datum": 1794602278000
-  },
-  {
    "id": "crunchbase-1mbq3mf",
    "sourceId": "crunchbase",
    "titel": "Crunchbase Data: Nvidia’s Startup Funding Deals Hit A Record. What’s Next After Huang?",
@@ -100,7 +116,7 @@
   {
    "id": "tijd-ond-1i2xx30",
    "sourceId": "tijd-ond",
-   "titel": "Umicore-topman Bart Sap: 'Vergis u niet, ook China heeft enorme problemen'",
+   "titel": "Umicore-topman Bart Sap: ‘Vergis u niet, ook China heeft enorme problemen’",
    "link": "https://www.tijd.be/r/t/1/id/10699728",
    "snippet": "Na een pijnlijke koerswijziging durft Umicore weer fors te investeren, maar er zullen ook honderden banen verdwijnen. Voor CEO Bart Sap is dat de toekomst van de Europese industrie: wie opnieuw wil groeien, moet durven kiezen wat hij opgeeft. ‘Alle staalproductie in Europa houden? Dat is een utopie.’",
    "datum": 1794600848000
@@ -138,44 +154,12 @@
    "datum": 1794598783000
   },
   {
-   "id": "techcrunch-1ql877i",
-   "sourceId": "techcrunch",
-   "titel": "AI agent startup LangChain hits $3B valuation",
-   "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-   "snippet": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-   "datum": 1794598677000
-  },
-  {
    "id": "crunchbase-1uu8550",
    "sourceId": "crunchbase",
    "titel": "The Week’s 10 Biggest Funding Rounds: Agentic AI And Infrastructure Are Still On A Roll",
    "link": "https://news.crunchbase.com/venture/biggest-startup-funding-rounds-agentic-ai-infrastructure-mirendil-mercor/",
    "snippet": "It was another big week for AI-related startup financings. Mirendil, a developer of agentic AI for R&D, led the pack with a $1 billion series A, followed by Mercor, which secured $750 million to connect AI developers with human experts.",
    "datum": 1794597604000
-  },
-  {
-   "id": "nyt-19loniw",
-   "sourceId": "nyt",
-   "titel": "Microsoft’s Global Outage and Fixes: What We Know",
-   "link": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
-   "snippet": "The company described “encouraging” progress on efforts to overcome a second day of disruptions to its email, messaging and other services.",
-   "datum": 1794596671000
-  },
-  {
-   "id": "vrt-xapiuu",
-   "sourceId": "vrt",
-   "titel": "Gevonden in Molenbeek: veroordeelde man uit Frankrijk na 5 jaar op de vlucht opgepakt",
-   "link": "https://vrtnws.be/p.jGk56RGX8",
-   "snippet": "In Sint-Jans-Molenbeek is een man opgepakt die al 5 jaar gezocht werd door het gerecht in Frankrijk. Daar had hij in 2022 een celstraf van 7 jaar gekregen. Dat meldt het parket van Brussel.",
-   "datum": 1794596142000
-  },
-  {
-   "id": "vrt-19jvqv4",
-   "sourceId": "vrt",
-   "titel": "\"Dit kabinet is mislukt experiment\": regering valt (nog) niet in Nederland, maar VVD blijft kritisch",
-   "link": "https://vrtnws.be/p.qENpneLeb",
-   "snippet": "In Nederland blijft de VVD (voorlopig) deel uitmaken van de minderheidsregering van Rob Jetten. Zoveel is duidelijk na urenlang crisisoverleg tussen de coalitiepartners VVD, D66 en CDA. De komende dagen wil de premier de plooien met gladstrijken door \"in alle rust verder te praten\", tegelijk noemt VVD-leider Dilan Y…",
-   "datum": 1794595083000
   },
   {
    "id": "bbc-xxp1ps",
@@ -200,22 +184,6 @@
    "link": "https://www.tijd.be/r/t/1/id/10700516",
    "snippet": "Het dossier rond de gedeeltelijke privatisering van Belfius staat vrijdag niet op de agenda van het kernkabinet. Het loopt vertraging op door de begrotingscrisis van de federale regering, maar de tijd dringt.",
    "datum": 1794594304000
-  },
-  {
-   "id": "vrt-qgf1ja",
-   "sourceId": "vrt",
-   "titel": "Microsoft biedt excuses aan voor wereldwijde storing, diensten grotendeels hersteld",
-   "link": "https://vrtnws.be/p.Nv3A0e1kw",
-   "snippet": "Microsoft heeft zijn verontschuldigingen aangeboden voor de technische problemen waar klanten wereldwijd al een hele dag mee kampen. Tegelijk zegt het bedrijf achter onder meer Outlook, Teams en Copilot dat zijn diensten intussen \"een breed herstel en stabiliteit\" vertonen. Al is de situatie nog niet helemaal genorm…",
-   "datum": 1794594143000
-  },
-  {
-   "id": "vrt-19hhrjk",
-   "sourceId": "vrt",
-   "titel": "'Doomsday: Friday, 13 November, A.D. 2026': de opvallende voorspelling uit 1960 over einde van de wereld",
-   "link": "https://vrtnws.be/p.qENpl7XpK",
-   "snippet": "De wereld vergaat vandaag: dat is wat wetenschapper Heinz von Foerster in 1960 voorspelde. Volgens hem zou de wereldbevolking op vrijdag 13 november 2026 letterlijk oneindig groot worden zodat mensen elkaar zouden platdrukken. \"Hij wilde met die voorspelling vooral waarschuwen voor de snelle bevolkingsgroei\", legt w…",
-   "datum": 1794593801000
   },
   {
    "id": "lecho-122text",
@@ -256,14 +224,6 @@
    "link": "https://techcabal.com/2026/11/13/microsoft-outage-south-africa-big-tech/",
    "snippet": "Microsoft's global outage disrupted South African businesses and public institutions, including Eskom, Absa and FlySafair, exposing the country's growing dependence on Big Tech's cloud infrastructure.",
    "datum": 1794591662000
-  },
-  {
-   "id": "vrt-1enatpg",
-   "sourceId": "vrt",
-   "titel": "Politie Londen start onderzoek naar David Walliams na beschuldigingen van \"ernstige seksuele misdrijven\"",
-   "link": "https://vrtnws.be/p.oLqpeRE7o",
-   "snippet": "De politie van Londen heeft een onderzoek geopend naar acteur, komiek en schrijver David Walliams (55) wegens ernstige seksuele misdrijven. Meldingen hiervan kwamen binnen nadat The Guardian en ITV News eerder deze week hadden bericht over seksueel grensoverschrijdend gedrag door Walliams.",
-   "datum": 1794590443000
   },
   {
    "id": "guardian-w9rr8b",
@@ -308,34 +268,10 @@
   {
    "id": "tijd-ond-1ijov9m",
    "sourceId": "tijd-ond",
-   "titel": "In de gloednieuwe hightech-eventzaal Corda Arena in Hasselt: ‘Binnen tien jaar zijn we de grootste techcampus van Europa’",
+   "titel": "In de nieuwe hightech-eventzaal Corda Arena in Hasselt: ‘Binnen tien jaar zijn we Europa’s grootste techcampus’",
    "link": "https://www.tijd.be/r/t/1/id/10700079",
    "snippet": "Vanavond opent in Hasselt de Corda Arena, een multimediale eventtempel. Het is de eerste stap in een forse uitbreiding van de gelijknamige Limburgse techcampus, met plaats voor een filiaal van het Zwitserse onderzoekcentrum CERN en Vlaanderens tweede supercomputer. ‘Drie jaar geef ik ons om te bewijzen dat het werkt.’",
    "datum": 1794589200000
-  },
-  {
-   "id": "vrt-1qf13se",
-   "sourceId": "vrt",
-   "titel": "Hoogtechnologische Corda Arena opent officieel de deuren in Hasselt: \"Van buitenkant tot binnenkant volledig aanpasbaar aan bedrijf\"",
-   "link": "https://vrtnws.be/p.DYMA8KGeN",
-   "snippet": "Op de Corda Campus in Hasselt is vandaag de nieuwe Corda Arena officieel geopend. De hoogtechnologische evenementenhal kostte 43 miljoen euro en moet grote internationale bedrijfsevents naar Limburg halen. \"We gaan niet concurreren met het Sportpaleis, maar mikken op een nieuw type innovatieve evenementen\", klinkt het.",
-   "datum": 1794589151000
-  },
-  {
-   "id": "vrt-i27hqc",
-   "sourceId": "vrt",
-   "titel": "Omstreden jongerenkerk Go Church zoekt nieuwe volgelingen in Antwerpen met anonieme flyers",
-   "link": "https://vrtnws.be/p.KK8noN4EL",
-   "snippet": "De omstreden jongerenkerk Go Church probeert via anonieme flyers nieuwe volgelingen aan te trekken in Antwerpen. Dat meldt schepen voor Erediensten Stijn De Rooster (N-VA). \"Dit soort organisaties hoort niet thuis in Antwerpen, dus we roepen uitbaters op om daar niet in te trappen\", aldus de schepen. Go Church kwam…",
-   "datum": 1794588484000
-  },
-  {
-   "id": "vrt-1j0o2o",
-   "sourceId": "vrt",
-   "titel": "Politie pakt 19-jarige uit Kinrooi op voor 26 diefstallen uit auto's in Genk en Bree",
-   "link": "https://vrtnws.be/p.8epAGWOPo",
-   "snippet": "De politie heeft in het centrum van Genk een 19-jarige vermoedelijke dief uit Kinrooi opgepakt. Hij wordt ervan verdacht in 26 auto's te hebben ingebroken om onder meer bankkaarten te stelen. De onderzoeksrechter heeft de man aangehouden.",
-   "datum": 1794588028000
   },
   {
    "id": "nyt-uazdu6",
@@ -346,14 +282,6 @@
    "datum": 1794587788000
   },
   {
-   "id": "vrt-1e394on",
-   "sourceId": "vrt",
-   "titel": "Na schorsing Raad van State: Knokke-Heist start nieuwe \"aangepaste\" procedure voor strandconcessies",
-   "link": "https://vrtnws.be/p.3BwRGBDVP",
-   "snippet": "De gemeente Knokke-Heist zet de lopende procedure voor de toekenning van de strandconcessies volledig stop en start binnenkort een nieuwe op. Vorige maand vernietigde de Raad van State de toewijzing van de concessies. Alle kandidaten zullen dus een nieuw dossier moeten indienen. \"We zullen rekening houden met de opm…",
-   "datum": 1794587730000
-  },
-  {
    "id": "bbc-1yntlb5",
    "sourceId": "bbc",
    "titel": "What are people emergency stockpiling?",
@@ -362,44 +290,12 @@
    "datum": 1794587482000
   },
   {
-   "id": "vrt-1ue8gtr",
-   "sourceId": "vrt",
-   "titel": "Piek in verlofaanvragen op dag dat videogame GTA 6 verschijnt, blijkt uit cijfers van Acerta",
-   "link": "https://vrtnws.be/p.43p47kOx5",
-   "snippet": "Werknemers in België hebben voor 19 november tot 66 procent meer verlofaanvragen ingediend dan op hetzelfde moment vorig jaar. Dat blijkt uit cijfers over de privésector van hr-dienstverlener Acerta. Toeval of niet: op die dag verschijnt ook de langverwachte videogame GTA 6. Mogelijk nemen duizenden mensen een dagje…",
-   "datum": 1794587128000
-  },
-  {
-   "id": "vrt-a28pyu",
-   "sourceId": "vrt",
-   "titel": "\"Je hoeft niet gelovig te zijn om er tot rust te komen\": Sint-Martinuskerk in Retie krijgt als eerste label van stilteplek",
-   "link": "https://vrtnws.be/p.w70PxwE4Z",
-   "snippet": "De Sint-Martinuskerk in Retie heeft vandaag als eerste kerk het label van publieke stilteplek gekregen. Dat is te zien op een bord aan de ingang. Het bisdom Antwerpen wil zo duidelijk maken welke kerken en kapellen openstaan voor gebed, stilte en rust. \"Ook mensen die niet of anders gelovig zijn kunnen er tot rust k…",
-   "datum": 1794587104000
-  },
-  {
-   "id": "vrt-rs8aux",
-   "sourceId": "vrt",
-   "titel": "Nieuwe stap in komst Einsteintelescoop: Euregio stuurt brief naar Italië met voorkeur voor 2 L-vormige telescopen",
-   "link": "https://vrtnws.be/p.LNWAv8lP7",
-   "snippet": "De Duitse regio Noordrijn-Westfalen en de Nederlandse en de Vlaamse regering willen een L-vormige Einsteintelescoop in de Voerstreek en één in Italië. Dat laten de regeringsleiders in een brief aan hun Italiaanse collega's weten. Daarmee lijkt een Europees compromis rond de plaats van de telescoop een stapje dichter…",
-   "datum": 1794587102000
-  },
-  {
    "id": "row-m5802f",
    "sourceId": "row",
    "titel": "How Jensen Huang’s exit from Nvidia impacts China’s AI supply chain",
    "link": "https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
    "snippet": "The founder’s stunning departure removes Beijing’s biggest advocate in Silicon Valley, accelerates chip stockpiling, and leaves Asian suppliers bracing for what comes next.",
    "datum": 1794587050000
-  },
-  {
-   "id": "vrt-1bztjj0",
-   "sourceId": "vrt",
-   "titel": "Dylan uit Brugge wil 61 uur aan de toog hangen om record te breken: \"Steunkousen aan en huisarts staat klaar\"",
-   "link": "https://vrtnws.be/p.5wa8GBLJR",
-   "snippet": "Dylan Debaene uit Brugge is aan een bijzondere recordpoging begonnen: hij wil minstens 61 uur onafgebroken aan de cafétoog zitten. Dat doet hij niet zomaar, wel voor het goede doel. \"De huisarts en de kinesist staan paraat\", klinkt het aan de toog van café De Waert.",
-   "datum": 1794586527000
   },
   {
    "id": "tijd-ond-1ijow3n",
@@ -418,68 +314,12 @@
    "datum": 1794585791000
   },
   {
-   "id": "vrt-111t42b",
-   "sourceId": "vrt",
-   "titel": "Leuvense Kerstmarkt steunt organisatie voor Jongdementie: Ben Crabbé en Jan Hautekiet worden peters",
-   "link": "https://vrtnws.be/p.BlYn7YmdW",
-   "snippet": "Presentator Ben Crabbé en muzikant en oud-radiopresentator Jan Hautekiet worden dit jaar de peters van de Leuvense Kerstmarkt. Ze gaan het goede doel ondersteunen waarvoor geld wordt ingezameld. Dat is deze keer Zorgcirkels, een organisatie die mensen met jongdementie begeleidt.",
-   "datum": 1794585623000
-  },
-  {
-   "id": "vrt-1dlji5h",
-   "sourceId": "vrt",
-   "titel": "Nieuw onderzoek naar mogelijk seksueel grensoverschrijdend gedrag door ex-coach van atleet Hanne Maudens",
-   "link": "https://vrtnws.be/p.VLNdQLpYE",
-   "snippet": "De onderzoeksrechter in Hasselt heeft een nieuw onderzoek gestart naar mogelijk seksueel grensoverschrijdend gedrag door de ex-coach van atleet Hanne Maudens. Een eerdere klacht van haar werd geseponeerd bij gebrek aan bewijs. Intussen zouden 3 nieuwe getuigenissen over de coach zijn opgedoken die volgens Maudens aa…",
-   "datum": 1794585602000
-  },
-  {
-   "id": "vrt-fz706a",
-   "sourceId": "vrt",
-   "titel": "Maasmechelen opent nieuwe buitenschoolse kinderopvang voor 140 kinderen, met eigen bos en speelweide",
-   "link": "https://vrtnws.be/p.mRJEqlBdk",
-   "snippet": "In Maasmechelen is de nieuwe buitenschoolse kinderopvang De Sterrenzoekers op het Prinsenpark officieel geopend. Het gebouw biedt plaats aan 140 kinderen en heeft een eigen bos en een grote speelzone. De bouw kostte 4,25 miljoen euro.",
-   "datum": 1794585482000
-  },
-  {
-   "id": "vrt-1dhcqmb",
-   "sourceId": "vrt",
-   "titel": "Taalvoorwaarde voor sociale huurders wordt strenger vanaf september volgend jaar",
-   "link": "https://vrtnws.be/p.VLNdJpXRE",
-   "snippet": "Op 1 september volgend jaar wordt de taalvoorwaarde voor sociale huurders strenger. Dat heeft de Vlaamse regering beslist. Daarnaast zullen sociale huurders en kandidaten aangespoord worden om aan het werk te gaan.",
-   "datum": 1794585103000
-  },
-  {
-   "id": "vrt-1jd1eax",
-   "sourceId": "vrt",
-   "titel": "Een koker onder de weg en schuine oevers: zo moet de schuwe otter veilig door Oost-Vlaanderen kunnen trekken",
-   "link": "https://vrtnws.be/p.7nXNYqLO3",
-   "snippet": "De Europese otter duikt in Oost-Vlaanderen langzaam weer op, maar zijn leefgebied blijft kwetsbaar. Provincie Oost-Vlaanderen bouwt daarom een faunatunnel tussen het Maaibos in Lokeren en Puyenbroeck in Wachtebeke. In Nieuwdonk (Berlare) maakt de Provincie de oevers van de Polsmeerssloot ottervriendelijker. Zo wil z…",
-   "datum": 1794584973000
-  },
-  {
-   "id": "vrt-1btsrvz",
-   "sourceId": "vrt",
-   "titel": "Cultuurorganisaties nemen intrek in Materniteit op Bijlokesite in Gent: \"Voor het eerst een eigen atelier\"",
-   "link": "https://vrtnws.be/p.OvkAK1W4q",
-   "snippet": "4 culturele organisaties krijgen hun eigen plekje in de gerenoveerde Materniteit op de Bijlokesite in Gent. De stad wil de 800 jaar oude site omvormen tot een moderne campus voor kunst en cultuur. \"Vanaf nu hoeven we niet meer van koffiezaak naar koffiezaak te gaan\", zegt Alexander Devriendt van cultuurorganisatie O…",
-   "datum": 1794584790000
-  },
-  {
    "id": "nyt-1hbvkre",
    "sourceId": "nyt",
    "titel": "Fewer Fed Meetings Raise Stakes of Warsh’s Communications",
    "link": "https://www.nytimes.com/2026/11/13/business/federal-reserve-meetings-warsh.html",
    "snippet": "The Federal Reserve will vote on interest rates less frequently beginning next year as part of a plan by the central bank’s chairman, Kevin M. Warsh, to overhaul how it operates.",
    "datum": 1794584740000
-  },
-  {
-   "id": "vrt-1ncz3yq",
-   "sourceId": "vrt",
-   "titel": "Acht van de negen strandbars krijgen concessie in Blankenberge, één concessie niet na juridische twijfel",
-   "link": "https://vrtnws.be/p.dLR571Ppm",
-   "snippet": "Het lokaal bestuur van Blankenberge geeft voor 8 van de 9 strandconcessies voor strandbars definitief groen licht. Voor standplaats ST01 start het volgend jaar een nieuwe procedure, omdat \"een toewijzing grote juridische risico's meebrengt\". Aan de onderneming die het bod deed, is namelijk een gemeenteraadslid gelinkt.",
-   "datum": 1794584552000
   },
   {
    "id": "nyt-g3ltwp",
@@ -490,22 +330,6 @@
    "datum": 1794583796000
   },
   {
-   "id": "vrt-xgljc9",
-   "sourceId": "vrt",
-   "titel": "Vierde miljoenenwinst van Lotto in Pelt in 12 jaar tijd: familie wint 1,5 miljoen euro",
-   "link": "https://vrtnws.be/p.93pPMlWWP",
-   "snippet": "In Pelt is voor de 4e keer in 12 jaar tijd een miljoenenwinst van de Lotto gevallen. Bij de trekking won een familie 1,5 miljoen euro. Het winnende ticket werd verkocht bij 't Winkeltje in Neerpelt.",
-   "datum": 1794583186000
-  },
-  {
-   "id": "vrt-ij817t",
-   "sourceId": "vrt",
-   "titel": "Geboren en getogen West-Vlaming en 20 jaar ervaring binnen justitie: Filiep De Ketelaere is de nieuwe procureur des Konings van West-Vlaanderen",
-   "link": "https://vrtnws.be/p.11po6G4le",
-   "snippet": "De ervaren magistraat Filiep De Ketelaere is de nieuwe procureur des Konings van het parket West-Vlaanderen. Vandaag legde hij de eed af. \"Ik kijk er met veel goesting naar uit om samen met alle collega's aan de toekomst van het parket West-Vlaanderen te bouwen\", klinkt het. Maak kennis met de geboren en getogen Wes…",
-   "datum": 1794583177000
-  },
-  {
    "id": "euronews-90vdmz",
    "sourceId": "euronews",
    "titel": "Azerbaijan intensifies its European engagement at the EPC Summit",
@@ -514,60 +338,12 @@
    "datum": 1794583010000
   },
   {
-   "id": "vrt-1dotah3",
-   "sourceId": "vrt",
-   "titel": "Noord-Koreaanse hackers stelen meer dan 400 miljoen dollar van slachtoffers met deepfakevideo's",
-   "link": "https://vrtnws.be/p.oLqp3wjXY",
-   "snippet": "Noord-Koreaanse hackers hebben de afgelopen 18 maanden meer dan 400 miljoen dollar in crypto buitgemaakt aan de hand van deepfakevideo's. Dat zegt de Amerikaanse politiedienst FBI. Noord-Korea zelf verwerpt alle beschuldigingen.",
-   "datum": 1794582739000
-  },
-  {
    "id": "lecho-11m2ed5",
    "sourceId": "lecho",
    "titel": "Panne chez Microsoft: des améliorations en Europe et en Amérique du Nord",
    "link": "https://www.lecho.be/r/t/1/id/10699653",
    "snippet": "Une panne mondiale majeure perturbe depuis ce vendredi matin plusieurs services Microsoft dans plus de 74 pays. Dans l'après-midi, l'entreprise a annoncé des \"améliorations\" en Europe et en Amérique du Nord.",
    "datum": 1794582665000
-  },
-  {
-   "id": "vrt-jaj1qh",
-   "sourceId": "vrt",
-   "titel": "Voetpad voor woning in Tienen bijna volledig verdwenen na fout in plan van wegenwerken",
-   "link": "https://vrtnws.be/p.bDo5W6poM",
-   "snippet": "Het voetpad voor het huis van Anny aan de Herestraat in Oplinter (Tienen) was al niet breed, maar nu is het bijna volledig verdwenen. In de straat zijn wegenwerken aan de gang en door een fout in de plannen schiet er nu bijna niks meer over van het voetpad. De stad werkt samen met de aannemer aan een oplossing.",
-   "datum": 1794581454000
-  },
-  {
-   "id": "vrt-oekjs8",
-   "sourceId": "vrt",
-   "titel": "Vissen in de Vaartkom in Leuven wordt populairder, terwijl vissterfte in Vlaanderen piekt: \"Ultieme vorm van onthaasting\"",
-   "link": "https://vrtnws.be/p.vLlkQJ93B",
-   "snippet": "Terwijl de vissterfte in Vlaanderen afgelopen jaar piekte, is vissen in de Vaartkom in Leuven juist populairder geworden. Dat zegt havenmeester Kathleen Catteeuw. Onder de waterspiegel van het hippe stadsgedeelte doen heel wat soorten het opnieuw goed: van brasem en baars, tot meterslange snoeken. \"Geen zorg, ze val…",
-   "datum": 1794581302000
-  },
-  {
-   "id": "vrt-54x110",
-   "sourceId": "vrt",
-   "titel": "Belgisch Kampioenschap marathon komt naar Kortrijk: \"Amateurs staan samen met atleten aan de start\"",
-   "link": "https://vrtnws.be/p.M9mAVP6oO",
-   "snippet": "Het Belgisch Kampioenschap marathon zal de komende 3 jaar in Kortrijk plaatsvinden. Vzw De Zundagslopers zal het organiseren. De vzw organiseerde eerder dit jaar al de veelbesproken Skylux Marathon van Kortrijk. Het is nog maar de 2e keer in 11 jaar tijd dat het BK in ons land zelf zal plaatsvinden. Andere jaren was…",
-   "datum": 1794580719000
-  },
-  {
-   "id": "vrt-1uecz0x",
-   "sourceId": "vrt",
-   "titel": "Radja Nainggolan op witwasproces: \"Ik had geld nodig, wie, wat, hoe, daar sta ik niet bij stil\"",
-   "link": "https://vrtnws.be/p.43p47plX5",
-   "snippet": "\"Ik had geld nodig. Wie, wat, hoe, daar sta ik niet bij stil.\" Dat heeft Radja Nainggolan gezegd in de correctionele rechtbank in Brussel waar hij terechtstaat op verdenking van witwaspraktijken in de marge van internationale drugshandel. \"Radja Nainggolan is in een surrealistische nachtmerrie beland\", zei zijn advo…",
-   "datum": 1794580656000
-  },
-  {
-   "id": "vrt-e7dgdh",
-   "sourceId": "vrt",
-   "titel": "Duitse bunker uit Tweede Wereldoorlog blootgelegd in de duinen van De Haan",
-   "link": "https://vrtnws.be/p.WkjepvNmM",
-   "snippet": "Tijdens natuurherstelwerken in de duinen van De Haan is een Duitse bunker uit de Tweede Wereldoorlog blootgelegd. Het gaat om een manschappenbunker die verbonden is met een U-Tobruk, een combinatie die vrij uniek is voor de Atlantikwall. Na de blootlegging is de bunker om veiligheidsredenen opnieuw bedekt.",
-   "datum": 1794580550000
   },
   {
    "id": "nyt-qm25bu",
@@ -1106,22 +882,6 @@
    "datum": 1794511180000
   },
   {
-   "id": "techcrunch-qgoh4c",
-   "sourceId": "techcrunch",
-   "titel": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-   "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-   "snippet": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
-   "datum": 1794510660000
-  },
-  {
-   "id": "nyt-1ejud4n",
-   "sourceId": "nyt",
-   "titel": "$150 for a Thanksgiving Pie? A Humble Dessert Staple Gets Pricey.",
-   "link": "https://www.nytimes.com/2026/11/11/dining/thanksgiving-pies-prices-expensive-dessert.html",
-   "snippet": "This season, bakers are charging three figures for luxury versions that combine elaborate prep and premium ingredients. Not everyone is biting.",
-   "datum": 1794510150000
-  },
-  {
    "id": "nyt-wg0hi7",
    "sourceId": "nyt",
    "titel": "Who Is Colette Kress, the Interim Nvidia CEO Replacing Jensen Huang?",
@@ -1152,14 +912,6 @@
    "link": "https://www.lecho.be/r/t/1/id/10699633",
    "snippet": "Mercedes-Benz a annoncé en interne la suspension de tout nouvel investissement en Allemagne. Le constructeur dit examiner la fermeture de sites allemands et la production des prochains modèles à l'étranger.",
    "datum": 1794507033000
-  },
-  {
-   "id": "nyt-ha9493",
-   "sourceId": "nyt",
-   "titel": "What Do You Want to Know About New York Times Journalism and A.I.?",
-   "link": "https://www.nytimes.com/2026/11/12/insider/nyt-journalism-ai.html",
-   "snippet": "New York Times journalists want to answer your questions about how we’re using artificial intelligence in our report.",
-   "datum": 1794506744000
   },
   {
    "id": "guardian-1dls9d2",
@@ -1200,14 +952,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
    "snippet": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
    "datum": 1794503508000
-  },
-  {
-   "id": "techcrunch-1f63su2",
-   "sourceId": "techcrunch",
-   "titel": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
-   "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
-   "snippet": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
-   "datum": 1794502800000
   },
   {
    "id": "lecho-11m2diu",
@@ -1280,14 +1024,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
    "snippet": "The UK is seeing impressive growth, but will it last?",
    "datum": 1794490029000
-  },
-  {
-   "id": "techcrunch-1m9n2ex",
-   "sourceId": "techcrunch",
-   "titel": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
-   "link": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
-   "snippet": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S.",
-   "datum": 1794489985000
   },
   {
    "id": "mittr-c7varj",
@@ -1586,14 +1322,6 @@
    "datum": 1794434857000
   },
   {
-   "id": "techcrunch-ou9233",
-   "sourceId": "techcrunch",
-   "titel": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
-   "link": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
-   "snippet": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
-   "datum": 1794425695000
-  },
-  {
    "id": "mittr-1556mve",
    "sourceId": "mittr",
    "titel": "What to know about this year’s UN climate talks",
@@ -1664,14 +1392,6 @@
    "link": "https://news.crunchbase.com/fintech/nubank-alum-colombia-startup-palomma-ai-rental-services/",
    "snippet": "Colombia-based startup, Palomma, has raised $10 million in Series A funding led by Mexican venture firm Cometa to expand its financial services business for landlords, tenants and property managers, Crunchbase News has exclusively learned.",
    "datum": 1794402004000
-  },
-  {
-   "id": "scmp-aesc1b",
-   "sourceId": "scmp",
-   "titel": "China’s Huawei to roll out new smartphone brand Osta, 6 years after giving up Honor",
-   "link": "https://www.scmp.com/tech/tech-trends/article/3374099/chinas-huawei-roll-out-new-smartphone-brand-osta-6-years-after-giving-honor",
-   "snippet": "Huawei Technologies is preparing to launch a new smartphone brand, doubling down on its hard-won domestic comeback six years after spinning off budget marque Honor under the weight of US sanctions. Richard Yu Chengdong, chairman of Huawei’s Consumer Business Group, confirmed in a social media post on Wednesday that…",
-   "datum": 1794400213000
   },
   {
    "id": "guardian-1t03glz",
@@ -1786,20 +1506,44 @@
    "datum": 1794356353000
   },
   {
-   "id": "bbc-rdii08",
-   "sourceId": "bbc",
-   "titel": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-   "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-   "snippet": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-   "datum": 1794351135000
+   "id": "nikkei-10o60m6",
+   "sourceId": "nikkei",
+   "titel": "Did we really see a black hole? Australian team says 'yes'",
+   "link": "https://asia.nikkei.com/business/science/did-we-really-see-a-black-hole-australian-team-says-yes",
+   "snippet": "",
+   "datum": 0
   },
   {
-   "id": "cnbc-16rz1in",
-   "sourceId": "cnbc",
-   "titel": "Fossil CEO says turnaround is ahead of plan as sales return to growth",
-   "link": "https://www.cnbc.com/2026/11/10/fossil-fosl-q3-2026-earnings.html",
-   "snippet": "Watchmaker Fossil said Tuesday that the company is returning to profit and sales growth in the first signs of its turnaround strategy.",
-   "datum": 1794350370000
+   "id": "nikkei-eivsm4",
+   "sourceId": "nikkei",
+   "titel": "No grass, no problem: Playing sand golf in the Australian outback",
+   "link": "https://asia.nikkei.com/life-arts/life/no-grass-no-problem-playing-sand-golf-in-the-australian-outback",
+   "snippet": "",
+   "datum": 0
+  },
+  {
+   "id": "nikkei-1iyax9d",
+   "sourceId": "nikkei",
+   "titel": "South Koreans show their love for once-taboo Japan pop culture",
+   "link": "https://asia.nikkei.com/business/media-entertainment/south-koreans-show-their-love-for-once-taboo-japan-pop-culture",
+   "snippet": "",
+   "datum": 0
+  },
+  {
+   "id": "nikkei-j8trwn",
+   "sourceId": "nikkei",
+   "titel": "Bain- and GIC-backed WHI on track for Japan's largest IPO in 2026",
+   "link": "https://asia.nikkei.com/business/markets/ipo/bain-and-gic-backed-whi-on-track-for-japan-s-largest-ipo-in-2026",
+   "snippet": "",
+   "datum": 0
+  },
+  {
+   "id": "nikkei-1o35qvj",
+   "sourceId": "nikkei",
+   "titel": "Nvidia scandal sparks Washington blame game over China chip exports",
+   "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-scandal-sparks-washington-blame-game-over-china-chip-exports",
+   "snippet": "",
+   "datum": 0
   },
   {
    "id": "nikkei-wsm831",
@@ -1838,14 +1582,6 @@
    "sourceId": "nikkei",
    "titel": "Microsoft outage wreaks havoc in Asia, exposing dependence risk",
    "link": "https://asia.nikkei.com/business/technology/microsoft-outage-wreaks-havoc-in-asia-exposing-dependence-risk",
-   "snippet": "",
-   "datum": 0
-  },
-  {
-   "id": "nikkei-1o35qvj",
-   "sourceId": "nikkei",
-   "titel": "Nvidia scandal sparks Washington blame game over China chip exports",
-   "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-scandal-sparks-washington-blame-game-over-china-chip-exports",
    "snippet": "",
    "datum": 0
   },
@@ -2008,38 +1744,6 @@
    "link": "https://asia.nikkei.com/politics/international-relations/tokyo-seeks-takaichi-putin-talks-after-russia-seizes-japan-tobacco-units",
    "snippet": "",
    "datum": 0
-  },
-  {
-   "id": "nikkei-i8x1uo",
-   "sourceId": "nikkei",
-   "titel": "Meta, chat app Line help Taiwan combat online fraud",
-   "link": "https://asia.nikkei.com/spotlight/society/crime/meta-chat-app-line-help-taiwan-combat-online-fraud",
-   "snippet": "",
-   "datum": 0
-  },
-  {
-   "id": "nikkei-16n921s",
-   "sourceId": "nikkei",
-   "titel": "Buffer or crutch? Nepal clings to 'least developed country' perks",
-   "link": "https://asia.nikkei.com/spotlight/policy-asia/buffer-or-crutch-nepal-clings-to-least-developed-country-perks",
-   "snippet": "",
-   "datum": 0
-  },
-  {
-   "id": "nikkei-k0orjy",
-   "sourceId": "nikkei",
-   "titel": "Pfizer offshoot Zoetis lines up 'potential blockbuster' pet meds for Japan",
-   "link": "https://asia.nikkei.com/business/pharmaceuticals/pfizer-offshoot-zoetis-lines-up-potential-blockbuster-pet-meds-for-japan",
-   "snippet": "",
-   "datum": 0
-  },
-  {
-   "id": "nikkei-1xkxkez",
-   "sourceId": "nikkei",
-   "titel": "Thai developer WHA plans efficient data center parks ahead of new rules",
-   "link": "https://asia.nikkei.com/business/companies/thai-developer-wha-plans-efficient-data-center-parks-ahead-of-new-rules",
-   "snippet": "",
-   "datum": 0
   }
  ],
  "status": {
@@ -2047,119 +1751,120 @@
    "ok": false,
    "aantal": 0,
    "fout": "HTTP 404",
-   "at": 1794606020659
+   "at": 1794614432051
   },
   "tijd-ond": {
    "ok": true,
    "aantal": 10,
-   "at": 1794606020659
+   "at": 1794614432051
   },
   "lecho": {
    "ok": true,
    "aantal": 10,
-   "at": 1794606020659
+   "at": 1794614432051
   },
   "vrt": {
    "ok": true,
-   "aantal": 30,
-   "at": 1794606020659
+   "aantal": 0,
+   "at": 1794614432051
   },
   "sifted": {
    "ok": true,
    "aantal": 21,
-   "at": 1794606020659
+   "at": 1794614432051
   },
   "techeu": {
    "ok": false,
    "aantal": 0,
    "fout": "HTTP 403",
-   "at": 1794606020659
+   "at": 1794614432051
   },
   "eustartups": {
    "ok": false,
    "aantal": 0,
    "fout": "HTTP 403",
-   "at": 1794606020659
+   "at": 1794614432051
   },
   "ecb": {
    "ok": true,
    "aantal": 1,
-   "at": 1794606020659
+   "at": 1794614432051
   },
   "euronews": {
    "ok": true,
    "aantal": 9,
-   "at": 1794606020659
+   "at": 1794614432051
   },
   "dw": {
    "ok": true,
    "aantal": 3,
-   "at": 1794606020659
+   "at": 1794614432051
   },
   "guardian": {
    "ok": true,
    "aantal": 11,
-   "at": 1794606020659
+   "at": 1794614432051
   },
   "bbc": {
    "ok": true,
-   "aantal": 26,
-   "at": 1794606020659
+   "aantal": 25,
+   "at": 1794614432051
   },
   "economist": {
    "ok": true,
    "aantal": 3,
-   "at": 1794606020659
+   "at": 1794614432051
   },
   "nyt": {
    "ok": true,
    "aantal": 30,
-   "at": 1794606020659
+   "at": 1794614432051
   },
   "cnbc": {
    "ok": true,
-   "aantal": 7,
-   "at": 1794606020659
+   "aantal": 6,
+   "at": 1794614432051
   },
   "techcrunch": {
-   "ok": true,
-   "aantal": 5,
-   "at": 1794606020659
+   "ok": false,
+   "aantal": 0,
+   "fout": "HTTP 403",
+   "at": 1794614432051
   },
   "crunchbase": {
    "ok": true,
    "aantal": 6,
-   "at": 1794606020659
+   "at": 1794614432051
   },
   "mittr": {
    "ok": true,
    "aantal": 7,
-   "at": 1794606020659
+   "at": 1794614432051
   },
   "fed": {
    "ok": true,
    "aantal": 4,
-   "at": 1794606020659
+   "at": 1794614432051
   },
   "nikkei": {
    "ok": true,
    "aantal": 30,
-   "at": 1794606020659
+   "at": 1794614432051
   },
   "scmp": {
    "ok": true,
    "aantal": 30,
-   "at": 1794606020659
+   "at": 1794614432051
   },
   "row": {
    "ok": true,
    "aantal": 2,
-   "at": 1794606020659
+   "at": 1794614432051
   },
   "techcabal": {
    "ok": true,
    "aantal": 10,
-   "at": 1794606020659
+   "at": 1794614432051
   }
  }
 }
