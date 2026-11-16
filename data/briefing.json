@@ -1,346 +1,362 @@
 {
- "gemaaktOp": 1794705247692,
+ "gemaaktOp": 1794791410027,
  "model": "nachtelijke taak",
  "stories": [
   {
-   "id": "s0-euronews-lbi5oj",
-   "titel": "Nvidia zoekt houvast na plots vertrek van Jensen Huang",
+   "id": "s0-nyt-siatdf",
+   "titel": "Megaspeed zegt dat Alice Huang al in augustus 2025 vertrok",
    "categorie": "tech",
    "regio": "wereld",
    "belang": "hoog",
-   "watGebeurt": "Jensen Huang, die Nvidia in 33 jaar uitbouwde van maker van grafische kaarten tot AI-reus, is vertrokken. Volgens De Tijd brachten uitgelekte affaires en een Chinees spionagedossier hem in enkele dagen ten val. Nvidia verloor volgens Euronews ongeveer 1.800 miljard dollar aan beurswaarde sinds zijn recordslot van 6 oktober. Rest of World schrijft dat zijn vertrek de chiphamsterwoede in China versnelt en Aziatische toeleveranciers onzeker maakt.",
-   "waaromBelangrijk": "Nvidia levert de chips waarop bijna de hele AI-sector draait. Twijfel over de koers van dat ene bedrijf kan doorwerken in de prijzen en beschikbaarheid van rekenkracht wereldwijd.",
-   "impactVoorJou": "Bouw je later een AI-product, dan hangen je kosten mogelijk sterk af van wat er bij Nvidia gebeurt. Dit verhaal toont ook hoe kwetsbaar een bedrijf kan zijn als alles rond één oprichter draait. Dat is een les over opvolging en bestuur die je in gesprekken over leiderschap kunt gebruiken.",
+   "watGebeurt": "Megaspeed, het Singaporese bedrijf dat genoemd wordt in de controverse rond het ontslag van Nvidia-topman Jensen Huang, reageert voor het eerst. Volgens het bedrijf verliet voormalig topvrouw Alice Huang het bedrijf al in augustus 2025. Amerikaanse ambtenaren zeggen dat ze voor China spioneerde. Megaspeed verwerpt ook berichten over zijn toeleveringsketen, zegt dat het legale zaken doet en heeft externe advocaten ingeschakeld.",
+   "waaromBelangrijk": "De zaak roept de vraag op of geavanceerde AI-chips ondanks Amerikaanse exportbeperkingen toch in China terechtkwamen. Dat kan leiden tot strengere controles op de handel in chips.",
+   "impactVoorJou": "Strengere exportregels kunnen AI-rekenkracht duurder of moeilijker verkrijgbaar maken, ook voor kleine bedrijven buiten de VS. Het verhaal toont ook hoe belangrijk het kan zijn om te weten wie je zakenpartners echt zijn.",
    "kansen": [
-    "Software die AI-modellen makkelijk laat wisselen tussen chips van verschillende makers, zodat bedrijven minder afhangen van één leverancier",
-    "Advies of tools voor kmo's die hun AI-rekenkosten willen spreiden over meerdere cloudaanbieders"
+    "Tools die bedrijven helpen nagaan waar hun gevoelige hardware na verkoop terechtkomt",
+    "Diensten die kmo's helpen met exportregels voor technologie"
    ],
-   "kanttekening": "De precieze omstandigheden van het vertrek komen uit één bron (De Tijd). Het effect op de Chinese toeleveringsketen is een inschatting van Rest of World, geen vaststelling.",
+   "kanttekening": "Het gaat om een verklaring van Megaspeed zelf. De spionagebeschuldiging komt van Amerikaanse ambtenaren en is niet door een rechter bevestigd.",
    "itemIds": [
-    "euronews-lbi5oj",
-    "row-m5802f",
-    "tijd-ond-1ijowyv",
-    "lecho-122ticv"
+    "nyt-siatdf",
+    "bbc-137zylb",
+    "tijd-ond-1ijsuwa",
+    "scmp-jyznr7"
    ]
   },
   {
-   "id": "s1-crunchbase-1mbq3mf",
-   "titel": "Nvidia was de bankier van de AI-sector: blijft dat zo?",
-   "categorie": "startups",
-   "regio": "wereld",
-   "belang": "middel",
-   "watGebeurt": "Volgens Crunchbase was Nvidia, samen met zijn investeringstak NVentures, een van de drukste startup-investeerders en stond het achter veel van de grootste financieringsrondes van 2026. De Tijd beschrijft hoe Nvidia meer werd dan een chipverkoper: als OpenAI zijn huur niet betaalt, springt Nvidia bij, voor 105 miljard dollar. Beide bronnen vragen zich af of dat zonder Huang blijft duren.",
-   "waaromBelangrijk": "Als een grote leverancier ook zijn eigen klanten financiert, ontstaat een kringloop. Valt die investeerder weg of remt hij af, dan kunnen AI-startups moeilijker aan geld raken.",
-   "impactVoorJou": "Het zou kunnen dat AI-startups de komende maanden kritischer bekeken worden door investeerders. Dat is minder goed nieuws voor wie geld zoekt, maar het kan ook ruimte maken voor bedrijven met een duidelijk verdienmodel.",
-   "kansen": [
-    "Data- en analyseplatform dat de onderlinge geldstromen tussen AI-leveranciers en -klanten zichtbaar maakt voor investeerders"
-   ],
-   "kanttekening": "Het gaat om analyses van Crunchbase en De Tijd over mogelijke gevolgen. Of Nvidia zijn investeringsbeleid echt wijzigt, is nog niet bekend.",
-   "itemIds": [
-    "crunchbase-1mbq3mf",
-    "tijd-ond-1ijov42"
-   ]
-  },
-  {
-   "id": "s2-nyt-19loniw",
-   "titel": "Grote Microsoft-storing legt bedrijven wereldwijd lam",
+   "id": "s1-euronews-su1glc",
+   "titel": "SpaceX vangt bovenste deel van Starship voor het eerst op",
    "categorie": "tech",
    "regio": "wereld",
-   "belang": "hoog",
-   "watGebeurt": "Een wereldwijde storing bij Microsoft verstoorde e-mail, berichten en andere diensten zoals Outlook, Teams en Copilot. Bedrijven, scholen en lokale overheden in de VS ondervonden hinder. In Zuid-Afrika troffen de problemen onder meer Eskom, Absa en FlySafair. Microsoft zegt dat de diensten intussen volledig hersteld zijn.",
-   "waaromBelangrijk": "Veel organisaties hangen voor hun dagelijkse werking af van één cloudleverancier. Een panne bij die leverancier wordt dan meteen een probleem voor duizenden bedrijven tegelijk.",
-   "impactVoorJou": "Als je later een bedrijf runt, zou je kunnen nadenken over een plan B als je belangrijkste software uitvalt. Dit is ook een sterk voorbeeld in discussies over Europese digitale onafhankelijkheid.",
-   "kansen": [
-    "Noodcommunicatie-dienst voor kmo's die blijft werken als Outlook of Teams uitvalt",
-    "Audit en advies rond afhankelijkheid van één cloudleverancier voor middelgrote bedrijven"
-   ],
-   "kanttekening": "De bronnen geven een verschillende duur: de NYT spreekt van ongeveer 36 uur, TechCabal van 18 uur en de BBC van een dag.",
-   "itemIds": [
-    "nyt-19loniw",
-    "bbc-1ps7vu",
-    "guardian-1h79n4j",
-    "bbc-xxp1ps",
-    "techcabal-14k803e"
-   ]
-  },
-  {
-   "id": "s3-tijd-ond-1ijp2py",
-   "titel": "Volledige vliegstop in de VS legt verouderde luchtverkeersleiding bloot",
-   "categorie": "economie",
-   "regio": "wereld",
-   "belang": "hoog",
-   "watGebeurt": "De Amerikaanse luchtvaartautoriteit FAA hield vrijdagavond alle vliegtuigen in de VS aan de grond. Volgens De Tijd is een software-update bij de luchtverkeersleiding een mogelijke oorzaak. Ook zaterdag bleven er veel vertragingen. De NYT schrijft dat de verouderde systemen van de FAA de voorbije maanden al vaker uitvielen. De Belgische luchtverkeersleider Skeyes zegt dat zijn systemen niet afhangen van zulke verouderde technologie.",
-   "waaromBelangrijk": "Kritieke infrastructuur die op oude technologie draait, kan een hele economie stilleggen. Het toont hoe duur uitgestelde modernisering kan worden.",
-   "impactVoorJou": "Weinig rechtstreekse impact, tenzij je naar de VS reist. Wel een goed voorbeeld van de enorme markt voor het vernieuwen van verouderde overheidssystemen.",
-   "kansen": [
-    "Diensten die oude software bij overheden en vervoersbedrijven veilig vervangen of omzetten naar moderne systemen"
-   ],
-   "kanttekening": "De oorzaak is nog niet definitief bevestigd: De Tijd spreekt van een mogelijke oorzaak.",
-   "itemIds": [
-    "tijd-ond-1ijp2py",
-    "tijd-ond-1ijqffn",
-    "guardian-q0obni",
-    "nyt-37726a",
-    "vrt-1sjldmb"
-   ]
-  },
-  {
-   "id": "s4-nyt-5dy1g",
-   "titel": "Zakenbanken werven investeerders voor beursgang Anthropic",
-   "categorie": "startups",
-   "regio": "wereld",
    "belang": "middel",
-   "watGebeurt": "Zakenbanken trekken rond om investeerders warm te maken voor de beursgang van AI-bedrijf Anthropic. Volgens de NYT zou het de grootste beursintroductie ooit kunnen worden. Dat gebeurt terwijl de onzekerheid op de markten toeneemt.",
-   "waaromBelangrijk": "Een beursgang van deze omvang zou tonen hoeveel publieke beleggers over hebben voor AI-bedrijven. Het resultaat kan het klimaat voor andere AI-startups beïnvloeden.",
-   "impactVoorJou": "Een geslaagde beursgang zou de waarderingen in de hele AI-sector kunnen ondersteunen. Een mislukte kan het voor jonge AI-bedrijven moeilijker maken om geld op te halen.",
-   "kansen": [],
-   "kanttekening": "Dat het de grootste beursgang ooit 'zou kunnen' worden, is een verwachting, geen feit. Eén bron.",
-   "itemIds": [
-    "nyt-5dy1g"
-   ]
-  },
-  {
-   "id": "s5-crunchbase-1uu8550",
-   "titel": "AI-startups halen opnieuw grote bedragen op",
-   "categorie": "startups",
-   "regio": "wereld",
-   "belang": "middel",
-   "watGebeurt": "Volgens Crunchbase was het opnieuw een grote week voor AI-financieringen. Mirendil, dat agentic AI voor onderzoek en ontwikkeling bouwt, haalde 1 miljard dollar op in een series A. Mercor, dat AI-ontwikkelaars met menselijke experts verbindt, haalde 750 miljoen dollar op.",
-   "waaromBelangrijk": "Agentic AI, software die zelfstandig taken uitvoert in plaats van enkel te antwoorden, trekt het meeste geld aan. Een series A van 1 miljard is uitzonderlijk groot voor een vroege ronde.",
-   "impactVoorJou": "De richting van het geld toont waar investeerders de groei verwachten. Mercor laat zien dat het koppelen van menselijke experts aan AI-bedrijven zelf een groot bedrijfsmodel kan zijn.",
+   "watGebeurt": "SpaceX heeft zaterdag zijn Starship-ruimtetuig na een reis van zo'n 20 uur rond de aarde opgevangen op de basis Starbase in Texas. Mechanische armen grepen het toestel vast op dezelfde plek waar het vertrok. Het is de eerste keer dat dit lukt.",
+   "waaromBelangrijk": "Volledig herbruikbare raketten zouden lanceringen veel goedkoper kunnen maken. Dat kan de ruimte toegankelijker maken voor bedrijven die satellieten of andere toepassingen willen lanceren.",
+   "impactVoorJou": "Goedkopere lanceringen zouden op termijn nieuwe markten kunnen openen, zoals satellietdata voor landbouw, logistiek of klimaat. Voor jou is de impact nu vooral indirect, maar het is een goed gespreksonderwerp over innovatie.",
    "kansen": [
-    "Een Europees of Nederlandstalig netwerk van vakexperts dat AI-bedrijven helpt hun modellen te trainen en te controleren",
-    "AI-agents voor één specifieke sector, zoals labo's of ingenieursbureaus"
+    "Toepassingen die satellietbeelden omzetten in bruikbare informatie voor kmo's, zoals landbouwers of verzekeraars"
    ],
    "kanttekening": "",
    "itemIds": [
-    "crunchbase-1uu8550"
+    "euronews-su1glc",
+    "nyt-b38s0m",
+    "tijd-ond-1ijryva"
    ]
   },
   {
-   "id": "s6-nyt-1imrinq",
-   "titel": "Trump en Amerikaanse techtopmannen naar top in Shenzhen",
+   "id": "s2-techcabal-1l22ghn",
+   "titel": "Storing bij Microsoft toont dat Afrikaanse banken geen plan B hadden",
+   "categorie": "tech",
+   "regio": "wereld",
+   "belang": "middel",
+   "watGebeurt": "Volgens TechCabal liet een storing bij Microsoft zien dat banken in Afrika geen echt noodplan hadden. Het stuk vertrekt vanuit Nairobi, waar de gevolgen vrijdagochtend voelbaar waren.",
+   "waaromBelangrijk": "Veel bedrijven hangen voor hun dagelijkse werking af van één grote techleverancier. Valt die uit, dan kan een hele sector stilvallen.",
+   "impactVoorJou": "Ook Europese bedrijven werken vaak met één cloudleverancier. Als je later een bedrijf opstart, kan het slim zijn om vanaf het begin na te denken over wat je doet als een cruciale dienst uitvalt.",
+   "kansen": [
+    "Back-updiensten die cruciale bankfuncties draaiende houden als een grote cloud uitvalt",
+    "Advies en tests voor bedrijven die hun afhankelijkheid van één leverancier in kaart willen brengen"
+   ],
+   "kanttekening": "De informatie komt uit één bron en de korte inhoud geeft weinig detail over de omvang van de gevolgen.",
+   "itemIds": [
+    "techcabal-1l22ghn"
+   ]
+  },
+  {
+   "id": "s3-nyt-1sy6zgb",
+   "titel": "Amerikaanse FDA weigert Chinees longkankermedicijn",
    "categorie": "beleid",
    "regio": "wereld",
    "belang": "middel",
-   "watGebeurt": "President Trump en Amerikaanse techbazen komen volgende week naar verwachting samen voor een grote top in Shenzhen. Op de agenda staan volgens de NYT een vastgelopen handelsoorlog, uitgebreidere exportbeperkingen en vermoede spionage.",
-   "waaromBelangrijk": "De uitkomst kan bepalen welke technologie tussen de VS en China verhandeld mag worden. Dat raakt chips, elektronica en toeleveringsketens wereldwijd.",
-   "impactVoorJou": "Voor een Europese ondernemer kunnen nieuwe exportregels zowel prijzen als beschikbaarheid van onderdelen veranderen. Het is een top om te volgen als je gesprekken over geopolitiek en business wilt kunnen voeren.",
-   "kansen": [
-    "Tools die bedrijven helpen bijhouden welke producten en onderdelen onder exportbeperkingen vallen"
-   ],
-   "kanttekening": "De top moet nog plaatsvinden; deelnemers en agenda zijn verwachtingen volgens de NYT.",
-   "itemIds": [
-    "nyt-1imrinq"
-   ]
-  },
-  {
-   "id": "s7-scmp-4cyluc",
-   "titel": "Chinese batterijreus CATL verliest 130 miljard dollar aan beurswaarde",
-   "categorie": "economie",
-   "regio": "wereld",
-   "belang": "middel",
-   "watGebeurt": "CATL, de Chinese batterijgigant, kreeg een verkoopgolf van 130 miljard dollar te verwerken. Voorzitter Robin Zeng Yuqun noemde batterijopslag vorige maand nog onmisbare nieuwe infrastructuur voor het elektriciteitsnet. Analisten zijn volgens de South China Morning Post minder optimistisch.",
-   "waaromBelangrijk": "CATL is een sleutelspeler voor elektrische auto's en energieopslag. Een terugval bij zo'n reus kan wijzen op overcapaciteit of dalende prijzen in de hele batterijmarkt.",
-   "impactVoorJou": "Als batterijen goedkoper worden, kunnen toepassingen zoals thuisbatterijen of opslag voor bedrijven sneller rendabel worden. Dat zou kansen kunnen openen voor wie diensten rond energieopslag bouwt.",
-   "kansen": [
-    "Software die bedrijven helpt beslissen wanneer ze batterijopslag kopen en hoe ze die slim laden en ontladen"
-   ],
-   "kanttekening": "Het artikel geeft niet aan wat de verkoopgolf precies veroorzaakte.",
-   "itemIds": [
-    "scmp-4cyluc"
-   ]
-  },
-  {
-   "id": "s8-guardian-1lkc2df",
-   "titel": "Wereldwijd weer meer olie dan vraag, voor het eerst sinds Iran-oorlog",
-   "categorie": "economie",
-   "regio": "wereld",
-   "belang": "middel",
-   "watGebeurt": "Volgens het Internationaal Energieagentschap (IEA) was het olieaanbod in oktober bijna 2 miljoen vaten per dag groter dan de vraag. Het is de eerste keer sinds het begin van de Amerikaans-Israëlische oorlog tegen Iran dat er een overschot is. Het IEA ziet voorzichtige tekenen van herstel van het evenwicht.",
-   "waaromBelangrijk": "Een olieoverschot kan op termijn de prijzen van brandstof en energie drukken. Dat kan de inflatie en de kosten voor bedrijven verlagen.",
-   "impactVoorJou": "Als dit doorzet, zouden transport- en energiekosten kunnen dalen. Voor jou persoonlijk is de impact voorlopig beperkt.",
+   "watGebeurt": "De Amerikaanse geneesmiddelenwaakhond FDA heeft het longkankermiddel ivonescimab uit China afgewezen. Het middel werd nauw gevolgd en geldt als symbool van de opmars van China in de ontwikkeling van geneesmiddelen.",
+   "waaromBelangrijk": "China speelt een steeds grotere rol in nieuwe medicijnen. Een afwijzing in de VS kan invloed hebben op hoe investeerders en farmabedrijven Chinese biotech inschatten.",
+   "impactVoorJou": "De impact op jou is beperkt. Het toont wel dat toegang tot de Amerikaanse markt voor biotech sterk afhangt van regelgevers, wat een groot risico is voor elke startup in die sector.",
    "kansen": [],
-   "kanttekening": "Het IEA spreekt zelf van 'voorzichtige' tekenen; het gaat om één maand cijfers.",
+   "kanttekening": "De reden van de afwijzing staat niet in de aangeleverde informatie.",
    "itemIds": [
-    "guardian-1lkc2df"
+    "nyt-1sy6zgb"
    ]
   },
   {
-   "id": "s9-vrt-daztqz",
-   "titel": "Italië beboet Meta met 805 miljoen euro voor toegang tot foto's",
+   "id": "s4-tijd-ond-1ijsuvj",
+   "titel": "Italië legt Meta boete van 805 miljoen euro op",
    "categorie": "beleid",
    "regio": "europa",
    "belang": "middel",
-   "watGebeurt": "De Italiaanse privacywaakhond legt Meta, het moederbedrijf van Facebook en Instagram, een boete op van 805 miljoen euro. Meta kreeg via de Facebook-app op Android-telefoons ongevraagd toegang tot foto's en video's van Italiaanse gebruikers.",
-   "waaromBelangrijk": "Europese toezichthouders treden hard op tegen misbruik van persoonlijke gegevens. Dat zet de toon voor elke app die met gebruikersdata werkt.",
-   "impactVoorJou": "Als je later een app bouwt, toont dit hoe zwaar privacyfouten kunnen wegen. Privacy vanaf het begin goed regelen kan ook een verkoopargument zijn.",
+   "watGebeurt": "De Italiaanse privacywaakhond heeft Meta een boete van 805 miljoen euro gegeven voor een inbreuk rond foto's en video's bij Facebook. Meta vindt de boete disproportioneel en wil in beroep gaan.",
+   "waaromBelangrijk": "Europese toezichthouders treden hard op tegen grote techbedrijven die slordig omgaan met persoonsgegevens. Dat zet de toon voor iedereen die met gegevens van Europeanen werkt.",
+   "impactVoorJou": "Bouw je later een app of platform, dan kan privacy vanaf dag één een groot verschil maken. Wat Meta kan betalen, kan een startup de kop kosten.",
    "kansen": [
-    "Tool die app-ontwikkelaars waarschuwt als hun app meer toegang vraagt tot telefoongegevens dan nodig"
+    "Eenvoudige privacytools voor startups die foto's of video's van gebruikers verwerken",
+    "Diensten die controleren of een app voldoet aan de Europese privacyregels"
    ],
-   "kanttekening": "Eén bron. Een eventuele reactie of beroep van Meta wordt niet vermeld.",
+   "kanttekening": "Meta gaat in beroep, dus de boete is nog niet definitief.",
    "itemIds": [
-    "vrt-daztqz"
+    "tijd-ond-1ijsuvj"
    ]
   },
   {
-   "id": "s10-lecho-11m2f6j",
-   "titel": "Umicore investeert 450 miljoen in Hoboken, maar schrapt ook banen",
-   "categorie": "economie",
-   "regio": "belgie",
+   "id": "s5-euronews-3f24or",
+   "titel": "Zuidoost-Aziatische landen tekenen akkoord over digitale handel",
+   "categorie": "beleid",
+   "regio": "wereld",
    "belang": "middel",
-   "watGebeurt": "Umicore investeert 450 miljoen euro in zijn site in Hoboken. CEO Bart Sap noemt kritieke materialen onmisbaar voor de toekomst en zegt te werken aan de onafhankelijkheid van Europa. Volgens De Tijd verdwijnen er tegelijk honderden banen. Sap waarschuwt dat ook China enorme problemen heeft.",
-   "waaromBelangrijk": "Kritieke materialen zijn nodig voor batterijen en elektronica, en Europa wil minder afhangen van China. Umicore toont dat Europese industrie keuzes moet maken: investeren in sommige activiteiten en andere opgeven.",
-   "impactVoorJou": "Recyclage en verwerking van kritieke materialen zou een groeimarkt in Europa kunnen worden. Het is ook een goed voorbeeld voor gesprekken over hoe Belgische industrie zich heruitvindt.",
+   "watGebeurt": "De ASEAN-landen hebben een akkoord over digitale handel ondertekend. Bedrijven botsen nu nog op verschillende regels in elk land. Het akkoord moet het makkelijker maken om in de regio te verkopen, betalingen te ontvangen en gegevens te delen.",
+   "waaromBelangrijk": "Online winkelen en digitale diensten groeien snel in Zuidoost-Azië. Eén set afspraken kan van die regio een veel grotere, eenvoudiger markt maken.",
+   "impactVoorJou": "Zuidoost-Azië kan een interessante groeimarkt worden voor digitale producten. Het is een ontwikkeling die je mist als je alleen Europees nieuws volgt.",
    "kansen": [
-    "Inzameling en sortering van gebruikte elektronica en batterijen als grondstof voor recyclers"
+    "Betaal- of facturatiediensten die verkopen over verschillende Zuidoost-Aziatische landen vereenvoudigen",
+    "Hulp voor Europese webshops die naar Zuidoost-Azië willen uitbreiden"
    ],
-   "kanttekening": "Waarom Umicore precies voor deze investering kiest, komt uit de mond van de CEO zelf.",
+   "kanttekening": "Hoe en wanneer het akkoord in de praktijk ingaat, staat niet in de aangeleverde informatie.",
    "itemIds": [
-    "lecho-11m2f6j",
-    "tijd-ond-1i2xx30"
+    "euronews-3f24or"
    ]
   },
   {
-   "id": "s11-tijd-ond-1ijoxnr",
-   "titel": "Belgische chemie verliest met Vynova opnieuw een boegbeeld",
+   "id": "s6-scmp-1demtpb",
+   "titel": "Hongkongse vastgoedgroep New World haalt 3,2 miljard dollar op met korting",
+   "categorie": "economie",
+   "regio": "wereld",
+   "belang": "middel",
+   "watGebeurt": "De zwaar beladen vastgoedontwikkelaar New World Development wil 24,9 miljard Hongkongse dollar ophalen, ongeveer 3,2 miljard Amerikaanse dollar. Het geeft 11 nieuwe aandelen uit per bestaand aandeel, aan een korting van 81,5 procent. Aandeelhouders die niet meedoen, zien hun belang theoretisch met 75,3 procent verwateren.",
+   "waaromBelangrijk": "Zo'n grote korting wijst op ernstige financiële druk. Het toont dat de vastgoedcrisis in China en Hongkong nog niet voorbij is.",
+   "impactVoorJou": "De directe impact is klein. Het is wel een helder voorbeeld van verwatering: wat er gebeurt met bestaande aandeelhouders als een bedrijf met veel nieuwe aandelen geld ophaalt. Dat begrip komt ook terug bij startups die kapitaal ophalen.",
+   "kansen": [],
+   "kanttekening": "",
+   "itemIds": [
+    "scmp-1demtpb"
+   ]
+  },
+  {
+   "id": "s7-sifted-1x2pqho",
+   "titel": "Oprichtster van Starling plant nieuwe AI-bank",
+   "categorie": "startups",
+   "regio": "europa",
+   "belang": "laag",
+   "watGebeurt": "Anne Boden, oprichtster van de Britse digitale bank Starling, plant volgens Sifted een nieuwe bank die werkt met artificiële intelligentie.",
+   "waaromBelangrijk": "Een ervaren bankoprichter die opnieuw begint, toont dat er in bankieren nog ruimte gezien wordt voor nieuwe spelers met AI.",
+   "impactVoorJou": "Het kan interessant zijn om te volgen wat een AI-bank anders doet dan een gewone digitale bank. Seriële oprichters zijn vaak een signaal van waar ervaren mensen kansen zien.",
+   "kansen": [],
+   "kanttekening": "Er is alleen een titel beschikbaar, zonder verdere details over de plannen.",
+   "itemIds": [
+    "sifted-1x2pqho"
+   ]
+  },
+  {
+   "id": "s8-vrt-1yc7ydb",
+   "titel": "Fluvius stopt met nieuwe warmtenetten in Antwerpen",
    "categorie": "economie",
    "regio": "belgie",
    "belang": "middel",
-   "watGebeurt": "Chemiebedrijf Vynova is failliet. Volgens L'Echo vallen chemiefabrieken in België een voor een om, ondanks steunmaatregelen rond elektriciteit, CO2-uitstoot en handelsbescherming. De Tijd schrijft dat er deze week ook een miljardenproject van Equinor werd stopgezet, en dat de oude industrie sneller verdwijnt dan er nieuwe bijkomt.",
-   "waaromBelangrijk": "De chemie is een grote werkgever en exporteur in België. Als ze krimpt zonder vervanging, verliest de economie banen en kennis.",
-   "impactVoorJou": "Dit maakt duidelijk dat er nood is aan nieuwe industriële activiteit. Wie een idee heeft rond schonere of efficiëntere productie, zou bij overheden en ex-industriesites op interesse kunnen rekenen.",
+   "watGebeurt": "Netbeheerder Fluvius stapt uit alle toekomstige warmtenetprojecten in Antwerpen. Dat meldt oppositiepartij Groen en het blijkt ook uit documenten van het stadsbestuur. De stad zoekt nieuwe partners om de projecten verder te zetten.",
+   "waaromBelangrijk": "Warmtenetten, leidingen die restwarmte naar woningen en gebouwen brengen, zijn een belangrijk deel van de energietransitie in steden. Als een grote speler afhaakt, komen die plannen onder druk.",
+   "impactVoorJou": "Er ontstaat mogelijk ruimte voor andere bedrijven om warmtenetten te bouwen of uit te baten. Het toont ook dat publieke infrastructuur voor de energietransitie niet vanzelf loopt.",
    "kansen": [
-    "Herbestemming van vrijgekomen industriesites voor nieuwe, kleinere productiebedrijven",
-    "Omscholingsplatform dat ervaren chemiewerknemers koppelt aan groeiende sectoren"
+    "Bedrijven die warmtenetten op kleinere schaal bouwen en beheren, bijvoorbeeld per wijk",
+    "Software om restwarmte van bedrijven te koppelen aan gebouwen in de buurt"
    ],
-   "kanttekening": "De stelling dat oude industrie sneller verdwijnt dan nieuwe opkomt, is een analyse van De Tijd.",
+   "kanttekening": "De reden waarom Fluvius stopt, staat niet in de aangeleverde informatie. Het nieuws komt deels van een oppositiepartij.",
    "itemIds": [
-    "tijd-ond-1ijoxnr",
+    "vrt-1yc7ydb"
+   ]
+  },
+  {
+   "id": "s9-lecho-11m2dfe",
+   "titel": "Belgische chemie-industrie blijft fabrieken verliezen",
+   "categorie": "economie",
+   "regio": "belgie",
+   "belang": "middel",
+   "watGebeurt": "Volgens L'Echo sluiten in België de ene chemische fabriek na de andere, ondanks steunmaatregelen voor onder meer de elektriciteitsfactuur, CO₂-uitstoot en handelsbescherming. Vynova en Syngenta worden genoemd. De krant vraagt zich af of de sector nog wil blijven.",
+   "waaromBelangrijk": "De chemie is een van de grootste industriële sectoren van België. Sluitingen raken jobs, toeleveranciers en de havens.",
+   "impactVoorJou": "Dit kan de Belgische economie de komende jaren sterk beïnvloeden. Het is een onderwerp dat vaak terugkomt in gesprekken over de toekomst van de Europese industrie.",
+   "kansen": [
+    "Oplossingen die energie- en CO₂-kosten van chemische fabrieken verlagen",
+    "Platformen die vrijgekomen industriële sites, kennis of personeel koppelen aan nieuwe bedrijven"
+   ],
+   "kanttekening": "Het stuk is een analyse en stelt een vraag. Niet elke sluiting heeft noodzakelijk dezelfde oorzaak.",
+   "itemIds": [
     "lecho-11m2dfe"
    ]
   },
   {
-   "id": "s12-tijd-ond-1ijowrp",
-   "titel": "Fintech Wise schikt met Belgisch gerecht in witwasonderzoek",
-   "categorie": "beleid",
-   "regio": "belgie",
-   "belang": "laag",
-   "watGebeurt": "De Europese tak van het Britse fintechbedrijf Wise heeft een schikking bereikt met het Belgische gerecht in een onderzoek naar mogelijke witwaspraktijken. De Nationale Bank had Wise twee jaar geleden al op de vingers getikt omdat zijn antiwitwascontroles niet waterdicht waren.",
-   "waaromBelangrijk": "Snelgroeiende fintechs moeten even strenge controles hebben als banken. Toezichthouders in België kijken daar duidelijk op toe.",
-   "impactVoorJou": "Als je ooit in fintech start, toont dit dat naleving van de regels geen bijzaak is. Het kan veel kosten als die controles achterblijven bij de groei.",
-   "kansen": [
-    "Betaalbare antiwitwas- en klantcontrole-software voor kleine fintechs en betaalbedrijven"
-   ],
-   "kanttekening": "Het bedrag of de voorwaarden van de schikking worden niet vermeld.",
-   "itemIds": [
-    "tijd-ond-1ijowrp"
-   ]
-  },
-  {
-   "id": "s13-lecho-11m2g3m",
-   "titel": "Innoviris start opnieuw met R&D-subsidies voor bedrijven",
+   "id": "s10-lecho-11m2dlo",
+   "titel": "Luikse spin-off RumExperts voorspelt melkprijs en ziekte op de boerderij",
    "categorie": "startups",
    "regio": "belgie",
    "belang": "laag",
-   "watGebeurt": "Het Brusselse onderzoeksagentschap Innoviris start opnieuw met subsidies voor onderzoek en ontwikkeling. Een eerste pakket van 16 miljoen euro voor bedrijven is bevestigd, vergelijkbaar met 2025. Volgens L'Echo moet het agentschap waarschijnlijk besparen op zijn totale budget.",
-   "waaromBelangrijk": "Subsidies voor onderzoek helpen jonge bedrijven om risicovolle innovatie te financieren. Dat het geld weer vrijkomt, geeft Brusselse bedrijven wat zekerheid.",
-   "impactVoorJou": "Als je een innovatieve startup in Brussel overweegt, kan zo'n subsidie een manier zijn om de eerste ontwikkeling te betalen zonder meteen investeerders binnen te halen.",
-   "kansen": [],
-   "kanttekening": "L'Echo vraagt zich af of dit ten koste gaat van de academische wereld; dat is nog niet duidelijk.",
+   "watGebeurt": "RumExperts, een spin-off uit Awans, verzamelt en analyseert wetenschappelijke gegevens op landbouwbedrijven. Zo kan het infecties bij vee voorspellen en de melkprijs drie maanden vooruit inschatten.",
+   "waaromBelangrijk": "Het toont hoe data-analyse een traditionele sector als de veeteelt kan helpen om risico's vroeger te zien.",
+   "impactVoorJou": "Landbouw wordt vaak over het hoofd gezien door tech-oprichters, terwijl er veel ongebruikte data is. Dit kan een voorbeeld zijn van een niche waar een kleine startup echt verschil maakt.",
+   "kansen": [
+    "Vergelijkbare voorspellingsdiensten voor andere landbouwsectoren, zoals varkens of akkerbouw",
+    "Tools die boeren helpen om op prijsschommelingen in te spelen"
+   ],
+   "kanttekening": "",
    "itemIds": [
-    "lecho-11m2g3m"
+    "lecho-11m2dlo"
+   ]
+  },
+  {
+   "id": "s11-lecho-122v3gv",
+   "titel": "Tesla verkoopt robotaxi Cybercab aan particulieren",
+   "categorie": "tech",
+   "regio": "wereld",
+   "belang": "middel",
+   "watGebeurt": "Tesla nodigt sommige klanten uit om zijn zelfrijdende robotaxi Cybercab te kopen voor persoonlijk gebruik. De wagen heeft geen stuur en geen pedalen.",
+   "waaromBelangrijk": "Een auto zonder stuur in handen van particulieren is een nieuwe stap. Het kan veranderen hoe mensen denken over autobezit en vervoer.",
+   "impactVoorJou": "In Europa is zo'n wagen voorlopig niet zomaar toegelaten, dus de impact is nu beperkt. Het kan wel een voorbode zijn van nieuwe diensten rond zelfrijdende auto's.",
+   "kansen": [
+    "Diensten rond onderhoud, schoonmaak of verzekering van zelfrijdende wagens"
+   ],
+   "kanttekening": "Het gaat om een beperkte groep klanten en de korte inhoud zegt niet in welke landen.",
+   "itemIds": [
+    "lecho-122v3gv"
+   ]
+  },
+  {
+   "id": "s12-scmp-ivarb0",
+   "titel": "Eerste volledig AI-gemaakte film flopt in Chinese bioscopen",
+   "categorie": "tech",
+   "regio": "wereld",
+   "belang": "laag",
+   "watGebeurt": "De eerste Chinese langspeelfilm die volledig met AI gemaakt werd, zonder acteurs of cameraploeg, flopt. Sanxingdui: Future Past bracht na drie weken ongeveer 1,8 miljoen yuan op, zo'n 270.000 dollar.",
+   "waaromBelangrijk": "Het toont dat AI-inhoud niet vanzelf publiek trekt. Kijkers lijken nog waarde te hechten aan menselijk vakmanschap.",
+   "impactVoorJou": "Als je een AI-product bouwt, kan dit een les zijn: technisch kunnen is niet hetzelfde als iets maken waar mensen voor willen betalen.",
+   "kansen": [
+    "Tools die AI gebruiken om menselijke makers te helpen in plaats van ze te vervangen"
+   ],
+   "kanttekening": "",
+   "itemIds": [
+    "scmp-ivarb0"
+   ]
+  },
+  {
+   "id": "s13-bbc-1it7s3g",
+   "titel": "Brits rapport wil lagere loonlasten voor jongeren onder 25",
+   "categorie": "beleid",
+   "regio": "europa",
+   "belang": "laag",
+   "watGebeurt": "Een Brits rapport van Milburn, dat deze week verschijnt, stelt voor om de sociale bijdragen voor werknemers onder 25 te verlagen om jobs te creëren. De werkgeverskosten zouden over vijf jaar geleidelijk dalen.",
+   "waaromBelangrijk": "Hoge loonkosten kunnen werkgevers ervan weerhouden jonge mensen aan te nemen. Ook in België is dat een terugkerend debat.",
+   "impactVoorJou": "Voor een startup zijn de eerste aanwervingen duur. Als zulke maatregelen ingang vinden, kan het goedkoper worden om jong talent aan te nemen.",
+   "kansen": [],
+   "kanttekening": "Het gaat om een voorstel in een rapport, nog geen beslist beleid.",
+   "itemIds": [
+    "bbc-1it7s3g"
    ]
   }
  ],
  "items": [
   {
-   "id": "nyt-37726a",
+   "id": "nyt-siatdf",
    "sourceId": "nyt",
-   "titel": "Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System",
-   "link": "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html",
-   "snippet": "The Federal Aviation Administration’s aging air traffic control infrastructure has had several disruptive failures in recent months, as officials have sought to make upgrades.",
-   "datum": 1794698072000
+   "titel": "Megaspeed Says Alice Huang Left Company in August 2025",
+   "link": "https://www.nytimes.com/2026/11/15/business/megaspeed-alice-huang-nvidia-china.html",
+   "snippet": "The Singaporean company’s statement added to the timeline involving Ms. Huang, a former executive who had a relationship with Jensen Huang of Nvidia. U.S. officials say she was spying for China.",
+   "datum": 1794787294000
   },
   {
-   "id": "tijd-ond-1ijqffn",
-   "sourceId": "tijd-ond",
-   "titel": "Amerikaans luchtverkeer komt weer moeizaam op gang",
-   "link": "https://www.tijd.be/r/t/1/id/10702124",
-   "snippet": "In de Verenigde Staten blijven er ook zaterdag veel vertragingen en verstoringen in het luchtverkeer. Intussen is er meer duidelijkheid over wat de communicatiepanne van vrijdag veroorzaakt heeft.",
-   "datum": 1794682167000
-  },
-  {
-   "id": "nyt-5dy1g",
-   "sourceId": "nyt",
-   "titel": "Wall Street Makes Its Pitch for Anthropic’s I.P.O.",
-   "link": "https://www.nytimes.com/2026/11/13/business/anthropic-ipo-roadshow.html",
-   "snippet": "As market uncertainty deepens, investment banks are on a roadshow to sell investors on what could be the largest public offering ever.",
-   "datum": 1794677150000
-  },
-  {
-   "id": "vrt-daztqz",
-   "sourceId": "vrt",
-   "titel": "Facebook kreeg toegang tot beelden die gebruikers nooit deelden: 805 miljoen euro boete",
-   "link": "https://vrtnws.be/p.43pOObenk",
-   "snippet": "Italië legt Meta, het Amerikaanse moederbedrijf van Facebook en Instagram, een boete op van 805 miljoen euro. Dat heeft de Italiaanse privacywaakhond beslist. Meta kreeg via de Facebook-app op Android-telefoons ongevraagd toegang tot foto's en video's op de telefoons van Italiaanse gebruikers.",
-   "datum": 1794674970000
-  },
-  {
-   "id": "vrt-1sjldmb",
-   "sourceId": "vrt",
-   "titel": "Na grote storing in VS: hoe kwetsbaar is het Belgische luchtverkeer? \"We zijn niet afhankelijk van diskettes\"",
-   "link": "https://vrtnws.be/p.DYMDAZ4BN",
-   "snippet": "In de VS lag het luchtverkeer urenlang stil door technische problemen bij de luchtverkeersleiding: kan dat ook bij ons gebeuren? Volgens de Belgische luchtverkeersleider Skeyes zijn de systemen hier niet afhankelijk van verouderde technologie zoals in de VS, waar ze nog met floppydisks en Windows 95 werken.",
-   "datum": 1794672963000
-  },
-  {
-   "id": "nyt-19loniw",
-   "sourceId": "nyt",
-   "titel": "Microsoft’s Global Outage and Fixes: What We Know",
-   "link": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
-   "snippet": "Disruptions to the company’s email, messaging and other products lasted about 36 hours, hampering companies and services around the world.",
-   "datum": 1794662155000
-  },
-  {
-   "id": "nyt-1imrinq",
-   "sourceId": "nyt",
-   "titel": "5 Big Questions as C.E.O.s Meet in China",
-   "link": "https://www.nytimes.com/2026/11/14/business/dealbook/questions-china-us-apec-summit.html",
-   "snippet": "President Trump and U.S. tech executives are expected to gather for a major summit in Shenzhen next week. On the agenda: a stalled trade war, expanding export controls, and suspected spy games.",
-   "datum": 1794661206000
-  },
-  {
-   "id": "lecho-122ticv",
-   "sourceId": "lecho",
-   "titel": "Quel avenir pour Nvidia sans Jensen Huang?",
-   "link": "https://www.lecho.be/r/t/1/id/10700678",
-   "snippet": "En 33 ans, Jensen Huang a transformé un fabricant de cartes graphiques en géant de l'intelligence artificielle. Son départ brutal laisse Nvidia face à une question vertigineuse : comment remplacer un homme qui était à la fois son patron, son stratège et son meilleur commercial ?",
-   "datum": 1794653705000
-  },
-  {
-   "id": "scmp-4cyluc",
-   "sourceId": "scmp",
-   "titel": "China’s battery giant CATL faces tough choices after epic US$130b sell-off",
-   "link": "https://www.scmp.com/business/climate-and-energy/article/3374346/chinas-battery-giant-catl-faces-tough-choices-after-epic-us130b-sell",
-   "snippet": "Robin Zeng Yuqun, chairman of the Chinese battery giant Contemporary Amperex Technology Ltd (CATL), has maintained an upbeat image in recent weeks, telling a conference last month that battery storage was becoming “an indispensable new infrastructure for the power system”. But analysts are less optimistic about the…",
-   "datum": 1794639607000
-  },
-  {
-   "id": "bbc-1ps7vu",
+   "id": "bbc-1it7s3g",
    "sourceId": "bbc",
-   "titel": "Microsoft says services fully restored after day-long global outage",
-   "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-   "snippet": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
-   "datum": 1794638547000
+   "titel": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+   "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+   "snippet": "The report being launched this week will suggest gradually reducing employment costs over five years.",
+   "datum": 1794781803000
   },
   {
-   "id": "lecho-11m2g3m",
+   "id": "bbc-137zylb",
+   "sourceId": "bbc",
+   "titel": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+   "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+   "snippet": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+   "datum": 1794781460000
+  },
+  {
+   "id": "nyt-1sy6zgb",
+   "sourceId": "nyt",
+   "titel": "F.D.A. Rejects Closely Watched Lung Cancer Drug From China",
+   "link": "https://www.nytimes.com/2026/11/15/business/fda-lung-cancer-drug-china.html",
+   "snippet": "The treatment, called ivonescimab, has become a symbol of China’s rise in drug development.",
+   "datum": 1794774787000
+  },
+  {
+   "id": "vrt-1yc7ydb",
+   "sourceId": "vrt",
+   "titel": "Warmtenetten in Antwerpen op losse schroeven: Fluvius stopt alle toekomstige projecten, stad zoekt andere leverancier",
+   "link": "https://vrtnws.be/p.QAbDE8Jb8",
+   "snippet": "Netbeheerder Fluvius trekt de stekker uit alle toekomstige warmtenetprojecten in Antwerpen. Dat meldt oppositiepartij Groen en dat blijkt ook uit documenten van het Antwerpse stadsbestuur. De stad is op zoek naar nieuwe partners om de projecten verder te zetten.",
+   "datum": 1794763800000
+  },
+  {
+   "id": "sifted-1x2pqho",
+   "sourceId": "sifted",
+   "titel": "Starling founder Anne Boden plots new AI-powered bank",
+   "link": "https://sifted.eu/articles/starling-founder-anne-boden-plots-new-ai-powered-bank/",
+   "snippet": "",
+   "datum": 1794760389000
+  },
+  {
+   "id": "techcabal-1l22ghn",
+   "sourceId": "techcabal",
+   "titel": "The Next Wave: Microsoft’s outage showed Africa’s banks had no real plan B",
+   "link": "https://techcabal.com/2026/11/15/the-next-wave-microsofts-outage-showed-africas-banks-had-no-real-plan-b/",
+   "snippet": "Cet article est aussi disponible en français This edition of The Next Wave is brought to you by Verto. Published November 15, 2026 Microsoft’s outage showed Africa’s banks had no real plan B Microsoft offices in Nairobi, Kenya. Image source: TechCabal I was at Avenue Hospital in Nairobi on Friday morning when the sc…",
+   "datum": 1794759220000
+  },
+  {
+   "id": "tijd-ond-1ijsuwa",
+   "sourceId": "tijd-ond",
+   "titel": "Megaspeed zegt dat Alice Huang bedrijf al vorig jaar verliet",
+   "link": "https://www.tijd.be/r/t/1/id/10705650",
+   "snippet": "Het bedrijf Megaspeed, genoemd bij het ontslag van Nvidia-topman Jensen Huang, reageert voor het eerst sinds de controverse. Volgens Megaspeed vertrok de veelbesproken Chinese topvrouw Alice Huang er al in augustus vorig jaar.",
+   "datum": 1794757847000
+  },
+  {
+   "id": "lecho-11m2dlo",
    "sourceId": "lecho",
-   "titel": "Innoviris relance ses subsides aux entreprises, mauvaise nouvelle pour le monde académique?",
-   "link": "https://www.lecho.be/r/t/1/id/10699878",
-   "snippet": "Innoviris va relancer les subsides en R&D. Une première enveloppe de 16 millions d'euros pour les entreprises vient d'être confirmée, soit un budget comparable à 2025. Des économies sur le budget global étant attendues, l'agence bruxelloise devra sûrement se serrer la ceinture.",
-   "datum": 1794628971000
+   "titel": "RumExperts, la spin-off qui prédit le cours du lait et les mauvaises nouvelles à l'étable",
+   "link": "https://www.lecho.be/r/t/1/id/10699584",
+   "snippet": "Installée à Awans, l'entreprise est devenue un spécialiste dans la collecte et l'analyse de données scientifiques au sein des exploitations agricoles. De quoi lui permettre d'anticiper les infections de cheptels, mais aussi l'évolution du prix du lait à trois mois.",
+   "datum": 1794756392000
+  },
+  {
+   "id": "euronews-3f24or",
+   "sourceId": "euronews",
+   "titel": "Southeast Asian nations sign digital trade deal to ease payments and cut paperwork",
+   "link": "https://www.euronews.com/2026/11/15/southeast-asian-nations-sign-digital-trade-deal-to-ease-payments-and-cut-paperwork",
+   "snippet": "Online shopping and digital services are growing across Southeast Asia, but businesses still face different rules in each country. ASEAN’s new agreement aims to make it easier to sell, receive payments and share data across the region.",
+   "datum": 1794752664000
+  },
+  {
+   "id": "scmp-1demtpb",
+   "sourceId": "scmp",
+   "titel": "Indebted Hong Kong developer New World offers shares at 81% discount in US$3.2b cash call",
+   "link": "https://www.scmp.com/business/companies/article/3374507/indebted-hong-kong-developer-new-world-offers-shares-81-discount-us32b-cash-call",
+   "snippet": "New World Development will issue 11 new shares for every existing share at an 81.5 per cent discount, exposing shareholders who do not participate to theoretical dilution of 75.3 per cent, as the indebted Hong Kong property developer seeks to raise HK$24.9 billion (US$3.2 billion) in a recapitalisation backed by its…",
+   "datum": 1794751024000
+  },
+  {
+   "id": "tijd-ond-1ijsuvj",
+   "sourceId": "tijd-ond",
+   "titel": "Facebook krijgt Italiaanse boete van 805 miljoen euro rond inkijken foto's",
+   "link": "https://www.tijd.be/r/t/1/id/10705646",
+   "snippet": "De Italiaanse privacywaakhond heeft het Amerikaanse Meta een forse boete van 805 miljoen euro opgelegd voor een inbreuk rond foto's en video's bij Facebook. Meta vindt de boete disproportioneel en zegt in beroep te willen gaan.",
+   "datum": 1794747642000
+  },
+  {
+   "id": "scmp-jyznr7",
+   "sourceId": "scmp",
+   "titel": "Megaspeed rejects claims over supply chain as Nvidia-linked scrutiny intensifies",
+   "link": "https://www.scmp.com/tech/article/3374493/megaspeed-rejects-claims-over-supply-chain-distances-itself-alice-huang",
+   "snippet": "Megaspeed, the Singaporean company caught in the Nvidia controversy, has pushed back against reported claims about its supply chain practices and distanced itself from former CEO Alice Huang. The firm said in a statement on Sunday that it “conducts legitimate and lawful business” and had hired external legal counsel…",
+   "datum": 1794737434000
+  },
+  {
+   "id": "euronews-su1glc",
+   "sourceId": "euronews",
+   "titel": "SpaceX catches part of its Starship rocket in historic first",
+   "link": "https://www.euronews.com/2026/11/15/spacex-catches-part-of-its-starship-rocket-in-historic-first",
+   "snippet": "Crowds outside the Texas Starbase erupted into cheers as the mechanical arms closed around the spaceship for the first time, a moment SpaceX said \"changed everything.\"",
+   "datum": 1794731553000
   },
   {
    "id": "lecho-11m2dfe",
@@ -348,210 +364,97 @@
    "titel": "Vynova, Syngenta… L'industrie chimique belge a-t-elle vraiment envie de rester?",
    "link": "https://www.lecho.be/r/t/1/id/10699519",
    "snippet": "Malgré l'arrivée de plusieurs mécanismes de soutien public (facture d'électricité, émissions de CO₂, protections commerciales, etc.), les usines chimiques tombent les unes après les autres en Belgique. Le secteur doit-il \"reculer pour mieux sauter\"?",
-   "datum": 1794628917000
+   "datum": 1794724735000
   },
   {
-   "id": "lecho-11m2f6j",
+   "id": "scmp-ivarb0",
+   "sourceId": "scmp",
+   "titel": "No actors, no crew, no ticket sales: ‘So obviously AI’ film flops at China’s box office",
+   "link": "https://www.scmp.com/economy/china-economy/article/3374358/no-actors-no-crew-no-ticket-sales-so-obviously-ai-film-flops-chinas-box-office",
+   "snippet": "China has ushered artificial intelligence into its cinemas, but the country’s first fully AI-generated feature film has flopped at the box office. Made with no human actors or camera crew, Sanxingdui: Future Past brought in just around 1.8 million yuan (US$270,000) after three weeks in theatres, according to Chinese…",
+   "datum": 1794718806000
+  },
+  {
+   "id": "nyt-b38s0m",
+   "sourceId": "nyt",
+   "titel": "SpaceX Makes History With Successful Rocket Catch in Texas",
+   "link": "https://www.nytimes.com/2026/11/14/science/spacex-starship-first-catch.html",
+   "snippet": "The Starship spacecraft returned from orbit to the same spot where it lifted off, marking a key milestone in SpaceX’s vision of building fully reusable rockets.",
+   "datum": 1794702993000
+  },
+  {
+   "id": "tijd-ond-1ijryva",
+   "sourceId": "tijd-ond",
+   "titel": "Boost voor SpaceX: bovenste deel Starship-raket voor het eerst weer opgevangen na landing op aarde",
+   "link": "https://www.tijd.be/r/t/1/id/10704116",
+   "snippet": "SpaceX is er zaterdag in geslaagd om zijn Starship-raket veilig op te vangen op zijn Starbase-basis in de Amerikaanse staat Texas na een reis rond de aarde van zo'n 20 uur. Dat is een grote primeur voor de ruimtevaarsector.",
+   "datum": 1794700632000
+  },
+  {
+   "id": "lecho-122v3gv",
    "sourceId": "lecho",
-   "titel": "Bart Sap, CEO d'Umicore: \"À Hoboken, nous œuvrons à l'indépendance de l'Europe\"",
-   "link": "https://www.lecho.be/r/t/1/id/10699745",
-   "snippet": "Umicore décide \"d'être courageux\" et d'investir 450 millions d'euros à Hoboken. Les matériaux critiques seront indispensables à l'avenir, rappelle le CEO Bart Sap.",
-   "datum": 1794628913000
-  },
-  {
-   "id": "guardian-q0obni",
-   "sourceId": "guardian",
-   "titel": "‘It’s frustrating’: chaos at US airports as stoppage grinds travel plans to a halt",
-   "link": "https://www.theguardian.com/us-news/2026/nov/13/us-airports-flight-stoppage",
-   "snippet": "Travelers and crew feeling ‘pissed’ or ‘lucky’ depending on level of upset amid nationwide ground stop The decision to ground all flights on Friday by the US Federal Aviation Administration (FAA) threw airports and travel plans into chaos across the country, as passengers on planes and in airport terminals were sudd…",
-   "datum": 1794624599000
-  },
-  {
-   "id": "tijd-ond-1ijp2py",
-   "sourceId": "tijd-ond",
-   "titel": "Alle vluchten in de VS aan de grond, software-update bij luchtverkeersleider is mogelijke oorzaak",
-   "link": "https://www.tijd.be/r/t/1/id/10700930",
-   "snippet": "In de Verenigde Staten heeft de luchtvaartautoriteit FAA vrijdagavond bevolen om alle vliegtuigen aan de grond te houden. De maatregel kwam er ‘vanwege uitzonderlijke omstandigheden en om veiligheidsredenen’.",
-   "datum": 1794610613000
-  },
-  {
-   "id": "guardian-1h79n4j",
-   "sourceId": "guardian",
-   "titel": "Microsoft outage shakes up companies, schools and local governments across US",
-   "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments",
-   "snippet": "Local officials warn some services remain unavailable even as Outlook starts to resume normal operations after outage Microsoft outage – live updates The Microsoft Outlook outage has shaken up companies and local governments across the US that use its suite of email, calendar, video conferencing and cloud storage sy…",
-   "datum": 1794604439000
-  },
-  {
-   "id": "crunchbase-1mbq3mf",
-   "sourceId": "crunchbase",
-   "titel": "Crunchbase Data: Nvidia’s Startup Funding Deals Hit A Record. What’s Next After Huang?",
-   "link": "https://news.crunchbase.com/venture/huang-nvda-ai-startup-funding-record-2026/",
-   "snippet": "Before it was thrust into crisis this week, Nvidia was steadily continuing its pace as one of the busiest startup investors around, including backing many of the biggest venture deals of 2026. We take a fresh look at where Nvidia and its venture arm NVentures have been investing and what the future could hold.",
-   "datum": 1794601975000
-  },
-  {
-   "id": "tijd-ond-1ijowyv",
-   "sourceId": "tijd-ond",
-   "titel": "Jensen Huang, de AI-visionair die zijn eigen blinde vlek niet zag",
-   "link": "https://www.tijd.be/r/t/1/id/10700283",
-   "snippet": "Jensen Huang maakte Nvidia tot de spil van de AI-revolutie en werd zelf een van de machtigste CEO’s ter wereld. Uitgelekte affaires en een Chinees spionagedossier brachten de ‘rockster van de techwereld’ in enkele dagen ten val. Toch kan hij de geschiedenis ingaan als de man die in één generatie het waardevolste bed…",
-   "datum": 1794601891000
-  },
-  {
-   "id": "tijd-ond-1i2xx30",
-   "sourceId": "tijd-ond",
-   "titel": "Umicore-topman Bart Sap: ‘Vergis u niet, ook China heeft enorme problemen’",
-   "link": "https://www.tijd.be/r/t/1/id/10699728",
-   "snippet": "Na een pijnlijke koerswijziging durft Umicore weer fors te investeren, maar er zullen ook honderden banen verdwijnen. Voor CEO Bart Sap is dat de toekomst van de Europese industrie: wie opnieuw wil groeien, moet durven kiezen wat hij opgeeft. ‘Alle staalproductie in Europa houden? Dat is een utopie.’",
-   "datum": 1794600848000
-  },
-  {
-   "id": "crunchbase-1uu8550",
-   "sourceId": "crunchbase",
-   "titel": "The Week’s 10 Biggest Funding Rounds: Agentic AI And Infrastructure Are Still On A Roll",
-   "link": "https://news.crunchbase.com/venture/biggest-startup-funding-rounds-agentic-ai-infrastructure-mirendil-mercor/",
-   "snippet": "It was another big week for AI-related startup financings. Mirendil, a developer of agentic AI for R&D, led the pack with a $1 billion series A, followed by Mercor, which secured $750 million to connect AI developers with human experts.",
-   "datum": 1794597604000
-  },
-  {
-   "id": "bbc-xxp1ps",
-   "sourceId": "bbc",
-   "titel": "Why is Microsoft's outage lasting so long and will emails be lost?",
-   "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-   "snippet": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-   "datum": 1794595017000
-  },
-  {
-   "id": "tijd-ond-1ijov42",
-   "sourceId": "tijd-ond",
-   "titel": "Zo ziet Nvidia’s geldcarrousel eruit. Maar blijft die draaien zonder Huang?",
-   "link": "https://www.tijd.be/r/t/1/id/10700017",
-   "snippet": "Als OpenAI zijn huur niet betaalt, springt Nvidia bij. Voor liefst 105 miljard dollar. Onder Jensen Huang werd Nvidia veel meer dan alleen een chipverkoper, het werd de bankier van de AI-sector. Nu Huang weg is, is de vraag of dat zo blijft.",
-   "datum": 1794594815000
-  },
-  {
-   "id": "tijd-ond-1ijoxnr",
-   "sourceId": "tijd-ond",
-   "titel": "Wie staat op, nu de oude industrie verdwijnt?",
-   "link": "https://www.tijd.be/r/t/1/id/10700328",
-   "snippet": "Met het faillissement van Vynova verdwijnt weer een boegbeeld van de Belgische chemie. Tegelijk laat de broodnodige industriële vernieuwing op zich wachten, met deze week een miljardenproject van Equinor dat werd stopgezet. De oude industrie is zo sneller aan het verdwijnen dan dat er nieuwe in de plaats komt.",
-   "datum": 1794593440000
-  },
-  {
-   "id": "techcabal-14k803e",
-   "sourceId": "techcabal",
-   "titel": "Microsoft’s 18-hour outage exposed South Africa’s dependence on Big Tech",
-   "link": "https://techcabal.com/2026/11/13/microsoft-outage-south-africa-big-tech/",
-   "snippet": "Microsoft's global outage disrupted South African businesses and public institutions, including Eskom, Absa and FlySafair, exposing the country's growing dependence on Big Tech's cloud infrastructure.",
-   "datum": 1794591662000
-  },
-  {
-   "id": "tijd-ond-1ijowrp",
-   "sourceId": "tijd-ond",
-   "titel": "Betaalapp Wise schikt met Belgisch gerecht in witwasonderzoek",
-   "link": "https://www.tijd.be/r/t/1/id/10700209",
-   "snippet": "De Europese tak van het Britse fintechbedrijf Wise heeft een schikking bereikt met het Belgische gerecht in een onderzoek naar mogelijke witwaspraktijken. Wise was twee jaar geleden al door de Nationale Bank op de vingers getikt omdat zijn antiwitwascontroles niet waterdicht waren.",
-   "datum": 1794589405000
-  },
-  {
-   "id": "row-m5802f",
-   "sourceId": "row",
-   "titel": "How Jensen Huang’s exit from Nvidia impacts China’s AI supply chain",
-   "link": "https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-   "snippet": "The founder’s stunning departure removes Beijing’s biggest advocate in Silicon Valley, accelerates chip stockpiling, and leaves Asian suppliers bracing for what comes next.",
-   "datum": 1794587050000
-  },
-  {
-   "id": "euronews-lbi5oj",
-   "sourceId": "euronews",
-   "titel": "Nvidia has lost nearly $2tn in value. What could it be worth without Jensen Huang?",
-   "link": "https://www.euronews.com/2026/11/13/nvidia-has-lost-nearly-2tn-in-value-what-could-it-be-worth-without-jensen-huang",
-   "snippet": "Nvidia has lost about $1.8tn (€1.6tn) in market value since its record close on 6 October. After Jensen Huang’s exit, investors are weighing whether the chipmaker can keep growing at the pace that made it the biggest name in AI.",
-   "datum": 1794577988000
-  },
-  {
-   "id": "guardian-1lkc2df",
-   "sourceId": "guardian",
-   "titel": "Global oil supply returns to surplus for first time since start of Iran war, says IEA",
-   "link": "https://www.theguardian.com/business/2026/nov/13/global-oil-supply-returns-to-surplus-for-first-time-since-start-of-iran-war-says-iea",
-   "snippet": "Supplies outstripped demand by almost 2m barrels a day in October as market shows ‘tentative signs of rebalancing’ The world’s oil supply is swinging back to a surplus for the first time since the start of the US-Israeli war against Iran, the International Energy Agency (IEA) has said. Oil supplies outstripped deman…",
-   "datum": 1794576945000
+   "titel": "Tesla ouvre les ventes de son robotaxi Cybercab à certains particuliers",
+   "link": "https://www.lecho.be/r/t/1/id/10702865",
+   "snippet": "Tesla invite certains clients à acheter pour un usage personnel son robotaxi autonome Cybercab sans volant ni pédales.",
+   "datum": 1794662304000
   }
  ],
  "gezienIds": [
-  "nyt-104a7pr",
-  "nyt-37726a",
-  "vrt-due48w",
-  "vrt-t7m6lt",
-  "vrt-1i0udtd",
-  "vrt-1bri9ah",
-  "nyt-1ov2pn2",
-  "nyt-2qv4r4",
-  "tijd-ond-1ijqffn",
-  "vrt-1i0yzmb",
-  "nyt-sn55un",
-  "vrt-1oyy5vn",
-  "nyt-5dy1g",
-  "vrt-1inecea",
-  "vrt-daztqz",
-  "vrt-1sjldmb",
-  "vrt-3xl23b",
-  "nyt-mkbhge",
-  "vrt-j7o1sv",
-  "vrt-3p8he",
-  "lecho-122v3gv",
-  "nyt-jr8f33",
-  "nyt-19loniw",
-  "nyt-1imrinq",
-  "cnbc-m6ngr6",
-  "lecho-11m2eac",
-  "techcabal-4lqql",
-  "cnbc-4ff914",
-  "scmp-1d4xxjl",
-  "lecho-122ticv",
-  "nyt-mfr09r",
-  "scmp-rwl2yj",
-  "bbc-4qcvox",
-  "bbc-1kdnjq2",
-  "bbc-1g2wwng",
-  "scmp-4cyluc",
-  "bbc-1ps7vu",
-  "bbc-c0206v",
-  "euronews-ngzu1x",
-  "lecho-11m2g3m",
-  "tijd-ond-1i2xups",
-  "tijd-ond-1i2xuk6",
-  "lecho-122tglk",
-  "lecho-11m2f3s",
-  "lecho-11m2g0w",
-  "lecho-11m2dfe",
-  "lecho-11m2f6j",
+  "nyt-siatdf",
+  "scmp-xwi5mn",
+  "vrt-hh5s65",
+  "bbc-1it7s3g",
+  "bbc-137zylb",
+  "bbc-1ad6fi0",
+  "vrt-r3g7pz",
+  "vrt-1ozc9en",
+  "nyt-1sy6zgb",
+  "nyt-1kn5xt",
+  "vrt-rugmq7",
+  "vrt-j8y10y",
   "lecho-11m2ee6",
-  "guardian-q0obni",
-  "nyt-jrm3tb",
-  "scmp-w73vzq",
-  "tijd-ond-1ijp2py",
-  "fed-1477oon",
-  "guardian-1h79n4j",
-  "crunchbase-1mbq3mf",
-  "tijd-ond-1ijowyv",
-  "tijd-ond-1i2xx30",
-  "bbc-y7volj",
-  "crunchbase-1uu8550",
-  "bbc-xxp1ps",
-  "tijd-ond-1ijov42",
-  "tijd-ond-1ijozba",
-  "tijd-ond-1ijoxnr",
-  "bbc-r2pqp4",
-  "techcabal-14k803e",
-  "guardian-w9rr8b",
-  "tijd-ond-1ijowrp",
-  "bbc-1yntlb5",
-  "row-m5802f",
-  "euronews-90vdmz",
-  "bbc-tkbyll",
-  "euronews-lbi5oj",
-  "guardian-1lkc2df"
+  "vrt-fu324j",
+  "vrt-1103ma9",
+  "vrt-110z7xa",
+  "vrt-12e9ry1",
+  "vrt-1yc7ydb",
+  "vrt-ykx2ud",
+  "vrt-1sm758t",
+  "sifted-1x2pqho",
+  "techcabal-1l22ghn",
+  "tijd-ond-1ijsuwa",
+  "nyt-hnwqhw",
+  "lecho-11m2dlo",
+  "guardian-10l7kms",
+  "euronews-3f24or",
+  "scmp-3rw8c4",
+  "scmp-1demtpb",
+  "scmp-ytqbfz",
+  "bbc-gd8l0x",
+  "tijd-ond-1ijsuvj",
+  "cnbc-v7khvm",
+  "lecho-122xc1b",
+  "lecho-11m2f3s",
+  "scmp-jyznr7",
+  "nyt-107922o",
+  "nyt-18pz3i1",
+  "nyt-rfbfl9",
+  "nyt-etn2tk",
+  "nyt-130qsis",
+  "scmp-1alnqrt",
+  "nyt-1ov2pn2",
+  "euronews-su1glc",
+  "scmp-1leiqmv",
+  "lecho-11m2dfe",
+  "guardian-11zuknm",
+  "scmp-ivarb0",
+  "nyt-jr8f33",
+  "scmp-1ykol96",
+  "nyt-b38s0m",
+  "bbc-nariwg",
+  "scmp-ds9cz7",
+  "tijd-ond-1ijryva",
+  "tijd-ond-1ijqffn",
+  "lecho-122v3gv"
  ]
 }
