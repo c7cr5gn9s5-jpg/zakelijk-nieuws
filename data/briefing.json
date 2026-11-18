@@ -1,575 +1,606 @@
 {
- "gemaaktOp": 1794877808195,
+ "gemaaktOp": 1794964219797,
  "model": "nachtelijke taak",
  "stories": [
   {
-   "id": "s0-bbc-hf6x5v",
-   "titel": "Storing bij JPMorgan Chase verstoort online bankieren bij grote Amerikaanse banken",
+   "id": "s0-guardian-1hvd0wj",
+   "titel": "Nvidia verdubbelt omzet, raad van bestuur wil Huang niet terug als CEO",
    "categorie": "tech",
    "regio": "wereld",
    "belang": "hoog",
-   "watGebeurt": "Klanten van verschillende grote Amerikaanse banken meldden maandag problemen met hun online rekeningen. Bank of America, Chase, US Bank, Wells Fargo, Truist en de betaaldienst Zelle werden genoemd door gebruikers. Volgens The Guardian ging het om een technisch probleem bij JPMorgan Chase dat ook bij andere diensten gevolgen had. Chase zegt dat een softwarefout de oorzaak kan zijn en dat het niet om een cyberaanval gaat.",
-   "waaromBelangrijk": "Eén fout bij één grote bank kan blijkbaar ook klanten van andere banken en betaaldiensten raken. Dat toont hoe sterk het financiële systeem digitaal met elkaar verweven is.",
-   "impactVoorJou": "Voor een gewone gebruiker in Europa is de rechtstreekse impact klein. Als toekomstige ondernemer kan het wel een les zijn: wie op één betaalpartner of één cloudleverancier steunt, kan bij een storing stilvallen. Een reserveplan voor betalingen zou dan geen luxe zijn.",
+   "watGebeurt": "Nvidia heeft zijn omzet in het derde kwartaal meer dan verdubbeld en daarmee de verwachtingen van de markt overtroffen. Het waren de eerste kwartaalcijfers sinds het vertrek van topman Jensen Huang. Voorzitter Harvey Jones zei tijdens de cijferpresentatie dat de raad van bestuur niet van plan is Huang opnieuw CEO te maken.",
+   "waaromBelangrijk": "Nvidia levert de chips achter het grootste deel van de AI-investeringen. Sterke cijfers tonen dat de vraag naar AI-rekenkracht voorlopig niet wegvalt, ook al zit het bedrijf midden in een bestuurscrisis.",
+   "impactVoorJou": "Zolang de vraag naar AI-chips zo groot blijft, zou rekenkracht schaars en duur kunnen blijven voor kleine bedrijven. Het verhaal toont ook hoe kwetsbaar een bedrijf wordt als het sterk rond één oprichter draait, iets om te onthouden als je zelf ooit een bedrijf bouwt.",
    "kansen": [
-    "Monitoringdiensten die bedrijven in real time waarschuwen wanneer een bank- of betaalpartner hapert",
-    "Software die betalingen automatisch via een tweede kanaal laat lopen bij een storing"
+    "Diensten die AI-toepassingen efficiënter maken, zodat bedrijven met minder dure rekenkracht toekomen",
+    "Advies en tools rond governance en opvolging voor snelgroeiende, door oprichters geleide bedrijven"
    ],
-   "kanttekening": "De oorzaak is nog niet volledig bekend. Chase spreekt van een mogelijke softwarefout; CNBC meldt dat er geen aanwijzing was dat meerdere banken tegelijk door een fout getroffen waren. De lijst van getroffen banken komt van meldingen door gebruikers.",
+   "kanttekening": "Het vertrek van Huang hangt samen met een schandaal. Of de discussie over zijn terugkeer hiermee afgesloten is, staat niet in de artikels.",
    "itemIds": [
-    "bbc-hf6x5v",
-    "cnbc-19nx60l",
-    "guardian-1av6ftn",
-    "scmp-1so535b"
+    "guardian-1hvd0wj",
+    "bbc-1y9xxxh",
+    "vrt-1bk0pus"
    ]
   },
   {
-   "id": "s1-lecho-122xdop",
-   "titel": "Europese Commissie keurt overname van Commerzbank door UniCredit goed",
-   "categorie": "economie",
-   "regio": "europa",
-   "belang": "hoog",
-   "watGebeurt": "De Europese Commissie heeft groen licht gegeven voor de overname van de Duitse Commerzbank door het Italiaanse UniCredit. Volgens L'Echo is het de grootste grensoverschrijdende bankfusie in Europa sinds de financiële crisis.",
-   "waaromBelangrijk": "Europa heeft veel kleinere, nationale banken. Een grote grensoverschrijdende fusie kan een stap zijn naar Europese banken die beter kunnen concurreren met Amerikaanse reuzen.",
-   "impactVoorJou": "Op korte termijn merk je hier weinig van. Op lange termijn kan een sterkere Europese bankensector meer financiering voor bedrijven betekenen, maar ook minder keuze als banken samensmelten.",
-   "kansen": [
-    "Diensten die kleine bedrijven helpen bij het overstappen tussen banken na een fusie"
-   ],
-   "kanttekening": "De goedkeuring van de Commissie is een stap in het proces; de bronnen zeggen niet of alle andere voorwaarden voor de overname al vervuld zijn.",
-   "itemIds": [
-    "lecho-122xdop",
-    "euronews-1186fw5"
-   ]
-  },
-  {
-   "id": "s2-tijd-ond-1ijsvox",
-   "titel": "Italië plaatst Revolut onder gerechtelijk toezicht wegens zwakke antiwitwascontroles",
+   "id": "s1-nyt-xllq0t",
+   "titel": "Nieuwe Amerikaanse chipregels treffen Zuidoost-Azië en China",
    "categorie": "beleid",
-   "regio": "europa",
+   "regio": "wereld",
    "belang": "hoog",
-   "watGebeurt": "De Italiaanse activiteiten van de digitale bank Revolut staan een jaar onder gerechtelijk toezicht. Volgens onderzoekers konden door gebreken in de controlesystemen 76,5 miljoen euro misdaadgeld verborgen en verplaatst worden. Volgens een Italiaanse rechtbank waren daar ook leden van de maffia bij betrokken. De maatregel kwam er op vraag van het parket van Milaan.",
-   "waaromBelangrijk": "Snelgroeiende fintechs worden steeds strenger beoordeeld op dezelfde regels als klassieke banken. Gebreken in de controle kunnen leiden tot zware ingrepen.",
-   "impactVoorJou": "Gebruik je zelf een smartphonebank, dan verandert er voor jou wellicht niets. Wie een fintech wil oprichten, ziet hier dat naleving van regels (compliance) geen bijzaak is maar een kernonderdeel van het bedrijf.",
+   "watGebeurt": "De VS voeren nieuwe regels in die de uitvoer van chips naar Zuidoost-Azië beperken, en ook de toegang tot hun rekenkracht. China steunt volgens de BBC sterk op die rekenkracht. Volgens The New York Times kunnen de regels miljarden aan investeringen in de regio in gevaar brengen.",
+   "waaromBelangrijk": "Zuidoost-Azië was een plek waar Chinese bedrijven nog aan Amerikaanse AI-rekenkracht konden komen. Landen in de regio moeten nu nog moeilijker laveren tussen Washington en Peking.",
+   "impactVoorJou": "Geopolitiek bepaalt steeds meer waar AI-infrastructuur gebouwd wordt. Wie later een techbedrijf start, zou kunnen merken dat de keuze van cloudleverancier en datacenterlocatie ook een politieke keuze wordt.",
    "kansen": [
-    "Betaalbare antiwitwassoftware voor kleine fintechs en neobanken",
-    "Adviesdiensten die startende fintechs helpen hun controleprocessen op te zetten"
+    "Software die bedrijven helpt nagaan of hun gebruik van chips en cloud aan exportregels voldoet",
+    "Europese of regionale aanbieders van rekenkracht voor klanten die minder afhankelijk willen zijn van één grootmacht"
    ],
-   "kanttekening": "Het gaat om bevindingen van onderzoekers en een rechtbank in een lopende zaak; de reactie van Revolut staat niet in de bronnen.",
+   "kanttekening": "De gevolgen voor investeringen zijn een inschatting van de krant, nog geen vaststaand feit.",
    "itemIds": [
-    "tijd-ond-1ijsvox",
-    "euronews-yqmp34"
+    "nyt-xllq0t",
+    "bbc-cmmbye"
    ]
   },
   {
-   "id": "s3-crunchbase-1fqqx00",
-   "titel": "Investeerder Plural haalt 1 miljard euro op voor Europese startups",
+   "id": "s2-bbc-1m0v40x",
+   "titel": "VS onderzoeken Megaspeed voor smokkel van Nvidia-chips naar China",
+   "categorie": "beleid",
+   "regio": "wereld",
+   "belang": "middel",
+   "watGebeurt": "De Amerikaanse overheid bevestigt een onderzoek naar Megaspeed, een bedrijf uit Singapore. Het wordt ervan verdacht geavanceerde AI-chips van Nvidia naar China te hebben helpen verschepen, tegen de Amerikaanse exportregels in. De aankondiging kwam na kritiek dat het ministerie van Handel te traag optrad.",
+   "waaromBelangrijk": "Exportregels werken maar zo goed als de controle erop. De zaak toont dat chips via tussenlanden blijven lekken.",
+   "impactVoorJou": "Weinig directe impact. Wel een signaal dat toeleveringsketens voor technologie strenger gecontroleerd zullen worden, wat de papierlast voor handelsbedrijven zou kunnen verhogen.",
+   "kansen": [
+    "Tools om de herkomst en bestemming van gevoelige elektronica in de keten te volgen"
+   ],
+   "kanttekening": "Het gaat om een verdenking. Megaspeed is niet veroordeeld.",
+   "itemIds": [
+    "bbc-1m0v40x",
+    "nyt-1dr78t7"
+   ]
+  },
+  {
+   "id": "s3-eustartups-18tbz24",
+   "titel": "Isomorphic Labs haalt 4,5 miljard euro op voor AI-geneesmiddelenonderzoek",
    "categorie": "startups",
    "regio": "europa",
    "belang": "hoog",
-   "watGebeurt": "Het Londense durfkapitaalfonds Plural heeft zijn grootste fonds tot nu toe afgesloten: ongeveer 1 miljard euro. Het geld gaat naar investeringen in een vroeg stadium in heel Europa. De portefeuille omvat onder meer energie, rekenkracht, defensie, robotica, gezondheid en software.",
-   "waaromBelangrijk": "Grote fondsen voor jonge Europese bedrijven maken het makkelijker om in Europa te groeien zonder meteen naar de VS te trekken.",
-   "impactVoorJou": "Als je later een startup opricht in een van die sectoren, zou dit soort fondsen een mogelijke financieringsbron kunnen zijn. Het toont ook welke domeinen investeerders nu interessant vinden.",
+   "watGebeurt": "Isomorphic Labs, een AI-bedrijf dat nieuwe geneesmiddelen ontwerpt, haalt 4,5 miljard euro (5 miljard dollar) op in een Series C-ronde, een latere financieringsronde. De ronde werd geleid door Greenoaks en Sequoia Capital, met onder meer Andreessen Horowitz.",
+   "waaromBelangrijk": "Het is een uitzonderlijk grote ronde. Investeerders zetten zwaar in op AI die niet alleen tekst of beeld maakt, maar wetenschappelijk werk versnelt.",
+   "impactVoorJou": "AI in de biotech trekt nu enorme bedragen aan. Dat zou ook kansen kunnen openen voor kleinere bedrijven die data, labwerk of software leveren aan dit soort spelers.",
    "kansen": [
-    "Startups in energie, robotica of defensietechnologie, sectoren waar dit fonds op inzet"
+    "Diensten voor het opschonen en labelen van biologische en klinische data",
+    "Kleine labs die snel AI-voorspellingen experimenteel testen voor AI-biotechbedrijven"
    ],
-   "kanttekening": "Sifted spreekt van 1 miljard euro, Crunchbase News van iets meer dan 1,1 miljard dollar; dat is hetzelfde bedrag in een andere munt.",
-   "itemIds": [
-    "crunchbase-1fqqx00",
-    "sifted-14e1n5b"
-   ]
-  },
-  {
-   "id": "s4-lecho-122xdtf",
-   "titel": "VS verscherpen uitvoer van geavanceerde AI-chips voor top met China",
-   "categorie": "beleid",
-   "regio": "wereld",
-   "belang": "hoog",
-   "watGebeurt": "Het Amerikaanse ministerie van Handel voert nieuwe beperkingen in op de export van de meest geavanceerde AI-chips. Volgens L'Echo komt de aankondiging na het schandaal bij Nvidia en voor een ontmoeting tussen Donald Trump en Xi Jinping.",
-   "waaromBelangrijk": "Chips zijn de grondstof van AI. Exportregels bepalen mee wie toegang krijgt tot de nieuwste technologie en hoe de handelsrelatie tussen de VS en China evolueert.",
-   "impactVoorJou": "Dit kan de prijzen en beschikbaarheid van rekenkracht wereldwijd beïnvloeden. Wie later een AI-bedrijf bouwt, zou kunnen merken dat geopolitiek mee bepaalt welke hardware je kan gebruiken.",
-   "kansen": [
-    "Diensten die bedrijven helpen exportregels voor technologie op te volgen"
-   ],
-   "kanttekening": "De bron geeft geen details over welke chips of landen precies geraakt worden.",
-   "itemIds": [
-    "lecho-122xdtf"
-   ]
-  },
-  {
-   "id": "s5-bbc-bjv11",
-   "titel": "Campagne om Jensen Huang terug te halen als topman van Nvidia krijgt steun van Trump",
-   "categorie": "tech",
-   "regio": "wereld",
-   "belang": "middel",
-   "watGebeurt": "Een petitie om Jensen Huang opnieuw CEO van Nvidia te maken, circuleert sinds vrijdag op sociale media. Onder meer Elon Musk heeft ze ondertekend. De Amerikaanse president Donald Trump steunt de oproep. Nvidia wijst de campagne af.",
-   "waaromBelangrijk": "Nvidia is een van de belangrijkste bedrijven in de AI-chipmarkt. De discussie gaat over de vraag hoeveel macht een oprichter heeft tegenover de raad van bestuur.",
-   "impactVoorJou": "Voor wie zelf wil ondernemen is dit vooral een les in bedrijfsbestuur (governance): wat gebeurt er als een bedrijf te sterk met één persoon verbonden is. Rechtstreekse impact op jou is beperkt.",
-   "kansen": [],
-   "kanttekening": "Het is een campagne van buitenaf; Nvidia heeft ze afgewezen. Of Huang terugkeert, is onzeker.",
-   "itemIds": [
-    "bbc-bjv11",
-    "guardian-1hia0vj",
-    "mittr-1s0rrg3",
-    "tijd-ond-1ijsvu8"
-   ]
-  },
-  {
-   "id": "s6-euronews-yigvon",
-   "titel": "Canada dreigt met Chinese autobouwers als handelsgesprekken met VS mislukken",
-   "categorie": "beleid",
-   "regio": "wereld",
-   "belang": "middel",
-   "watGebeurt": "De Canadese premier Mark Carney zegt dat Canada met Chinese autobouwers kan samenwerken als de handelsgesprekken met de VS de autosector niet beschermen. Hij deed die uitspraak enkele dagen voor een geplande ontmoeting met de Chinese president Xi Jinping in Shenzhen, waar autoproductie op de agenda zou staan.",
-   "waaromBelangrijk": "Als bondgenoten van de VS openlijk naar China kijken, kan dat de wereldhandel in auto's verschuiven.",
-   "impactVoorJou": "Dit raakt jou vooral onrechtstreeks. Het toont wel hoe handelsconflicten bedrijven dwingen om nieuwe partners te zoeken, iets wat ook Europese bedrijven kan overkomen.",
-   "kansen": [],
-   "kanttekening": "Het gaat om een uitspraak van Carney; er is nog geen akkoord met Chinese autobouwers.",
-   "itemIds": [
-    "euronews-yigvon",
-    "guardian-1ublbsf"
-   ]
-  },
-  {
-   "id": "s7-tijd-ond-1ijsvsk",
-   "titel": "Fluvius stopt met de uitbouw van warmtenetten",
-   "categorie": "economie",
-   "regio": "belgie",
-   "belang": "middel",
-   "watGebeurt": "Netbeheerder Fluvius zette de voorbije jaren fors in op warmtenetten als duurzaam alternatief voor verwarming. Nu start het bedrijf geen nieuwe projecten meer. Bestaande projecten worden strategisch bekeken.",
-   "waaromBelangrijk": "Warmtenetten waren een van de pistes om gebouwen in Vlaanderen zonder aardgas te verwarmen. Als de grootste netbeheerder afhaakt, ontstaat er een gat.",
-   "impactVoorJou": "Als je in een gemeente woont waar een warmtenet gepland was, zou dat project vertraging kunnen oplopen. Voor ondernemers kan er ruimte ontstaan, maar de terugtrekking van een grote speler wijst ook op moeilijke rendabiliteit.",
-   "kansen": [
-    "Private of coöperatieve bedrijven die kleinere warmtenetten uitbouwen waar Fluvius afhaakt",
-    "Advies voor gemeenten en bouwprojecten die nu een ander verwarmingsplan nodig hebben"
-   ],
-   "kanttekening": "De bron geeft niet aan waarom Fluvius stopt.",
-   "itemIds": [
-    "tijd-ond-1ijsvsk"
-   ]
-  },
-  {
-   "id": "s8-lecho-122xdoo",
-   "titel": "Luikse Contipharma lanceert speekseltest voor malaria",
-   "categorie": "startups",
-   "regio": "belgie",
-   "belang": "middel",
-   "watGebeurt": "Het Luikse bedrijf Contipharma heeft maandag een nieuwe test voorgesteld die malaria opspoort via speeksel. Het toestel kan de voorafgaande screening sterk vergemakkelijken. Het wordt momenteel getest in Congo.",
-   "waaromBelangrijk": "Een eenvoudige test zonder bloedafname kan screening goedkoper en toegankelijker maken in regio's waar malaria veel voorkomt.",
-   "impactVoorJou": "Het toont dat Belgische bedrijven wereldwijde gezondheidsproblemen kunnen aanpakken. Medische diagnostiek is een sector waar Belgische kennis en Afrikaanse noden elkaar kunnen vinden.",
-   "kansen": [
-    "Distributie- en logistiekdiensten voor eenvoudige medische tests in Centraal-Afrika",
-    "Snelle tests zonder bloedafname voor andere ziekten"
-   ],
-   "kanttekening": "De test wordt nog getest; resultaten over de betrouwbaarheid staan niet in de bron.",
-   "itemIds": [
-    "lecho-122xdoo"
-   ]
-  },
-  {
-   "id": "s9-lecho-11m2bqp",
-   "titel": "Batterijstartup Skysun snijdt in personeel en bereidt grote kapitaalronde voor",
-   "categorie": "startups",
-   "regio": "europa",
-   "belang": "middel",
-   "watGebeurt": "De start-up Skysun groeit trager dan verwacht. Ze kreeg een extra 10 miljoen euro en verlaagt tegelijk haar kosten en haar personeelsbestand. Ze bereidt voor 2027 een grote kapitaalronde voor om batterijprojecten in Frankrijk te realiseren.",
-   "waaromBelangrijk": "Ook in energieopslag, een sector met veel aandacht, verloopt groei niet altijd volgens plan. Kosten verlagen en een overbruggingslening zoeken is een klassiek scenario.",
-   "impactVoorJou": "Dit is een goed voorbeeld van hoe een startup reageert als groei tegenvalt. Wie zelf onderneemt, kan hieruit leren dat een reserve en een flexibel plan belangrijk zijn.",
-   "kansen": [
-    "Diensten die batterijprojecten helpen financieren of vergunningen versnellen"
-   ],
-   "kanttekening": "Hoeveel personeel vertrekt en hoe groot de geplande kapitaalronde is, staat niet in de bron.",
-   "itemIds": [
-    "lecho-11m2bqp"
-   ]
-  },
-  {
-   "id": "s10-techcabal-1y6mfmr",
-   "titel": "Nigeria maakt stablecoins duurder met strengere regels",
-   "categorie": "beleid",
-   "regio": "wereld",
-   "belang": "middel",
-   "watGebeurt": "Nieuwe regels in Nigeria voor stablecoins, digitale munten die aan een gewone munt gekoppeld zijn, veranderen de kosten voor uitgevers. Ze moeten verplicht deposito's bij de centrale bank aanhouden en krijgen strengere grenzen voor beleggingen en reserves. Volgens TechCabal kunnen commerciële banken de grootste winnaars worden.",
-   "waaromBelangrijk": "Nigeria is een van de grootste markten voor digitale betalingen in Afrika. Hoe het land stablecoins regelt, kan een voorbeeld worden voor andere landen.",
-   "impactVoorJou": "Weinig rechtstreekse impact. Wel toont het hoe regelgeving bepaalt wie in fintech kan verdienen: soms verschuift het voordeel van startups naar gevestigde banken.",
-   "kansen": [
-    "Software die stablecoin-uitgevers helpt om aan de nieuwe reserve- en rapportageregels te voldoen"
-   ],
-   "kanttekening": "Dat banken de grootste winnaars worden, is een inschatting van TechCabal.",
-   "itemIds": [
-    "techcabal-1y6mfmr"
-   ]
-  },
-  {
-   "id": "s11-euronews-3f24or",
-   "titel": "Zuidoost-Aziatische landen sluiten akkoord over digitale handel",
-   "categorie": "beleid",
-   "regio": "wereld",
-   "belang": "middel",
-   "watGebeurt": "De ASEAN-landen hebben een akkoord over digitale handel ondertekend. Bedrijven in de regio moeten nu nog met verschillende regels per land werken. Het akkoord moet het makkelijker maken om over de grenzen heen te verkopen, betalingen te ontvangen en gegevens te delen.",
-   "waaromBelangrijk": "Online winkelen en digitale diensten groeien in Zuidoost-Azië. Eén set regels kan van de regio een grotere, toegankelijkere markt maken.",
-   "impactVoorJou": "Zuidoost-Azië is een groeimarkt die vanuit België vaak over het hoofd wordt gezien. Een eenvoudiger digitaal regime zou het voor buitenlandse digitale bedrijven aantrekkelijker kunnen maken om er te starten.",
-   "kansen": [
-    "Diensten voor grensoverschrijdende betalingen en facturatie binnen Zuidoost-Azië",
-    "E-commerce-ondersteuning voor kleine merken die meerdere ASEAN-landen willen bedienen"
-   ],
-   "kanttekening": "De bron zegt niet wanneer het akkoord in werking treedt.",
-   "itemIds": [
-    "euronews-3f24or"
-   ]
-  },
-  {
-   "id": "s12-scmp-1m5pv83",
-   "titel": "Winst van Baidu daalt 46 procent door terugval in advertenties",
-   "categorie": "tech",
-   "regio": "wereld",
-   "belang": "middel",
-   "watGebeurt": "De nettowinst van het Chinese techbedrijf Baidu daalde in het derde kwartaal met 46 procent tot 1,4 miljard yuan, tegenover 2,6 miljard yuan een jaar eerder. De inzet op artificiële intelligentie kon de daling van de klassieke zoekadvertenties niet compenseren.",
-   "waaromBelangrijk": "Het toont dat AI de oude verdienmodellen van zoekmachines onder druk kan zetten voor de nieuwe inkomsten volgen.",
-   "impactVoorJou": "Wie een bedrijf bouwt dat op zoekadvertenties steunt, zou moeten nadenken over hoe AI-zoeken het bereik verandert. Dat geldt ook buiten China.",
-   "kansen": [
-    "Marketingdiensten die bedrijven helpen zichtbaar te blijven in AI-gestuurde zoekresultaten"
-   ],
-   "kanttekening": "Het verband tussen AI en de advertentiedaling is de lezing van de bron.",
-   "itemIds": [
-    "scmp-1m5pv83"
-   ]
-  },
-  {
-   "id": "s13-tijd-ond-1ijswg7",
-   "titel": "Eric Pulinx wordt nieuwe CEO van Bank Van Breda",
-   "categorie": "economie",
-   "regio": "belgie",
-   "belang": "laag",
-   "watGebeurt": "Dirk Wouters stopt na meer dan tien jaar als CEO van Bank Van Breda, die zich richt op ondernemers en vrije beroepen. Eric Pulinx, nu topman van BNY Europe, volgt hem op 1 februari 2027 op. Volgens L'Echo zijn de activa onder beheer van de bank in een twaalftal jaar verdrievoudigd.",
-   "waaromBelangrijk": "Bank Van Breda is een van de banken die zich specifiek op ondernemers richt. Een nieuwe topman kan de koers bepalen.",
-   "impactVoorJou": "Als je later onderneemt, is dit een van de banken die zich op jouw doelgroep richt. Voor nu is de impact klein.",
-   "kansen": [],
    "kanttekening": "",
    "itemIds": [
-    "tijd-ond-1ijswg7",
-    "lecho-122xei5"
+    "eustartups-18tbz24",
+    "sifted-19k3l73"
+   ]
+  },
+  {
+   "id": "s4-sifted-1oe82v7",
+   "titel": "Robotstartup Genesis AI haalt 500 miljoen dollar op, met steun van Nvidia",
+   "categorie": "startups",
+   "regio": "wereld",
+   "belang": "middel",
+   "watGebeurt": "Genesis AI leert robots fysieke taken aan door menselijke bewegingen te bestuderen. Het bedrijf haalt 500 miljoen dollar op in een Series A-ronde, bij een waardering van 3,5 miljard dollar. Nvidia steunt de ronde. Genesis AI wil zijn robots naar fabrieken en magazijnen brengen.",
+   "waaromBelangrijk": "Na software verschuift het AI-geld naar robots die echte handelingen doen. Een Series A van deze omvang is zeer ongewoon.",
+   "impactVoorJou": "Als robots fabrieks- en magazijnwerk overnemen, zouden logistiek en productie snel kunnen veranderen. Dat schept ruimte voor bedrijven die die robots installeren, onderhouden of trainen.",
+   "kansen": [
+    "Integratie en onderhoud van robots bij kmo's die zelf de kennis niet hebben",
+    "Verzamelen van bewegingsdata van vakmensen om robots te trainen"
+   ],
+   "kanttekening": "",
+   "itemIds": [
+    "sifted-1oe82v7",
+    "crunchbase-1urihfl"
+   ]
+  },
+  {
+   "id": "s5-vrt-1qoff2w",
+   "titel": "Gelekte documenten: Deutsche Bank negeerde waarschuwingen over risicovolle klanten",
+   "categorie": "economie",
+   "regio": "europa",
+   "belang": "hoog",
+   "watGebeurt": "Een internationaal onderzoek door 230 journalisten van 56 nieuwsorganisaties op basis van miljoenen gelekte documenten stelt dat Deutsche Bank jarenlang niet optrad tegen verdachte transacties van invloedrijke klanten, onder wie Russische oligarchen. Volgens The Guardian werden waarschuwingen genegeerd om de winst te beschermen. Het aandeel van de bank zakte dinsdag meer dan 6 procent.",
+   "waaromBelangrijk": "Het raakt aan de kern van bankieren: witwascontroles. Toezichthouders zouden strenger kunnen worden voor alle banken.",
+   "impactVoorJou": "Strengere controles maken het voor banken duurder om risico's te beoordelen. Dat zou de vraag naar slimme compliancetools kunnen doen groeien.",
+   "kansen": [
+    "Software die verdachte transacties sneller en goedkoper opspoort voor kleinere banken en fintechs"
+   ],
+   "kanttekening": "De bevindingen komen uit gelekte documenten en worden als beweringen gebracht. Een reactie van de bank staat niet in de aangeleverde artikels.",
+   "itemIds": [
+    "vrt-1qoff2w",
+    "guardian-1493r2w",
+    "euronews-p9qush"
+   ]
+  },
+  {
+   "id": "s6-cnbc-1fvin0y",
+   "titel": "Nike verwacht pas in 2029 opnieuw omzetgroei",
+   "categorie": "economie",
+   "regio": "wereld",
+   "belang": "middel",
+   "watGebeurt": "Nike hield zijn eerste beleggersdag in negen jaar. Met het plan 'Full Stride Ahead' mikt het op ongeveer 5 miljard dollar extra omzet in 2031 en wil het zich richten op vijf kernsporten en 23 landen. Topman Elliott Hill verwacht pas in 2029 opnieuw omzetgroei. Beleggers reageerden gematigd enthousiast.",
+   "waaromBelangrijk": "Een wereldmerk dat zich terugplooit op minder sporten en landen laat ruimte voor kleinere spelers.",
+   "impactVoorJou": "Als Nike minder aandacht geeft aan sommige sporten of markten, zouden niches vrijkomen voor nieuwe sportmerken.",
+   "kansen": [
+    "Een sportmerk voor een sport of markt die buiten Nikes nieuwe focus valt"
+   ],
+   "kanttekening": "De omzetdoelen zijn plannen van het bedrijf zelf.",
+   "itemIds": [
+    "cnbc-1fvin0y",
+    "lecho-122xfgz",
+    "tijd-ond-1ijsxdf"
+   ]
+  },
+  {
+   "id": "s7-tijd-ond-1ijsxe8",
+   "titel": "EVS verwacht minstens halvering van bedrijfswinst",
+   "categorie": "economie",
+   "regio": "belgie",
+   "belang": "middel",
+   "watGebeurt": "Het Luikse videobedrijf EVS, gespecialiseerd in technologie voor live videoproductie, verwacht voor dit boekjaar een bedrijfswinst tussen 8 en 20 miljoen euro. Dat is lager dan verwacht. Het bevestigt de omzetwaarschuwing van vorige maand.",
+   "waaromBelangrijk": "EVS is een van de bekendere Belgische techbedrijven. De winstwaarschuwing toont dat ook gevestigde spelers het moeilijk hebben.",
+   "impactVoorJou": "Beperkte persoonlijke impact. Het is wel een herinnering dat hardware voor een nichemarkt kwetsbaar is als klanten hun investeringen uitstellen.",
+   "kansen": [],
+   "kanttekening": "De artikels geven geen oorzaak voor de lagere omzet.",
+   "itemIds": [
+    "tijd-ond-1ijsxe8",
+    "lecho-122xeqe"
+   ]
+  },
+  {
+   "id": "s8-tijd-ond-1ijsxf3",
+   "titel": "Websites van IKEA, KLM en ABN Amro verspreidden onbedoeld malware",
+   "categorie": "tech",
+   "regio": "europa",
+   "belang": "middel",
+   "watGebeurt": "IKEA, KLM, ABN Amro, Zoom en tal van andere grote bedrijven verspreidden zonder het te weten malware via hun websites. Hackers plaatsten kwaadaardige code via een kwetsbaarheid in het softwareplatform Optimizely.",
+   "waaromBelangrijk": "Eén zwakke plek bij een leverancier raakt meteen honderden klanten. Dat heet een aanval via de toeleveringsketen.",
+   "impactVoorJou": "Elk bedrijf bouwt op software van anderen. Wie later een webwinkel of platform start, zou best weten welke externe software erin zit en hoe die gecontroleerd wordt.",
+   "kansen": [
+    "Monitoring die automatisch detecteert wanneer externe scripts op een website plots veranderen"
+   ],
+   "kanttekening": "Hoeveel bezoekers getroffen zijn, staat niet in het artikel.",
+   "itemIds": [
+    "tijd-ond-1ijsxf3"
+   ]
+  },
+  {
+   "id": "s9-euronews-4eemkk",
+   "titel": "Fins satellietbedrijf Iceye biedt 2 miljard euro voor Italiaanse raketbouwer Avio",
+   "categorie": "startups",
+   "regio": "europa",
+   "belang": "middel",
+   "watGebeurt": "Iceye, een Finse leverancier van satellieten, biedt 2 miljard euro voor de Italiaanse raketbouwer Avio. Iceye belooft 1 miljard euro te investeren in Italië. De deal krijgt wellicht kritische vragen uit Rome, dat via een belang in Avio's grootste aandeelhouder inspraak heeft.",
+   "waaromBelangrijk": "Een jonge Europese spacetechspeler die een gevestigde raketbouwer wil kopen, is een teken dat de Europese ruimtevaartsector in beweging is.",
+   "impactVoorJou": "Europese ruimtevaart en defensie worden een groeimarkt. Er zou ruimte kunnen komen voor toeleveranciers en softwarebedrijven rond satellietdata.",
+   "kansen": [
+    "Toepassingen die satellietbeelden omzetten in bruikbare info voor landbouw, verzekeraars of overheden"
+   ],
+   "kanttekening": "Het is een bod, geen afgeronde overname. De Italiaanse overheid heeft inspraak.",
+   "itemIds": [
+    "euronews-4eemkk"
+   ]
+  },
+  {
+   "id": "s10-eustartups-1noi2je",
+   "titel": "Londens Model ML wordt unicorn met AI-agenten voor de financiële sector",
+   "categorie": "startups",
+   "regio": "europa",
+   "belang": "laag",
+   "watGebeurt": "Model ML uit Londen bouwt gepersonaliseerde AI-agenten, software die zelfstandig taken uitvoert, voor financiële en professionele dienstverlening. Het haalt 227 miljoen euro op in een Series B-ronde bij een waardering van 1,3 miljard euro. Het geld gaat onder meer naar uitbreiding van de teams in Londen en New York.",
+   "waaromBelangrijk": "Een unicorn is een startup met een waardering boven 1 miljard. AI-agenten voor kenniswerkers trekken nu veel geld aan in Europa.",
+   "impactVoorJou": "Beroepen in financiën en advies zouden de komende jaren sterk kunnen veranderen. Wie de vakkennis van een sector combineert met AI, zou een voorsprong kunnen hebben.",
+   "kansen": [
+    "AI-agenten voor één specifieke beroepsgroep, zoals boekhouders of makelaars, in het Nederlands"
+   ],
+   "kanttekening": "",
+   "itemIds": [
+    "eustartups-1noi2je"
+   ]
+  },
+  {
+   "id": "s11-lecho-122xfe5",
+   "titel": "Chinees elektrisch regiovliegtuig van Comac maakt eerste bemande vlucht",
+   "categorie": "tech",
+   "regio": "wereld",
+   "belang": "laag",
+   "watGebeurt": "China liet zijn nieuwe volledig elektrische regiovliegtuig met 19 plaatsen voor het eerst met bemanning vliegen. Het toestel CE-25A van de staatsvliegtuigbouwer Comac werd in drie jaar ontwikkeld en heeft een bereik van 400 kilometer.",
+   "waaromBelangrijk": "China toont dat het snel nieuwe luchtvaarttechnologie kan ontwikkelen, in een sector waar Europa en de VS traditioneel domineren.",
+   "impactVoorJou": "Elektrische vliegtuigen voor korte afstanden zouden op termijn nieuwe regionale verbindingen mogelijk kunnen maken. Dat zou kansen kunnen bieden voor kleine luchthavens en nieuwe luchtvaartdiensten.",
+   "kansen": [
+    "Laadinfrastructuur en diensten voor elektrische vliegtuigen op kleine luchthavens"
+   ],
+   "kanttekening": "Een eerste vlucht is nog geen certificering of commerciële inzet.",
+   "itemIds": [
+    "lecho-122xfe5"
+   ]
+  },
+  {
+   "id": "s12-scmp-16nqd7l",
+   "titel": "Topmannen van Baidu en Xiaomi waarschuwen voor kloof tussen AI-hype en rendement",
+   "categorie": "tech",
+   "regio": "wereld",
+   "belang": "middel",
+   "watGebeurt": "De leiders van Baidu en Xiaomi riepen de sector op om te focussen op praktische toepassingen. Ze waarschuwen dat de enorme investeringen in AI sneller groeien dan wat ze opbrengen. Dat gebeurt te midden van zorgen over een AI-zeepbel.",
+   "waaromBelangrijk": "Dat waarschuwingen komen van grote techbedrijven zelf, maakt ze opvallend. Beleggers zouden kritischer kunnen kijken naar AI-projecten zonder duidelijk verdienmodel.",
+   "impactVoorJou": "Voor een toekomstige ondernemer is dit een nuttige les: een AI-idee moet een echt probleem oplossen waarvoor iemand wil betalen. Investeerders zouden daar steeds meer op letten.",
+   "kansen": [
+    "Praktische AI-toepassingen met meetbare besparing voor kmo's, in plaats van algemene AI-platformen"
+   ],
+   "kanttekening": "Het gaat om uitspraken van twee topmannen, geen cijfermatige analyse.",
+   "itemIds": [
+    "scmp-16nqd7l"
+   ]
+  },
+  {
+   "id": "s13-tijd-ond-1i2xupr",
+   "titel": "Belgisch leger zoekt toenadering tot startups en techondernemers",
+   "categorie": "beleid",
+   "regio": "belgie",
+   "belang": "middel",
+   "watGebeurt": "Defensie zoekt steeds meer toenadering tot de Belgische technologiesector, met onder meer kantoren naast startups en ondernemers als reservist. Een generaal spreekt op een techconferentie en techondernemers wonen militaire oefeningen bij. De oorlog in Oekraïne toont hoe belangrijk het is om militaire technologie snel te testen en op te schalen.",
+   "waaromBelangrijk": "Defensie wordt een nieuwe klant voor jonge techbedrijven. Ook in Europa wordt fors geïnvesteerd in herbewapening.",
+   "impactVoorJou": "Defensie zou een van de snelst groeiende markten voor technologie in België kunnen worden. Wie interesse heeft in drones, sensoren of software, zou daar klanten kunnen vinden.",
+   "kansen": [
+    "Technologie die zowel burgerlijk als militair bruikbaar is, zoals drones, sensoren of beveiligde communicatie",
+    "Begeleiding van startups door de aankoopregels van Defensie"
+   ],
+   "kanttekening": "",
+   "itemIds": [
+    "tijd-ond-1i2xupr"
    ]
   }
  ],
  "items": [
   {
-   "id": "bbc-hf6x5v",
-   "sourceId": "bbc",
-   "titel": "Customers report service outages at major US banks",
-   "link": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
-   "snippet": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
-   "datum": 1794870921000
+   "id": "guardian-1hvd0wj",
+   "sourceId": "guardian",
+   "titel": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
+   "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
+   "snippet": "Company issues first earnings report after ouster of CEO over allegations of affair with suspected Chinese spy Nvidia “does not intend to reinstate Jensen as CEO”, the chairman of the company’s board said Tuesday. Harvey Jones made the remark during Nvidia’s first quarterly earnings report since Jensen Huang’s ouste…",
+   "datum": 1794958336000
   },
   {
-   "id": "bbc-bjv11",
+   "id": "bbc-1y9xxxh",
    "sourceId": "bbc",
-   "titel": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-   "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-   "snippet": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
-   "datum": 1794867687000
+   "titel": "Nvidia reports bumper results as firm says it's not reinstating Huang",
+   "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+   "snippet": "Nvidia reported strong quarterly earnings on Tuesday amid the dramatic exit of ex-CEO Jensen Huang.",
+   "datum": 1794956619000
   },
   {
-   "id": "cnbc-19nx60l",
+   "id": "cnbc-1fvin0y",
    "sourceId": "cnbc",
-   "titel": "JPMorgan Chase says temporary software bug is affecting consumer banking",
-   "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
-   "snippet": "CNBC's Eamon Javers reported there was no indication of bad actors involved and likewise no indication that a bug was impacting multiple banks at the same time.",
-   "datum": 1794867287000
+   "titel": "Nike lays out financial goals ahead of first investor day in 9 years",
+   "link": "https://www.cnbc.com/2026/11/17/nike-investor-day-elliott-hill.html",
+   "snippet": "Nike is hosting an investor day at its Oregon headquarters as the company tries to prove to investors that its turnaround is working.",
+   "datum": 1794953864000
   },
   {
-   "id": "guardian-1av6ftn",
-   "sourceId": "guardian",
-   "titel": "Customers report difficulty accessing online services at major US banks",
-   "link": "https://www.theguardian.com/business/2026/nov/16/us-bank-outage-chase-wells-fargo",
-   "snippet": "Bank of America, Chase, US Bank, Wells Fargo and Truist were listed by users who have been experiencing issues Customers reported service outages and difficulty accessing their online accounts at several major US banks and the money transfer service Zelle on Monday after a technical issue at JPMorgan Chase caused ri…",
-   "datum": 1794866500000
+   "id": "lecho-122xfgz",
+   "sourceId": "lecho",
+   "titel": "Nike présente un nouveau plan stratégique pour trouver un second souffle",
+   "link": "https://www.lecho.be/r/t/1/id/10705956",
+   "snippet": "Nike a présenté le plan Full Stride Ahead pour viser environ 5 milliards de dollars de revenus supplémentaires en 2031. Le groupe veut concentrer ses ressources sur cinq sports clés et 23 pays, selon son CEO Elliott Hill.",
+   "datum": 1794953258000
   },
   {
-   "id": "scmp-1so535b",
-   "sourceId": "scmp",
-   "titel": "Customers at major US banks report difficulty with some online services",
-   "link": "https://www.scmp.com/business/banking-finance/article/3374651/customers-major-us-banks-report-difficulty-some-online-services",
-   "snippet": "Customers reported difficulty accessing the online accounts at some major US banks on Monday. Bank of America, Chase, US Bank, Wells Fargo and Truist were listed by users as down or experiencing issues, according to the website downdetector.com. Chase Bank’s services are experiencing a technical bug issue, not a cyb…",
-   "datum": 1794860591000
+   "id": "vrt-1bk0pus",
+   "sourceId": "vrt",
+   "titel": "Nvidia overtreft verwachtingen in derde kwartaal, omzet meer dan verdubbeld",
+   "link": "https://vrtnws.be/p.Yb5Q8dDkR",
+   "snippet": "De Amerikaanse chipgigant Nvidia heeft zijn omzet in het derde kwartaal meer dan verdubbeld en daarmee de verwachtingen van de markt overtroffen. Dat is een opsteker voor het bedrijf, dat verwikkeld is in een schandaal dat leidde tot het vertrek van topman Jensen Huang.",
+   "datum": 1794951674000
   },
   {
-   "id": "mittr-1s0rrg3",
-   "sourceId": "mittr",
-   "titel": "The open-source movement wants Jensen Huang back",
-   "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
-   "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and sever…",
-   "datum": 1794854327000
+   "id": "nyt-xllq0t",
+   "sourceId": "nyt",
+   "titel": "Trump’s New A.I. Chip Rules Rattle Southeast Asia",
+   "link": "https://www.nytimes.com/2026/11/17/business/southeast-asia-china-ai-chips.html",
+   "snippet": "New U.S. restrictions could jeopardize billions in investment and force countries in the region to strike an increasingly difficult balance between Washington and Beijing.",
+   "datum": 1794949456000
   },
   {
-   "id": "guardian-1hia0vj",
-   "sourceId": "guardian",
-   "titel": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
-   "link": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo",
-   "snippet": "As tech industry pushes for return, US president says he thinks Huang ‘learned a big lesson’ Donald Trump has expressed support for the return of Jensen Huang as the chief executive of Nvidia, joining Silicon Valley heavyweights in backing the reinstatement of the AI figurehead. The US president referred to a tech i…",
-   "datum": 1794853857000
+   "id": "nyt-1dr78t7",
+   "sourceId": "nyt",
+   "titel": "Facing Criticism, Trump Administration Says It’s Investigating Megaspeed",
+   "link": "https://www.nytimes.com/2026/11/17/business/economy/megaspeed-investigation-trump-doj.html",
+   "snippet": "The announcement appeared to be a response to recent criticism that the Commerce Department has moved too slowly on the alleged chip smuggling case.",
+   "datum": 1794948961000
   },
   {
-   "id": "tijd-ond-1ijswg7",
+   "id": "tijd-ond-1ijsxf3",
    "sourceId": "tijd-ond",
-   "titel": "Amateurkickbokser Eric Pulinx gaat Antwerpse Bank Van Breda leiden",
-   "link": "https://www.tijd.be/r/t/1/id/10705800",
-   "snippet": "Dirk Wouters zwaait na meer dan tien jaar af als CEO van Bank Van Breda, die zich toelegt op ondernemers en vrije beroepers. De bankenveteraan Eric Pulinx, een verwoed amateurkickboxer die de financiële dienstverlener BNY Europe leidt, volgt Wouters begin volgend jaar op.",
-   "datum": 1794850755000
+   "titel": "Grote bedrijven als IKEA, ABN Amro en BBC verspreidden onbedoeld malware",
+   "link": "https://www.tijd.be/r/t/1/id/10705952",
+   "snippet": "IKEA, KLM, ABN Amro, Zoom en tal van andere grote bedrijven hebben zonder het te weten malware verspreid via hun websites. Hackers installeerden een kwaadaardige code via een kwetsbaarheid in het softwareplatform Optimizely.",
+   "datum": 1794946032000
   },
   {
-   "id": "lecho-122xei5",
-   "sourceId": "lecho",
-   "titel": "Le francophone Eric Pulinx remplacera Dirk Wouters à la tête de la Banque Van Breda",
-   "link": "https://www.lecho.be/r/t/1/id/10705806",
-   "snippet": "L'actuel patron de BNY Europe succédera à Dirk Wouters le 1ᵉʳ février 2027. Il prendra la tête d'une banque à la croissance folle, dont les actifs sous gestion ont triplé en une douzaine d'années.",
-   "datum": 1794850135000
-  },
-  {
-   "id": "tijd-ond-1ijsvsk",
+   "id": "tijd-ond-1ijsxe8",
    "sourceId": "tijd-ond",
-   "titel": "Fluvius gooit handdoek voor uitbouw warmtenetten",
-   "link": "https://www.tijd.be/r/t/1/id/10705777",
-   "snippet": "Nadat de stroom- en gasnetbeheerder Fluvius de voorbije jaren fors heeft ingezet op warmtenetten als duurzaam alternatief voor verwarming, gooit het bedrijf nu de handdoek. Nieuwe projecten komen er niet en bestaande worden strategisch bekeken.",
-   "datum": 1794849592000
+   "titel": "Videobedrijf EVS verwacht minstens halvering bedrijfswinst voor boekjaar 2026",
+   "link": "https://www.tijd.be/r/t/1/id/10705944",
+   "snippet": "Het videobedrijf EVS uit Luik gaat voor dit boekjaar uit van een bedrijfswinst tussen 8 en 20 miljoen euro. Dat is lager dan verwacht, maar in lijn met de forse omzetwaarschuwing die EVS vorige maand al uitstuurde.",
+   "datum": 1794942928000
   },
   {
-   "id": "lecho-11m2bqp",
+   "id": "lecho-122xeqe",
    "sourceId": "lecho",
-   "titel": "Skysun réduit ses effectifs et se réorganise en vue d'une importante levée de fonds en 2027",
-   "link": "https://www.lecho.be/r/t/1/id/10699312",
-   "snippet": "Face à une croissance plus lente que prévu, la start-up Skysun a obtenu une rallonge de 10 millions d'euros tout en réduisant ses coûts (et ses effectifs). Elle prépare une levée de fonds importante pour concrétiser de nombreux projets de batteries en France.",
-   "datum": 1794846825000
+   "titel": "EVS revoit sensiblement à la baisse ses prévisions de résultat opérationnel",
+   "link": "https://www.lecho.be/r/t/1/id/10705896",
+   "snippet": "La société liégeoise spécialisée dans les technologies de production vidéo en direct confirme la réduction de sa prévision de chiffre d'affaires pour l'exercice en cours annoncée le mois dernier. Conséquence: à l'issue du 3ᵉ trimestre, il revoit également à la baisse son objectif de résultat opérationnel.",
+   "datum": 1794940608000
   },
   {
-   "id": "tijd-ond-1ijsvu8",
+   "id": "vrt-1qoff2w",
+   "sourceId": "vrt",
+   "titel": "Deutsche Bank liet oligarchen uit Rusland begaan na invasie van Oekraïne en trad niet op tegen verdachte transacties van Epstein",
+   "link": "https://vrtnws.be/p.w705J7myX",
+   "snippet": "Deutsche Bank heeft jarenlang verzuimd op te treden tegen verdachte financiële transacties van invloedrijke klanten. Dat blijkt uit miljoenen gelekte documenten die werden onderzocht door 230 journalisten van 56 nieuwsorganisaties, waaronder Der Spiegel, The Financial Times en het onderzoeksplatform Follow the Money.",
+   "datum": 1794937919000
+  },
+  {
+   "id": "tijd-ond-1i2xupr",
    "sourceId": "tijd-ond",
-   "titel": "Nvidia-oprichter Huang is speelbal van grotere belangen",
-   "link": "https://www.tijd.be/r/t/1/id/10705791",
-   "snippet": "Bereidt Nvidia-oprichter Jensen Huang zijn comeback als CEO voor? Dat zo’n scenario überhaupt circuleert, toont aan dat er meer speelt dan een sappig seks- en spionageverhaal. Huang is de inzet van een strijd om macht en geld die tegelijk in Washington, Wall Street en Silicon Valley plaatsvindt.",
-   "datum": 1794846529000
+   "titel": "‘Operatie Innovatie’ in het leger: van kantoren naast start-ups tot ondernemers als reservist",
+   "link": "https://www.tijd.be/r/t/1/id/10699488",
+   "snippet": "Een generaal op een techconferentie en techondernemers die militaire oefeningen bijwonen: Defensie zoekt steeds meer toenadering tot de lokale technologiesector. De oorlog in Oekraïne maakt duidelijk hoe belangrijk het is om militaire technologie snel te kunnen testen en opschalen.",
+   "datum": 1794937278000
   },
   {
-   "id": "lecho-122xdoo",
-   "sourceId": "lecho",
-   "titel": "Le belge Contipharma lance un test salivaire pour détecter la malaria",
-   "link": "https://www.lecho.be/r/t/1/id/10705711",
-   "snippet": "La société liégeoise a présenté ce lundi un nouveau test de détection de la malaria via l'analyse de la salive. Le dispositif qui pourrait largement faciliter le \"prédépistage\" est en cours de test au Congo.",
-   "datum": 1794846327000
-  },
-  {
-   "id": "lecho-122xdtf",
-   "sourceId": "lecho",
-   "titel": "Avant le sommet Trump-Xi, Washington serre la vis sur les puces d'IA",
-   "link": "https://www.lecho.be/r/t/1/id/10705767",
-   "snippet": "Le département américain du Commerce met en œuvre de nouvelles restrictions sur l'exportation des puces IA les plus avancées. Une annonce qui intervient après le scandale Nvidia et avant une rencontre entre Donald Trump et Xi Jinping.",
-   "datum": 1794845334000
-  },
-  {
-   "id": "tijd-ond-1ijsvox",
+   "id": "tijd-ond-1ijsxdf",
    "sourceId": "tijd-ond",
-   "titel": "'Vatbaar voor de maffia': Italië plaatst Revolut onder toezicht wegens lakse witwascontroles",
-   "link": "https://www.tijd.be/r/t/1/id/10705738",
-   "snippet": "Volgens een Italiaanse rechtbank konden criminelen, onder wie ook leden van de maffia, ruim 76 miljoen euro misdaadgeld via Revolut versluizen of witwassen, omdat de smartphonebank haar controlesystemen niet op orde had. De Italiaanse activiteiten staan nu een jaar onder gerechtelijk toezicht.",
-   "datum": 1794840231000
+   "titel": "Ommekeer bij Nike zal pas in 2029 zichtbaar worden",
+   "link": "https://www.tijd.be/r/t/1/id/10705938",
+   "snippet": "De ommekeer bij de sportreus Nike zal nog even op zich laten wachten. Pas in 2029 verwacht topman Elliott Hill dat er opnieuw omzetgroei zal zijn. Beleggers reageerden gematigd enthousiast.",
+   "datum": 1794935214000
   },
   {
-   "id": "euronews-yqmp34",
-   "sourceId": "euronews",
-   "titel": "Revolut's Italian unit put under judicial administration after anti-money laundering failures",
-   "link": "https://www.euronews.com/2026/11/16/revoluts-italian-unit-put-under-judicial-administration-after-anti-money-laundering-failur",
-   "snippet": "The measure against the digital bank was requested by the Milan Public Prosecutor's Office as part of a Guardia di Finanza investigation. According to investigators, shortcomings in control systems facilitated the concealment and transfer of €76.5 million.",
-   "datum": 1794838418000
-  },
-  {
-   "id": "lecho-122xdop",
+   "id": "lecho-122xfe5",
    "sourceId": "lecho",
-   "titel": "La Commission européenne donne son feu vert à la méga-acquisition de Commerzbank par UniCredit",
-   "link": "https://www.lecho.be/r/t/1/id/10705712",
-   "snippet": "UniCredit reçoit l'autorisation de prendre le contrôle de Commerzbank, une étape cruciale dans sa conquête de son concurrent allemand, qui constitue la plus grande fusion bancaire européenne transfrontalière depuis la crise financière.",
-   "datum": 1794832806000
+   "titel": "L'avion électrique du chinois Comac a effectué son premier vol avec un équipage",
+   "link": "https://www.lecho.be/r/t/1/id/10705923",
+   "snippet": "La Chine vient de faire voler avec équipage son nouvel avion régional 100% électrique de 19 places, développé en seulement trois ans. Le CE-25A, développé par l’avionneur d'État Comac, affiche une autonomie de 400 km.",
+   "datum": 1794933126000
   },
   {
-   "id": "euronews-1186fw5",
-   "sourceId": "euronews",
-   "titel": "EU clears UniCredit takeover of Germany's Commerzbank",
-   "link": "https://www.euronews.com/2026/11/16/eu-clears-unicredit-takeover-of-germanys-commerzbank",
-   "snippet": "The EU has approved UniCredit’s takeover of Germany’s Commerzbank, a cross-border deal aimed at strengthening Europe’s banking sector.",
-   "datum": 1794826253000
+   "id": "eustartups-18tbz24",
+   "sourceId": "eustartups",
+   "titel": "AI drug discovery giant Isomorphic Labs raises €4.5 billion in blockbuster funding round",
+   "link": "https://www.eu-startups.com/2026/11/ai-drug-discovery-giant-isomorphic-labs-raises-e4-5-billion-in-blockbuster-funding-round/",
+   "snippet": "Isomorphic Labs, an AI company focussed on designing and developing new medicines, today announced a €4.5 billion ($5 billion) Series C financing round to accelerate the scientific breakthroughs and proprietary AI advances. The round was co-led by Greenoaks and Sequoia Capital, alongside Andreessen Horowitz, with co…",
+   "datum": 1794929436000
   },
   {
-   "id": "techcabal-1y6mfmr",
-   "sourceId": "techcabal",
-   "titel": "The cost of making stablecoins work in Nigeria",
-   "link": "https://techcabal.com/2026/11/16/the-cost-of-making-stablecoins-work-in-nigeria/",
-   "snippet": "Nigeria’s new stablecoin regulations are reshaping the economics of issuing digital currencies. With mandatory central bank deposits, tighter investment limits, and stricter reserve requirements, issuers face higher costs and reduced earning potential. Commercial banks, meanwhile, could emerge as the biggest benefic…",
-   "datum": 1794825436000
+   "id": "bbc-cmmbye",
+   "sourceId": "bbc",
+   "titel": "How new US chip restrictions on South East Asia will hit China",
+   "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+   "snippet": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+   "datum": 1794925545000
   },
   {
-   "id": "scmp-1m5pv83",
-   "sourceId": "scmp",
-   "titel": "Baidu quarterly profit plunges 46% as ad slump overshadows AI growth",
-   "link": "https://www.scmp.com/tech/big-tech/article/3374604/baidu-quarterly-profit-plunges-46-ad-slump-overshadows-ai-growth",
-   "snippet": "Baidu’s push into artificial intelligence failed to offset a downturn in its traditional search advertising business, dragging the Chinese tech giant’s third-quarter net profit down 46 per cent. Net profit came in at 1.4 billion yuan (US$208 million) for the September quarter, down from 2.6 billion yuan a year earli…",
-   "datum": 1794823831000
-  },
-  {
-   "id": "crunchbase-1fqqx00",
-   "sourceId": "crunchbase",
-   "titel": "VC Firm Plural Closes On $1.1B To Invest In European Startups With Potential For ‘GDP-Level Impact’",
-   "link": "https://news.crunchbase.com/venture/plural-closes-billion-euro-fund-european-ai-robotics-defense-startup-investment/",
-   "snippet": "London-based startup investor Plural, with a portfolio mix of energy, compute, defense, robotics, health and software, says it has closed on its largest fund to date — just over $1.1 billion, or 1 billion euros — to lead early-stage investments across Europe.",
-   "datum": 1794812439000
-  },
-  {
-   "id": "sifted-14e1n5b",
+   "id": "sifted-1oe82v7",
    "sourceId": "sifted",
-   "titel": "Plural raises fresh €1bn fund to back ‘non-obvious companies’",
-   "link": "https://sifted.eu/articles/plural-new-fund-e1bn/",
+   "titel": "Robotics startup Genesis AI raises $500m backed by Nvidia",
+   "link": "https://sifted.eu/articles/genesis-ai-raises-500m/",
    "snippet": "",
-   "datum": 1794811880000
+   "datum": 1794924045000
   },
   {
-   "id": "euronews-yigvon",
-   "sourceId": "euronews",
-   "titel": "Canada ready to turn to Chinese carmakers if US trade talks fail to protect auto sector, PM Carney says",
-   "link": "https://www.euronews.com/2026/11/16/canada-ready-to-turn-to-chinese-carmakers-if-us-trade-talks-fail-to-protect-auto-sector-pm",
-   "snippet": "Carney's remarks come days before a planned meeting with Chinese President Xi Jinping in Shenzhen, where auto manufacturing is expected to be on the agenda.",
-   "datum": 1794804006000
+   "id": "crunchbase-1urihfl",
+   "sourceId": "crunchbase",
+   "titel": "Genesis AI Raises $500M At $3.5B Valuation To Bring Its Robots To Factories And Warehouses",
+   "link": "https://news.crunchbase.com/venture/robot-factory-workers-genesis-ai-fundraise/",
+   "snippet": "Genesis AI, a startup teaching robots to perform physical tasks by learning from human movements, announced Tuesday it has raised $500 million in Series A funding at a $3.5 billion valuation.",
+   "datum": 1794924018000
   },
   {
-   "id": "guardian-1ublbsf",
+   "id": "guardian-1493r2w",
    "sourceId": "guardian",
-   "titel": "Canada could work with Chinese automakers if US trade talks fail, says Carney",
-   "link": "https://www.theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks",
-   "snippet": "Ahead of Apec summit, PM says ‘Canada is going to move forward either way’ when asked if Chinese investment was leverage in US negotiations The prime minister of Canada, Mark Carney, said the country could turn to Chinese automakers if trade negotiations with the US president, Donald Trump, failed to preserve an int…",
-   "datum": 1794803960000
+   "titel": "Deutsche Bank dismissed warnings about dealings with risky clients, reports claim",
+   "link": "https://www.theguardian.com/business/2026/nov/17/deutsche-bank-dimissed-warnings-risky-clients-reports-claim",
+   "snippet": "International investigation using trove of leaked internal data allegedly shows German bank overlooked compliance concerns to safeguard profits Deutsche Bank reportedly dismissed warnings about its dealings with risky clients, including high-profile Russian oligarchs, to protect profits, the findings of an investiga…",
+   "datum": 1794922539000
   },
   {
-   "id": "euronews-3f24or",
+   "id": "euronews-p9qush",
    "sourceId": "euronews",
-   "titel": "Southeast Asian nations sign digital trade deal to ease payments and cut paperwork",
-   "link": "https://www.euronews.com/2026/11/15/southeast-asian-nations-sign-digital-trade-deal-to-ease-payments-and-cut-paperwork",
-   "snippet": "Online shopping and digital services are growing across Southeast Asia, but businesses still face different rules in each country. ASEAN’s new agreement aims to make it easier to sell, receive payments and share data across the region.",
-   "datum": 1794752664000
+   "titel": "Deutsche Bank shares fall as leak reveals Trump tax document error",
+   "link": "https://www.euronews.com/2026/11/17/deutsche-bank-shares-fall-as-leak-reveals-trump-tax-document-error",
+   "snippet": "Deutsche Bank shares fell more than 6% on Tuesday after reports based on 15 million leaked records shed light on its dealings with clients including Donald Trump.",
+   "datum": 1794922419000
+  },
+  {
+   "id": "euronews-4eemkk",
+   "sourceId": "euronews",
+   "titel": "Finland’s satellite provider Iceye bids €2 billion for Italian rocket maker Avio",
+   "link": "https://www.euronews.com/2026/11/17/finlands-satellite-provider-iceye-bids-2-billion-for-italian-rocket-maker-avio",
+   "snippet": "The satellite firm is promising €1 billion of investment in Italy, but the deal is likely to face scrutiny in Rome, which has a say through its stake in Avio’s biggest shareholder.",
+   "datum": 1794920167000
+  },
+  {
+   "id": "sifted-19k3l73",
+   "sourceId": "sifted",
+   "titel": "Isomorphic Labs raises $5bn backed by Sequoia and A16z",
+   "link": "https://sifted.eu/articles/isomorphic-labs-raises-5bn-backed-by-sequoia-and-a16z/",
+   "snippet": "",
+   "datum": 1794920156000
+  },
+  {
+   "id": "eustartups-1noi2je",
+   "sourceId": "eustartups",
+   "titel": "Model ML is Europe’s newest Unicorn with €227 million raise to put AI agents to work in finance makes",
+   "link": "https://www.eu-startups.com/2026/11/model-ml-is-europes-newest-unicorn-with-e227-million-raise-to-put-ai-agents-to-work-in-finance-makes/",
+   "snippet": "London-based Model ML, an AI platform developing personalised agents for financial and professional services, has raised €227 million ($250 million) in Series B funding at a €1.3 billion ($1.5 billion) valuation – in order to support the expansion of its research and engineering teams in London and New York, further…",
+   "datum": 1794919816000
+  },
+  {
+   "id": "scmp-16nqd7l",
+   "sourceId": "scmp",
+   "titel": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
+   "link": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
+   "snippet": "Amid mounting concerns of an artificial intelligence bubble and fresh market jitters following the resignation of Nvidia CEO Jensen Huang, the leaders of two of China’s biggest tech giants have urged the industry to focus on building practical applications, warning that massive investments in the technology are outp…",
+   "datum": 1794918609000
+  },
+  {
+   "id": "bbc-1m0v40x",
+   "sourceId": "bbc",
+   "titel": "US government confirms investigation into tech firm Megaspeed",
+   "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+   "snippet": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+   "datum": 1794914252000
   }
  ],
  "gezienIds": [
-  "cnbc-118ozpo",
-  "scmp-376du",
-  "bbc-s2vrwv",
-  "bbc-u3mszm",
-  "nyt-p7km6x",
-  "nyt-1qcoe77",
-  "nyt-1lviix1",
+  "scmp-1x8pbao",
+  "bbc-12cwcm8",
+  "nyt-pv65g",
+  "guardian-1hvd0wj",
+  "nyt-1q9fb0x",
+  "nyt-1nplfo3",
+  "nyt-981gp5",
+  "bbc-1y9xxxh",
+  "scmp-qqvmg",
+  "nyt-1201ydw",
+  "nyt-1hyj499",
+  "cnbc-1fvin0y",
+  "lecho-122xfgz",
+  "cnbc-18vozbj",
+  "nyt-dtvo06",
+  "guardian-1ertqj5",
+  "vrt-1bk0pus",
+  "nyt-xllq0t",
+  "nyt-5bf2e1",
+  "vrt-1ds1tdd",
+  "nyt-1dr78t7",
+  "cnbc-19qaos1",
+  "nyt-7t9v8s",
+  "nyt-oksxv5",
+  "vrt-1gaycuk",
+  "tijd-ond-1ijsxf3",
+  "bbc-1deeyte",
+  "cnbc-16dmjao",
+  "vrt-xwypmn",
+  "lecho-122xfdc",
+  "vrt-4lsgsm",
+  "tijd-ond-1ijsxe8",
+  "vrt-1toba3o",
+  "tijd-ond-1ijsxan",
+  "mittr-1a16ti9",
+  "vrt-1x0nevo",
+  "bbc-1v3ye0q",
+  "economist-1n55nc6",
+  "lecho-122xeqe",
+  "vrt-1c1n47s",
+  "ecb-8qv6gh",
+  "lecho-122xfg2",
+  "bbc-1pmsd8a",
+  "vrt-1zrcqp",
+  "lecho-122xff6",
+  "tijd-ond-1ijsxe5",
+  "vrt-1747dus",
+  "economist-17o0o2d",
+  "mittr-ieblft",
+  "vrt-1qoff2w",
+  "vrt-juu2cf",
+  "tijd-ond-1i2xupr",
+  "tijd-ond-1ijswku",
+  "euronews-yjtapi",
+  "tijd-ond-1ijsxdd",
+  "tijd-ond-1ijsxdf",
+  "guardian-1oagm42",
+  "tijd-ond-1ijswns",
+  "cnbc-7wpu6j",
+  "lecho-122xfe5",
+  "euronews-1m5xb5w",
+  "tijd-ond-1ijsxd7",
+  "bbc-wm1dom",
+  "lecho-11m1p6l",
+  "sifted-1reg6je",
+  "techcabal-1k6ur2q",
+  "eustartups-18tbz24",
+  "sifted-qt76nq",
+  "eustartups-si1ga2",
   "bbc-hf6x5v",
-  "bbc-1o4851x",
-  "scmp-mkjcor",
-  "nyt-5hgogp",
-  "nyt-1eaujgj",
-  "nyt-ngf1ko",
-  "nyt-wxg8i6",
-  "bbc-bjv11",
+  "dw-xik95z",
+  "mittr-1u9b3yw",
+  "bbc-cmmbye",
+  "scmp-11peb7y",
+  "sifted-1oe82v7",
+  "crunchbase-1urihfl",
+  "cnbc-xr3c88",
+  "lecho-122xdvz",
+  "cnbc-118ozpo",
+  "techcabal-zl2v49",
+  "guardian-1493r2w",
+  "euronews-p9qush",
+  "lecho-122xelu",
+  "scmp-1x4c5eb",
+  "mittr-db35hj",
+  "lecho-122xenq",
+  "euronews-4eemkk",
+  "sifted-19k3l73",
+  "eustartups-1noi2je",
+  "bbc-4mgb9o",
+  "bbc-s2vrwv",
+  "scmp-16nqd7l",
+  "sifted-15rbqw9",
+  "crunchbase-of3cz2",
+  "crunchbase-dio5dl",
+  "techcabal-e5rqd5",
+  "bbc-1m0v40x",
+  "dw-t1hhow",
+  "bbc-9wlhvf",
+  "techcabal-14kswyk",
+  "scmp-ymg69b",
+  "scmp-648ckr",
+  "euronews-edz1qt",
+  "eustartups-1fctfom",
+  "eustartups-islcsd",
+  "eustartups-1kwjxjg",
+  "scmp-b8fkeo",
+  "techcabal-1c8cuyl",
+  "scmp-fau368",
+  "eustartups-1bcrx42",
+  "euronews-xzwupl",
+  "scmp-qv69mk",
+  "techcabal-9rvq4b",
+  "eustartups-pwotqk",
+  "eustartups-6hfnr2",
+  "scmp-ulssk3",
+  "euronews-xkr4sw",
+  "euronews-1haslqx",
+  "sifted-8ygq5x",
+  "sifted-24pmoj",
+  "sifted-1jn3qhv",
+  "scmp-1kq95it",
+  "guardian-1rrz1qm",
   "cnbc-19nx60l",
-  "nyt-3xibyt",
   "guardian-1av6ftn",
-  "vrt-1genw1y",
-  "nyt-etn2tk",
-  "vrt-1ed8dv5",
-  "nyt-1mzkygi",
   "cnbc-14zrx4w",
-  "scmp-1so535b",
-  "vrt-1tmw5wj",
-  "vrt-3ddc2p",
-  "vrt-g63uzr",
-  "vrt-1ursnrv",
-  "tijd-ond-1ijsvrg",
-  "vrt-1n71noz",
-  "tijd-ond-1ijsvsh",
-  "tijd-ond-1ijsvqr",
-  "nyt-p9vztx",
   "guardian-w0gbmk",
-  "nyt-1tm2cck",
   "mittr-1s0rrg3",
-  "lecho-122xei7",
   "guardian-1hia0vj",
   "economist-1vf75ji",
-  "vrt-gevfpi",
-  "bbc-vl3bte",
   "guardian-yqzhna",
-  "tijd-ond-1ijswg7",
-  "vrt-1km5bdu",
-  "lecho-122xei5",
-  "vrt-twr4sk",
-  "tijd-ond-1ijsvsk",
   "cnbc-4ff914",
-  "scmp-lodwbq",
-  "lecho-122xdw4",
-  "vrt-1n7sq72",
-  "vrt-1tub4i4",
-  "lecho-122xdrj",
-  "lecho-11m2bqp",
-  "tijd-ond-1ijsvu8",
-  "lecho-122xdv4",
-  "lecho-122xdoo",
   "techcabal-5qctdq",
-  "tijd-ond-1ijsvu9",
-  "lecho-122xdtf",
+  "eustartups-1d40ehy",
   "mittr-jw6vmd",
   "sifted-6xev7l",
   "cnbc-1bfuf6w",
-  "tijd-ond-1ijsvsg",
-  "bbc-1ad6fi0",
   "cnbc-1pk1uyb",
-  "tijd-ond-1ijsvox",
   "euronews-yqmp34",
-  "lecho-122xdpl",
   "euronews-g28e1y",
-  "tijd-ond-1ijsvop",
   "techcabal-18qpupm",
   "euronews-13f1es5",
   "euronews-q4cbnw",
-  "bbc-1it7s3g",
-  "mittr-1979eot",
-  "ecb-1btp0ek",
-  "mittr-1umepdg",
-  "lecho-122xdop",
-  "scmp-ta2lnv",
-  "euronews-z412ue",
-  "crunchbase-76q5cy",
-  "scmp-1nn5ao2",
-  "cnbc-n08x05",
-  "techcabal-1w708za",
-  "techcabal-vj8ck6",
-  "guardian-6ko405",
-  "row-cqm5up",
-  "scmp-dds47v",
-  "euronews-1186fw5",
-  "techcabal-1y6mfmr",
-  "techcabal-1roydj3",
-  "scmp-1m5pv83",
-  "scmp-12fax7w",
-  "bbc-ruxm9f",
-  "ecb-2457hp",
-  "techcabal-177czfx",
-  "scmp-8tl1gx",
-  "crunchbase-1fqqx00",
-  "sifted-14e1n5b",
-  "scmp-jn6ej9",
-  "bbc-oaclm1",
-  "techcabal-18aky3l",
-  "bbc-1ozktnb",
-  "scmp-ivq8zb",
-  "bbc-174s6vx",
-  "sifted-15t7le4",
-  "sifted-1jy904d",
-  "sifted-1q24kkx",
-  "sifted-1w67h6c",
-  "euronews-yigvon",
-  "guardian-1ublbsf",
-  "guardian-1c5a81a",
-  "sifted-1x2pqho",
-  "techcabal-1l22ghn",
-  "guardian-10l7kms",
-  "euronews-3f24or"
+  "mittr-1979eot"
  ]
 }
