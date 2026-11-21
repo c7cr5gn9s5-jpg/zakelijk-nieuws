@@ -1,279 +1,476 @@
 {
- "gemaaktOp": 1795137014766,
+ "gemaaktOp": 1795223399934,
  "model": "nachtelijke taak",
  "stories": [
   {
-   "id": "s0-bbc-jurj07",
-   "titel": "Anthropic haalt 81 miljard dollar op in grootste beursgang ooit",
-   "categorie": "tech",
+   "id": "s0-nyt-qt9rt5",
+   "titel": "Amerikaanse beurzen in correctie door twijfels over AI",
+   "categorie": "economie",
    "regio": "wereld",
    "belang": "hoog",
-   "watGebeurt": "Anthropic, het bedrijf achter de chatbot Claude, ging donderdag naar de Nasdaq na een beursgang van 81,3 miljard dollar, de grootste ooit. De introductieprijs was 83 dollar per aandeel. Het aandeel opende 34 procent hoger en sloot volgens The Guardian rond 97 dollar, zo'n 17 procent boven de introductieprijs, goed voor een waardering van 1.300 miljard dollar. Volgens Crunchbase News haalde het bedrijf 17 miljard dollar omzet en betalen meer dan 11.900 klanten elk minstens 100.000 dollar per jaar.",
-   "waaromBelangrijk": "Het is de eerste keer dat een puur AI-bedrijf beursgenoteerd is. Hoe het aandeel het doet, geldt als test voor het vertrouwen van beleggers in de hele AI-sector.",
-   "impactVoorJou": "Een geslaagde beursgang kan meer kapitaal richting AI-startups duwen, ook in Europa. Tegelijk wordt de lat hoger: investeerders zullen kritischer kijken of een startup echt iets toevoegt bovenop de grote modellen. Als je zelf met AI wil ondernemen, kan het lonen om te focussen op een specifieke sector of taak die de grote spelers laten liggen.",
+   "watGebeurt": "De S&P 500 sloot vrijdag meer dan 10 procent onder zijn recente top. Daarmee zitten de S&P 500 en de Dow Jones in een correctie, zoals beleggers zo'n daling noemen. De Nasdaq verloor al zijn winst van 2026. Ook het aandeel van Anthropic zakte op zijn tweede beursdag.",
+   "waaromBelangrijk": "Volgens The Guardian vragen beleggers zich af of de enorme bedragen die in AI-infrastructuur gestoken worden, wel genoeg zullen opbrengen. Als dat sentiment aanhoudt, kan het voor AI-bedrijven moeilijker worden om goedkoop geld op te halen.",
+   "impactVoorJou": "Een koudere beurs werkt vaak door naar durfkapitaal: investeerders worden strenger op waarderingen en willen sneller omzet zien. Bouw je later een AI-startup, dan zou een duidelijk verdienmodel zwaarder kunnen wegen dan een groot verhaal.",
    "kansen": [
-    "Gespecialiseerde AI-toepassingen voor één sector, gebouwd bovenop bestaande modellen",
-    "Tools die bedrijven helpen hun AI-kosten en -gebruik te beheersen"
+    "Tools die bedrijven helpen het rendement van hun AI-uitgaven te meten, nu kopers kritischer worden.",
+    "Kleine, goedkope AI-toepassingen voor kmo's die snel terugverdiend zijn, in plaats van dure maatwerkprojecten."
    ],
-   "kanttekening": "Bronnen geven verschillende waarderingen: Euronews en Deutsche Welle spreken bij de opening van ongeveer 2.000 miljard dollar, The Guardian van 1.300 miljard bij het slot. Crunchbase wijst op enorme verplichtingen voor rekenkracht. Let op: deze briefing wordt gemaakt met Claude, een model van Anthropic.",
+   "kanttekening": "Een correctie zegt weinig over hoe lang de daling duurt. De bronnen noemen AI-twijfels als drijfveer, maar geven geen volledige verklaring.",
    "itemIds": [
-    "bbc-jurj07",
-    "bbc-18ancrk",
-    "guardian-f4xbjd",
+    "nyt-qt9rt5",
+    "bbc-vzwb87",
+    "guardian-1nsb0fw"
+   ]
+  },
+  {
+   "id": "s1-euronews-1dlhx3n",
+   "titel": "Anthropic haalt 81 miljard dollar op in grootste beursgang ooit",
+   "categorie": "startups",
+   "regio": "wereld",
+   "belang": "hoog",
+   "watGebeurt": "Anthropic, het bedrijf achter Claude, haalde 81,3 miljard dollar op bij zijn beursgang op de Nasdaq, de grootste ooit. De introductieprijs was 83 dollar. Het aandeel opende donderdag op 111,50 dollar, 34 procent hoger, wat het bedrijf op weg zette naar een waardering van 2.000 miljard dollar. Volgens DW is de beursprestatie een test voor het vertrouwen van beleggers in AI.",
+   "waaromBelangrijk": "Een beursgang van deze omvang toont hoeveel geld beleggers bereid zijn in AI te steken. Hoe het aandeel de komende weken presteert, kan bepalen of andere AI-bedrijven ook naar de beurs durven.",
+   "impactVoorJou": "Voor wie wil ondernemen is dit een les in hoe een AI-model als basis kan dienen voor een heel ecosysteem van toepassingen. Je zou kunnen kijken welke niches grote modellen niet zelf invullen, zoals sectorspecifieke tools of lokale talen.",
+   "kansen": [
+    "Toepassingen bovenop grote taalmodellen voor een specifieke sector, zoals juridische of medische administratie in het Nederlands.",
+    "Diensten voor werknemers die plots vermogen hebben door aandelenopties: financieel advies, belastingbegeleiding."
+   ],
+   "kanttekening": "Op dag twee zakte het aandeel weer, dus de waardering van 2.000 miljard dollar is een momentopname. Dit bericht gaat over het bedrijf achter het model dat deze briefing schrijft; lees het met die kennis.",
+   "itemIds": [
     "euronews-1dlhx3n",
     "dw-wkj8b7",
-    "crunchbase-wbpgm5",
-    "crunchbase-3u9idw",
-    "euronews-1m7w36y"
+    "scmp-1rw0l9e"
    ]
   },
   {
-   "id": "s1-nyt-kxmh5l",
-   "titel": "VS keurde verkoop van 800.000 AI-chips aan Chinese bedrijven goed",
+   "id": "s2-bbc-2ciab7",
+   "titel": "Trump dreigt Amerikaanse techbedrijven te verbieden datacenters in het buitenland te bouwen",
    "categorie": "beleid",
    "regio": "wereld",
    "belang": "hoog",
-   "watGebeurt": "Amerikaanse parlementsleden maakten vertrouwelijke informatie bekend. Daaruit blijkt dat het ministerie van Handel de verkoop van meer dan 800.000 AI-chips aan Chinese bedrijven had goedgekeurd. Sommige van die bedrijven hebben banden met het Chinese leger. Volgens The New York Times gaat het om de verkoop van Nvidia-chips.",
-   "waaromBelangrijk": "Exportcontroles op chips zijn een kernstuk van de technologische rivaliteit tussen de VS en China. Onthullingen als deze kunnen leiden tot strengere regels, wat de wereldwijde chipmarkt en AI-ontwikkeling raakt.",
-   "impactVoorJou": "Voor een startup die op AI bouwt, kan geopolitiek bepalen welke chips en clouddiensten beschikbaar zijn en tegen welke prijs. Het kan nuttig zijn om niet afhankelijk te worden van één leverancier of één regio.",
+   "watGebeurt": "De Amerikaanse president dreigde op een persconferentie Amerikaanse bedrijven te verbieden AI-datacenters in het buitenland te bouwen. Hij suggereerde ook dat hij diezelfde bedrijven zou belasten. Hij gaf weinig details en leden van zijn team hoorden er volgens de BBC voor het eerst van.",
+   "waaromBelangrijk": "Veel Europese landen rekenen op investeringen van Amerikaanse techbedrijven in datacenters. Als zo'n verbod er komt, zou dat die plannen in vraag kunnen stellen.",
+   "impactVoorJou": "Het onderstreept hoe afhankelijk Europa is van Amerikaanse rekenkracht. Dat kan de vraag naar Europese alternatieven voor cloud en AI-infrastructuur doen groeien.",
    "kansen": [
-    "Software die bedrijven helpt exportregels en sancties op te volgen (compliance)"
+    "Europese cloud- of rekendiensten die bedrijven minder afhankelijk maken van Amerikaanse aanbieders.",
+    "Advies voor bedrijven over hoe ze hun AI-infrastructuur over meerdere aanbieders spreiden."
    ],
-   "kanttekening": "Dit steunt op één bron. Het gaat om informatie die politici vrijgaven, niet om een uitspraak of onderzoeksresultaat.",
+   "kanttekening": "Het gaat om een dreiging zonder uitgewerkt plan. Volgens The New York Times is niet duidelijk hoe de president dit zou uitvoeren.",
    "itemIds": [
-    "nyt-kxmh5l"
+    "bbc-2ciab7",
+    "nyt-1r57y7l"
    ]
   },
   {
-   "id": "s2-tijd-ond-1ijtigb",
-   "titel": "UniCredit krijgt groen licht van Berlijn voor overname Commerzbank",
-   "categorie": "economie",
+   "id": "s3-guardian-1tiwbox",
+   "titel": "VK en EU sluiten akkoord over voeding, emissiehandel en jongerenuitwisseling",
+   "categorie": "beleid",
    "regio": "europa",
    "belang": "hoog",
-   "watGebeurt": "Na een akkoord met de Duitse regering kan de Italiaanse bank UniCredit haar Duitse rivaal Commerzbank inlijven. UniCredit belooft dat Commerzbank beursgenoteerd blijft en haar hoofdzetel in Frankfurt houdt. Commerzbank verwelkomt die toezeggingen. Het wordt een van de grootste grensoverschrijdende bankdeals in Europa in jaren.",
-   "waaromBelangrijk": "Europa heeft weinig banken die over landsgrenzen heen fuseren. Deze deal kan een signaal zijn dat de Europese bankenmarkt meer gaat samensmelten, iets wat beleidsmakers al lang willen.",
-   "impactVoorJou": "Grote bankfusies gaan vaak gepaard met reorganisaties en een tragere dienstverlening voor kleinere klanten. Dat kan ruimte openlaten voor fintechs die kmo's en starters sneller bedienen.",
+   "watGebeurt": "Het Verenigd Koninkrijk en de Europese Unie sloten vrijdag een akkoord over de export van voeding en drank, emissiehandel en een uitwisselingsprogramma voor jongeren. Het gaat om een verklaring van 12 pagina's met volgende stappen. De Britse premier Andy Burnham spreekt van een historisch moment en wil nog nauwere banden verkennen. De kwestie van de inschrijvingsgelden voor studenten blijft open.",
+   "waaromBelangrijk": "Het is de grootste toenadering sinds de brexit. Volgens BBC-economieredacteur Faisal Islam zal het akkoord de voedselprijzen waarschijnlijk niet verlagen, maar de economie meer helpen dan eerdere akkoorden.",
+   "impactVoorJou": "Minder handelsdrempels kunnen het makkelijker maken om voeding en dranken naar het VK te exporteren. Ook een jongerenprogramma kan deuren openen om er te werken of te studeren.",
    "kansen": [
-    "Financiële diensten voor kmo's die grote banken na een fusie minder goed bedienen"
+    "Diensten die Europese voedingsproducenten helpen bij export naar het VK zodra de regels versoepelen.",
+    "Platformen die jongeren koppelen aan stages of werkervaring aan de andere kant van het Kanaal."
+   ],
+   "kanttekening": "Het akkoord legt vooral volgende stappen vast; de concrete regels moeten nog volgen. De inschrijvingsgelden blijven onopgelost.",
+   "itemIds": [
+    "guardian-1tiwbox",
+    "bbc-wg51mc",
+    "vrt-jt0g5l",
+    "bbc-8dkrdr"
+   ]
+  },
+  {
+   "id": "s4-tijd-ond-1ijtkwc",
+   "titel": "Belgische chemie verloor een vijfde van haar jobs in 25 jaar",
+   "categorie": "economie",
+   "regio": "belgie",
+   "belang": "middel",
+   "watGebeurt": "De Belgische chemiesector verloor in 25 jaar ongeveer 20 procent van zijn banen. De sluiting van de fabriek van 3M en het faillissement van Vynova tonen opnieuw de zwakte van de sector. De tewerkstelling daalt en nieuwe investeringsprojecten blijven uit.",
+   "waaromBelangrijk": "Chemie is een van de grootste industriële sectoren van België. Als de investeringen wegblijven, kan dat op termijn ook toeleveranciers en havenactiviteiten raken.",
+   "impactVoorJou": "Een sector in moeilijkheden zoekt naar manieren om kosten te drukken en te vernieuwen. Daar kan ruimte ontstaan voor jonge bedrijven die efficiëntie, recyclage of digitale tools brengen.",
+   "kansen": [
+    "Software die energie- en grondstoffenverbruik in chemische fabrieken optimaliseert.",
+    "Omscholingsdiensten voor werknemers uit de chemie naar groeisectoren."
+   ],
+   "kanttekening": "De artikels noemen geen oorzaken voor de lange daling buiten de recente sluitingen.",
+   "itemIds": [
+    "tijd-ond-1ijtkwc",
+    "lecho-122y2z0"
+   ]
+  },
+  {
+   "id": "s5-tijd-ond-1ijtk5n",
+   "titel": "Vandemoortele wil donutfabriek in Seneffe sluiten: 126 jobs bedreigd",
+   "categorie": "economie",
+   "regio": "belgie",
+   "belang": "middel",
+   "watGebeurt": "Vandemoortele heeft de intentie om zijn fabriek in Seneffe te sluiten. Daardoor zijn 126 banen bedreigd. De productie van diepgevroren donuts gaat naar de vestiging in het Franse Reims. De procedure-Renault, de wettelijke stappen bij een collectief ontslag, is gestart.",
+   "waaromBelangrijk": "Het is de zoveelste Belgische productiesite die werk naar het buitenland ziet vertrekken, in dezelfde week als het nieuws over de krimpende chemie.",
+   "impactVoorJou": "Weinig rechtstreekse impact. Het past wel in een patroon waarbij productie in België onder druk staat, iets om in je achterhoofd te houden als je ooit een productiebedrijf zou opzetten.",
+   "kansen": [],
+   "kanttekening": "Het gaat om een intentie; de procedure kan nog tot aanpassingen leiden. De artikels geven geen reden voor de verhuis naar Reims.",
+   "itemIds": [
+    "tijd-ond-1ijtk5n",
+    "lecho-122y29g"
+   ]
+  },
+  {
+   "id": "s6-vrt-1ur5bi1",
+   "titel": "Rechter verbiedt BYD voorlopig zijn 'Defender-kloon' in de EU te verkopen",
+   "categorie": "beleid",
+   "regio": "europa",
+   "belang": "middel",
+   "watGebeurt": "Een rechter in Nederland besliste dat de Chinese autobouwer BYD zijn Ti 7-model voorlopig niet in de Europese Unie mag verkopen. Het model lijkt te sterk op de Land Rover Defender. Jaguar Land Rover had de zaak aangespannen wegens plagiaat. De beslissing moet ten gronde nog bevestigd worden.",
+   "waaromBelangrijk": "Chinese autobouwers rukken op in Europa. Deze zaak toont dat Europese bedrijven intellectuele eigendom, zoals een herkenbaar ontwerp, kunnen gebruiken om zich te verdedigen.",
+   "impactVoorJou": "Het herinnert eraan dat een sterk ontwerp juridisch beschermd kan worden. Als je later een product lanceert, kan het lonen om vroeg na te denken over het vastleggen van je ontwerp en merk.",
+   "kansen": [
+    "Betaalbare diensten die startups helpen hun ontwerp en merk in Europa te beschermen.",
+    "Tools die automatisch opsporen wanneer een product online wordt nagemaakt."
+   ],
+   "kanttekening": "Het is een voorlopige beslissing; een uitspraak ten gronde moet nog volgen.",
+   "itemIds": [
+    "vrt-1ur5bi1",
+    "lecho-122y30s"
+   ]
+  },
+  {
+   "id": "s7-euronews-2ya53h",
+   "titel": "Lufthansa wil 1.000 banen schrappen in Frankfurt en München",
+   "categorie": "economie",
+   "regio": "europa",
+   "belang": "middel",
+   "watGebeurt": "Lufthansa plant 1.000 voltijdse banen te schrappen in Frankfurt en München. Volgens een brief aan het personeel verloor de hoofdmaatschappij van januari tot september gemiddeld 20 miljoen euro per maand. Stakingen en sterk gestegen brandstofkosten door de oorlog met Iran vertragen het herstel. Er komen ook operationele besparingen.",
+   "waaromBelangrijk": "Hoge brandstofprijzen raken de hele luchtvaart. Als een grote speler als Lufthansa snoeit, kan dat wijzen op hogere ticketprijzen of minder vluchten.",
+   "impactVoorJou": "Duurder vliegen zou zakenreizen en toerisme kunnen afremmen. Voor ondernemers kan dat de vraag naar alternatieven zoals treinreizen of beter online samenwerken doen stijgen.",
+   "kansen": [
+    "Boekingsplatformen die zakenreizen per trein in Europa makkelijker maken.",
+    "Software die luchtvaart- of transportbedrijven helpt brandstof te besparen."
+   ],
+   "kanttekening": "De cijfers komen uit een interne brief die via de media naar buiten kwam; Lufthansa bevestigde ze in de artikels niet zelf.",
+   "itemIds": [
+    "euronews-2ya53h",
+    "dw-u0nmqg"
+   ]
+  },
+  {
+   "id": "s8-euronews-18qy7gz",
+   "titel": "Italiaanse Bending Spoons koopt Mailchimp voor 3,35 miljard euro",
+   "categorie": "startups",
+   "regio": "europa",
+   "belang": "middel",
+   "watGebeurt": "Het Italiaanse techbedrijf Bending Spoons, eigenaar van WeTransfer en Vimeo, koopt het e-mailmarketingplatform Mailchimp van Intuit voor 3,35 miljard euro. Intuit verkoopt het voor minder dan een derde van wat het in 2021 betaalde.",
+   "waaromBelangrijk": "Een Europese scale-up koopt een bekend Amerikaans softwaremerk. Het toont dat Europese techbedrijven ook kopers kunnen zijn, en dat softwarebedrijven fors in waarde kunnen dalen.",
+   "impactVoorJou": "Bending Spoons groeit door bestaande digitale producten over te nemen en efficiënter te maken. Dat is een ander startupmodel dan zelf iets nieuws bouwen, en het kan inspireren als je naar overnames van kleinere software kijkt.",
+   "kansen": [
+    "Kleine, gevestigde software-apps opkopen en ze rendabeler maken.",
+    "Eenvoudige e-mailmarketing voor kmo's die afhaken bij een eigenaarswissel."
    ],
    "kanttekening": "",
    "itemIds": [
-    "tijd-ond-1ijtigb",
-    "euronews-1v071h9"
+    "euronews-18qy7gz"
    ]
   },
   {
-   "id": "s3-tijd-ond-1ijtij5",
-   "titel": "3M wil fabriek in Zwijndrecht sluiten, ongeveer 200 jobs bedreigd",
-   "categorie": "economie",
-   "regio": "belgie",
-   "belang": "hoog",
-   "watGebeurt": "Het Amerikaanse chemiebedrijf 3M kondigde op een ondernemingsraad de intentie aan om zijn site in Zwijndrecht tegen 2029 te sluiten. Er dreigt een collectief ontslag. L'Echo legt een verband met problemen rond de milieuvergunning van de site. Volgens De Tijd komt de sanering van het terrein niet in gevaar.",
-   "waaromBelangrijk": "Het is een nieuwe klap voor de chemische industrie in de Antwerpse regio. Het toont hoe milieuregels en vergunningen zwaar kunnen wegen op beslissingen van internationale groepen.",
-   "impactVoorJou": "Voor jou als toekomstige ondernemer is dit vooral een les over risico: vergunningen en milieu-impact kunnen een volledig bedrijfsmodel onderuit halen. Tegelijk komt er gespecialiseerd talent vrij in de regio.",
-   "kansen": [
-    "Diensten voor bodemsanering en het opvolgen van vervuiling op industrieterreinen",
-    "Herscholing en begeleiding van technische profielen naar groeisectoren"
-   ],
-   "kanttekening": "Het aantal bedreigde banen verschilt: De Tijd spreekt van meer dan 200, L'Echo van bijna 200. Het gaat om een intentie, de sluiting is nog niet definitief.",
-   "itemIds": [
-    "tijd-ond-1ijtij5",
-    "lecho-122y16t"
-   ]
-  },
-  {
-   "id": "s4-tijd-ond-1ijtj52",
-   "titel": "Telenet keert in mei 2027 terug naar de beurs",
-   "categorie": "economie",
-   "regio": "belgie",
-   "belang": "middel",
-   "watGebeurt": "Liberty Global-topman Mike Fries mikt op mei 2027 voor de beursgang van Ziggo Group. Die groep omvat Telenet en het Nederlandse VodafoneZiggo. Telenet keert zo onrechtstreeks terug naar de beurs.",
-   "waaromBelangrijk": "Een nieuwe grote Benelux-telecomspeler op de beurs kan de Brusselse en Europese beursmarkt wat meer gewicht geven. Het past in een trend waarbij investeringsgroepen bedrijven terug naar de beurs brengen om waarde te verzilveren.",
-   "impactVoorJou": "Rechtstreeks weinig impact. Het is wel nuttig om te weten voor gesprekken over de Belgische telecommarkt en hoe grote groepen hun bedrijven herstructureren.",
-   "kansen": [],
-   "kanttekening": "Het gaat om een plan van de CEO. Timing en vorm kunnen nog wijzigen.",
-   "itemIds": [
-    "tijd-ond-1ijtj52",
-    "lecho-122y19q"
-   ]
-  },
-  {
-   "id": "s5-guardian-atazr6",
-   "titel": "IMF: vraag naar AI zal rente wereldwijd opdrijven",
-   "categorie": "economie",
-   "regio": "wereld",
-   "belang": "middel",
-   "watGebeurt": "IMF-topvrouw Kristalina Georgieva waarschuwt dat de sterke vraag naar artificiële intelligentie de belangrijkste centrale banken zal dwingen de rente te verhogen. Ze zegt dat landen klaar moeten zijn voor de uitrol van de technologie.",
-   "waaromBelangrijk": "Als de rente stijgt, wordt geld lenen duurder voor bedrijven en gezinnen. Dat maakt het ook moeilijker en duurder om groei te financieren.",
-   "impactVoorJou": "Een hogere rente kan betekenen dat investeerders strenger worden en meer winstgevendheid verwachten. Als je een startup plant, kan het verstandig zijn om vroeg te mikken op inkomsten in plaats van alleen op groei met geleend geld.",
-   "kansen": [],
-   "kanttekening": "Dit is een voorspelling van het IMF, geen beslissing van een centrale bank.",
-   "itemIds": [
-    "guardian-atazr6"
-   ]
-  },
-  {
-   "id": "s6-techeu-1czz10h",
-   "titel": "Startups vragen Brussel om EU Inc-voorstel te herschrijven",
-   "categorie": "beleid",
-   "regio": "europa",
-   "belang": "middel",
-   "watGebeurt": "De beweging EU-INC en Startups for Europe vragen Commissievoorzitter Ursula von der Leyen om het EU Inc-voorstel in te trekken en het oorspronkelijke voorstel opnieuw in te dienen. Ze waarschuwen dat de lidstaten te veel compromissen hebben gemaakt. Volgens Sifted noemen ze de hervormingen te zwak.",
-   "waaromBelangrijk": "EU Inc is het idee van één Europese bedrijfsvorm, zodat een startup niet in elk land andere regels moet volgen. Een afgezwakte versie zou dat voordeel grotendeels kunnen tenietdoen.",
-   "impactVoorJou": "Als je later in meerdere Europese landen wil groeien, kan een sterke EU Inc veel papierwerk en kosten besparen. Het debat volgen kan je helpen inschatten waar en hoe je best opricht.",
-   "kansen": [
-    "Diensten die startups helpen om in meerdere EU-landen tegelijk te starten en te werven"
-   ],
-   "kanttekening": "Dit is de positie van een lobbygroep. De reactie van de Commissie en de lidstaten staat niet in de bronnen.",
-   "itemIds": [
-    "techeu-1czz10h",
-    "sifted-8dtulq"
-   ]
-  },
-  {
-   "id": "s7-scmp-d3xnic",
-   "titel": "Alibaba doet het beter dan verwacht en zet in op eigen chips",
+   "id": "s9-scmp-zl98wn",
+   "titel": "Elektrische zware trucks winnen terrein in China",
    "categorie": "tech",
    "regio": "wereld",
    "belang": "middel",
-   "watGebeurt": "Alibaba meldde een sterkere stijging van omzet en winst dan verwacht. CEO Eddie Wu zegt dat het bedrijf zijn volgende generatie AI-modellen traint op eigen, in China ontwikkelde chips. L'Echo schrijft dat de dure groei in AI ook twijfels voedt.",
-   "waaromBelangrijk": "China probeert minder afhankelijk te worden van Amerikaanse chips. Als grote bedrijven als Alibaba daarin slagen, verandert de machtsverhouding in de AI-wereld.",
-   "impactVoorJou": "Er ontstaan mogelijk twee aparte AI-werelden, een Amerikaanse en een Chinese, met eigen chips en modellen. Voor een Europese ondernemer kan dat keuzes rond leveranciers en markten ingewikkelder maken.",
+   "watGebeurt": "Het Franse Ceva Logistics reed 5.000 kilometer met een elektrische zware vrachtwagen door China, van Shenzhen naar Alashankou. Het bedrijf bespaarde 43 procent op energiekosten tegenover een dieseltruck.",
+   "waaromBelangrijk": "Zwaar transport werd lang als moeilijk te elektrificeren gezien. Als het in China op lange afstand al rendabel is, kan Europa volgen.",
+   "impactVoorJou": "Dit is een verhaal dat je in lokaal nieuws zelden ziet. Het toont waar de logistiek over enkele jaren naartoe kan gaan, met kansen rond laadinfrastructuur en planning.",
+   "kansen": [
+    "Planningssoftware voor elektrische vrachtroutes, met laadstops en wachttijden.",
+    "Snellaadparken voor vrachtwagens langs Europese corridors."
+   ],
+   "kanttekening": "Het gaat om één rit van één bedrijf; dat zegt niet alles over de kosten op lange termijn.",
+   "itemIds": [
+    "scmp-zl98wn"
+   ]
+  },
+  {
+   "id": "s10-techcabal-1ith18b",
+   "titel": "Nigeriaanse digitale bank Kuda schrapt opnieuw banen",
+   "categorie": "startups",
+   "regio": "wereld",
+   "belang": "laag",
+   "watGebeurt": "Kuda, een Nigeriaanse digitale bank, schrapt 40 banen. Het is de tweede ontslagronde dit jaar. Het bedrijf wil tegen 2027 winstgevend zijn.",
+   "waaromBelangrijk": "Afrikaanse fintechs groeiden snel met investeerdersgeld, maar moeten nu winst tonen. Dat patroon zie je wereldwijd bij jonge bedrijven.",
+   "impactVoorJou": "Het is een herinnering dat snelle groei zonder winst kwetsbaar is. Als je zelf een bedrijf start, kan het helpen om vanaf het begin over winstgevendheid na te denken.",
    "kansen": [],
-   "kanttekening": "L'Echo wijst op twijfels over de kosten van de AI-investeringen en een daling bij Tencent.",
-   "itemIds": [
-    "scmp-d3xnic",
-    "lecho-122y0kz"
-   ]
-  },
-  {
-   "id": "s8-techcabal-c7vmjc",
-   "titel": "Nigeria verplicht cryptobedrijven tot belastingregistratie",
-   "categorie": "beleid",
-   "regio": "wereld",
-   "belang": "laag",
-   "watGebeurt": "De Nigeriaanse belastingdienst geeft cryptobeurzen en andere aanbieders van virtuele activa tot 30 november 2026 om zich te registreren op een nieuw belastingportaal. Tegen 31 december moeten ze hun systemen erop aansluiten. Anders riskeren ze boetes en handhaving.",
-   "waaromBelangrijk": "Nigeria is een van de grootste cryptomarkten van Afrika. Strengere regels tonen dat de sector daar uit de grijze zone moet treden.",
-   "impactVoorJou": "Weinig rechtstreekse impact. Het illustreert wel dat regelgeving rond crypto wereldwijd strenger wordt, ook buiten Europa.",
-   "kansen": [
-    "Software die cryptobedrijven helpt automatisch aan belastingrapportering te voldoen"
-   ],
    "kanttekening": "",
    "itemIds": [
-    "techcabal-c7vmjc"
+    "techcabal-1ith18b",
+    "techcabal-94h9fu"
    ]
   },
   {
-   "id": "s9-euronews-1no6moz",
-   "titel": "Duitse autotoeleveranciers schakelen over op drones en defensie",
+   "id": "s11-nyt-1sz9tvs",
+   "titel": "Veel Etsy-verkopers stoppen om nieuw AI-beleid",
+   "categorie": "tech",
+   "regio": "wereld",
+   "belang": "middel",
+   "watGebeurt": "Heel wat verkopers op de online marktplaats Etsy hebben het platform verlaten. Ze willen niet dat hun werk gebruikt wordt om artificiële intelligentie te trainen. Etsy zegt dat het zijn beleid zal herzien.",
+   "waaromBelangrijk": "Makers worden kritischer over wat platformen met hun werk doen. Een marktplaats is afhankelijk van zijn verkopers, en dit toont dat die kunnen weglopen.",
+   "impactVoorJou": "Er lijkt vraag te zijn naar platformen die makers duidelijke controle geven over hun werk. Dat kan een ingang zijn voor een nieuwe marktplaats of dienst.",
+   "kansen": [
+    "Een marktplaats voor handgemaakte producten met de belofte dat werk nooit voor AI-training gebruikt wordt.",
+    "Tools die makers helpen hun beelden te beschermen tegen gebruik voor AI-training."
+   ],
+   "kanttekening": "Het artikel zegt niet hoeveel verkopers precies vertrokken zijn.",
+   "itemIds": [
+    "nyt-1sz9tvs"
+   ]
+  },
+  {
+   "id": "s12-bbc-1aw79hr",
+   "titel": "GTA VI brengt op één dag 3,8 miljard dollar op",
    "categorie": "economie",
-   "regio": "europa",
-   "belang": "middel",
-   "watGebeurt": "Duitse producenten van auto-onderdelen trekken naar drones, defensie en ruimtevaart nu de crisis in de Duitse auto-industrie verdiept. Een Beiers familiebedrijf kan nu elke maand 1.000 bewakingsdrones maken. Zo wil het minder afhankelijk worden van autobouwers.",
-   "waaromBelangrijk": "Het toont hoe industrie zich heruitvindt wanneer de oude afnemer wegvalt. Defensie wordt in Europa een groeimarkt.",
-   "impactVoorJou": "Bestaande fabrieken met vrije capaciteit kunnen een kans zijn voor startups die hardware willen maken zonder zelf een fabriek te bouwen. Ook in België zitten veel toeleveranciers die een gelijkaardige omslag zouden kunnen maken.",
-   "kansen": [
-    "Platform dat hardwarestartups koppelt aan toeleveranciers met vrije productiecapaciteit",
-    "Begeleiding van traditionele maakbedrijven bij de stap naar defensie- en dual-use-markten"
-   ],
-   "kanttekening": "",
-   "itemIds": [
-    "euronews-1no6moz"
-   ]
-  },
-  {
-   "id": "s10-euronews-sujm7e",
-   "titel": "Bedrijf starten duurt in Duitsland 18 keer langer dan in Frankrijk",
-   "categorie": "beleid",
-   "regio": "europa",
-   "belang": "middel",
-   "watGebeurt": "Een nieuwe studie stelt dat het opstarten van een kleine onderneming in Duitsland bijna 4.000 uur papierwerk vraagt, bijna 500 werkdagen van acht uur. Dat is het meest van 27 landen in Europa, Latijns-Amerika en de Caraïben. Frankrijk staat op de eerste plaats en is bijna 18 keer sneller.",
-   "waaromBelangrijk": "Administratieve lasten bepalen mee waar ondernemers starten. Grote verschillen binnen Europa tonen hoe ver de interne markt nog af is van één speelveld.",
-   "impactVoorJou": "Waar je een bedrijf opricht, maakt dus veel uit. Het kan lonen om voor je start te vergelijken hoeveel tijd en kosten de oprichting in verschillende landen vraagt.",
-   "kansen": [
-    "Digitale dienst die de oprichting en administratie van een kmo in trage landen grotendeels automatiseert"
-   ],
-   "kanttekening": "De bron vermeldt niet wie de studie maakte. België staat niet in de samenvatting.",
-   "itemIds": [
-    "euronews-sujm7e"
-   ]
-  },
-  {
-   "id": "s11-mittr-1rkcc6",
-   "titel": "Batterijstartup Sila sluit groot contract met Panasonic",
-   "categorie": "startups",
    "regio": "wereld",
-   "belang": "middel",
-   "watGebeurt": "Sila heeft een akkoord met Panasonic Energy om silicium-koolstofanodemateriaal te leveren. Dat materiaal kan batterijen kleiner en lichter maken. MIT Technology Review spreekt van een deal van een miljard dollar en positief nieuws na enkele zware jaren met mislukkingen voor nieuwe batterijen in de VS.",
-   "waaromBelangrijk": "Nieuwe batterijtechnologie raakt pas door als grote fabrikanten ze afnemen. Zo'n contract toont dat een deeptechstartup de stap naar grootschalige productie kan zetten.",
-   "impactVoorJou": "Het toont een vaak gevolgd pad voor hardwarestartups: niet zelf alles bouwen, maar een sleutelonderdeel leveren aan een grote speler. Dat kan minder kapitaal vragen dan een volledig eindproduct.",
+   "belang": "laag",
+   "watGebeurt": "Het videospel Grand Theft Auto VI bracht op zijn releasedag ongeveer 3,8 miljard dollar op, zo maakte uitgever Take-Two Interactive bekend. Dat is meer dan elke eerdere spellancering en elk eendagsrecord van een film. Het spel werd in voorverkoop meer dan 32 miljoen keer verkocht.",
+   "waaromBelangrijk": "Het toont hoe groot de gamesector als markt is geworden, groter dan film als het op lanceringen aankomt.",
+   "impactVoorJou": "Games zijn een volwassen industrie met veel ruimte voor diensten errond. Rechtstreekse impact is beperkt, maar het is een goed voorbeeld in gesprekken over waar consumenten hun geld aan uitgeven.",
    "kansen": [
-    "Leverancier worden van één cruciaal onderdeel in plaats van een volledig product te bouwen"
+    "Diensten rond grote games, zoals tools voor contentmakers of communities."
    ],
-   "kanttekening": "",
+   "kanttekening": "Het cijfer is volgens VRT NWS een schatting aan het einde van de eerste verkoopdag.",
    "itemIds": [
-    "mittr-1rkcc6"
+    "bbc-1aw79hr",
+    "vrt-1xcshiz",
+    "nyt-1ybxiox"
    ]
   },
   {
-   "id": "s12-techeu-l5k5vf",
-   "titel": "Antwerpse AI-startup Noah haalt 800.000 euro op",
-   "categorie": "startups",
+   "id": "s13-lecho-122y25p",
+   "titel": "Nationale Bank legt Brusselse fintech Paynovate beperkingen op",
+   "categorie": "beleid",
    "regio": "belgie",
-   "belang": "laag",
-   "watGebeurt": "Het Antwerpse Noah haalde 800.000 euro op bij een groep investeerders. Het is de eerste kapitaalronde van het bedrijf. Noah bouwt een platform dat grote bedrijven helpt bepalen waar ze artificiële intelligentie best inzetten. Oprichter Denis Leysen zegt dat het werk dat Noah automatiseert, vroeger door consultants zoals hijzelf werd gedaan.",
-   "waaromBelangrijk": "Het toont hoe AI niet alleen nieuwe producten mogelijk maakt, maar ook adviesdiensten automatiseert die vroeger mensenwerk waren.",
-   "impactVoorJou": "Een Belgisch voorbeeld van iemand die eigen werkervaring omzette in een startup. Het kan inspireren om te kijken welk repetitief kenniswerk je zelf kent dat met AI te automatiseren valt.",
+   "belang": "middel",
+   "watGebeurt": "De Nationale Bank van België stelde tekortkomingen vast in de controles van de Brusselse betaalfintech Paynovate tegen witwassen. Daarom mag het bedrijf in principe geen nieuwe klanten meer aannemen.",
+   "waaromBelangrijk": "Toezichthouders treden strenger op tegen fintechs die tekortschieten in controles tegen witwassen. Voor een betaalbedrijf kan een klantenstop zwaar wegen.",
+   "impactVoorJou": "Wie een fintech start, krijgt te maken met strikte regels. Dit toont dat compliance geen bijzaak is maar een kernonderdeel van het bedrijf.",
    "kansen": [
-    "Repetitief advieswerk in een niche automatiseren met AI"
+    "Betaalbare software voor witwascontroles, op maat van kleine fintechs.",
+    "Advies voor jonge fintechs om aan de regels van de toezichthouder te voldoen."
    ],
-   "kanttekening": "",
+   "kanttekening": "Het artikel geeft geen details over de vastgestelde tekortkomingen.",
    "itemIds": [
-    "techeu-l5k5vf",
-    "tijd-ond-1ijtj6x"
+    "lecho-122y25p"
    ]
   }
  ],
  "items": [
   {
-   "id": "bbc-jurj07",
+   "id": "bbc-1aw79hr",
    "sourceId": "bbc",
-   "titel": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-   "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-   "snippet": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
-   "datum": 1795131231000
+   "titel": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+   "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+   "snippet": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+   "datum": 1795215204000
   },
   {
-   "id": "nyt-kxmh5l",
+   "id": "nyt-qt9rt5",
    "sourceId": "nyt",
-   "titel": "Nvidia Asked to Sell Chips to Companies Tied to Chinese Military and Megaspeed",
-   "link": "https://www.nytimes.com/2026/11/19/business/economy/nvidia-chips-commerce-china-huang.html",
-   "snippet": "Lawmakers released confidential information showing the Commerce Department had approved sales of more than 800,000 A.I. chips to Chinese companies, some with military ties.",
-   "datum": 1795127349000
+   "titel": "Stocks Skid Into a Correction, as A.I. Worries Intensify",
+   "link": "https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html",
+   "snippet": "The S&P 500 ended the day down more than 10 percent from its recent high, in a symbolic measure of investors’ souring mood.",
+   "datum": 1795214852000
   },
   {
-   "id": "guardian-f4xbjd",
+   "id": "bbc-vzwb87",
+   "sourceId": "bbc",
+   "titel": "Tech stock sell-off drags markets down as Anthropic shares slide",
+   "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+   "snippet": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+   "datum": 1795214567000
+  },
+  {
+   "id": "nyt-1sz9tvs",
+   "sourceId": "nyt",
+   "titel": "Many Etsy Sellers Close Up Shop Over Site’s New A.I. Policy",
+   "link": "https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html",
+   "snippet": "Numerous longtime users of the online marketplace have left the platform because they do not want their work training artificial intelligence. Etsy said it would revise its policy.",
+   "datum": 1795211444000
+  },
+  {
+   "id": "vrt-1xcshiz",
+   "sourceId": "vrt",
+   "titel": "'GTA VI' brengt bij release ongeveer 3,5 miljard euro op",
+   "link": "https://vrtnws.be/p.kQONmoRY5",
+   "snippet": "Videospel 'GTA VI' heeft op de releasedag al bijna 3,5 miljard euro opgebracht. Dat maakt uitgever Take-Two Interactive bekend. Het cijfer is gebaseerd op schattingen aan het einde van de eerste verkoopdag. Het spel werd in voorverkoop meer dan 32 miljoen keer verkocht.",
+   "datum": 1795210797000
+  },
+  {
+   "id": "guardian-1nsb0fw",
    "sourceId": "guardian",
-   "titel": "Anthropic closes first day of public trading at $1.3tn valuation after largest-ever IPO",
-   "link": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo",
-   "snippet": "AI startup and Claude chatbot maker became one of the world’s most valuable publicly traded businesses with final share price of $97 Anthropic closed its first day of trading on the US stock market about 17% higher than its initial public offering price. At the close of market on Thursday, Anthropic shares were trad…",
-   "datum": 1795126158000
+   "titel": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
+   "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+   "snippet": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildout Who are Anthropic’s seven co-founders, now worth $180bn? As Anthropic’s stock dropped during its second day of trading, the wider stock market dipped with it. On Friday, the…",
+   "datum": 1795210697000
   },
   {
-   "id": "tijd-ond-1ijtj6x",
-   "sourceId": "tijd-ond",
-   "titel": "Jong Geweld | Denis Leysen (Noah): 'De job die wij nu volledig automatiseren, deed ik eerder zelf als consultant’",
-   "link": "https://www.tijd.be/r/t/1/id/10706225",
-   "snippet": "De Tijd brengt onder de vlag WAW! nieuws over starters en groeibedrijven. In de rubriek Jong Geweld laten we beloftevolle ondernemers aan het woord. Vandaag: Denis Leysen (29) van Noah, dat net zijn eerste kapitaalronde afrondde en grote bedrijven wil gidsen door de wildgroei aan artificiële intelligentie.",
-   "datum": 1795114133000
+   "id": "nyt-1ybxiox",
+   "sourceId": "nyt",
+   "titel": "Grand Theft Auto VI Made $3.79 Billion in a Single Day",
+   "link": "https://www.nytimes.com/2026/11/20/arts/grand-theft-auto-vi-sales-revenue.html",
+   "snippet": "Anticipation was high after a 13-year gap in the game franchise. No movie has ever made more than $3 billion at the box office.",
+   "datum": 1795209700000
   },
   {
-   "id": "tijd-ond-1ijtigb",
+   "id": "bbc-2ciab7",
+   "sourceId": "bbc",
+   "titel": "Trump threatens ban on US firms building AI data centres overseas",
+   "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+   "snippet": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+   "datum": 1795208052000
+  },
+  {
+   "id": "nyt-1r57y7l",
+   "sourceId": "nyt",
+   "titel": "Trump Threatens to Bar U.S. Tech Firms From Building Data Centers Abroad",
+   "link": "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html",
+   "snippet": "The president suggested he would tax the same companies, though it was not clear how he would carry out the plan unveiled at a news conference.",
+   "datum": 1795200682000
+  },
+  {
+   "id": "guardian-1tiwbox",
+   "sourceId": "guardian",
+   "titel": "What exactly is in the deal between the UK and the EU?",
+   "link": "https://www.theguardian.com/politics/2026/nov/20/what-is-in-deal-between-uk-eu-explainer",
+   "snippet": "The two sides have come to agreements on food and drink, emissions trading and the youth exchange scheme Burnham has agreed EU reset deal with tuition fees issue unresolved, says No 10 After months of on-off negotiations, leaks and late nights, the EU and UK have agreed a 12-page statement setting out the next steps…",
+   "datum": 1795198793000
+  },
+  {
+   "id": "bbc-wg51mc",
+   "sourceId": "bbc",
+   "titel": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+   "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+   "snippet": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+   "datum": 1795196988000
+  },
+  {
+   "id": "vrt-1ur5bi1",
+   "sourceId": "vrt",
+   "titel": "Rechter geeft Land Rover gelijk: BYD mag 'Chinese Defender-kloon' voorlopig niet verkopen in Europese Unie",
+   "link": "https://vrtnws.be/p.RaJX8b6x6",
+   "snippet": "De Chinese autobouwer BYD mag zijn Ti 7-model voorlopig niet verkopen in de Europese Unie omdat die te sterk lijkt op de Land Rover Defender. Dat heeft een rechter in Nederland beslist. De uitspraak komt er nadat de Britse autobouwer Jaguar Land Rover (JLR) een zaak had aangespannen tegen BYD omwille van plagiaat.",
+   "datum": 1795194338000
+  },
+  {
+   "id": "lecho-122y30s",
+   "sourceId": "lecho",
+   "titel": "Land Rover gagne une manche dans sa bataille contre le \"Defender\" de BYD",
+   "link": "https://www.lecho.be/r/t/1/id/10706462",
+   "snippet": "BYD ne peut pas vendre dans l'UE son véhicule ressemblant trop au Land Rover Defender. Pour l'instant... Une décision qui devra encore être confirmée sur le fond.",
+   "datum": 1795193872000
+  },
+  {
+   "id": "lecho-122y2z0",
+   "sourceId": "lecho",
+   "titel": "Le secteur chimique belge a perdu 20% de ses emplois en 25 ans",
+   "link": "https://www.lecho.be/r/t/1/id/10706444",
+   "snippet": "La fermeture de l’usine de 3M et la faillite de Vynova illustrent une nouvelle fois les faiblesses de la chimie belge. L’emploi recule et les nouveaux projets d’investissement se font attendre.",
+   "datum": 1795193840000
+  },
+  {
+   "id": "vrt-jt0g5l",
+   "sourceId": "vrt",
+   "titel": "Blije gezichten na akkoord tussen EU en VK: \"We bouwen de bruggen weer op die jaren geleden zijn afgebroken\"",
+   "link": "https://vrtnws.be/p.M9mWkmyGa",
+   "snippet": "Zowel de leiders van de Europese Unie als de Britse premier Andy Burnham zijn duidelijk tevreden met het akkoord dat ze vandaag gesloten hebben. Burnham heeft het zelfs over een \"historisch moment\". En hier en daar worden al grapjes gemaakt over een mogelijke terugkeer van de Britten in de Unie. Al zal Europa \"gelij…",
+   "datum": 1795193819000
+  },
+  {
+   "id": "bbc-8dkrdr",
+   "sourceId": "bbc",
+   "titel": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+   "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+   "snippet": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
+   "datum": 1795192912000
+  },
+  {
+   "id": "tijd-ond-1ijtkwc",
    "sourceId": "tijd-ond",
-   "titel": "Gehaaide Romeinse dealmaker Andrea Orcel lijft met UniCredit Duits Commerzbank in",
-   "link": "https://www.tijd.be/r/t/1/id/10706164",
-   "snippet": "Na het fiat van Berlijn heeft de Italiaanse grootbank UniCredit haar rivaal Commerzbank beet. Dat is een triomf voor CEO en gereputeerd dealmaker Andrea Orcel, een van ’s werelds best betaalde bankiers die ooit nog Fortis naar de noodlottige ABN Amro-deal navigeerde.",
-   "datum": 1795108692000
+   "titel": "In 25 jaar verdween een vijfde van de Belgische chemiejobs",
+   "link": "https://www.tijd.be/r/t/1/id/10706435",
+   "snippet": "De fabriekssluiting van 3M en het faillissement van Vynova illustreren nogmaals de zwakte van de Belgische chemie. De tewerkstelling daalt en nieuwe investeringsprojecten blijven uit. ‘Deze crisis doet veel meer pijn.’",
+   "datum": 1795191304000
+  },
+  {
+   "id": "tijd-ond-1ijtk5n",
+   "sourceId": "tijd-ond",
+   "titel": "Vandemoortele sluit donutfabriek in Henegouwen: 126 jobs verdwijnen",
+   "link": "https://www.tijd.be/r/t/1/id/10706371",
+   "snippet": "Vandemoortele heeft de intentie om zijn fabriek in Seneffe te sluiten, waardoor 126 jobs bedreigd zijn. Het hevelt de productie van diepgevroren donuts over naar de vestiging in het Franse Reims.",
+   "datum": 1795178545000
+  },
+  {
+   "id": "lecho-122y29g",
+   "sourceId": "lecho",
+   "titel": "Vandemoortele veut fermer son site à Seneffe: 126 emplois menacés",
+   "link": "https://www.lecho.be/r/t/1/id/10706398",
+   "snippet": "Vandemoortele envisage de fermer son site de Seneffe. La procédure Renault a été enclenchée ce vendredi. Au total, 126 emplois sont menacés.",
+   "datum": 1795177032000
+  },
+  {
+   "id": "euronews-18qy7gz",
+   "sourceId": "euronews",
+   "titel": "Bending Spoons to buy Mailchimp from Intuit in €3.35bn deal",
+   "link": "https://www.euronews.com/2026/11/20/bending-spoons-to-buy-mailchimp-from-intuit-in-332-billion-deal",
+   "snippet": "The Italian tech company behind WeTransfer and Vimeo has agreed to buy email marketing platform Mailchimp. Intuit is selling it for less than a third of what it paid in 2021.",
+   "datum": 1795174754000
+  },
+  {
+   "id": "euronews-2ya53h",
+   "sourceId": "euronews",
+   "titel": "Lufthansa plans 1,000 job cuts in Frankfurt and Munich as Iran war slows turnaround",
+   "link": "https://www.euronews.com/2026/11/20/lufthansa-plans-1000-job-cuts-in-frankfurt-and-munich-as-iran-war-slows-turnaround",
+   "snippet": "Lufthansa plans to cut 1,000 full-time jobs in Frankfurt and Munich as strikes and soaring fuel costs linked to the Iran war slow its turnaround. Its flagship airline lost €20 million a month on average from January to September, according to a letter to staff.",
+   "datum": 1795174514000
+  },
+  {
+   "id": "lecho-122y25p",
+   "sourceId": "lecho",
+   "titel": "La BNB épingle la fintech bruxelloise Paynovate pour ses contrôles antiblanchiment trop laxistes",
+   "link": "https://www.lecho.be/r/t/1/id/10706355",
+   "snippet": "Paynovate, fintech bruxelloise active dans les paiements, ne peut en principe plus accueillir de nouveaux clients. La BNB a pris cette décision après avoir constaté des manquements dans les contrôles liés aux risques de blanchiment.",
+   "datum": 1795169323000
+  },
+  {
+   "id": "dw-u0nmqg",
+   "sourceId": "dw",
+   "titel": "Lufthansa to cut 1,000 jobs, citing ongoing losses — reports",
+   "link": "https://www.dw.com/en/lufthansa-to-cut-1-000-jobs-citing-ongoing-losses-reports/a-80000062?maca=en-rss-en-bus-2091-rdf",
+   "snippet": "According to a letter obtained by the media, Lufthansa's executive board said the German company is losing €20 million every month. In addition to job cuts, operational cuts are also planned.",
+   "datum": 1795167780000
+  },
+  {
+   "id": "scmp-zl98wn",
+   "sourceId": "scmp",
+   "titel": "China’s battery-powered heavy trucks see electric growth",
+   "link": "https://www.scmp.com/plus/business/china-evs/article/3375206/chinas-battery-powered-heavy-trucks-see-electric-growth",
+   "snippet": "On a recent 5,000-kilometre journey by battery-electric heavy truck in China, Ceva Logistics slashed energy costs by 43 per cent compared with using a diesel-powered equivalent. The French company’s economical road trip from Shenzhen in the country’s south to Alashankou in the far northwest, which involved nine rech…",
+   "datum": 1795162718000
+  },
+  {
+   "id": "scmp-1rw0l9e",
+   "sourceId": "scmp",
+   "titel": "Anthropic’s US$81b IPO, gold price drops: 5 figures investors are watching this week",
+   "link": "https://www.scmp.com/business/china-business/article/3375169/anthropics-us81b-ipo-gold-price-drops-5-figures-investors-are-watching-week",
+   "snippet": "A record-breaking IPO from Anthropic capped off this week’s market headlines, sending US and Asian tech stocks sliding in its wake and adding new fuel to the artificial intelligence race, following the meeting between Chinese President Xi Jinping, US President Donald Trump and Russian President Vladimir Putin at the…",
+   "datum": 1795158010000
+  },
+  {
+   "id": "techcabal-94h9fu",
+   "sourceId": "techcabal",
+   "titel": "👨🏿‍🚀TechCabal Daily – Kuda cuts jobs, again",
+   "link": "https://techcabal.com/2026/11/20/techcabal-daily-kuda-cuts-jobs-again/",
+   "snippet": "In today's edition: Kuda cuts jobs || Terra Industries backs Community Wolf || Nigeria's taxman gives crypto firms a deadline || Who secured the bag? 💰",
+   "datum": 1795154451000
   },
   {
    "id": "euronews-1dlhx3n",
@@ -284,22 +481,6 @@
    "datum": 1795108110000
   },
   {
-   "id": "techcabal-c7vmjc",
-   "sourceId": "techcabal",
-   "titel": "Nigeria gives crypto firms until November 30 to submit tax registration",
-   "link": "https://techcabal.com/2026/11/19/nigeria-gives-crypto-firms-tax-deadline/",
-   "snippet": "Nigeria’s tax authority has given cryptocurrency exchanges and other virtual asset service providers until November 30, 2026, to register on its new VASP Tax Portal. Providers must also integrate their systems by December 31 or risk statutory penalties and enforcement measures.",
-   "datum": 1795104311000
-  },
-  {
-   "id": "bbc-18ancrk",
-   "sourceId": "bbc",
-   "titel": "Anthropic raises $81bn in record-breaking stock market debut",
-   "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-   "snippet": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
-   "datum": 1795103938000
-  },
-  {
    "id": "dw-wkj8b7",
    "sourceId": "dw",
    "titel": "Anthropic trading tests investors' appetite for AI",
@@ -308,283 +489,136 @@
    "datum": 1795103520000
   },
   {
-   "id": "guardian-atazr6",
-   "sourceId": "guardian",
-   "titel": "AI demand will push up interest rates around the world, IMF head warns",
-   "link": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
-   "snippet": "Kristalina Georgieva says countries needed to be ready for tech rollout, adding: ‘You snooze, you lose’ Business live – latest updates Booming demand for artificial intelligence will force the world’s most powerful central banks to raise interest rates, the head of the International Monetary Fund (IMF) has warned. K…",
-   "datum": 1795101314000
-  },
-  {
-   "id": "lecho-122y19q",
-   "sourceId": "lecho",
-   "titel": "Telenet devrait faire son retour en bourse en mai 2027",
-   "link": "https://www.lecho.be/r/t/1/id/10706239",
-   "snippet": "Mike Fries, le CEO de Liberty Global, a annoncé vouloir initier le retour en bourse de Telenet à partir de mai 2027. L'opération se fera de manière indirecte via le groupe Ziggo, créé en février et qui reprend aussi les activités de l'opérateur néerlandais.",
-   "datum": 1795100607000
-  },
-  {
-   "id": "lecho-122y0kz",
-   "sourceId": "lecho",
-   "titel": "Alibaba bat les attentes, mais alimente les doutes sur l'IA",
-   "link": "https://www.lecho.be/r/t/1/id/10706199",
-   "snippet": "Le géant de l'e-commerce atténue sa longue chute en bourse après avoir fait état d'une croissance coûteuse dans l'IA. La tech chinoise continue de souffrir, comme le montre le recul de Tencent.",
-   "datum": 1795097666000
-  },
-  {
-   "id": "sifted-8dtulq",
-   "sourceId": "sifted",
-   "titel": "EU Inc demands Brussels scrap ‘weak’ reforms, start over",
-   "link": "https://sifted.eu/articles/eu-inc-watered-down-rules-rewrite-campaign/",
-   "snippet": "",
-   "datum": 1795096062000
-  },
-  {
-   "id": "techeu-1czz10h",
-   "sourceId": "techeu",
-   "titel": "EU–INC calls on von der Leyen to withdraw and re-table EU Inc proposal",
-   "link": "https://tech.eu/2026/11/19/eu-inc-calls-on-von-der-leyen-to-withdraw-and-re-table-eu-inc-proposal/",
-   "snippet": "EU–INC and Startups for Europe are calling on European Commission President Ursula von der Leyen to withdraw and re-table the original EU Inc proposal, warning that compromises made by EU Member State...",
-   "datum": 1795093200000
-  },
-  {
-   "id": "lecho-122y16t",
-   "sourceId": "lecho",
-   "titel": "L'entreprise chimique 3M annonce fermer son site de Zwijndrecht, près de 200 emplois menacés",
-   "link": "https://www.lecho.be/r/t/1/id/10706203",
-   "snippet": "L'entreprise 3M a annoncé son intention de procéder à un licenciement collectif sur son site de Zwijndrecht, sur fond de problèmes liés au permis d’environnement du site.",
-   "datum": 1795091687000
-  },
-  {
-   "id": "tijd-ond-1ijtj52",
-   "sourceId": "tijd-ond",
-   "titel": "Telenet keert in mei terug naar beurs",
-   "link": "https://www.tijd.be/r/t/1/id/10706204",
-   "snippet": "De Amerikaanse telecom- en mediagroep Liberty Global mikt op mei voor de aparte beursgang van de Benelux-speler Ziggo Group, die haar dochters Telenet en VodafoneZiggo omvat. Dat heeft CEO Mike Fries gezegd.",
-   "datum": 1795091384000
-  },
-  {
-   "id": "tijd-ond-1ijtij5",
-   "sourceId": "tijd-ond",
-   "titel": "3M sluit fabriek in Zwijndrecht: meer dan 200 jobs bedreigd",
-   "link": "https://www.tijd.be/r/t/1/id/10706197",
-   "snippet": "De Amerikaanse chemiereus 3M heeft op een ondernemingsraad de intentie aangekondigd om zijn site in Zwijndrecht tegen 2029 te sluiten. Meer dan 200 banen zijn bedreigd. De sanering van het terrein zou niet in gevaar komen.",
-   "datum": 1795087304000
-  },
-  {
-   "id": "euronews-1v071h9",
-   "sourceId": "euronews",
-   "titel": "Commerzbank welcomes UniCredit commitments after Berlin agreement",
-   "link": "https://www.euronews.com/2026/11/19/commerzbank-welcomes-unicredit-commitments-after-berlin-agreement",
-   "snippet": "Commerzbank has welcomed UniCredit's commitments to keep the German lender listed and based in Frankfurt. This comes as Berlin and UniCredit have agreed on key terms of what would be one of Europe's biggest cross-border banking deals in years.",
-   "datum": 1795086183000
-  },
-  {
-   "id": "scmp-d3xnic",
-   "sourceId": "scmp",
-   "titel": "Alibaba accelerates pivot to in-house chips after reporting jump in sales",
-   "link": "https://www.scmp.com/tech/big-tech/article/3375093/alibabas-ai-bet-paying-cloud-services-drive-10-revenue-jump",
-   "snippet": "Alibaba Group Holding is accelerating its pivot to domestic microchips, as chief executive Eddie Wu Yongming said the company was training its next-generation AI models on in-house chips after reporting a better-than-expected uptick in revenue and profit. “Infrastructure powered by our own domestically developed chi…",
-   "datum": 1795086022000
-  },
-  {
-   "id": "mittr-1rkcc6",
-   "sourceId": "mittr",
-   "titel": "What a billion-dollar deal says about the US battery market",
-   "link": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
-   "snippet": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter batteries. It’s a deal…",
-   "datum": 1795086000000
-  },
-  {
-   "id": "euronews-1no6moz",
-   "sourceId": "euronews",
-   "titel": "From car parts to drones: German suppliers pivot to defence as auto crisis deepens",
-   "link": "https://www.euronews.com/2026/11/19/from-car-parts-to-drones-german-suppliers-pivot-to-defence-as-auto-crisis-deepens",
-   "snippet": "German car parts makers are moving into drones, defence and space as the country's auto industry crisis deepens, with one Bavarian family firm now able to turn out 1,000 surveillance drones every month as it tries to depend less on carmakers.",
-   "datum": 1795084814000
-  },
-  {
-   "id": "techeu-l5k5vf",
-   "sourceId": "techeu",
-   "titel": "Noah raises €800K to help companies unlock their AI potential",
-   "link": "https://tech.eu/2026/11/19/noah-raises-eur800k-to-help-companies-unlock-their-ai-potential/",
-   "snippet": "Antwerp-based startup Noah, which develops an AI-powered platform tohelp companies identify and prioritise opportunities for artificialintelligence adoption, has raised €800,000 from a group of busine...",
-   "datum": 1795074300000
-  },
-  {
-   "id": "euronews-1m7w36y",
-   "sourceId": "euronews",
-   "titel": "Anthropic's record IPO lands as Nvidia suffers its worst run since 2008",
-   "link": "https://www.euronews.com/2026/11/19/anthropics-record-ipo-lands-as-nvidia-suffers-its-worst-run-since-2008",
-   "snippet": "Anthropic priced its record IPO at $83 a share ahead of Thursday's debut, as Nvidia heads for a seventh weekly loss and Washington tightens AI chip exports.",
-   "datum": 1795066262000
-  },
-  {
-   "id": "crunchbase-wbpgm5",
-   "sourceId": "crunchbase",
-   "titel": "Anthropic Closes Up 17% After Massive IPO",
-   "link": "https://news.crunchbase.com/public/ipo/anthropic-prices-ipo-ant-above-range/",
-   "snippet": "The offering promises to be the public market event of the season, with the Claude creator seeing investor demand for shares well in excess of its capital-raising goals.",
-   "datum": 1795040136000
-  },
-  {
-   "id": "crunchbase-3u9idw",
-   "sourceId": "crunchbase",
-   "titel": "The Key Numbers I’m Watching As Anthropic Makes Its IPO Debut",
-   "link": "https://news.crunchbase.com/ai/anthropic-ant-ipo-revenue-growth-risks-s1-analysis/",
-   "snippet": "Just three years after launching with zero revenue, Anthropic brought in $17 billion and says more than 11,900 customers now spend at least $100,000 a year. But its IPO filing also reveals enormous computing commitments and big questions about balancing growth with risks.",
-   "datum": 1795030798000
-  },
-  {
-   "id": "euronews-sujm7e",
-   "sourceId": "euronews",
-   "titel": "Opening a small business takes 18 times as long in Germany as in France, study finds",
-   "link": "https://www.euronews.com/2026/11/18/opening-a-small-business-takes-18-times-as-long-in-germany-as-in-france-study-finds",
-   "snippet": "Setting up a small business in Germany takes almost 4,000 hours of red tape, the equivalent of nearly 500 eight-hour working days. That is the longest among 27 countries across Europe, Latin America and the Caribbean, and nearly 18 times as long as in France, which ranked first in a new study.",
-   "datum": 1795007546000
+   "id": "techcabal-1ith18b",
+   "sourceId": "techcabal",
+   "titel": "Kuda cuts jobs for second time in 2026 as it targets 2027 profitability",
+   "link": "https://techcabal.com/2026/11/19/kuda-cut-jobs-again/",
+   "snippet": "Kuda, the Nigerian digital bank, is cutting jobs for the second time this year. This time, it is cutting 40 jobs, as it pursues group profitability.",
+   "datum": 1795100528000
   }
  ],
  "gezienIds": [
-  "scmp-8opax4",
+  "scmp-1l57pua",
+  "bbc-1aw79hr",
+  "nyt-qt9rt5",
+  "bbc-vzwb87",
+  "nyt-1ogq08d",
+  "nyt-1sz9tvs",
+  "vrt-1xcshiz",
+  "guardian-1nsb0fw",
+  "nyt-1ybxiox",
+  "fed-1hby0vp",
   "cnbc-1rh0pk4",
-  "bbc-1dwugtq",
-  "nyt-1ch9tbg",
-  "bbc-jurj07",
-  "nyt-7omr92",
-  "bbc-13sxktq",
-  "scmp-1lxdxqf",
-  "vrt-1haxx9e",
-  "nyt-1s8uq26",
-  "nyt-8svo46",
-  "nyt-1joycpi",
-  "nyt-kxmh5l",
-  "guardian-f4xbjd",
+  "vrt-m9rx3a",
+  "bbc-2ciab7",
+  "vrt-1l2g5k5",
+  "crunchbase-jdx2y",
+  "vrt-1x3p250",
+  "nyt-17nn1y5",
+  "vrt-x7ybba",
+  "nyt-17qug4o",
+  "lecho-122y3ph",
+  "nyt-1r57y7l",
+  "vrt-1kzy1eu",
+  "guardian-1tiwbox",
+  "mittr-h5i1v4",
+  "nyt-1k7x88d",
+  "bbc-wg51mc",
+  "vrt-5lkz99",
+  "nyt-nt4iv6",
   "nyt-w9rdr9",
-  "vrt-y2akkl",
-  "nyt-4jnbsn",
-  "nyt-1xknfxw",
-  "tijd-ond-1ijtjah",
-  "vrt-1vv6gnh",
-  "vrt-129k6rc",
-  "nyt-klarxs",
-  "vrt-1633kyl",
-  "tijd-ond-1ijtj9l",
-  "vrt-14kjo5q",
-  "nyt-1p7702q",
-  "nyt-62pvv6",
+  "vrt-1ur5bi1",
+  "vrt-6gi3ms",
+  "lecho-122y30s",
+  "lecho-122y2z0",
+  "vrt-jt0g5l",
+  "bbc-8dkrdr",
+  "tijd-ond-1ijtkw7",
+  "vrt-6ogf57",
+  "vrt-6kcygc",
+  "tijd-ond-1ijtk16",
+  "tijd-ond-1ijtkwc",
+  "tijd-ond-1ijtkyz",
+  "sifted-17bsb6q",
+  "nyt-vyxfo2",
+  "cnbc-1gpqvn6",
+  "bbc-12lgvjw",
+  "bbc-b1vpzl",
+  "dw-u1sfcb",
+  "sifted-6yavqj",
+  "tijd-ond-1ijtkul",
+  "nyt-8svo46",
+  "bbc-lfit7c",
+  "fed-1hb8ltg",
+  "tijd-ond-1ijthii",
+  "techcabal-xptt5f",
+  "bbc-1qiavlz",
+  "lecho-122y2x9",
+  "tijd-ond-1ijtjdg",
+  "tijd-ond-1i23txu",
+  "techcabal-8n4czm",
+  "guardian-1sg97ia",
+  "euronews-1vcaq5n",
+  "scmp-1i1kmrb",
+  "euronews-1i58mrt",
+  "lecho-122y2y1",
+  "scmp-1nv0urg",
+  "mittr-15xwzoq",
+  "tijd-ond-1ijtkve",
+  "sifted-1omcv9k",
+  "tijd-ond-1ijtk5n",
+  "techcabal-1iig4c9",
+  "lecho-122y29g",
+  "lecho-122y23y",
+  "crunchbase-s6ixrf",
+  "cnbc-115ge30",
+  "cnbc-1hhm5nm",
+  "crunchbase-175eero",
+  "scmp-f3nyei",
+  "euronews-1f7gooe",
+  "euronews-18qy7gz",
+  "euronews-2ya53h",
+  "euronews-bbu9p9",
+  "lecho-122y25p",
+  "scmp-9465aj",
+  "bbc-gpy6jj",
+  "lecho-122y24t",
+  "dw-u0nmqg",
+  "scmp-xuw8m0",
+  "sifted-1oabtxm",
+  "euronews-1z0cytg",
+  "ecb-dkk7ck",
+  "techcabal-1hu6r5f",
+  "scmp-zl98wn",
+  "scmp-kjsrps",
+  "bbc-1alvmtb",
+  "lecho-122y217",
+  "guardian-kcwb3j",
+  "scmp-1rw0l9e",
+  "techcabal-4c9y4r",
+  "bbc-ntd59j",
+  "techcabal-94h9fu",
+  "scmp-ye1n9s",
+  "sifted-6jr4qf",
+  "sifted-ogsio5",
+  "sifted-15l2j5c",
+  "scmp-1gqqmjv",
+  "sifted-e7wtjb",
+  "sifted-gn12yh",
+  "scmp-1bsuhnz",
   "cnbc-hufx2c",
-  "vrt-149579q",
   "guardian-6vj812",
-  "tijd-ond-1ijtjdc",
-  "vrt-j5zav5",
-  "vrt-xh2z0t",
-  "tijd-ond-1ijtj6x",
-  "vrt-1aw4fa",
-  "vrt-1u5sf8f",
-  "vrt-1ntuh3z",
-  "tijd-ond-1ijtigb",
   "euronews-1dlhx3n",
-  "tijd-ond-1ijtij4",
-  "lecho-122y1cc",
   "techcabal-c7vmjc",
-  "scmp-23zfgc",
-  "scmp-1s9vxgv",
   "fed-18315lc",
-  "bbc-18ancrk",
   "dw-wkj8b7",
   "euronews-17ow62p",
-  "lecho-122y17o",
-  "tijd-ond-1ijsxda",
-  "bbc-g7m481",
   "guardian-atazr6",
-  "tijd-ond-1ijtj9p",
-  "lecho-122y19q",
   "techcabal-1ith18b",
-  "lecho-122y0iz",
-  "lecho-122y16q",
-  "lecho-122y0kz",
   "guardian-gszkyd",
   "euronews-1j857p4",
-  "scmp-1cznl19",
   "sifted-1wk86ca",
   "sifted-8dtulq",
-  "bbc-uj397w",
-  "mittr-fmg8z8",
-  "techeu-1czz10h",
-  "scmp-1b91p6i",
-  "techeu-1vzfc8p",
-  "lecho-122y16t",
-  "scmp-1rap8l3",
-  "tijd-ond-1ijtj52",
-  "lecho-122y0h3",
-  "crunchbase-15n7fik",
-  "crunchbase-mfq92v",
-  "crunchbase-cwwg0v",
-  "techeu-12b3ii1",
-  "mittr-41ijev",
-  "lecho-122y0h9",
-  "bbc-8tokdn",
-  "euronews-rnzmxh",
-  "tijd-ond-1ijtij5",
-  "techeu-1x5bh46",
-  "euronews-1v071h9",
-  "scmp-d3xnic",
-  "scmp-1eka1wm",
-  "mittr-1rkcc6",
-  "row-xugnzu",
-  "lecho-122y0j2",
-  "techcabal-67aukt",
-  "euronews-1no6moz",
-  "techcabal-18fecvh",
-  "techcabal-1hd038k",
-  "economist-12t8htg",
-  "techeu-1tdi35d",
-  "economist-1i7y5wd",
-  "economist-fjooye",
-  "scmp-1np3ga2",
-  "techcabal-h7e68b",
-  "dw-18vdb55",
-  "sifted-15jk410",
-  "techeu-hby3jb",
-  "techcabal-1dns5b1",
-  "techeu-1jgndav",
-  "scmp-ybhuc4",
-  "techeu-l5k5vf",
-  "euronews-1wi2l6s",
-  "scmp-1c2cszu",
-  "techcabal-98c1em",
-  "techeu-yu5eos",
-  "bbc-1ohuubs",
-  "bbc-1qrmxbn",
-  "techcabal-o3eurx",
-  "bbc-3rh7lk",
-  "guardian-1up7q2e",
-  "dw-orm6r7",
-  "euronews-1m7w36y",
-  "sifted-memuf6",
-  "sifted-1k94v00",
-  "sifted-1hc6w2n",
-  "sifted-1f19hji",
-  "sifted-1bmyfh6",
-  "bbc-7q8075",
-  "bbc-7naug4",
-  "crunchbase-wbpgm5",
-  "euronews-z3p9yd",
-  "crunchbase-3u9idw",
-  "economist-gp6xrv",
-  "fed-1do2i94",
-  "cnbc-171zd73",
-  "cnbc-1l7o1qo",
-  "cnbc-skpgq1",
-  "cnbc-d2n0sk",
-  "guardian-u6pgqo",
-  "techcabal-19eckw2",
-  "euronews-1j78wmx",
-  "sifted-ankcqg",
-  "mittr-dhtqbf",
-  "euronews-1eugibp",
-  "cnbc-1x98jcq",
-  "euronews-sujm7e",
-  "mittr-ttnf1u"
+  "mittr-fmg8z8"
  ]
 }
