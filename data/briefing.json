@@ -1,284 +1,370 @@
 {
- "gemaaktOp": 1795223399934,
+ "gemaaktOp": 1795309805081,
  "model": "nachtelijke taak",
  "stories": [
   {
-   "id": "s0-nyt-qt9rt5",
-   "titel": "Amerikaanse beurzen in correctie door twijfels over AI",
+   "id": "s0-nyt-17lnv3o",
+   "titel": "Beurs van Anthropic stroef, techaandelen trekken markten omlaag",
    "categorie": "economie",
    "regio": "wereld",
    "belang": "hoog",
-   "watGebeurt": "De S&P 500 sloot vrijdag meer dan 10 procent onder zijn recente top. Daarmee zitten de S&P 500 en de Dow Jones in een correctie, zoals beleggers zo'n daling noemen. De Nasdaq verloor al zijn winst van 2026. Ook het aandeel van Anthropic zakte op zijn tweede beursdag.",
-   "waaromBelangrijk": "Volgens The Guardian vragen beleggers zich af of de enorme bedragen die in AI-infrastructuur gestoken worden, wel genoeg zullen opbrengen. Als dat sentiment aanhoudt, kan het voor AI-bedrijven moeilijker worden om goedkoop geld op te halen.",
-   "impactVoorJou": "Een koudere beurs werkt vaak door naar durfkapitaal: investeerders worden strenger op waarderingen en willen sneller omzet zien. Bouw je later een AI-startup, dan zou een duidelijk verdienmodel zwaarder kunnen wegen dan een groot verhaal.",
+   "watGebeurt": "AI-bedrijf Anthropic brak deze week records met zijn beursgang, maar het aandeel zakte daarna weg. Een verkoopgolf in techaandelen duwde de S&P 500 en de Dow Jones in een correctie, een forse daling vanaf hun hoogste stand. De Nasdaq verloor al zijn winst van 2026. Beleggers stellen vragen bij de enorme bedragen die in de uitbouw van AI gestoken worden.",
+   "waaromBelangrijk": "Als de financiering van AI-infrastructuur duurder of schaarser wordt, kan dat de hele techsector raken. Het verschil tussen het optimisme in Silicon Valley en de twijfel op Wall Street wordt zichtbaar.",
+   "impactVoorJou": "Investeerders kunnen voorzichtiger worden met AI-startups die vooral op hoge verwachtingen draaien. Een startup met echte klanten en inkomsten zou in zo'n klimaat makkelijker overtuigen. Voor gesprekken over innovatie is dit een goed voorbeeld van hoe hype en beurswaarde uit elkaar kunnen lopen.",
    "kansen": [
-    "Tools die bedrijven helpen het rendement van hun AI-uitgaven te meten, nu kopers kritischer worden.",
-    "Kleine, goedkope AI-toepassingen voor kmo's die snel terugverdiend zijn, in plaats van dure maatwerkprojecten."
+    "Tools die bedrijven helpen de echte opbrengst van hun AI-uitgaven te meten",
+    "Advies of software voor kostenbeheersing van AI- en cloudgebruik"
    ],
-   "kanttekening": "Een correctie zegt weinig over hoe lang de daling duurt. De bronnen noemen AI-twijfels als drijfveer, maar geven geen volledige verklaring.",
+   "kanttekening": "Waarom beleggers precies verkochten, is een interpretatie van de bronnen. De koersbewegingen gaan over enkele dagen en zeggen weinig over de lange termijn.",
    "itemIds": [
-    "nyt-qt9rt5",
+    "nyt-17lnv3o",
     "bbc-vzwb87",
     "guardian-1nsb0fw"
    ]
   },
   {
-   "id": "s1-euronews-1dlhx3n",
-   "titel": "Anthropic haalt 81 miljard dollar op in grootste beursgang ooit",
-   "categorie": "startups",
-   "regio": "wereld",
-   "belang": "hoog",
-   "watGebeurt": "Anthropic, het bedrijf achter Claude, haalde 81,3 miljard dollar op bij zijn beursgang op de Nasdaq, de grootste ooit. De introductieprijs was 83 dollar. Het aandeel opende donderdag op 111,50 dollar, 34 procent hoger, wat het bedrijf op weg zette naar een waardering van 2.000 miljard dollar. Volgens DW is de beursprestatie een test voor het vertrouwen van beleggers in AI.",
-   "waaromBelangrijk": "Een beursgang van deze omvang toont hoeveel geld beleggers bereid zijn in AI te steken. Hoe het aandeel de komende weken presteert, kan bepalen of andere AI-bedrijven ook naar de beurs durven.",
-   "impactVoorJou": "Voor wie wil ondernemen is dit een les in hoe een AI-model als basis kan dienen voor een heel ecosysteem van toepassingen. Je zou kunnen kijken welke niches grote modellen niet zelf invullen, zoals sectorspecifieke tools of lokale talen.",
-   "kansen": [
-    "Toepassingen bovenop grote taalmodellen voor een specifieke sector, zoals juridische of medische administratie in het Nederlands.",
-    "Diensten voor werknemers die plots vermogen hebben door aandelenopties: financieel advies, belastingbegeleiding."
-   ],
-   "kanttekening": "Op dag twee zakte het aandeel weer, dus de waardering van 2.000 miljard dollar is een momentopname. Dit bericht gaat over het bedrijf achter het model dat deze briefing schrijft; lees het met die kennis.",
-   "itemIds": [
-    "euronews-1dlhx3n",
-    "dw-wkj8b7",
-    "scmp-1rw0l9e"
-   ]
-  },
-  {
-   "id": "s2-bbc-2ciab7",
-   "titel": "Trump dreigt Amerikaanse techbedrijven te verbieden datacenters in het buitenland te bouwen",
+   "id": "s1-bbc-2ciab7",
+   "titel": "Trump dreigt Amerikaanse bedrijven te verbieden AI-datacenters in het buitenland te bouwen",
    "categorie": "beleid",
    "regio": "wereld",
    "belang": "hoog",
-   "watGebeurt": "De Amerikaanse president dreigde op een persconferentie Amerikaanse bedrijven te verbieden AI-datacenters in het buitenland te bouwen. Hij suggereerde ook dat hij diezelfde bedrijven zou belasten. Hij gaf weinig details en leden van zijn team hoorden er volgens de BBC voor het eerst van.",
-   "waaromBelangrijk": "Veel Europese landen rekenen op investeringen van Amerikaanse techbedrijven in datacenters. Als zo'n verbod er komt, zou dat die plannen in vraag kunnen stellen.",
-   "impactVoorJou": "Het onderstreept hoe afhankelijk Europa is van Amerikaanse rekenkracht. Dat kan de vraag naar Europese alternatieven voor cloud en AI-infrastructuur doen groeien.",
+   "watGebeurt": "De Amerikaanse president Trump dreigt met een verbod voor Amerikaanse bedrijven om AI-datacenters in het buitenland te bouwen. Hij gaf weinig details. Volgens de BBC hoorden anderen in zijn team voor het eerst van het idee.",
+   "waaromBelangrijk": "Veel Europese landen rekenen op Amerikaanse investeringen in datacenters. Als zo'n verbod er komt, kan dat de plannen voor rekenkracht in Europa en elders vertragen.",
+   "impactVoorJou": "Een Europese startup die AI bouwt, zou meer afhankelijk kunnen worden van Europese aanbieders van rekenkracht. Dat kan ruimte geven aan lokale spelers, maar ook tot tekorten leiden.",
    "kansen": [
-    "Europese cloud- of rekendiensten die bedrijven minder afhankelijk maken van Amerikaanse aanbieders.",
-    "Advies voor bedrijven over hoe ze hun AI-infrastructuur over meerdere aanbieders spreiden."
+    "Europese of regionale aanbieders van AI-rekenkracht",
+    "Diensten die bedrijven helpen hun AI-infrastructuur over meerdere aanbieders te spreiden"
    ],
-   "kanttekening": "Het gaat om een dreiging zonder uitgewerkt plan. Volgens The New York Times is niet duidelijk hoe de president dit zou uitvoeren.",
+   "kanttekening": "Het gaat om een dreigement zonder uitgewerkt plan. Of het er ooit komt, is onzeker.",
    "itemIds": [
-    "bbc-2ciab7",
-    "nyt-1r57y7l"
+    "bbc-2ciab7"
    ]
   },
   {
-   "id": "s3-guardian-1tiwbox",
-   "titel": "VK en EU sluiten akkoord over voeding, emissiehandel en jongerenuitwisseling",
+   "id": "s2-nyt-7unrp8",
+   "titel": "Nvidia zou onderzocht worden door Amerikaanse beurswaakhond",
+   "categorie": "tech",
+   "regio": "wereld",
+   "belang": "middel",
+   "watGebeurt": "Chipmaker Nvidia zou volgens The New York Times onderzocht worden door de SEC, de Amerikaanse beurswaakhond, over zijn boekhoudpraktijken. De vragen ontstonden na onthullingen over twijfelachtige chipverkopen in Azië.",
+   "waaromBelangrijk": "Nvidia levert de chips voor een groot deel van de AI-sector. Twijfel over dat bedrijf kan het vertrouwen in de hele AI-markt verder onder druk zetten.",
+   "impactVoorJou": "Weinig rechtstreekse impact. Het toont wel hoe afhankelijk de AI-wereld is van één leverancier, iets om mee te nemen als je een product op AI bouwt.",
+   "kansen": [],
+   "kanttekening": "Het onderzoek is niet officieel bevestigd: de krant schrijft dat Nvidia er 'naar verluidt' mee te maken heeft. Er is maar één bron.",
+   "itemIds": [
+    "nyt-7unrp8"
+   ]
+  },
+  {
+   "id": "s3-vrt-6wsrj0",
+   "titel": "EU en Indonesië ondertekenen handelsakkoord",
    "categorie": "beleid",
    "regio": "europa",
    "belang": "hoog",
-   "watGebeurt": "Het Verenigd Koninkrijk en de Europese Unie sloten vrijdag een akkoord over de export van voeding en drank, emissiehandel en een uitwisselingsprogramma voor jongeren. Het gaat om een verklaring van 12 pagina's met volgende stappen. De Britse premier Andy Burnham spreekt van een historisch moment en wil nog nauwere banden verkennen. De kwestie van de inschrijvingsgelden voor studenten blijft open.",
-   "waaromBelangrijk": "Het is de grootste toenadering sinds de brexit. Volgens BBC-economieredacteur Faisal Islam zal het akkoord de voedselprijzen waarschijnlijk niet verlagen, maar de economie meer helpen dan eerdere akkoorden.",
-   "impactVoorJou": "Minder handelsdrempels kunnen het makkelijker maken om voeding en dranken naar het VK te exporteren. Ook een jongerenprogramma kan deuren openen om er te werken of te studeren.",
+   "watGebeurt": "De Europese Unie en Indonesië hebben in Brussel een handelsakkoord ondertekend. Het verlaagt onder meer de heffingen op de invoer van auto's. Europa krijgt ook betere toegang tot grondstoffen als kobalt en nikkel, die cruciaal zijn voor batterijen. Het akkoord zou volgend jaar in werking kunnen treden.",
+   "waaromBelangrijk": "Europa probeert minder afhankelijk te worden van enkele landen voor grondstoffen voor batterijen. Een vlottere aanvoer kan de Europese batterij- en auto-industrie helpen.",
+   "impactVoorJou": "Als je denkt aan een startup in batterijen, recyclage of elektrische mobiliteit, kan de toegang tot grondstoffen de komende jaren verbeteren. Ook voor handel met Zuidoost-Azië kan dit deuren openen.",
    "kansen": [
-    "Diensten die Europese voedingsproducenten helpen bij export naar het VK zodra de regels versoepelen.",
-    "Platformen die jongeren koppelen aan stages of werkervaring aan de andere kant van het Kanaal."
+    "Diensten die Europese kmo's helpen exporteren naar Indonesië",
+    "Traceerbaarheid van grondstoffen voor batterijen in de toeleveringsketen"
    ],
-   "kanttekening": "Het akkoord legt vooral volgende stappen vast; de concrete regels moeten nog volgen. De inschrijvingsgelden blijven onopgelost.",
+   "kanttekening": "Het akkoord moet nog in werking treden. De bron geeft geen cijfers over hoeveel de heffingen dalen.",
+   "itemIds": [
+    "vrt-6wsrj0"
+   ]
+  },
+  {
+   "id": "s4-guardian-1tiwbox",
+   "titel": "Verenigd Koninkrijk en EU sluiten nieuw akkoord",
+   "categorie": "beleid",
+   "regio": "europa",
+   "belang": "middel",
+   "watGebeurt": "Het Verenigd Koninkrijk en de EU hebben vrijdag een akkoord bereikt over voeding en drank, emissiehandel en een uitwisselingsprogramma voor jongeren. Het gaat om een verklaring van 12 pagina's met de volgende stappen. De kwestie van de inschrijvingsgelden voor studenten is niet opgelost. Volgens Burnham wil het Verenigd Koninkrijk nog nauwere banden met de EU verkennen.",
+   "waaromBelangrijk": "Het is een stap in het herstel van de handel na de brexit. Volgens een analyse van de BBC zal het de voedselprijzen wellicht niet doen dalen, maar zou het de economie meer helpen dan eerdere akkoorden na de brexit.",
+   "impactVoorJou": "Handel met het Verenigd Koninkrijk kan iets eenvoudiger worden, vooral in voeding. Het jongerenprogramma zou in de toekomst ook werk- of studie-ervaring in het Verenigd Koninkrijk kunnen vergemakkelijken.",
+   "kansen": [
+    "Hulp bij export van voeding naar het Verenigd Koninkrijk nu de regels veranderen"
+   ],
+   "kanttekening": "Het akkoord legt vooral de volgende stappen vast. De concrete regels moeten nog uitgewerkt worden.",
    "itemIds": [
     "guardian-1tiwbox",
     "bbc-wg51mc",
-    "vrt-jt0g5l",
     "bbc-8dkrdr"
    ]
   },
   {
-   "id": "s4-tijd-ond-1ijtkwc",
-   "titel": "Belgische chemie verloor een vijfde van haar jobs in 25 jaar",
+   "id": "s5-vrt-1tr6dgk",
+   "titel": "Geen vluchten op Belgische luchthavens maandag door nationale betoging",
    "categorie": "economie",
    "regio": "belgie",
-   "belang": "middel",
-   "watGebeurt": "De Belgische chemiesector verloor in 25 jaar ongeveer 20 procent van zijn banen. De sluiting van de fabriek van 3M en het faillissement van Vynova tonen opnieuw de zwakte van de sector. De tewerkstelling daalt en nieuwe investeringsprojecten blijven uit.",
-   "waaromBelangrijk": "Chemie is een van de grootste industriële sectoren van België. Als de investeringen wegblijven, kan dat op termijn ook toeleveranciers en havenactiviteiten raken.",
-   "impactVoorJou": "Een sector in moeilijkheden zoekt naar manieren om kosten te drukken en te vernieuwen. Daar kan ruimte ontstaan voor jonge bedrijven die efficiëntie, recyclage of digitale tools brengen.",
-   "kansen": [
-    "Software die energie- en grondstoffenverbruik in chemische fabrieken optimaliseert.",
-    "Omscholingsdiensten voor werknemers uit de chemie naar groeisectoren."
-   ],
-   "kanttekening": "De artikels noemen geen oorzaken voor de lange daling buiten de recente sluitingen.",
-   "itemIds": [
-    "tijd-ond-1ijtkwc",
-    "lecho-122y2z0"
-   ]
-  },
-  {
-   "id": "s5-tijd-ond-1ijtk5n",
-   "titel": "Vandemoortele wil donutfabriek in Seneffe sluiten: 126 jobs bedreigd",
-   "categorie": "economie",
-   "regio": "belgie",
-   "belang": "middel",
-   "watGebeurt": "Vandemoortele heeft de intentie om zijn fabriek in Seneffe te sluiten. Daardoor zijn 126 banen bedreigd. De productie van diepgevroren donuts gaat naar de vestiging in het Franse Reims. De procedure-Renault, de wettelijke stappen bij een collectief ontslag, is gestart.",
-   "waaromBelangrijk": "Het is de zoveelste Belgische productiesite die werk naar het buitenland ziet vertrekken, in dezelfde week als het nieuws over de krimpende chemie.",
-   "impactVoorJou": "Weinig rechtstreekse impact. Het past wel in een patroon waarbij productie in België onder druk staat, iets om in je achterhoofd te houden als je ooit een productiebedrijf zou opzetten.",
+   "belang": "hoog",
+   "watGebeurt": "Luchtverkeersleider Skeyes meldt dat het luchtverkeer maandag 23 november in heel België onderbroken is. Alle vluchten op de Belgische luchthavens worden geschrapt; Brussels Airport verwachtte 60.000 reizigers. Ook 4 op de 10 bussen en trams van De Lijn rijden niet. De drie grote vakbonden betogen in Brussel tegen het beleid van de federale regering.",
+   "waaromBelangrijk": "Een dag zonder vluchten kost luchtvaartmaatschappijen en luchthavens veel geld. BAR Belgium, een federatie van een 25-tal luchtvaartmaatschappijen, noemt de actie buitensporig en volledig disproportioneel.",
+   "impactVoorJou": "Moet je maandag reizen of verplaatsen, hou dan rekening met hinder. Het toont ook hoe kwetsbaar een economie is wanneer één schakel als de luchtverkeersleiding stilvalt.",
    "kansen": [],
-   "kanttekening": "Het gaat om een intentie; de procedure kan nog tot aanpassingen leiden. De artikels geven geen reden voor de verhuis naar Reims.",
+   "kanttekening": "Het standpunt van de vakbonden staat niet in de aangeleverde artikels; de kritiek komt van de luchtvaartsector.",
    "itemIds": [
-    "tijd-ond-1ijtk5n",
-    "lecho-122y29g"
+    "vrt-1tr6dgk",
+    "tijd-ond-1ijtlpl",
+    "vrt-1s6agu3"
    ]
   },
   {
-   "id": "s6-vrt-1ur5bi1",
-   "titel": "Rechter verbiedt BYD voorlopig zijn 'Defender-kloon' in de EU te verkopen",
-   "categorie": "beleid",
-   "regio": "europa",
-   "belang": "middel",
-   "watGebeurt": "Een rechter in Nederland besliste dat de Chinese autobouwer BYD zijn Ti 7-model voorlopig niet in de Europese Unie mag verkopen. Het model lijkt te sterk op de Land Rover Defender. Jaguar Land Rover had de zaak aangespannen wegens plagiaat. De beslissing moet ten gronde nog bevestigd worden.",
-   "waaromBelangrijk": "Chinese autobouwers rukken op in Europa. Deze zaak toont dat Europese bedrijven intellectuele eigendom, zoals een herkenbaar ontwerp, kunnen gebruiken om zich te verdedigen.",
-   "impactVoorJou": "Het herinnert eraan dat een sterk ontwerp juridisch beschermd kan worden. Als je later een product lanceert, kan het lonen om vroeg na te denken over het vastleggen van je ontwerp en merk.",
-   "kansen": [
-    "Betaalbare diensten die startups helpen hun ontwerp en merk in Europa te beschermen.",
-    "Tools die automatisch opsporen wanneer een product online wordt nagemaakt."
-   ],
-   "kanttekening": "Het is een voorlopige beslissing; een uitspraak ten gronde moet nog volgen.",
-   "itemIds": [
-    "vrt-1ur5bi1",
-    "lecho-122y30s"
-   ]
-  },
-  {
-   "id": "s7-euronews-2ya53h",
-   "titel": "Lufthansa wil 1.000 banen schrappen in Frankfurt en München",
+   "id": "s6-tijd-ond-1ijtlnr",
+   "titel": "Aandeel Bpost verliest bijna 40 procent in twee weken",
    "categorie": "economie",
-   "regio": "europa",
+   "regio": "belgie",
    "belang": "middel",
-   "watGebeurt": "Lufthansa plant 1.000 voltijdse banen te schrappen in Frankfurt en München. Volgens een brief aan het personeel verloor de hoofdmaatschappij van januari tot september gemiddeld 20 miljoen euro per maand. Stakingen en sterk gestegen brandstofkosten door de oorlog met Iran vertragen het herstel. Er komen ook operationele besparingen.",
-   "waaromBelangrijk": "Hoge brandstofprijzen raken de hele luchtvaart. Als een grote speler als Lufthansa snoeit, kan dat wijzen op hogere ticketprijzen of minder vluchten.",
-   "impactVoorJou": "Duurder vliegen zou zakenreizen en toerisme kunnen afremmen. Voor ondernemers kan dat de vraag naar alternatieven zoals treinreizen of beter online samenwerken doen stijgen.",
+   "watGebeurt": "Het aandeel van Bpost is in twee weken bijna 40 procent gezakt. De hoofdaandeelhouder is niet overtuigd van het transformatieplan van CEO Chris Peeters. Bnode, het moederbedrijf van Bpost, stevent volgens De Tijd en L'Echo af op een existentiële crisis.",
+   "waaromBelangrijk": "Bpost is een bekend Belgisch bedrijf dat zich moet heruitvinden nu het traditionele postbedrijf krimpt. De koersval toont hoe moeilijk die omschakeling is.",
+   "impactVoorJou": "Het is een les in hoe snel een gevestigde speler onder druk kan komen als zijn kernmarkt verandert. Waar een grote speler wankelt, kunnen kleinere, wendbare bedrijven ruimte vinden.",
    "kansen": [
-    "Boekingsplatformen die zakenreizen per trein in Europa makkelijker maken.",
-    "Software die luchtvaart- of transportbedrijven helpt brandstof te besparen."
+    "Flexibele bezorgdiensten voor webwinkels en lokale handelaars"
    ],
-   "kanttekening": "De cijfers komen uit een interne brief die via de media naar buiten kwam; Lufthansa bevestigde ze in de artikels niet zelf.",
+   "kanttekening": "'Existentiële crisis' is de inschatting van de bronnen.",
    "itemIds": [
-    "euronews-2ya53h",
-    "dw-u0nmqg"
+    "tijd-ond-1ijtlnr",
+    "lecho-122y3pp"
    ]
   },
   {
-   "id": "s8-euronews-18qy7gz",
-   "titel": "Italiaanse Bending Spoons koopt Mailchimp voor 3,35 miljard euro",
-   "categorie": "startups",
-   "regio": "europa",
+   "id": "s7-tijd-ond-1ijtlnw",
+   "titel": "Verlinvest wordt grootste aandeelhouder van Oatly",
+   "categorie": "economie",
+   "regio": "belgie",
    "belang": "middel",
-   "watGebeurt": "Het Italiaanse techbedrijf Bending Spoons, eigenaar van WeTransfer en Vimeo, koopt het e-mailmarketingplatform Mailchimp van Intuit voor 3,35 miljard euro. Intuit verkoopt het voor minder dan een derde van wat het in 2021 betaalde.",
-   "waaromBelangrijk": "Een Europese scale-up koopt een bekend Amerikaans softwaremerk. Het toont dat Europese techbedrijven ook kopers kunnen zijn, en dat softwarebedrijven fors in waarde kunnen dalen.",
-   "impactVoorJou": "Bending Spoons groeit door bestaande digitale producten over te nemen en efficiënter te maken. Dat is een ander startupmodel dan zelf iets nieuws bouwen, en het kan inspireren als je naar overnames van kleinere software kijkt.",
+   "watGebeurt": "Verlinvest, het investeringsvehikel van de AB InBev-familie de Spoelberch, koopt het belang van zijn partner China Resources Enterprise in Oatly over. Daarmee wordt Verlinvest de grootste aandeelhouder van de Zweedse producent van havermelk.",
+   "waaromBelangrijk": "Een Belgische familie-investeerder zet zwaarder in op plantaardige zuivel. Dat toont dat het geloof in die markt er blijft.",
+   "impactVoorJou": "Plantaardige voeding blijft een terrein waar grote investeerders actief zijn. Wie een startup in voeding overweegt, kan uit zo'n deal afleiden dat er kapitaal beschikbaar blijft voor merken die schaal halen.",
    "kansen": [
-    "Kleine, gevestigde software-apps opkopen en ze rendabeler maken.",
-    "Eenvoudige e-mailmarketing voor kmo's die afhaken bij een eigenaarswissel."
+    "Lokale plantaardige alternatieven voor zuivel of andere producten"
    ],
-   "kanttekening": "",
+   "kanttekening": "De bronnen geven geen bedrag of percentage van het belang.",
    "itemIds": [
-    "euronews-18qy7gz"
+    "tijd-ond-1ijtlnw",
+    "lecho-122y3qf"
    ]
   },
   {
-   "id": "s9-scmp-zl98wn",
-   "titel": "Elektrische zware trucks winnen terrein in China",
-   "categorie": "tech",
-   "regio": "wereld",
-   "belang": "middel",
-   "watGebeurt": "Het Franse Ceva Logistics reed 5.000 kilometer met een elektrische zware vrachtwagen door China, van Shenzhen naar Alashankou. Het bedrijf bespaarde 43 procent op energiekosten tegenover een dieseltruck.",
-   "waaromBelangrijk": "Zwaar transport werd lang als moeilijk te elektrificeren gezien. Als het in China op lange afstand al rendabel is, kan Europa volgen.",
-   "impactVoorJou": "Dit is een verhaal dat je in lokaal nieuws zelden ziet. Het toont waar de logistiek over enkele jaren naartoe kan gaan, met kansen rond laadinfrastructuur en planning.",
-   "kansen": [
-    "Planningssoftware voor elektrische vrachtroutes, met laadstops en wachttijden.",
-    "Snellaadparken voor vrachtwagens langs Europese corridors."
-   ],
-   "kanttekening": "Het gaat om één rit van één bedrijf; dat zegt niet alles over de kosten op lange termijn.",
-   "itemIds": [
-    "scmp-zl98wn"
-   ]
-  },
-  {
-   "id": "s10-techcabal-1ith18b",
-   "titel": "Nigeriaanse digitale bank Kuda schrapt opnieuw banen",
-   "categorie": "startups",
-   "regio": "wereld",
+   "id": "s8-tijd-ond-1ijtkx6",
+   "titel": "Pierre Marcolini zoekt redding bij nieuwe eigenaar, Godiva te koop",
+   "categorie": "economie",
+   "regio": "belgie",
    "belang": "laag",
-   "watGebeurt": "Kuda, een Nigeriaanse digitale bank, schrapt 40 banen. Het is de tweede ontslagronde dit jaar. Het bedrijf wil tegen 2027 winstgevend zijn.",
-   "waaromBelangrijk": "Afrikaanse fintechs groeiden snel met investeerdersgeld, maar moeten nu winst tonen. Dat patroon zie je wereldwijd bij jonge bedrijven.",
-   "impactVoorJou": "Het is een herinnering dat snelle groei zonder winst kwetsbaar is. Als je zelf een bedrijf start, kan het helpen om vanaf het begin over winstgevendheid na te denken.",
+   "watGebeurt": "De Belgische luxechocolatier Pierre Marcolini zit opnieuw in stevige financiële problemen. Een nieuwe eigenaar moet het bedrijf redden. De Koreaanse investeringsgroep MBK Partners zoekt ook een koper voor zusterbedrijf Godiva.",
+   "waaromBelangrijk": "Twee bekende Belgische chocolademerken veranderen mogelijk van eigenaar. Ook sterke merken zijn niet immuun voor financiële problemen.",
+   "impactVoorJou": "Een bekend merk is geen garantie op winst. Voor wie een merk in voeding wil bouwen, is dit een herinnering dat kosten en rendabiliteit even belangrijk zijn als imago.",
    "kansen": [],
-   "kanttekening": "",
+   "kanttekening": "De bron vermeldt niet wie de nieuwe eigenaar zou zijn.",
    "itemIds": [
-    "techcabal-1ith18b",
-    "techcabal-94h9fu"
+    "tijd-ond-1ijtkx6"
    ]
   },
   {
-   "id": "s11-nyt-1sz9tvs",
-   "titel": "Veel Etsy-verkopers stoppen om nieuw AI-beleid",
+   "id": "s9-scmp-mbbzk9",
+   "titel": "Zeven op tien nieuwe auto's in China worden elektrisch",
+   "categorie": "economie",
+   "regio": "wereld",
+   "belang": "hoog",
+   "watGebeurt": "Volgens een consortium uit de sector kiezen deze maand zeven op de tien autokopers in China voor een elektrische wagen, volledig elektrisch of plug-in. De Chinese autobouwers zouden 1,15 miljoen elektrische auto's leveren. Benzinewagens vangen de klappen op van de dalende totale verkoop.",
+   "waaromBelangrijk": "China is de grootste automarkt ter wereld. De snelle omschakeling zet druk op autobouwers die nog op benzinewagens rekenen, ook in Europa.",
+   "impactVoorJou": "Wat in China nu standaard wordt, kan later naar Europa komen. Dat kan kansen geven in diensten rond elektrische wagens, maar ook toenemende concurrentie van Chinese merken.",
+   "kansen": [
+    "Diensten rond laden, onderhoud of hergebruik van batterijen van elektrische wagens",
+    "Platformen voor tweedehands elektrische wagens met een betrouwbare batterijcheck"
+   ],
+   "kanttekening": "Het gaat om een verwachting voor deze maand van een sectorconsortium, nog geen definitieve cijfers.",
+   "itemIds": [
+    "scmp-mbbzk9"
+   ]
+  },
+  {
+   "id": "s10-nyt-1sz9tvs",
+   "titel": "Etsy-verkopers vertrekken om nieuwe AI-regels",
    "categorie": "tech",
    "regio": "wereld",
    "belang": "middel",
-   "watGebeurt": "Heel wat verkopers op de online marktplaats Etsy hebben het platform verlaten. Ze willen niet dat hun werk gebruikt wordt om artificiële intelligentie te trainen. Etsy zegt dat het zijn beleid zal herzien.",
-   "waaromBelangrijk": "Makers worden kritischer over wat platformen met hun werk doen. Een marktplaats is afhankelijk van zijn verkopers, en dit toont dat die kunnen weglopen.",
-   "impactVoorJou": "Er lijkt vraag te zijn naar platformen die makers duidelijke controle geven over hun werk. Dat kan een ingang zijn voor een nieuwe marktplaats of dienst.",
+   "watGebeurt": "Heel wat verkopers die al lang op de online marktplaats Etsy zitten, hebben het platform verlaten. Ze willen niet dat hun werk gebruikt wordt om artificiële intelligentie te trainen. Etsy zegt dat het zijn beleid zal herzien.",
+   "waaromBelangrijk": "Makers worden kritischer over wat platformen met hun werk doen. Een platform dat zijn makers verliest, verliest ook zijn aanbod.",
+   "impactVoorJou": "Als je ooit een platform voor makers bouwt, kan duidelijkheid over AI-gebruik een verkoopargument zijn. Vertrouwen van gebruikers kan sneller wegvallen dan je verwacht.",
    "kansen": [
-    "Een marktplaats voor handgemaakte producten met de belofte dat werk nooit voor AI-training gebruikt wordt.",
-    "Tools die makers helpen hun beelden te beschermen tegen gebruik voor AI-training."
+    "Een marktplaats voor makers met een duidelijke belofte dat hun werk niet voor AI-training gebruikt wordt",
+    "Tools die makers helpen hun werk tegen ongewenst AI-gebruik te beschermen"
    ],
-   "kanttekening": "Het artikel zegt niet hoeveel verkopers precies vertrokken zijn.",
+   "kanttekening": "De bron zegt niet hoeveel verkopers vertrokken of wat Etsy precies zal aanpassen.",
    "itemIds": [
     "nyt-1sz9tvs"
    ]
   },
   {
-   "id": "s12-bbc-1aw79hr",
-   "titel": "GTA VI brengt op één dag 3,8 miljard dollar op",
-   "categorie": "economie",
+   "id": "s11-scmp-wbqfp9",
+   "titel": "AI-agenten krijgen een portefeuille in Hongkong",
+   "categorie": "tech",
    "regio": "wereld",
-   "belang": "laag",
-   "watGebeurt": "Het videospel Grand Theft Auto VI bracht op zijn releasedag ongeveer 3,8 miljard dollar op, zo maakte uitgever Take-Two Interactive bekend. Dat is meer dan elke eerdere spellancering en elk eendagsrecord van een film. Het spel werd in voorverkoop meer dan 32 miljoen keer verkocht.",
-   "waaromBelangrijk": "Het toont hoe groot de gamesector als markt is geworden, groter dan film als het op lanceringen aankomt.",
-   "impactVoorJou": "Games zijn een volwassen industrie met veel ruimte voor diensten errond. Rechtstreekse impact is beperkt, maar het is een goed voorbeeld in gesprekken over waar consumenten hun geld aan uitgeven.",
+   "belang": "middel",
+   "watGebeurt": "Minds, een platform van het Web3-bedrijf Animoca Brands, test echte betalingen door AI-agenten op het netwerk van Visa. AI-agenten zijn programma's die zelfstandig taken uitvoeren, zoals iets aankopen. Hongkong wil van zulke agenten alledaagse winkelhulpen maken, en de lokale toezichthouders zetten dat op de beleidsagenda.",
+   "waaromBelangrijk": "Als software zelf aankopen doet, verandert dat hoe winkels verkopen en hoe betalingen gecontroleerd worden. Hongkong probeert hier vroeg bij te zijn.",
+   "impactVoorJou": "Dit kan een nieuw terrein worden waar regels en technologie nog volop in opbouw zijn. Wie vroeg begrijpt hoe zulke agenten betalen, kan een voorsprong hebben.",
    "kansen": [
-    "Diensten rond grote games, zoals tools voor contentmakers of communities."
+    "Beveiliging en limieten voor betalingen door AI-agenten",
+    "Webwinkels die zich aanpassen zodat AI-agenten er vlot kunnen aankopen"
    ],
-   "kanttekening": "Het cijfer is volgens VRT NWS een schatting aan het einde van de eerste verkoopdag.",
+   "kanttekening": "Het gaat om proefprojecten, nog geen breed gebruik.",
    "itemIds": [
-    "bbc-1aw79hr",
-    "vrt-1xcshiz",
-    "nyt-1ybxiox"
+    "scmp-wbqfp9"
    ]
   },
   {
-   "id": "s13-lecho-122y25p",
-   "titel": "Nationale Bank legt Brusselse fintech Paynovate beperkingen op",
-   "categorie": "beleid",
-   "regio": "belgie",
+   "id": "s12-crunchbase-jdx2y",
+   "titel": "Neurotechbedrijf Science haalt 400 miljoen dollar op",
+   "categorie": "startups",
+   "regio": "wereld",
    "belang": "middel",
-   "watGebeurt": "De Nationale Bank van België stelde tekortkomingen vast in de controles van de Brusselse betaalfintech Paynovate tegen witwassen. Daarom mag het bedrijf in principe geen nieuwe klanten meer aannemen.",
-   "waaromBelangrijk": "Toezichthouders treden strenger op tegen fintechs die tekortschieten in controles tegen witwassen. Voor een betaalbedrijf kan een klantenstop zwaar wegen.",
-   "impactVoorJou": "Wie een fintech start, krijgt te maken met strikte regels. Dit toont dat compliance geen bijzaak is maar een kernonderdeel van het bedrijf.",
-   "kansen": [
-    "Betaalbare software voor witwascontroles, op maat van kleine fintechs.",
-    "Advies voor jonge fintechs om aan de regels van de toezichthouder te voldoen."
-   ],
-   "kanttekening": "Het artikel geeft geen details over de vastgestelde tekortkomingen.",
+   "watGebeurt": "Science, een Amerikaans bedrijf dat werkt aan verbindingen tussen hersenen en computers, haalde 400 miljoen dollar op. Dat was volgens Crunchbase News de grootste financieringsronde van de week. Ook in AI, fintech en biotech waren er grote rondes.",
+   "waaromBelangrijk": "Ondanks de onrust op de beurs blijven investeerders grote bedragen in diepe technologie steken. Neurotech trekt steeds meer kapitaal aan.",
+   "impactVoorJou": "Neurotech is een sector waar veel geld naartoe gaat, maar die ook veel onderzoek en tijd vraagt. Het kan nuttig zijn om te volgen welke toepassingen eerst commercieel worden.",
+   "kansen": [],
+   "kanttekening": "",
    "itemIds": [
-    "lecho-122y25p"
+    "crunchbase-jdx2y"
+   ]
+  },
+  {
+   "id": "s13-techcabal-qs8s2p",
+   "titel": "Moniepoint opent regionaal hoofdkantoor in Abuja",
+   "categorie": "startups",
+   "regio": "wereld",
+   "belang": "laag",
+   "watGebeurt": "Moniepoint, een microfinancieringsbank, heeft een regionaal hoofdkantoor geopend in Abuja. Volgens TechCabal duwen regels van de CBN microfinancieringsbanken met een nationale licentie om meer fysieke aanwezigheid uit te bouwen.",
+   "waaromBelangrijk": "Zelfs een digitale bank moet in Nigeria door de regels meer kantoren openen. Regelgeving kan het model van een fintech sterk bepalen.",
+   "impactVoorJou": "Een les voor elke fintechondernemer: regels kunnen je dwingen te investeren in iets wat je businessmodel niet voorzag. Het loont om regelgeving vanaf het begin mee te nemen.",
+   "kansen": [],
+   "kanttekening": "",
+   "itemIds": [
+    "techcabal-qs8s2p"
    ]
   }
  ],
  "items": [
   {
-   "id": "bbc-1aw79hr",
-   "sourceId": "bbc",
-   "titel": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
-   "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-   "snippet": "The mammoth figure surpasses every video game launch and single-day film box office record.",
-   "datum": 1795215204000
+   "id": "tijd-ond-1ijtlpl",
+   "sourceId": "tijd-ond",
+   "titel": "Woede en onbegrip over vakbondsactie die Belgisch vliegverkeer maandag lamlegt",
+   "link": "https://www.tijd.be/r/t/1/id/10706522",
+   "snippet": "Het luchtverkeer zal maandag in heel België onderbroken zijn. Dat meldt luchtverkeersleider Skeyes zaterdag. De luchtvaartsector reageert gefrustreerd en misnoegd.",
+   "datum": 1795300260000
   },
   {
-   "id": "nyt-qt9rt5",
+   "id": "nyt-7unrp8",
    "sourceId": "nyt",
-   "titel": "Stocks Skid Into a Correction, as A.I. Worries Intensify",
-   "link": "https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html",
-   "snippet": "The S&P 500 ended the day down more than 10 percent from its recent high, in a symbolic measure of investors’ souring mood.",
-   "datum": 1795214852000
+   "titel": "Nvidia Said to Face S.E.C. Probe Into Its Accounting Practices",
+   "link": "https://www.nytimes.com/2026/11/20/business/nvidia-sec-accounting.html",
+   "snippet": "Questions around the company’s accounting had surfaced amid revelations about its questionable chip sales in Asia.",
+   "datum": 1795291656000
+  },
+  {
+   "id": "vrt-1s6agu3",
+   "sourceId": "vrt",
+   "titel": "\"Onverantwoord en volledig disproportioneel\": Luchtvaartsector misnoegd over staking luchtverkeersleiders",
+   "link": "https://vrtnws.be/p.nwv64k3DN",
+   "snippet": "De luchtvaartsector reageert misnoegd op de staking van de luchtverkeersleiders bij Skeyes maandag. BAR Belgium, een beroepsfederatie van een 25-tal luchtvaartmaatschappijen actief in ons land, noemt de vakbondsactie \"buitensporig, onverantwoord en volledig disproportioneel\". Brussels Airlines en Brussels Airport be…",
+   "datum": 1795286416000
+  },
+  {
+   "id": "vrt-1tr6dgk",
+   "sourceId": "vrt",
+   "titel": "Alle vluchten op Belgische luchthavens maandag geschrapt door nationale betoging, Brussels Airport verwachtte 60.000 reizigers",
+   "link": "https://vrtnws.be/p.3BwjN6vlb",
+   "snippet": "Door de nationale betoging worden alle vluchten op de Belgische luchthavens op maandag 23 november geschrapt. Dat meldt luchtverkeersleider Skeyes. Ook 4 op de 10 bussen en trams van De Lijn rijden maandag niet. De 3 grote vakbonden trekken maandag opnieuw door Brussel om te betogen tegen het beleid van de federale…",
+   "datum": 1795281647000
+  },
+  {
+   "id": "vrt-6wsrj0",
+   "sourceId": "vrt",
+   "titel": "Lagere importheffingen op auto's en betere toegang tot kobalt en nikkel: EU en Indonesië ondertekenen handelsakkoord",
+   "link": "https://vrtnws.be/p.ew4DNpJpj",
+   "snippet": "De Europese Unie en Indonesië hebben in Brussel een handelsakkoord ondertekend. Het akkoord omvat onder meer lagere heffingen op de import van auto's en betere toegang voor Europa tot grondstoffen zoals kobalt en nikkel, die cruciaal zijn voor de productie van batterijen. Volgend jaar zou het akkoord in werking kunn…",
+   "datum": 1795275579000
+  },
+  {
+   "id": "nyt-1sz9tvs",
+   "sourceId": "nyt",
+   "titel": "Many Etsy Sellers Close Up Shop Over Site’s New A.I. Policy",
+   "link": "https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html",
+   "snippet": "Numerous longtime users of the online marketplace have left the platform because they do not want their work training artificial intelligence. Etsy said it would revise its policy.",
+   "datum": 1795269865000
+  },
+  {
+   "id": "tijd-ond-1ijtkx6",
+   "sourceId": "tijd-ond",
+   "titel": "Nieuwe eigenaar moet luxechocolatier Pierre Marcolini redden",
+   "link": "https://www.tijd.be/r/t/1/id/10706442",
+   "snippet": "De bekende Belgische luxechocolatier Pierre Marcolini zit opnieuw in stevige financiële problemen. Een nieuwe eigenaar moet het bedrijf redden. Ook voor zusteronderneming Godiva zoekt de Koreaanse investeringsgroep MBK Partners een koper, zo raakt nu formeel bekend.",
+   "datum": 1795266976000
+  },
+  {
+   "id": "techcabal-qs8s2p",
+   "sourceId": "techcabal",
+   "titel": "Moniepoint MFB opens Northern regional headquarters in physical banking push",
+   "link": "https://techcabal.com/2026/11/21/moniepoint-northern-regional-headquarters/",
+   "snippet": "Moniepoint has commissioned its North Central regional headquarters in Abuja as CBN requirements push nationally licensed microfinance banks to expand their physical presence.",
+   "datum": 1795262622000
+  },
+  {
+   "id": "lecho-122y3qf",
+   "sourceId": "lecho",
+   "titel": "Verlinvest devient le principal actionnaire du producteur laitier suédois Oatly",
+   "link": "https://www.lecho.be/r/t/1/id/10706511",
+   "snippet": "Verlinvest, le véhicule d'investissement de la famille de Spoelberch (AB InBev), rachète la participation de son partenaire China Resources Enterprise dans Oatly. Verlinvest devient ainsi le principal actionnaire du producteur suédois de lait d'avoine.",
+   "datum": 1795257556000
+  },
+  {
+   "id": "nyt-17lnv3o",
+   "sourceId": "nyt",
+   "titel": "Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley",
+   "link": "https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html",
+   "snippet": "The A.I. giant broke records with its initial public offering this week before a rocky first full day of trading, as the markets plunged on worries about artificial intelligence spending.",
+   "datum": 1795255425000
+  },
+  {
+   "id": "tijd-ond-1ijtlnw",
+   "sourceId": "tijd-ond",
+   "titel": "Verlinvest wordt grootste aandeelhouder bij Zweedse melkproducent Oatly",
+   "link": "https://www.tijd.be/r/t/1/id/10706507",
+   "snippet": "Verlinvest, het investeringsvehikel van de AB InBev-familie de Spoelberch, koopt het belang van zijn partner China Resources Enterprise in Oatly over. Op die manier wordt Verlinvest de grootste aandeelhouder bij de Zweedse havermelkproducent.",
+   "datum": 1795254100000
+  },
+  {
+   "id": "lecho-122y3pp",
+   "sourceId": "lecho",
+   "titel": "L'action de bpost perd 40 % en deux semaines",
+   "link": "https://www.lecho.be/r/t/1/id/10706508",
+   "snippet": "Une chute du cours de près de 40 % en deux semaines et un actionnaire principal qui n'est pas convaincu du succès du plan de transformation du CEO Chris Peeters. Bnode, la société mère de bpost, se dirige vers une crise existentielle.",
+   "datum": 1795252466000
+  },
+  {
+   "id": "scmp-mbbzk9",
+   "sourceId": "scmp",
+   "titel": "China’s EV adoption rate to top 70% as petrol cars take brunt of drop in overall sales",
+   "link": "https://www.scmp.com/business/china-business/article/3375236/chinas-ev-adoption-rate-top-70-petrol-cars-take-brunt-drop-overall-sales",
+   "snippet": "Seven out of 10 car buyers in mainland China this month will opt for electric vehicles (EVs), as petrol-guzzling options fall further out of favour in the world’s largest market, according to an industry consortium. The country’s carmakers were expected to deliver 1.15 million EVs – comprising pure-electric and plug…",
+   "datum": 1795240809000
+  },
+  {
+   "id": "tijd-ond-1ijtlnr",
+   "sourceId": "tijd-ond",
+   "titel": "Aandeel Bpost verliest 40 procent in twee weken",
+   "link": "https://www.tijd.be/r/t/1/id/10706502",
+   "snippet": "Een koersval van bijna 40 procent in twee weken en een hoofdaandeelhouder die niet overtuigd is van het welslagen van het transformatieplan van CEO Chris Peeters: Bnode, het moederconcern van Bpost, stevent af op een existentiële crisis.",
+   "datum": 1795233682000
+  },
+  {
+   "id": "scmp-wbqfp9",
+   "sourceId": "scmp",
+   "titel": "AI agents are getting wallets. Is Hong Kong ready for them?",
+   "link": "https://www.scmp.com/tech/big-tech/article/3375253/ai-agents-are-getting-wallets-hong-kong-ready-them",
+   "snippet": "Minds by Animoca Brands, an agentic artificial intelligence platform created by the Web3 firm, is riding on Hong Kong’s push to turn automated agents into everyday shopping tools, piloting live transactions on Visa’s network just as local regulators place agentic commerce on the policy agenda. Unlike conventional ch…",
+   "datum": 1795228205000
   },
   {
    "id": "bbc-vzwb87",
@@ -289,36 +375,12 @@
    "datum": 1795214567000
   },
   {
-   "id": "nyt-1sz9tvs",
-   "sourceId": "nyt",
-   "titel": "Many Etsy Sellers Close Up Shop Over Site’s New A.I. Policy",
-   "link": "https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html",
-   "snippet": "Numerous longtime users of the online marketplace have left the platform because they do not want their work training artificial intelligence. Etsy said it would revise its policy.",
-   "datum": 1795211444000
-  },
-  {
-   "id": "vrt-1xcshiz",
-   "sourceId": "vrt",
-   "titel": "'GTA VI' brengt bij release ongeveer 3,5 miljard euro op",
-   "link": "https://vrtnws.be/p.kQONmoRY5",
-   "snippet": "Videospel 'GTA VI' heeft op de releasedag al bijna 3,5 miljard euro opgebracht. Dat maakt uitgever Take-Two Interactive bekend. Het cijfer is gebaseerd op schattingen aan het einde van de eerste verkoopdag. Het spel werd in voorverkoop meer dan 32 miljoen keer verkocht.",
-   "datum": 1795210797000
-  },
-  {
    "id": "guardian-1nsb0fw",
    "sourceId": "guardian",
    "titel": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
    "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
    "snippet": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildout Who are Anthropic’s seven co-founders, now worth $180bn? As Anthropic’s stock dropped during its second day of trading, the wider stock market dipped with it. On Friday, the…",
    "datum": 1795210697000
-  },
-  {
-   "id": "nyt-1ybxiox",
-   "sourceId": "nyt",
-   "titel": "Grand Theft Auto VI Made $3.79 Billion in a Single Day",
-   "link": "https://www.nytimes.com/2026/11/20/arts/grand-theft-auto-vi-sales-revenue.html",
-   "snippet": "Anticipation was high after a 13-year gap in the game franchise. No movie has ever made more than $3 billion at the box office.",
-   "datum": 1795209700000
   },
   {
    "id": "bbc-2ciab7",
@@ -329,12 +391,12 @@
    "datum": 1795208052000
   },
   {
-   "id": "nyt-1r57y7l",
-   "sourceId": "nyt",
-   "titel": "Trump Threatens to Bar U.S. Tech Firms From Building Data Centers Abroad",
-   "link": "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html",
-   "snippet": "The president suggested he would tax the same companies, though it was not clear how he would carry out the plan unveiled at a news conference.",
-   "datum": 1795200682000
+   "id": "crunchbase-jdx2y",
+   "sourceId": "crunchbase",
+   "titel": "The Week’s 10 Biggest Funding Rounds: $400M For Neurotech Leads, Followed By Big Deals For AI, Fintech, Biotech And More",
+   "link": "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/",
+   "snippet": "U.S. startups continued to secure sizable rounds, led by brain-computer interface company Science securing a fresh $400 million.",
+   "datum": 1795205754000
   },
   {
    "id": "guardian-1tiwbox",
@@ -353,272 +415,100 @@
    "datum": 1795196988000
   },
   {
-   "id": "vrt-1ur5bi1",
-   "sourceId": "vrt",
-   "titel": "Rechter geeft Land Rover gelijk: BYD mag 'Chinese Defender-kloon' voorlopig niet verkopen in Europese Unie",
-   "link": "https://vrtnws.be/p.RaJX8b6x6",
-   "snippet": "De Chinese autobouwer BYD mag zijn Ti 7-model voorlopig niet verkopen in de Europese Unie omdat die te sterk lijkt op de Land Rover Defender. Dat heeft een rechter in Nederland beslist. De uitspraak komt er nadat de Britse autobouwer Jaguar Land Rover (JLR) een zaak had aangespannen tegen BYD omwille van plagiaat.",
-   "datum": 1795194338000
-  },
-  {
-   "id": "lecho-122y30s",
-   "sourceId": "lecho",
-   "titel": "Land Rover gagne une manche dans sa bataille contre le \"Defender\" de BYD",
-   "link": "https://www.lecho.be/r/t/1/id/10706462",
-   "snippet": "BYD ne peut pas vendre dans l'UE son véhicule ressemblant trop au Land Rover Defender. Pour l'instant... Une décision qui devra encore être confirmée sur le fond.",
-   "datum": 1795193872000
-  },
-  {
-   "id": "lecho-122y2z0",
-   "sourceId": "lecho",
-   "titel": "Le secteur chimique belge a perdu 20% de ses emplois en 25 ans",
-   "link": "https://www.lecho.be/r/t/1/id/10706444",
-   "snippet": "La fermeture de l’usine de 3M et la faillite de Vynova illustrent une nouvelle fois les faiblesses de la chimie belge. L’emploi recule et les nouveaux projets d’investissement se font attendre.",
-   "datum": 1795193840000
-  },
-  {
-   "id": "vrt-jt0g5l",
-   "sourceId": "vrt",
-   "titel": "Blije gezichten na akkoord tussen EU en VK: \"We bouwen de bruggen weer op die jaren geleden zijn afgebroken\"",
-   "link": "https://vrtnws.be/p.M9mWkmyGa",
-   "snippet": "Zowel de leiders van de Europese Unie als de Britse premier Andy Burnham zijn duidelijk tevreden met het akkoord dat ze vandaag gesloten hebben. Burnham heeft het zelfs over een \"historisch moment\". En hier en daar worden al grapjes gemaakt over een mogelijke terugkeer van de Britten in de Unie. Al zal Europa \"gelij…",
-   "datum": 1795193819000
-  },
-  {
    "id": "bbc-8dkrdr",
    "sourceId": "bbc",
    "titel": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
    "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
    "snippet": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
    "datum": 1795192912000
-  },
-  {
-   "id": "tijd-ond-1ijtkwc",
-   "sourceId": "tijd-ond",
-   "titel": "In 25 jaar verdween een vijfde van de Belgische chemiejobs",
-   "link": "https://www.tijd.be/r/t/1/id/10706435",
-   "snippet": "De fabriekssluiting van 3M en het faillissement van Vynova illustreren nogmaals de zwakte van de Belgische chemie. De tewerkstelling daalt en nieuwe investeringsprojecten blijven uit. ‘Deze crisis doet veel meer pijn.’",
-   "datum": 1795191304000
-  },
-  {
-   "id": "tijd-ond-1ijtk5n",
-   "sourceId": "tijd-ond",
-   "titel": "Vandemoortele sluit donutfabriek in Henegouwen: 126 jobs verdwijnen",
-   "link": "https://www.tijd.be/r/t/1/id/10706371",
-   "snippet": "Vandemoortele heeft de intentie om zijn fabriek in Seneffe te sluiten, waardoor 126 jobs bedreigd zijn. Het hevelt de productie van diepgevroren donuts over naar de vestiging in het Franse Reims.",
-   "datum": 1795178545000
-  },
-  {
-   "id": "lecho-122y29g",
-   "sourceId": "lecho",
-   "titel": "Vandemoortele veut fermer son site à Seneffe: 126 emplois menacés",
-   "link": "https://www.lecho.be/r/t/1/id/10706398",
-   "snippet": "Vandemoortele envisage de fermer son site de Seneffe. La procédure Renault a été enclenchée ce vendredi. Au total, 126 emplois sont menacés.",
-   "datum": 1795177032000
-  },
-  {
-   "id": "euronews-18qy7gz",
-   "sourceId": "euronews",
-   "titel": "Bending Spoons to buy Mailchimp from Intuit in €3.35bn deal",
-   "link": "https://www.euronews.com/2026/11/20/bending-spoons-to-buy-mailchimp-from-intuit-in-332-billion-deal",
-   "snippet": "The Italian tech company behind WeTransfer and Vimeo has agreed to buy email marketing platform Mailchimp. Intuit is selling it for less than a third of what it paid in 2021.",
-   "datum": 1795174754000
-  },
-  {
-   "id": "euronews-2ya53h",
-   "sourceId": "euronews",
-   "titel": "Lufthansa plans 1,000 job cuts in Frankfurt and Munich as Iran war slows turnaround",
-   "link": "https://www.euronews.com/2026/11/20/lufthansa-plans-1000-job-cuts-in-frankfurt-and-munich-as-iran-war-slows-turnaround",
-   "snippet": "Lufthansa plans to cut 1,000 full-time jobs in Frankfurt and Munich as strikes and soaring fuel costs linked to the Iran war slow its turnaround. Its flagship airline lost €20 million a month on average from January to September, according to a letter to staff.",
-   "datum": 1795174514000
-  },
-  {
-   "id": "lecho-122y25p",
-   "sourceId": "lecho",
-   "titel": "La BNB épingle la fintech bruxelloise Paynovate pour ses contrôles antiblanchiment trop laxistes",
-   "link": "https://www.lecho.be/r/t/1/id/10706355",
-   "snippet": "Paynovate, fintech bruxelloise active dans les paiements, ne peut en principe plus accueillir de nouveaux clients. La BNB a pris cette décision après avoir constaté des manquements dans les contrôles liés aux risques de blanchiment.",
-   "datum": 1795169323000
-  },
-  {
-   "id": "dw-u0nmqg",
-   "sourceId": "dw",
-   "titel": "Lufthansa to cut 1,000 jobs, citing ongoing losses — reports",
-   "link": "https://www.dw.com/en/lufthansa-to-cut-1-000-jobs-citing-ongoing-losses-reports/a-80000062?maca=en-rss-en-bus-2091-rdf",
-   "snippet": "According to a letter obtained by the media, Lufthansa's executive board said the German company is losing €20 million every month. In addition to job cuts, operational cuts are also planned.",
-   "datum": 1795167780000
-  },
-  {
-   "id": "scmp-zl98wn",
-   "sourceId": "scmp",
-   "titel": "China’s battery-powered heavy trucks see electric growth",
-   "link": "https://www.scmp.com/plus/business/china-evs/article/3375206/chinas-battery-powered-heavy-trucks-see-electric-growth",
-   "snippet": "On a recent 5,000-kilometre journey by battery-electric heavy truck in China, Ceva Logistics slashed energy costs by 43 per cent compared with using a diesel-powered equivalent. The French company’s economical road trip from Shenzhen in the country’s south to Alashankou in the far northwest, which involved nine rech…",
-   "datum": 1795162718000
-  },
-  {
-   "id": "scmp-1rw0l9e",
-   "sourceId": "scmp",
-   "titel": "Anthropic’s US$81b IPO, gold price drops: 5 figures investors are watching this week",
-   "link": "https://www.scmp.com/business/china-business/article/3375169/anthropics-us81b-ipo-gold-price-drops-5-figures-investors-are-watching-week",
-   "snippet": "A record-breaking IPO from Anthropic capped off this week’s market headlines, sending US and Asian tech stocks sliding in its wake and adding new fuel to the artificial intelligence race, following the meeting between Chinese President Xi Jinping, US President Donald Trump and Russian President Vladimir Putin at the…",
-   "datum": 1795158010000
-  },
-  {
-   "id": "techcabal-94h9fu",
-   "sourceId": "techcabal",
-   "titel": "👨🏿‍🚀TechCabal Daily – Kuda cuts jobs, again",
-   "link": "https://techcabal.com/2026/11/20/techcabal-daily-kuda-cuts-jobs-again/",
-   "snippet": "In today's edition: Kuda cuts jobs || Terra Industries backs Community Wolf || Nigeria's taxman gives crypto firms a deadline || Who secured the bag? 💰",
-   "datum": 1795154451000
-  },
-  {
-   "id": "euronews-1dlhx3n",
-   "sourceId": "euronews",
-   "titel": "Anthropic shares open 34% above IPO price in Nasdaq debut after record listing",
-   "link": "https://www.euronews.com/2026/11/19/anthropic-shares-open-34-above-ipo-price-in-nasdaq-debut-after-record-listing",
-   "snippet": "Anthropic shares opened at $111.50 in their Nasdaq debut on Thursday, 34% above their $83 IPO price, putting the Claude maker on track for a $2 trillion valuation (€1.8tn) after it raised $81.3 billion (€74bn) in the largest initial public offering in history.",
-   "datum": 1795108110000
-  },
-  {
-   "id": "dw-wkj8b7",
-   "sourceId": "dw",
-   "titel": "Anthropic trading tests investors' appetite for AI",
-   "link": "https://www.dw.com/en/anthropic-trading-tests-investors-appetite-for-ai/a-79993163?maca=en-rss-en-bus-2091-rdf",
-   "snippet": "Anthropic was valued at $2 trillion after shares started trading on the Nasdaq following a record $81 billion IPO. Its performance will put investor confidence in AI to the test.",
-   "datum": 1795103520000
-  },
-  {
-   "id": "techcabal-1ith18b",
-   "sourceId": "techcabal",
-   "titel": "Kuda cuts jobs for second time in 2026 as it targets 2027 profitability",
-   "link": "https://techcabal.com/2026/11/19/kuda-cut-jobs-again/",
-   "snippet": "Kuda, the Nigerian digital bank, is cutting jobs for the second time this year. This time, it is cutting 40 jobs, as it pursues group profitability.",
-   "datum": 1795100528000
   }
  ],
  "gezienIds": [
-  "scmp-1l57pua",
-  "bbc-1aw79hr",
-  "nyt-qt9rt5",
-  "bbc-vzwb87",
-  "nyt-1ogq08d",
+  "scmp-1pt00fl",
+  "nyt-1yoygu2",
+  "vrt-6syszb",
+  "vrt-sn0v2d",
+  "tijd-ond-1ijtlpl",
+  "vrt-wysozw",
+  "nyt-7unrp8",
+  "vrt-7q5bh",
+  "vrt-1s6agu3",
+  "nyt-zisbty",
+  "nyt-eocvyg",
+  "vrt-evods",
+  "vrt-1tr6dgk",
+  "vrt-1oicwfb",
+  "euronews-1rp1147",
+  "vrt-oztdnt",
+  "tijd-ond-1ijtlov",
+  "vrt-6wsrj0",
+  "vrt-1vujrye",
+  "vrt-ow8kc8",
+  "nyt-1ib1eh4",
   "nyt-1sz9tvs",
-  "vrt-1xcshiz",
+  "nyt-15hshf2",
+  "tijd-ond-1ijtkx6",
+  "nyt-1u1w5wn",
+  "guardian-10n6alp",
+  "nyt-nt4iv6",
+  "bbc-1oqqr97",
+  "techcabal-qs8s2p",
+  "cnbc-hf2zo4",
+  "techcabal-1u5i25d",
+  "lecho-122y3qf",
+  "tijd-ond-1ijtlny",
+  "lecho-122y3qe",
+  "nyt-17lnv3o",
+  "nyt-25odio",
+  "nyt-9vuvmc",
+  "tijd-ond-1ijtlnw",
+  "lecho-122y3pp",
+  "tijd-ond-1ijthk9",
+  "scmp-1w076lt",
+  "scmp-mbbzk9",
+  "lecho-122xzos",
+  "lecho-11m1p7h",
+  "lecho-122y0kq",
+  "lecho-122y1ai",
+  "tijd-ond-1ijtlnr",
+  "tijd-ond-1ijsxgw",
+  "tijd-ond-1ijthj7",
+  "lecho-122y26q",
+  "lecho-122y33o",
+  "lecho-122y25l",
+  "tijd-ond-1ijtj5z",
+  "scmp-wbqfp9",
+  "scmp-1l57pua",
+  "guardian-122rh3t",
+  "bbc-1aw79hr",
+  "bbc-vzwb87",
   "guardian-1nsb0fw",
-  "nyt-1ybxiox",
   "fed-1hby0vp",
   "cnbc-1rh0pk4",
-  "vrt-m9rx3a",
   "bbc-2ciab7",
-  "vrt-1l2g5k5",
   "crunchbase-jdx2y",
-  "vrt-1x3p250",
-  "nyt-17nn1y5",
-  "vrt-x7ybba",
-  "nyt-17qug4o",
-  "lecho-122y3ph",
-  "nyt-1r57y7l",
-  "vrt-1kzy1eu",
   "guardian-1tiwbox",
   "mittr-h5i1v4",
-  "nyt-1k7x88d",
   "bbc-wg51mc",
-  "vrt-5lkz99",
-  "nyt-nt4iv6",
-  "nyt-w9rdr9",
-  "vrt-1ur5bi1",
-  "vrt-6gi3ms",
-  "lecho-122y30s",
-  "lecho-122y2z0",
-  "vrt-jt0g5l",
+  "eustartups-1rv4xws",
   "bbc-8dkrdr",
-  "tijd-ond-1ijtkw7",
-  "vrt-6ogf57",
-  "vrt-6kcygc",
-  "tijd-ond-1ijtk16",
-  "tijd-ond-1ijtkwc",
-  "tijd-ond-1ijtkyz",
   "sifted-17bsb6q",
-  "nyt-vyxfo2",
   "cnbc-1gpqvn6",
   "bbc-12lgvjw",
   "bbc-b1vpzl",
   "dw-u1sfcb",
   "sifted-6yavqj",
-  "tijd-ond-1ijtkul",
-  "nyt-8svo46",
   "bbc-lfit7c",
   "fed-1hb8ltg",
-  "tijd-ond-1ijthii",
   "techcabal-xptt5f",
   "bbc-1qiavlz",
-  "lecho-122y2x9",
-  "tijd-ond-1ijtjdg",
-  "tijd-ond-1i23txu",
+  "eustartups-1dn0hgj",
   "techcabal-8n4czm",
   "guardian-1sg97ia",
   "euronews-1vcaq5n",
   "scmp-1i1kmrb",
   "euronews-1i58mrt",
-  "lecho-122y2y1",
   "scmp-1nv0urg",
-  "mittr-15xwzoq",
-  "tijd-ond-1ijtkve",
-  "sifted-1omcv9k",
-  "tijd-ond-1ijtk5n",
-  "techcabal-1iig4c9",
-  "lecho-122y29g",
-  "lecho-122y23y",
-  "crunchbase-s6ixrf",
-  "cnbc-115ge30",
-  "cnbc-1hhm5nm",
-  "crunchbase-175eero",
-  "scmp-f3nyei",
-  "euronews-1f7gooe",
-  "euronews-18qy7gz",
-  "euronews-2ya53h",
-  "euronews-bbu9p9",
-  "lecho-122y25p",
-  "scmp-9465aj",
-  "bbc-gpy6jj",
-  "lecho-122y24t",
-  "dw-u0nmqg",
-  "scmp-xuw8m0",
-  "sifted-1oabtxm",
-  "euronews-1z0cytg",
-  "ecb-dkk7ck",
-  "techcabal-1hu6r5f",
-  "scmp-zl98wn",
-  "scmp-kjsrps",
-  "bbc-1alvmtb",
-  "lecho-122y217",
-  "guardian-kcwb3j",
-  "scmp-1rw0l9e",
-  "techcabal-4c9y4r",
-  "bbc-ntd59j",
-  "techcabal-94h9fu",
-  "scmp-ye1n9s",
-  "sifted-6jr4qf",
-  "sifted-ogsio5",
-  "sifted-15l2j5c",
-  "scmp-1gqqmjv",
-  "sifted-e7wtjb",
-  "sifted-gn12yh",
-  "scmp-1bsuhnz",
-  "cnbc-hufx2c",
-  "guardian-6vj812",
-  "euronews-1dlhx3n",
-  "techcabal-c7vmjc",
-  "fed-18315lc",
-  "dw-wkj8b7",
-  "euronews-17ow62p",
-  "guardian-atazr6",
-  "techcabal-1ith18b",
-  "guardian-gszkyd",
-  "euronews-1j857p4",
-  "sifted-1wk86ca",
-  "sifted-8dtulq",
-  "mittr-fmg8z8"
+  "mittr-15xwzoq"
  ]
 }
