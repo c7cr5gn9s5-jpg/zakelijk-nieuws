@@ -1,398 +1,631 @@
 {
- "gemaaktOp": 1795396181692,
+ "gemaaktOp": 1795482585466,
  "model": "nachtelijke taak",
  "stories": [
   {
-   "id": "s0-scmp-13rusxt",
-   "titel": "China verlaagt drempel voor beurshandel om koersdaling te stoppen",
-   "categorie": "economie",
-   "regio": "wereld",
-   "belang": "hoog",
-   "watGebeurt": "China heeft een reeks maatregelen genomen om handelen op zijn grote beurzen makkelijker te maken. De beurswaakhond liet de beurzen van Shanghai en Shenzhen de minimale margeratio verlagen, dat is het deel dat beleggers zelf moeten inbrengen als ze met geleend geld handelen. Het doel is een koersdaling te stoppen te midden van een wereldwijde beursval.",
-   "waaromBelangrijk": "Als een overheid het makkelijker maakt om met geleend geld te beleggen, wil ze snel vertrouwen en volume terugbrengen. Dat zegt iets over hoe zwaar de beursdaling weegt, ook buiten China.",
-   "impactVoorJou": "Een wereldwijde beursdaling kan het voor jonge bedrijven moeilijker maken om geld op te halen, omdat investeerders voorzichtiger worden. Het kan nuttig zijn om te volgen of zulke steunmaatregelen werken, omdat ze het klimaat voor investeringen de komende maanden mee kunnen bepalen.",
-   "kansen": [
-    "Eenvoudige tools die particuliere beleggers tonen hoeveel risico ze lopen als ze met geleend geld beleggen."
-   ],
-   "kanttekening": "Het artikel zegt niet hoe groot de verlaging precies is of hoe de markt erop reageerde.",
-   "itemIds": [
-    "scmp-13rusxt"
-   ]
-  },
-  {
-   "id": "s1-bbc-pmz87x",
-   "titel": "Twijfel groeit over de AI-hausse",
+   "id": "s0-bbc-1eawdhs",
+   "titel": "Jensen Huang terug als CEO van Nvidia na druk van Trump",
    "categorie": "tech",
    "regio": "wereld",
    "belang": "hoog",
-   "watGebeurt": "Volgens de BBC maken mensen die in San Francisco in de AI-sector werken zich zorgen dat de sector oververhit is en dat er een crash kan komen. San Francisco is het centrum van de AI-industrie en beleeft er een hausse.",
-   "waaromBelangrijk": "Wanneer mensen binnen de sector zelf aan een bubbel denken, is dat een signaal om op te letten. Een afkoeling zou investeringen, waarderingen en aanwervingen in AI kunnen raken.",
-   "impactVoorJou": "Als je aan een AI-startup denkt, kan het verstandig zijn om te mikken op een product dat echt geld oplevert in plaats van op hype. In een afkoelende markt zouden investeerders strenger kunnen kijken naar inkomsten en kosten.",
+   "watGebeurt": "Nvidia heeft Jensen Huang opnieuw aangesteld als CEO. Hij was op 12 november opgestapt na onthullingen over buitenechtelijke relaties, onder meer met een vermoedelijke Chinese spion. De raad van bestuur stemde unaniem voor zijn terugkeer, nadat president Trump daarop had aangedrongen. Het aandeel sloot meer dan 30 procent hoger, Nvidia won bijna 1.000 miljard dollar aan beurswaarde en de Nasdaq steeg 6,5 procent.",
+   "waaromBelangrijk": "Nvidia is de spil van de AI-boom en trekt de hele beurs mee. Dat een president een raad van bestuur in feite overrulet, roept vragen op over goed bestuur en politieke invloed op bedrijven.",
+   "impactVoorJou": "Dit toont hoe afhankelijk de AI-markt is van één bedrijf en zelfs van één persoon. Wie later een AI-startup bouwt, zou die afhankelijkheid van een paar chipleveranciers kunnen meenemen in zijn risico-inschatting. Het is ook een sterk voorbeeld voor gesprekken over governance: wie beslist echt in een groot bedrijf?",
    "kansen": [
-    "AI-toepassingen voor één concrete, saaie bedrijfstaak met meetbare besparing, die ook overeind blijven als de hype zakt."
+    "Tools die het concentratierisico van bedrijven bij één leverancier of sleutelfiguur in kaart brengen",
+    "Onafhankelijke governance-analyse voor beleggers die snel willen inschatten hoe sterk een raad van bestuur staat"
    ],
-   "kanttekening": "Het gaat om zorgen en verwachtingen, niet om een vastgestelde crash. The Economist en The New York Times brengen gelijkaardige analyses, maar dat zijn aparte stukken.",
+   "kanttekening": "Volgens governance-experts in The New York Times heeft Trump de raad in feite overruled. Huang moet op 1 december vragen beantwoorden in het Amerikaanse Congres. De Tijd wijst op juridische en ethische risico's op termijn; L'Echo meldt vermoedens van belangenvermenging, ook bij Republikeinen.",
    "itemIds": [
-    "bbc-pmz87x"
+    "bbc-1eawdhs",
+    "guardian-ewz198",
+    "nyt-1br1apg",
+    "nyt-dnc3tl",
+    "bbc-uaas5",
+    "nyt-1anvbtb",
+    "nyt-jq6l2t",
+    "bbc-1idblzg",
+    "dw-caewao",
+    "euronews-o47jfc",
+    "euronews-opm6sv",
+    "lecho-122y4mo",
+    "tijd-ond-1ijtmnj",
+    "tijd-ond-1ijtmok"
    ]
   },
   {
-   "id": "s2-cnbc-14dyyv1",
-   "titel": "Amerikaanse robotstartup Foundation zit krap bij kas",
-   "categorie": "startups",
+   "id": "s1-nyt-9oasfm",
+   "titel": "VS zet Singaporese Megaspeed op zwarte handelslijst",
+   "categorie": "beleid",
    "regio": "wereld",
    "belang": "middel",
-   "watGebeurt": "Werknemers van robotstartup Foundation, die gesteund wordt door Eric Trump, verliezen hun ziekteverzekering omdat het bedrijf steeds krapper bij kas zit. Foundation zoekt een noodlening en praat met durfkapitaalfondsen, terwijl het wacht op een investering van 150 miljoen dollar van de Zuid-Koreaanse Base Group.",
-   "waaromBelangrijk": "Zelfs startups met bekende steun kunnen in de problemen komen als een beloofde investering op zich laat wachten. Een overbruggingslening is een tijdelijke lening om die periode te overbruggen.",
-   "impactVoorJou": "Dit toont hoe kwetsbaar een startup is die afhangt van één grote investeerder. Als je later zelf geld ophaalt, kan het slim zijn om genoeg buffer te houden en niet op één toezegging te bouwen.",
+   "watGebeurt": "De regering-Trump heeft sancties opgelegd aan Megaspeed, een Singaporees bedrijf dat centraal staat in het Nvidia-schandaal. Het bedrijf staat nu op de entity list, een Amerikaanse zwarte lijst voor handel. Daar gingen weken van onenigheid tussen topambtenaren aan vooraf.",
+   "waaromBelangrijk": "Exportbeperkingen op AI-chips zijn een belangrijk geopolitiek wapen. Elke tussenpersoon die op zo'n lijst belandt, maakt de chipketen naar Azië strakker gecontroleerd.",
+   "impactVoorJou": "Wie met hardware of AI-rekenkracht werkt, kan geraakt worden door strengere regels over wie wat aan wie mag leveren. Het toont dat leveranciers en tussenpersonen controleren steeds belangrijker zou kunnen worden.",
+   "kansen": [
+    "Software die bedrijven helpt hun leveranciers en klanten automatisch te toetsen aan sanctie- en exportlijsten"
+   ],
+   "kanttekening": "Slechts één bron. De artikels leggen niet uit welke rol Megaspeed precies speelde in het schandaal.",
+   "itemIds": [
+    "nyt-9oasfm"
+   ]
+  },
+  {
+   "id": "s2-tijd-ond-1ijtmog",
+   "titel": "Luchtverkeersleiders Skeyes dreigen met nieuwe staking in december",
+   "categorie": "economie",
+   "regio": "belgie",
+   "belang": "hoog",
+   "watGebeurt": "Een staking bij luchtverkeersleider Skeyes verstoorde maandag het vliegverkeer in België. Volgens De Tijd raakten ongeveer 100.000 passagiers gedupeerd en bedroeg de economische schade meer dan 25 miljoen euro. De vakbonden dienden meteen een nieuwe stakingsaanzegging in voor december. Een staker getuigt bij VRT NWS over hoge werkdruk door personeelstekort.",
+   "waaromBelangrijk": "Eén kleine groep sleutelwerknemers kan een hele economie lamleggen. De Tijd schrijft dat de actie vooral ging over interne wrijvingen met de directie, niet alleen over het regeringsbeleid.",
+   "impactVoorJou": "Als je in december wilt vliegen, kan je reis in het gedrang komen. Voor een ondernemer is dit een les over kwetsbaarheid: één knelpunt in de keten kan alles stilleggen. Het personeelstekort in kritieke technische beroepen kan ook een markt openen.",
+   "kansen": [
+    "Planningssoftware die werkdruk en bezetting in veiligheidskritische beroepen beter verdeelt",
+    "Diensten die bedrijven en reizigers sneller omboeken of compenseren bij stakingen"
+   ],
+   "kanttekening": "De bronnen noemen verschillende periodes: De Tijd spreekt van 6 tot 20 december, L'Echo van 9 december tot 9 januari. Of er effectief gestaakt wordt, is nog niet zeker.",
+   "itemIds": [
+    "tijd-ond-1ijtmog",
+    "lecho-122y4r4",
+    "tijd-ond-1ijtmng",
+    "bbc-lok157",
+    "vrt-12m4t3g"
+   ]
+  },
+  {
+   "id": "s3-tijd-ond-1ijtmi3",
+   "titel": "BNP Paribas financiert en bezit glasvezelnet van Orange Belgium",
+   "categorie": "economie",
+   "regio": "belgie",
+   "belang": "middel",
+   "watGebeurt": "Orange Belgium laat de uitbouw van een deel van zijn glasvezelnet financieren door BNP Paribas, via een leasing tot 800 miljoen euro. In ruil wordt BNP Paribas eigenaar van dat netwerk. Orange wil tegen 2040 glasvezel aanbieden op twee derde van zijn markt en huurt daarnaast ook netten van concurrenten.",
+   "waaromBelangrijk": "Telecomnetwerken worden steeds vaker gefinancierd als infrastructuur door banken en beleggers in plaats van door de operator zelf. Dat verandert wie de netten in handen heeft.",
+   "impactVoorJou": "Dit is een voorbeeld van een slimme financieringsconstructie: een bedrijf houdt zijn balans licht door een bank de infrastructuur te laten bezitten. Zo'n model zou je later ook voor andere kapitaalintensieve projecten kunnen bekijken.",
+   "kansen": [
+    "Diensten rond glasvezel-aansluiting en installatie nu de uitrol in België versnelt"
+   ],
+   "kanttekening": "Het bedrag van 800 miljoen euro is een maximum: De Tijd schrijft dat de financiering kan oplopen tot dat bedrag.",
+   "itemIds": [
+    "tijd-ond-1ijtmi3",
+    "lecho-122y3ta"
+   ]
+  },
+  {
+   "id": "s4-tijd-ond-1ijtmlp",
+   "titel": "Vlaamse 'Waze van de binnenvaart' Tresco koopt Nederlands Green Maritime",
+   "categorie": "startups",
+   "regio": "belgie",
+   "belang": "middel",
+   "watGebeurt": "Tresco, een Vlaams bedrijf dat navigatiesoftware voor de binnenvaart maakt, koopt het Nederlandse Green Maritime. Dat bedrijf werkt met operationele data aan boord van zeeschepen. Met de overname zet Tresco een stap naar de zeevaart.",
+   "waaromBelangrijk": "Het toont hoe een Vlaamse nichespeler groeit door overnames in een aanpalende markt. Scheepvaart is een sector waar data en software nog volop terrein winnen.",
+   "impactVoorJou": "Een mooi lokaal voorbeeld van een niche die groot kan worden: software voor een traditionele sector. Het bewijst dat je niet in consumententech hoeft te zitten om een groeibedrijf te bouwen.",
+   "kansen": [
+    "Datatools voor andere traditionele logistieke sectoren, zoals havens of vrachtvervoer over de weg"
+   ],
+   "kanttekening": "Het overnamebedrag wordt niet vermeld.",
+   "itemIds": [
+    "tijd-ond-1ijtmlp"
+   ]
+  },
+  {
+   "id": "s5-lecho-122y4ls",
+   "titel": "CrowdStrike koopt Zscaler voor recordbedrag van 43,9 miljard dollar",
+   "categorie": "tech",
+   "regio": "wereld",
+   "belang": "hoog",
+   "watGebeurt": "Cyberbeveiliger CrowdStrike neemt Zscaler over voor 43,9 miljard dollar. Volgens L'Echo is dat een record in de cybersecuritysector. CrowdStrike wil zich zo versterken tegen dreigingen die door artificiële intelligentie makkelijker worden.",
+   "waaromBelangrijk": "Cybersecurity consolideert: grote spelers kopen elkaar op om een volledig pakket te bieden. AI maakt aanvallen goedkoper, wat de vraag naar beveiliging opdrijft.",
+   "impactVoorJou": "Als de grote spelers fuseren, kan er ruimte ontstaan voor kleinere, gespecialiseerde startups die nichetaken beter doen. Cybersecurity blijft een groeimarkt die je kan volgen.",
+   "kansen": [
+    "Betaalbare beveiliging voor kmo's die te klein zijn voor de grote platformen",
+    "Detectie van AI-gestuurde phishing en fraude"
+   ],
+   "kanttekening": "Slechts één bron. Details over timing en goedkeuring van de overname ontbreken.",
+   "itemIds": [
+    "lecho-122y4ls"
+   ]
+  },
+  {
+   "id": "s6-sifted-1e0voog",
+   "titel": "Defensie-AI-startup Agon haalt 70 miljoen dollar op",
+   "categorie": "startups",
+   "regio": "europa",
+   "belang": "middel",
+   "watGebeurt": "Agon, een Londense startup die soevereine AI-infrastructuur bouwt voor autonome militaire systemen, haalt 70 miljoen dollar op in een Series A-ronde. Die eerste grote investeringsronde waardeert het bedrijf op 450 miljoen dollar. Northzone leidt de ronde, met onder meer Lakestar als terugkerende investeerder.",
+   "waaromBelangrijk": "Europese defensietech trekt steeds meer durfkapitaal aan nu Europa wil herbewapenen. 'Soeverein' betekent hier dat Europa niet afhankelijk wil zijn van buitenlandse technologie.",
+   "impactVoorJou": "Defensie was lang taboe voor investeerders, maar wordt nu een volwaardige startupmarkt in Europa. Het kan nuttig zijn om te weten dat ook burgertechnologie, zoals software en sensoren, daar een afzetmarkt kan vinden.",
+   "kansen": [
+    "Dual-use technologie: oplossingen die zowel civiel als militair inzetbaar zijn"
+   ],
+   "kanttekening": "",
+   "itemIds": [
+    "sifted-1e0voog",
+    "eustartups-1c40g8k"
+   ]
+  },
+  {
+   "id": "s7-tijd-ond-1ijtmiv",
+   "titel": "Lego investeert 1 miljard euro in nieuwe fabriek in Portugal",
+   "categorie": "economie",
+   "regio": "europa",
+   "belang": "middel",
+   "watGebeurt": "De Deense speelgoedfabrikant Lego bouwt voor ongeveer 1 miljard euro een nieuwe fabriek in Portugal om aan de groeiende vraag te voldoen. Het wordt Lego's vierde Europese fabriek en volgens het bedrijf de technologisch meest geavanceerde. De productie zou in 2030 starten en er komen meer dan 1.000 banen.",
+   "waaromBelangrijk": "Grote industriële investeringen kiezen vaker voor Zuid-Europa. Portugal wint aan belang als vestigingsplaats.",
+   "impactVoorJou": "Het toont dat productie in Europa nog altijd groeit, vooral waar het goedkoper is en de overheid meewerkt. Voor een ondernemer is Portugal mogelijk een interessante markt om te volgen.",
    "kansen": [],
-   "kanttekening": "Het bericht zegt niet waarom de investering van Base Group nog niet binnen is.",
+   "kanttekening": "De investering is gespreid over meerdere jaren.",
+   "itemIds": [
+    "tijd-ond-1ijtmiv",
+    "euronews-14fbxrq"
+   ]
+  },
+  {
+   "id": "s8-euronews-156sbcb",
+   "titel": "EU opent nieuw handelsonderzoek naar Chinese import",
+   "categorie": "beleid",
+   "regio": "europa",
+   "belang": "middel",
+   "watGebeurt": "De Europese Unie start een nieuw onderzoek naar Chinese import van materialen voor defensie, hernieuwbare energie en transport. Het kan leiden tot brede importheffingen of quota. Brussel wil zo de Europese industrie beschermen tegen goedkope Chinese invoer.",
+   "waaromBelangrijk": "Handelsbescherming kan prijzen voor grondstoffen en onderdelen in Europa doen stijgen. Tegelijk krijgen Europese producenten meer ademruimte.",
+   "impactVoorJou": "Als je later een product bouwt met onderdelen uit China, kan dit je kosten verhogen. Omgekeerd zou een Europese leverancier van die materialen mogelijk meer kansen krijgen.",
+   "kansen": [
+    "Europese alternatieven voor kritieke materialen of onderdelen die nu uit China komen"
+   ],
+   "kanttekening": "Het onderzoek is net gestart. Of er effectief heffingen komen, is nog niet beslist.",
+   "itemIds": [
+    "euronews-156sbcb"
+   ]
+  },
+  {
+   "id": "s9-euronews-10lzx2r",
+   "titel": "Japan richt Aziatische oliewerkgroep op door verstoring in de Golf",
+   "categorie": "economie",
+   "regio": "wereld",
+   "belang": "middel",
+   "watGebeurt": "Japan lanceert een Aziatische werkgroep rond olie. Door de oorlog met Iran zijn olietransporten door de Straat van Hormuz verstoord. Aziatische landen bekijken grotere noodvoorraden, gedeelde opslag en nauwere samenwerking met leveranciers, nu tekorten hun economieën onder druk zetten.",
+   "waaromBelangrijk": "Energieonzekerheid in Azië kan wereldwijd prijzen en toeleveringsketens raken. Landen gaan samenwerken om zich in te dekken.",
+   "impactVoorJou": "Hogere energieprijzen kunnen ook in Europa doorwerken in kosten voor bedrijven en consumenten. Het onderstreept waarom energiezekerheid een groeiend thema is voor ondernemers.",
+   "kansen": [
+    "Oplossingen voor energiebesparing en -opslag voor bedrijven die minder afhankelijk willen zijn van olie"
+   ],
+   "kanttekening": "Slechts één bron, met weinig details over welke landen meedoen.",
+   "itemIds": [
+    "euronews-10lzx2r"
+   ]
+  },
+  {
+   "id": "s10-scmp-1c2ewc0",
+   "titel": "China wil wereldnormen bepalen voor brein-computerinterfaces",
+   "categorie": "tech",
+   "regio": "wereld",
+   "belang": "middel",
+   "watGebeurt": "China richt een nieuwe werkgroep op om normen vast te leggen voor brein-computerinterfaces, technologie die hersensignalen koppelt aan computers. Het Chinese ministerie van Industrie en Informatietechnologie maakte dat bekend. Een denktank van de staat vraagt beleggers om geduld in deze nog jonge maar drukke sector.",
+   "waaromBelangrijk": "Wie de normen schrijft, bepaalt vaak mee wie de markt wint. China probeert vroeg die positie in te nemen in een technologie van de toekomst.",
+   "impactVoorJou": "Deze sector is in Europa nog weinig bekend maar trekt in China veel bedrijven aan. Het kan interessant zijn om te volgen hoe medische technologie en AI hier samenkomen.",
+   "kansen": [
+    "Toepassingen van hersensignalen in revalidatie of zorg, waar de Europese markt nog weinig spelers telt"
+   ],
+   "kanttekening": "De oproep tot geduld wijst erop dat de commerciële doorbraak nog niet vaststaat.",
+   "itemIds": [
+    "scmp-1c2ewc0"
+   ]
+  },
+  {
+   "id": "s11-cnbc-14dyyv1",
+   "titel": "Amerikaanse robotstartup Foundation in geldnood",
+   "categorie": "startups",
+   "regio": "wereld",
+   "belang": "laag",
+   "watGebeurt": "Werknemers van robotbedrijf Foundation, dat gesteund wordt door Eric Trump, verliezen hun ziekteverzekering omdat het bedrijf krap bij kas zit. Foundation zoekt een dringende overbruggingslening en praat met durfkapitaalfondsen. Het wacht nog op een investering van 150 miljoen dollar van het Zuid-Koreaanse Base Group.",
+   "waaromBelangrijk": "Ook in de hype rond robots en AI lopen startups tegen geldproblemen aan. Bekende namen als investeerder zijn geen garantie.",
+   "impactVoorJou": "Een les in cashbeheer: wie rekent op één grote investering die nog niet binnen is, loopt risico. Het loont om altijd een buffer te hebben voor vertragingen.",
+   "kansen": [],
+   "kanttekening": "Slechts één bron. De investering van Base Group is nog niet afgerond.",
    "itemIds": [
     "cnbc-14dyyv1"
    ]
   },
   {
-   "id": "s3-nyt-x2v8rt",
-   "titel": "VS vraagt Nvidia uitleg over chipverkoop aan China",
-   "categorie": "beleid",
-   "regio": "wereld",
-   "belang": "middel",
-   "watGebeurt": "De Amerikaanse minister van Financiën Scott Bessent riep Nvidia op om antwoorden te geven over de verkoop van chips aan China. Op CBS zei hij dat het te vroeg was om te zeggen of Jensen Huang moet terugkeren als topman van het bedrijf.",
-   "waaromBelangrijk": "Nvidia levert de chips waarop veel AI draait. Politieke druk op de verkoop aan China kan de handel in technologie tussen de grootmachten verder op scherp zetten.",
-   "impactVoorJou": "Spanning rond AI-chips kan de prijs en beschikbaarheid van rekenkracht beïnvloeden. Voor wie een AI-bedrijf wil starten, kan dat de kosten mee bepalen.",
-   "kansen": [
-    "Diensten die bedrijven helpen om exportregels voor gevoelige technologie na te leven."
-   ],
-   "kanttekening": "Uit het bericht blijkt niet welke vragen precies gesteld worden, en ook niet waarom de terugkeer van Jensen Huang ter sprake komt.",
-   "itemIds": [
-    "nyt-x2v8rt"
-   ]
-  },
-  {
-   "id": "s4-euronews-1dcv3fc",
-   "titel": "Israëlische economie zou 4,5 procent groeien dankzij tech",
-   "categorie": "economie",
-   "regio": "wereld",
-   "belang": "middel",
-   "watGebeurt": "Volgens een prognose groeit de Israëlische economie met 4,5 procent. Volgens het IMF wordt de door technologie gedreven economie in 2026 de 25ste grootste ter wereld, voor Zweden en Ierland, ondanks jaren van oorlog. Europese en Israëlische beleidsmakers komen deze week in Jeruzalem samen om nauwere banden te bespreken.",
-   "waaromBelangrijk": "Israël wordt vaak genoemd als voorbeeld van hoe een klein land met veel tech-startups snel kan groeien. Europa zoekt naar manieren om innovatie te versnellen.",
-   "impactVoorJou": "Het kan leerrijk zijn om te bekijken welke factoren een innovatie-economie laten groeien, zoals durfkapitaal en de band tussen onderzoek en bedrijven. Zulke inzichten kunnen helpen als je later een startup in Europa uitbouwt.",
-   "kansen": [],
-   "kanttekening": "Het gaat om een prognose. Het artikel vermeldt niet welke instelling de 4,5 procent voorspelt; de ranglijst komt van het IMF.",
-   "itemIds": [
-    "euronews-1dcv3fc"
-   ]
-  },
-  {
-   "id": "s5-vrt-nsnhqu",
-   "titel": "Staking bij Skeyes legt luchtverkeer maandag plat",
-   "categorie": "economie",
-   "regio": "belgie",
-   "belang": "hoog",
-   "watGebeurt": "Luchtverkeersleider Skeyes staakt maandag. Brussels South Charleroi Airport bevestigt dat er die dag geen enkele vlucht kan vertrekken of landen. Tienduizenden mensen zijn getroffen, en reizigers die VRT NWS sprak, hebben weinig begrip voor de actie.",
-   "waaromBelangrijk": "Een staking bij de luchtverkeersleiding treft niet alleen reizigers, maar ook luchthavens, luchtvaartmaatschappijen en bedrijven die van vlotte verbindingen afhangen.",
-   "impactVoorJou": "Als je reist voor werk of studie, kan het nuttig zijn om alternatieven achter de hand te hebben. Herhaalde stakingen kunnen ook de vraag doen rijzen hoe betrouwbaar België is als knooppunt voor bedrijven.",
-   "kansen": [
-    "Een dienst die reizigers bij een geschrapte vlucht meteen alternatieven per trein of via een buurland voorstelt."
-   ],
-   "kanttekening": "De berichten vermelden niet waarom er gestaakt wordt. Een reiziger spreekt van 'alweer' een staking.",
-   "itemIds": [
-    "vrt-nsnhqu",
-    "tijd-ond-1ijtlpl"
-   ]
-  },
-  {
-   "id": "s6-bbc-yhqhlz",
-   "titel": "Britse energiefacturen stijgen fors in het nieuwe jaar",
-   "categorie": "economie",
-   "regio": "europa",
-   "belang": "middel",
-   "watGebeurt": "In het Verenigd Koninkrijk gaan de energiefacturen van gezinnen sterk omhoog. De topman van energiebedrijf Centrica, Chris O'Shea, zegt dat hij zich grote zorgen maakt. Volgens hem zal het aantal mensen dat hun energiefactuur niet kan of wil betalen stijgen wanneer de prijzen in het nieuwe jaar omhooggaan.",
-   "waaromBelangrijk": "Hogere energieprijzen drukken op het budget van gezinnen en kunnen de consumptie afremmen. Dat een energiebedrijf zelf waarschuwt voor wanbetaling, toont hoe groot de druk is.",
-   "impactVoorJou": "Energieprijzen zijn een terugkerend probleem in heel Europa. Voor een starter kan dat een signaal zijn dat oplossingen rond energiebesparing en betaalbaarheid blijvend gevraagd zullen zijn.",
-   "kansen": [
-    "Apps die gezinnen helpen hun energieverbruik te volgen en te verlagen.",
-    "Diensten die energiebedrijven helpen om betalingsproblemen vroeg op te sporen en betaalplannen aan te bieden."
-   ],
-   "kanttekening": "De artikels vermelden niet hoeveel de facturen precies stijgen. Beide stukken komen van dezelfde redactie.",
-   "itemIds": [
-    "bbc-yhqhlz",
-    "bbc-1dt5tu0"
-   ]
-  },
-  {
-   "id": "s7-techcabal-2n2ae7",
-   "titel": "Afrikaanse systemen voor directe betalingen worstelen met hun bestuur",
-   "categorie": "tech",
-   "regio": "wereld",
-   "belang": "middel",
-   "watGebeurt": "Van de 39 Afrikaanse systemen voor directe betalingen kreeg er maar één de hoogste beoordeling van AfricaNenda. Het Keniaanse PesaLink toont waarom de volgende stap moeilijk is: de banken die het netwerk bezitten, bepalen wat ze aanrekenen voor overschrijvingen, terwijl fintechs en andere leden geen stemrecht hebben.",
-   "waaromBelangrijk": "Wie een betaalnetwerk beheert, bepaalt wie kan meedoen en tegen welke prijs. Fintechs zijn bedrijven die financiële diensten met technologie aanbieden, en zonder stem kunnen ze moeilijker concurreren.",
-   "impactVoorJou": "Afrika is een van de snelst groeiende markten voor digitale betalingen, maar de spelregels verschillen sterk per land. Als fintech je interesseert, kan het lonend zijn om te kijken waar de knelpunten zitten, want daar liggen vaak de kansen.",
-   "kansen": [
-    "Diensten die betalingen tussen verschillende Afrikaanse betaalsystemen goedkoper met elkaar verbinden."
-   ],
-   "kanttekening": "Het gaat om een analyse op basis van een beoordeling door AfricaNenda.",
-   "itemIds": [
-    "techcabal-2n2ae7"
-   ]
-  },
-  {
-   "id": "s8-cnbc-kz2lv3",
-   "titel": "Amerikaanse pizzaketens staan onder druk",
-   "categorie": "economie",
-   "regio": "wereld",
-   "belang": "laag",
-   "watGebeurt": "Domino's, Papa Johns en Pizza Hut krijgen te maken met zwakkere vraag, meer concurrentie bij levering en veranderende eetgewoonten. Het gebruik van GLP-1-middelen, afslankmedicijnen die de eetlust remmen, is daar één deel van.",
-   "waaromBelangrijk": "Afslankmedicijnen beginnen zichtbaar effect te hebben op wat mensen eten. Dat kan hele delen van de voedingsindustrie raken.",
-   "impactVoorJou": "Verschuivingen in eetgewoonten openen ruimte voor nieuwe producten. Als die medicijnen ook in Europa breder gebruikt worden, zou een gelijkaardige verschuiving kunnen volgen.",
-   "kansen": [
-    "Kleinere, eiwitrijke maaltijden voor mensen die minder eten door afslankmedicijnen."
-   ],
-   "kanttekening": "Het artikel noemt GLP-1 maar één deel van het probleem en zegt niet hoe groot dat deel is.",
-   "itemIds": [
-    "cnbc-kz2lv3"
-   ]
-  },
-  {
-   "id": "s9-nyt-15g44ul",
-   "titel": "Procter & Gamble draait meer fabrieksshifts zonder mensen",
-   "categorie": "tech",
-   "regio": "wereld",
-   "belang": "middel",
-   "watGebeurt": "Procter & Gamble, de maker van Pampers en Bounty, wil meer fabrieksshifts laten draaien zonder mensen om kosten te besparen. Het bedrijf heeft 15 sites die onbemand shifts kunnen draaien en wil er in 2027 meer bijvoegen.",
-   "waaromBelangrijk": "Volledig geautomatiseerde productie is niet langer alleen een toekomstbeeld bij grote consumentenbedrijven. Dat kan op termijn het soort werk in fabrieken veranderen.",
-   "impactVoorJou": "Meer automatisering betekent meer vraag naar software, sensoren en onderhoud die fabrieken zonder toezicht laten draaien. Ook kleinere producenten zouden die stap op termijn willen zetten.",
-   "kansen": [
-    "Betaalbare monitoringsystemen waarmee kleinere fabrieken een nachtshift zonder personeel kunnen draaien.",
-    "Opleidingen die fabrieksarbeiders omscholen naar technicus voor geautomatiseerde lijnen."
-   ],
-   "kanttekening": "",
-   "itemIds": [
-    "nyt-15g44ul"
-   ]
-  },
-  {
-   "id": "s10-tijd-ond-1ijtkx6",
-   "titel": "Nieuwe eigenaar moet chocolatier Pierre Marcolini redden",
+   "id": "s12-crunchbase-enw3qx",
+   "titel": "Crunchbase: de meeste unicorns zijn meer waard dan bij hun laatste ronde",
    "categorie": "startups",
-   "regio": "belgie",
-   "belang": "middel",
-   "watGebeurt": "De Belgische luxechocolatier Pierre Marcolini zit opnieuw in stevige financiële problemen. Een nieuwe eigenaar moet het bedrijf redden. De Koreaanse investeringsgroep MBK Partners zoekt ook een koper voor zusteronderneming Godiva, zo raakt nu formeel bekend.",
-   "waaromBelangrijk": "Bekende Belgische merken kunnen ondanks hun naam in de problemen komen. Dat beide chocolademerken tegelijk verkocht worden, zegt iets over de strategie van de eigenaar.",
-   "impactVoorJou": "Een sterk merk is geen garantie op winst. Als je in luxe of voeding wil starten, kan het nuttig zijn te volgen wat er misliep en wie de merken overneemt.",
-   "kansen": [],
-   "kanttekening": "Het bericht noemt niet wie de nieuwe eigenaar is of wat de oorzaak van de problemen is.",
-   "itemIds": [
-    "tijd-ond-1ijtkx6"
-   ]
-  },
-  {
-   "id": "s11-scmp-1pt00fl",
-   "titel": "Chinese vastgoedtycoons zetten in op renovatie van bestaande gebouwen",
-   "categorie": "economie",
    "regio": "wereld",
    "belang": "laag",
-   "watGebeurt": "Twee bekende Chinese vastgoedmagnaten, Vanke-oprichter Wang Shi en Wanda-voorzitter Wang Jianlin, zijn de voorbije maanden opnieuw actief. Ze richten zich op het renoveren van bestaande gebouwen en het nieuw leven inblazen van gevestigde commerciële panden, terwijl de vastgoedcrisis in China aanhoudt.",
-   "waaromBelangrijk": "Als nieuwbouw stilvalt, verschuift het geld naar het opwaarderen van wat er al staat. Dat is een signaal over waar de vastgoedmarkt naartoe gaat.",
-   "impactVoorJou": "Stadsvernieuwing en renovatie worden ook in Europa belangrijker. Wat in China gebeurt, kan tonen dat er in een dalende markt nog altijd groei zit in het opwaarderen van bestaande panden.",
-   "kansen": [
-    "Software om de staat en het renovatiepotentieel van oudere winkel- en kantoorpanden snel in kaart te brengen."
-   ],
-   "kanttekening": "",
+   "watGebeurt": "De meer dan 1.900 startups op de Unicorn Board van Crunchbase zijn samen ongeveer 9.000 miljard dollar waard op basis van hun laatst gemelde waardering. Crunchbase lanceert een nieuw model dat schat hoe die waarde sindsdien veranderd is. Volgens die schatting is de meerderheid van de unicorns nu meer waard dan bij hun laatste ronde.",
+   "waaromBelangrijk": "De waarde van niet-beursgenoteerde bedrijven is moeilijk te meten. Zo'n model geeft een idee van hoe de markt er echt voor staat.",
+   "impactVoorJou": "Het is een nuttig gegeven voor gesprekken over startups: waarderingen zijn schattingen, geen vaste feiten. Dat kan je helpen om berichten over 'miljardenbedrijven' kritischer te lezen.",
+   "kansen": [],
+   "kanttekening": "Het gaat om een schatting met een eigen model van Crunchbase, niet om echte transacties.",
    "itemIds": [
-    "scmp-1pt00fl"
-   ]
-  },
-  {
-   "id": "s12-vrt-1k63k0j",
-   "titel": "Britse regering maakt deel van brexit ongedaan",
-   "categorie": "beleid",
-   "regio": "europa",
-   "belang": "middel",
-   "watGebeurt": "De Britse regering van premier Andy Burnham heeft een akkoord gesloten om een deel van de brexit ongedaan te maken. Een nieuw lidmaatschap van de Europese Unie ligt op tafel in komende gesprekken. Oud-premier Theresa May zegt dat ze daarover 'verbijsterd' is.",
-   "waaromBelangrijk": "Nauwere banden tussen het Verenigd Koninkrijk en de EU kunnen handel, werken en investeren over het Kanaal weer eenvoudiger maken.",
-   "impactVoorJou": "Als de handelsdrempels kleiner worden, wordt het Verenigd Koninkrijk mogelijk opnieuw een makkelijkere eerste exportmarkt voor Europese startups. Het kan de moeite zijn om te volgen wat het akkoord concreet verandert.",
-   "kansen": [
-    "Begeleiding voor kleine Europese bedrijven die (opnieuw) naar de Britse markt willen."
-   ],
-   "kanttekening": "Een nieuw EU-lidmaatschap is een optie in gesprekken, geen beslissing. Het bericht zegt niet welk deel van de brexit het akkoord terugdraait.",
-   "itemIds": [
-    "vrt-1k63k0j"
+    "crunchbase-enw3qx"
    ]
   }
  ],
  "items": [
-  {
-   "id": "bbc-pmz87x",
-   "sourceId": "bbc",
-   "titel": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
-   "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
-   "snippet": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
-   "datum": 1795392480000
-  },
-  {
-   "id": "bbc-1dt5tu0",
-   "sourceId": "bbc",
-   "titel": "Energy bills will soar - here's how you can ease the pain",
-   "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-   "snippet": "Household energy bills are about to soar but there are ways to keep a lid on your expenditure.",
-   "datum": 1795392329000
-  },
-  {
-   "id": "scmp-13rusxt",
-   "sourceId": "scmp",
-   "titel": "Mainland China stock exchanges make moves to raise liquidity and activity to stem decline",
-   "link": "https://www.scmp.com/business/markets/article/3375388/mainland-china-stock-exchanges-make-moves-raise-liquidity-and-activity-stem-decline",
-   "snippet": "China rolled out a series of measures to lower the bar for stock trading on its major exchanges, part of an effort to stem a stock market decline amid a global rout. The China Securities Regulatory Commission approved the exchanges in Shanghai and Shenzhen to decrease the minimum margin ratio – the amount investors…",
-   "datum": 1795392013000
-  },
-  {
-   "id": "vrt-nsnhqu",
-   "sourceId": "vrt",
-   "titel": "\"Ze brengen mensen in de problemen die er niets aan kunnen doen\": Eline, Nico en Guido getroffen door staking bij luchtverkeersleider Skeyes",
-   "link": "https://vrtnws.be/p.ZWK4aMkeB",
-   "snippet": "\"Amper 12 uur voor we zouden vertrekken, kregen we pas een bericht dat er alweer gestaakt wordt. Ik vind dat spijtig.\" Dat zegt Guido Nachtergaele, een van de tienduizenden mensen die getroffen is door de staking bij luchtverkeersleider Skeyes maandag. De reizigers die VRT NWS sprak, hebben er maar weinig begrip voo…",
-   "datum": 1795377390000
-  },
   {
    "id": "cnbc-14dyyv1",
    "sourceId": "cnbc",
    "titel": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
    "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
    "snippet": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
-   "datum": 1795373705000
+   "datum": 1795476499000
   },
   {
-   "id": "nyt-x2v8rt",
+   "id": "nyt-9oasfm",
    "sourceId": "nyt",
-   "titel": "Scott Bessent Calls on Nvidia to Provide Answers on Chip Sales to China",
-   "link": "https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html",
-   "snippet": "The treasury secretary said on CBS that it was too soon to say if Jensen Huang should return as the company’s chief executive.",
-   "datum": 1795370131000
+   "titel": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
+   "link": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
+   "snippet": "The administration added Megaspeed to the entity list, a trade blacklist, after weeks of sparring among top officials on the decision.",
+   "datum": 1795475938000
   },
   {
-   "id": "euronews-1dcv3fc",
-   "sourceId": "euronews",
-   "titel": "Israel forecast to grow 4.5%: What can Europe learn from its tech boom?",
-   "link": "https://www.euronews.com/2026/11/22/israel-set-to-become-worlds-25th-largest-economy-what-can-europe-learn-from-its-tech-boom",
-   "snippet": "Israel's tech-powered economy is set to overtake Sweden and Ireland to become the world's 25th-largest in 2026, the IMF says, amid years of war. As European and Israeli policymakers gather in Jerusalem this week to discuss closer ties, what can Europe learn from its innovation model?",
-   "datum": 1795367500000
-  },
-  {
-   "id": "vrt-1k63k0j",
-   "sourceId": "vrt",
-   "titel": "Theresa May \"verbijsterd\" over toenadering tussen VK en EU: \"Brexit gewoon aanvaarden en doorgaan\"",
-   "link": "https://vrtnws.be/p.oLqyVBqnQ",
-   "snippet": "Theresa May, oud-premier van het Verenigd Koninkrijk, is \"verbijsterd\" dat de huidige premier Andy Burnham overweegt om opnieuw lid te worden van de Europese Unie. Die optie ligt op tafel in komende gesprekken met de EU, nu de regering van Burnham een deal heeft gesloten om al een deel van de brexit ongedaan te maken.",
-   "datum": 1795364302000
-  },
-  {
-   "id": "techcabal-2n2ae7",
-   "sourceId": "techcabal",
-   "titel": "The Next Wave: What Africa’s instant payment systems keep getting wrong on the way to maturity",
-   "link": "https://techcabal.com/2026/11/22/africa-instant-payment-systems-maturity/",
-   "snippet": "Only one of Africa’s 39 instant payment systems earned AfricaNenda’s highest rating. Kenya’s PesaLink shows why the next step is so hard. The banks that own the network can decide what they charge for transfers, while fintechs and other non-bank members have no vote in how it’s run.",
-   "datum": 1795356268000
-  },
-  {
-   "id": "bbc-yhqhlz",
+   "id": "bbc-1eawdhs",
    "sourceId": "bbc",
-   "titel": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
-   "link": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
-   "snippet": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
-   "datum": 1795355421000
+   "titel": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
+   "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+   "snippet": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+   "datum": 1795475427000
   },
   {
-   "id": "cnbc-kz2lv3",
-   "sourceId": "cnbc",
-   "titel": "Pizza chains are under pressure. GLP-1 use is only one part of the problem",
-   "link": "https://www.cnbc.com/2026/11/22/pizza-chains-sales-glp-1-demand.html",
-   "snippet": "Domino's, Papa Johns and Pizza Hut face weaker demand, more delivery competition and changing eating habits, including GLP-1 use.",
-   "datum": 1795352401000
+   "id": "guardian-ewz198",
+   "sourceId": "guardian",
+   "titel": "Jensen Huang reinstated as Nvidia CEO after Trump intervenes",
+   "link": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
+   "snippet": "Share price surges as chipmaker reverses decision to remove chief executive after US president ‘convinced’ its board Comment: Nvidia’s humiliated board should resign out of embarrassment US politics – live updates Timeline: fall and comeback of Jensen Huang Nvidia has reinstated Jensen Huang as chief executive after…",
+   "datum": 1795472620000
   },
   {
-   "id": "nyt-15g44ul",
+   "id": "nyt-1br1apg",
    "sourceId": "nyt",
-   "titel": "Procter & Gamble to Increase Factory Shifts Without Humans to Cut Costs",
-   "link": "https://www.nytimes.com/2026/11/22/business/procter-gamble-factory-automated.html",
-   "snippet": "The maker of Pampers and Bounty paper towels operates 15 sites capable of running shifts unattended, with plans to add more in 2027.",
-   "datum": 1795341741000
+   "titel": "Jensen Huang Returns to Nvidia, Showing What Trump Will Do for AI",
+   "link": "https://www.nytimes.com/2026/11/23/business/trump-jensen-huang-nvidia.html",
+   "snippet": "President Trump intervened on behalf of the returning Nvidia chief in a bid to boost a key company driving the stock market. The company’s share price soared.",
+   "datum": 1795472387000
   },
   {
-   "id": "scmp-1pt00fl",
+   "id": "nyt-dnc3tl",
+   "sourceId": "nyt",
+   "titel": "With Jensen Huang’s Return as C.E.O., Trump Effectively Overrode Nvidia’s Board",
+   "link": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html",
+   "snippet": "Nvidia’s board said Mr. Huang would not be back. But President Trump, who pushed for Mr. Huang’s reinstatement, effectively overrode the board, governance experts said.",
+   "datum": 1795469212000
+  },
+  {
+   "id": "bbc-uaas5",
+   "sourceId": "bbc",
+   "titel": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+   "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+   "snippet": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
+   "datum": 1795469022000
+  },
+  {
+   "id": "nyt-1anvbtb",
+   "sourceId": "nyt",
+   "titel": "Stocks Surge After Jensen Huang Is Reinstated as Nvidia CEO",
+   "link": "https://www.nytimes.com/2026/11/22/business/nvidia-stock-huang-ai-sp500-markets.html",
+   "snippet": "The market had already started to bounce back from a sell-off last week. Then, the news that Nvidia reinstated its former chief executive sent shares soaring.",
+   "datum": 1795469011000
+  },
+  {
+   "id": "nyt-jq6l2t",
+   "sourceId": "nyt",
+   "titel": "Here’s the latest.",
+   "link": "https://www.nytimes.com/live/2026/11/23/technology/nvidia-jensen-huang-reinstated/nvidia-jensen-huang",
+   "snippet": "Mr. Huang resigned from Nvidia on Nov. 12 after revelations of multiple extramarital relationships.",
+   "datum": 1795468068000
+  },
+  {
+   "id": "vrt-12m4t3g",
+   "sourceId": "vrt",
+   "titel": "Stakende luchtverkeersleider getuigt over hoge werkdruk: \"Collega's vrezen dat er eerst doden moeten vallen voor er iets verandert\"",
+   "link": "https://vrtnws.be/p.pAx1Wwapm",
+   "snippet": "\"Collega's zeggen dat ze hun job niet langer veilig kunnen uitvoeren, maar door personeelstekorten worden ze toch verplicht om te blijven werken.\" Dat getuigt Wilfried*, een luchtverkeersleider bij Skeyes die vandaag deelnam aan de staking, aan VRT NWS. Volgens hem ligt de werkdruk al jaren te hoog, maar blijft het…",
+   "datum": 1795463671000
+  },
+  {
+   "id": "tijd-ond-1ijtmog",
+   "sourceId": "tijd-ond",
+   "titel": "Luchtverkeersleiders dreigen met nieuwe staking in december",
+   "link": "https://www.tijd.be/r/t/1/id/10706673",
+   "snippet": "Nog tijdens de actiedag van maandag hebben de vakbonden van de luchtverkeersleiders bij Skeyes een nieuwe stakingsaanzegging ingediend. Ze dreigen tussen zondag 6 en zondag 20 december het werk neer te leggen en daarmee het vliegverkeer in ons land plat te leggen.",
+   "datum": 1795462168000
+  },
+  {
+   "id": "tijd-ond-1ijtmnj",
+   "sourceId": "tijd-ond",
+   "titel": "Too big to fail: hoe Jensen Huang weer in het zadel werd gehesen bij Nvidia",
+   "link": "https://www.tijd.be/r/t/1/id/10706663",
+   "snippet": "Nog geen week geleden wilde de raad van bestuur van de chipmaker Nvidia het zelfs niet hebben over een mogelijke comeback van oprichter Jensen Huang als CEO. Maar stijgende nervositeit over de sector en politieke druk van op het allerhoogste niveau deden het tij keren.",
+   "datum": 1795461338000
+  },
+  {
+   "id": "tijd-ond-1ijtmok",
+   "sourceId": "tijd-ond",
+   "titel": "Terugkeer van Huang bij Nvidia opent vat vol risico’s",
+   "link": "https://www.tijd.be/r/t/1/id/10706677",
+   "snippet": "De terugkeer van Jensen Huang als CEO van Nvidia doet beleggers juichen, maar opent op termijn een vat vol juridische en ethische risico’s.",
+   "datum": 1795459485000
+  },
+  {
+   "id": "lecho-122y4r4",
+   "sourceId": "lecho",
+   "titel": "Nouveau préavis de grève chez Skeyes dès le 9 décembre",
+   "link": "https://www.lecho.be/r/t/1/id/10706682",
+   "snippet": "Les syndicats ACV et VSOA déposent un nouveau préavis de grève auprès du contrôleur aérien Skeyes, ouvrant la voie à de potentielles actions entre le 9 décembre et le 9 janvier.",
+   "datum": 1795459126000
+  },
+  {
+   "id": "tijd-ond-1ijtmng",
+   "sourceId": "tijd-ond",
+   "titel": "Luchtverkeersleiders staken niet tegen de regering, maar tegen de directie",
+   "link": "https://www.tijd.be/r/t/1/id/10706660",
+   "snippet": "De staking van een handvol luchtverkeersleiders heeft maandag de reisplannen van ongeveer 100.000 passagiers in de war gegooid en voor meer dan 25 miljoen euro aan economische schade berokkend. De actiedag tegen het regeringsbeleid werd vooral aangegrepen om bedrijfsinterne wrijvingen aan de kaak te stellen en lijkt…",
+   "datum": 1795458099000
+  },
+  {
+   "id": "lecho-122y3ta",
+   "sourceId": "lecho",
+   "titel": "Orange s'offre la fibre via un leasing à 800 millions d'euros signé avec BNP Paribas",
+   "link": "https://www.lecho.be/r/t/1/id/10706545",
+   "snippet": "Orange souhaite proposer une offre fibre sur les deux tiers de son marché d'ici à 2040. En plus de ses accords de location avec la concurrence, l'opérateur télécom va également déployer une partie du réseau. Il sera financé via un leasing signé avec BNP Paribas.",
+   "datum": 1795457114000
+  },
+  {
+   "id": "lecho-122y4mo",
+   "sourceId": "lecho",
+   "titel": "\"Je les ai convaincus\": comment Donald Trump a obtenu le retour de Jensen Huang chez Nvidia",
+   "link": "https://www.lecho.be/r/t/1/id/10706637",
+   "snippet": "Le Président américain a appelé le conseil d'administration de Nvidia à réengager son CEO déchu. Un soutien qui relance les soupçons de conflit d'intérêts et suscite des doutes jusque chez les républicains.",
+   "datum": 1795456842000
+  },
+  {
+   "id": "tijd-ond-1ijtmi3",
+   "sourceId": "tijd-ond",
+   "titel": "BNP Paribas breidt positie in België uit met instap in glasvezelnet Orange Belgium",
+   "link": "https://www.tijd.be/r/t/1/id/10706605",
+   "snippet": "De telecomoperator Orange Belgium gaat voor de uitbouw van zijn glasvezelnet in zee met de Franse bankreus BNP Paribas. In ruil voor een financiering die kan oplopen tot 800 miljoen euro, wordt BNP Paribas eigenaar van dat netwerk.",
+   "datum": 1795452287000
+  },
+  {
+   "id": "lecho-122y4ls",
+   "sourceId": "lecho",
+   "titel": "CrowdStrike rachète Zscaler pour 43,9 milliards de dollars, un record dans le secteur de la cybersécurité",
+   "link": "https://www.lecho.be/r/t/1/id/10706628",
+   "snippet": "Dans un contexte de cyberincidents à répétition, CrowdStrike acquiert Zscaler pour un montant record afin de renforcer sa position face à des menaces facilitées par l’intelligence artificielle.",
+   "datum": 1795449760000
+  },
+  {
+   "id": "tijd-ond-1ijtmlp",
+   "sourceId": "tijd-ond",
+   "titel": "Vlaamse 'Waze van de binnenvaart' trekt met overname Green Maritime naar zee",
+   "link": "https://www.tijd.be/r/t/1/id/10706643",
+   "snippet": "Het Vlaamse Tresco, gespecialiseerd in navigatiesoftware voor de binnenvaart, koopt het Nederlandse Green Maritime. Dat focust op operationele data aan boord van zeeschepen. De overname opent de deur van de zeevaart voor Tresco.",
+   "datum": 1795447656000
+  },
+  {
+   "id": "tijd-ond-1ijtmiv",
+   "sourceId": "tijd-ond",
+   "titel": "Lego bouwt voor miljard euro nieuwe fabriek in Portugal",
+   "link": "https://www.tijd.be/r/t/1/id/10706610",
+   "snippet": "Om aan de groeiende vraag te voldoen pompt de Deense speelgoedfabrikant Lego 1 miljard euro in een nieuwe vestiging in Portugal.",
+   "datum": 1795445757000
+  },
+  {
+   "id": "bbc-1idblzg",
+   "sourceId": "bbc",
+   "titel": "Nvidia reinstates CEO after affair with alleged spy",
+   "link": "https://www.bbc.co.uk/news/videos/cqze7lwdglngo?at_medium=RSS&at_campaign=rss",
+   "snippet": "Senior US government officials backed Nvidia's decision to reinstate Jensen Huang, the company says in a statement.",
+   "datum": 1795445465000
+  },
+  {
+   "id": "dw-caewao",
+   "sourceId": "dw",
+   "titel": "Nvidia reinstates former CEO Jensen Huang despite China espionage scandal",
+   "link": "https://www.dw.com/en/nvidia-reinstates-former-ceo-jensen-huang-despite-china-espionage-scandal/a-80021926?maca=en-rss-en-bus-2091-rdf",
+   "snippet": "Nvidia's board voted unanimously to bring back the disgraced CEO, who resigned this month amid news of his affairs. He's suspected of having had a relationship with a Chinese intelligence asset.",
+   "datum": 1795443480000
+  },
+  {
+   "id": "euronews-o47jfc",
+   "sourceId": "euronews",
+   "titel": "Nvidia closes up more than 30% after Jensen Huang returns as CEO",
+   "link": "https://www.euronews.com/2026/11/23/nvidia-reinstates-jensen-huang-as-ceo-11-days-after-he-resigned",
+   "snippet": "Nvidia shares soared from their Friday close after the company's board unanimously voted to reinstate Jensen Huang as CEO. US President Donald Trump welcomed his return.",
+   "datum": 1795443280000
+  },
+  {
+   "id": "sifted-1e0voog",
+   "sourceId": "sifted",
+   "titel": "Defence startup Agon raises $70m backed by Northzone and Lakestar",
+   "link": "https://sifted.eu/articles/agon-raise-northzone-lakestar-defence/",
+   "snippet": "",
+   "datum": 1795442194000
+  },
+  {
+   "id": "euronews-14fbxrq",
+   "sourceId": "euronews",
+   "titel": "LEGO to build €1bn factory in Portugal, creating more than 1,000 jobs",
+   "link": "https://www.euronews.com/2026/11/23/lego-to-build-1bn-factory-in-portugal-creating-more-than-1000-jobs",
+   "snippet": "The Danish toymaker plans to invest around €1 billion over several years in its fourth European factory. LEGO says the plant will be its most technologically advanced and is expected to start production in 2030.",
+   "datum": 1795441326000
+  },
+  {
+   "id": "eustartups-1c40g8k",
+   "sourceId": "eustartups",
+   "titel": "UK-based Agon raises €63.98 million at €411.3 million valuation to build Europe’s sovereign defence AI infrastructure",
+   "link": "https://www.eu-startups.com/2026/11/uk-based-agon-raises-e63-98-million-at-e411-3-million-valuation-to-build-europes-sovereign-defence-ai-infrastructure/",
+   "snippet": "Agon, a London-based defence AI startup building sovereign infrastructure for autonomous military systems, has raised a €63.87 million ($70 million) Series A round at a valuation of €411.3 million ($450 million). The round was led by Northzone with participation from returning investors Lakestar, XYZ, Lux Capital, a…",
+   "datum": 1795441217000
+  },
+  {
+   "id": "bbc-lok157",
+   "sourceId": "bbc",
+   "titel": "Flights cancelled in Belgium due to cost-of-living strike",
+   "link": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
+   "snippet": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
+   "datum": 1795440842000
+  },
+  {
+   "id": "euronews-10lzx2r",
+   "sourceId": "euronews",
+   "titel": "Japan launches Asian oil task force amid Gulf supply disruptions",
+   "link": "https://www.euronews.com/2026/11/23/japan-launches-asian-oil-task-force-amid-gulf-supply-disruptions",
+   "snippet": "Disruptions to oil shipments through the Strait of Hormuz due to the Iran war have pushed Asian countries to look at larger emergency reserves, shared storage, and closer cooperation with fuel suppliers as shortages squeeze their economies.",
+   "datum": 1795439901000
+  },
+  {
+   "id": "crunchbase-enw3qx",
+   "sourceId": "crunchbase",
+   "titel": "Most Unicorns Are Worth More Than Their Last Funding-Round Valuations, Crunchbase Estimates",
+   "link": "https://news.crunchbase.com/venture/unicorn-startup-current-valuations-thinking-machines-sierra-crunchbase/",
+   "snippet": "The more than 1,900 startups on the The Crunchbase Unicorn Board have a combined valuation of roughly $9 trillion, based on their last reported valuations. But Crunchbase’s new Current Valuation Model, which estimates how private-company values have changed since their last funding rounds, puts that figure closer to…",
+   "datum": 1795435219000
+  },
+  {
+   "id": "euronews-opm6sv",
+   "sourceId": "euronews",
+   "titel": "Donald Trump urges Nvidia to rehire former CEO Jensen Huang",
+   "link": "https://www.euronews.com/2026/11/23/donald-trump-urges-nvidia-to-rehire-former-ceo-jensen-huang",
+   "snippet": "US President Donald Trump has urged Nvidia's board to rehire Jensen Huang, joining calls for his return that include a petition with more than 200,000 signatures. The former CEO is due to face questions in Congress on 1 December.",
+   "datum": 1795434256000
+  },
+  {
+   "id": "euronews-156sbcb",
+   "sourceId": "euronews",
+   "titel": "EU targets Chinese imports in fresh trade defence investigation",
+   "link": "https://www.euronews.com/2026/11/23/eu-targets-chinese-imports-in-fresh-trade-defence-investigation",
+   "snippet": "The EU investigation could lead to sweeping tariffs or quotas on materials used in defence, renewable energy and transport, as Brussels steps up efforts to protect European industry from cheap Chinese imports.",
+   "datum": 1795430514000
+  },
+  {
+   "id": "scmp-1c2ewc0",
    "sourceId": "scmp",
-   "titel": "2 veteran Chinese property tycoons turn to urban renewal amid prolonged downturn",
-   "link": "https://www.scmp.com/business/article/3375241/two-veteran-chinese-property-tycoons-turn-urban-renewal-amid-prolonged-downturn",
-   "snippet": "Two of China’s best-known property tycoons have made a comeback in recent months, turning their attention to renovating existing buildings and reviving established commercial properties. China Vanke founder Wang Shi, 75, and Dalian Wanda Group chairman Wang Jianlin, 72, have returned to the public eye through a fres…",
-   "datum": 1795305615000
-  },
-  {
-   "id": "tijd-ond-1ijtlpl",
-   "sourceId": "tijd-ond",
-   "titel": "Charleroi annuleert alle vluchten maandag",
-   "link": "https://www.tijd.be/r/t/1/id/10706522",
-   "snippet": "Brussels South Charleroi Airport (BSCA) bevestigt dat er op maandag geen enkele vertrekkende of aankomende vlucht kan worden uitgevoerd, als gevolg van de aangekondigde werkonderbreking van de luchtverkeersleidingsdiensten van Skeyes.",
-   "datum": 1795300260000
-  },
-  {
-   "id": "tijd-ond-1ijtkx6",
-   "sourceId": "tijd-ond",
-   "titel": "Nieuwe eigenaar moet luxechocolatier Pierre Marcolini redden",
-   "link": "https://www.tijd.be/r/t/1/id/10706442",
-   "snippet": "De bekende Belgische luxechocolatier Pierre Marcolini zit opnieuw in stevige financiële problemen. Een nieuwe eigenaar moet het bedrijf redden. Ook voor zusteronderneming Godiva zoekt de Koreaanse investeringsgroep MBK Partners een koper, zo raakt nu formeel bekend.",
-   "datum": 1795266976000
+   "titel": "As brain-computer interface boom enters next phase, China pushes to shape global standards",
+   "link": "https://www.scmp.com/business/china-business/article/3375442/brain-computer-interface-boom-enters-next-phase-china-pushes-shape-global-standards",
+   "snippet": "China will set up a new standard-setting task force for brain-computer interface (BCI) technologies, while a state-backed think tank has urged investors to remain patient as the nascent but increasingly crowded sector develops. The Ministry of Industry and Information Technology said it would create the new working…",
+   "datum": 1795420806000
   }
  ],
  "gezienIds": [
-  "bbc-pmz87x",
-  "bbc-1dt5tu0",
-  "scmp-13rusxt",
-  "scmp-saysz4",
-  "vrt-1wigymq",
-  "vrt-1no0na3",
-  "nyt-1ib1eh4",
-  "nyt-zisbty",
-  "vrt-nsnhqu",
-  "economist-1g6iilj",
-  "vrt-15k0c32",
-  "vrt-1xb00zf",
+  "bbc-1e3b600",
+  "scmp-11qisws",
   "cnbc-14dyyv1",
-  "nyt-10hvxzz",
-  "nyt-x2v8rt",
-  "vrt-hu6emx",
-  "nyt-1ket8k",
-  "euronews-1dcv3fc",
-  "vrt-d3b62t",
-  "vrt-1ojp7ff",
-  "vrt-1k63k0j",
-  "vrt-1m8cnc8",
-  "vrt-1hrb1q9",
-  "vrt-1mlnbpa",
-  "lecho-122y1ai",
-  "nyt-wkhxx",
-  "techcabal-2n2ae7",
-  "bbc-yhqhlz",
-  "nyt-7dtgn7",
-  "cnbc-kz2lv3",
-  "nyt-i5j3qw",
-  "economist-1eopgi7",
-  "guardian-ls2vsm",
-  "nyt-15g44ul",
-  "nyt-urqzzw",
-  "nyt-xhfms2",
+  "nyt-9oasfm",
+  "bbc-1eawdhs",
+  "scmp-2rv65j",
+  "vrt-1by20wc",
+  "vrt-1yovnyq",
+  "guardian-ewz198",
+  "nyt-1br1apg",
+  "cnbc-hutfhu",
+  "bbc-1ioycpb",
+  "nyt-5llbgh",
+  "nyt-dnc3tl",
+  "bbc-uaas5",
+  "nyt-1anvbtb",
+  "nyt-jq6l2t",
+  "nyt-1f4kxy6",
+  "vrt-12m4t3g",
+  "vrt-t4hraz",
   "nyt-25odio",
-  "tijd-ond-1ijtlov",
-  "bbc-1x4q4gt",
-  "bbc-zqv73t",
-  "euronews-arradi",
-  "guardian-bt88wy",
-  "scmp-1aazfg5",
-  "scmp-6orthc",
-  "bbc-1sbxpsq",
-  "scmp-1pt00fl",
-  "tijd-ond-1ijtlpl",
-  "euronews-1rp1147",
-  "tijd-ond-1ijtkx6"
+  "vrt-1ybhq0w",
+  "vrt-17rk4z8",
+  "vrt-nvrayp",
+  "tijd-ond-1ijtmog",
+  "tijd-ond-1ijtmoe",
+  "tijd-ond-1ijtmnj",
+  "vrt-1qc96mw",
+  "vrt-1oxx8jc",
+  "vrt-o3bblp",
+  "vrt-l3euyd",
+  "tijd-ond-1ijtmok",
+  "bbc-1ou73bn",
+  "vrt-1y4l871",
+  "lecho-122y4r4",
+  "nyt-1fy67xb",
+  "tijd-ond-1ijtmng",
+  "lecho-122y3ta",
+  "tijd-ond-1ijtmpb",
+  "lecho-122y4mo",
+  "bbc-14otiw6",
+  "mittr-q9zmrd",
+  "bbc-89u3qz",
+  "tijd-ond-1ijtmi3",
+  "techcabal-1rc944n",
+  "tijd-ond-1ijtmmq",
+  "nyt-1f7rgtx",
+  "bbc-178adss",
+  "lecho-122y4ls",
+  "bbc-5u1f7v",
+  "nyt-zisbty",
+  "eustartups-1v0q4ah",
+  "nyt-6wqepe",
+  "euronews-q5sbyi",
+  "lecho-122y4ml",
+  "tijd-ond-1ijtmlp",
+  "lecho-122y33m",
+  "tijd-ond-1ijtmiv",
+  "guardian-1ln93ji",
+  "bbc-1idblzg",
+  "eustartups-m7td3a",
+  "ecb-16nw2jg",
+  "dw-caewao",
+  "euronews-o47jfc",
+  "techcabal-3m314m",
+  "scmp-re9u1p",
+  "sifted-1e0voog",
+  "bbc-374lpm",
+  "euronews-14fbxrq",
+  "eustartups-1c40g8k",
+  "bbc-lok157",
+  "euronews-10lzx2r",
+  "mittr-1x6s07u",
+  "sifted-108rb7e",
+  "techcabal-l56q1o",
+  "techcabal-q3yoti",
+  "lecho-122y3ww",
+  "eustartups-ztu2yf",
+  "eustartups-wowikn",
+  "euronews-dyl3qz",
+  "crunchbase-enw3qx",
+  "euronews-opm6sv",
+  "eustartups-15sb09j",
+  "lecho-122y3w3",
+  "techcabal-1hzxexd",
+  "guardian-vl119x",
+  "lecho-122y2z3",
+  "mittr-tde7ap",
+  "row-1wsny37",
+  "dw-fmv7qu",
+  "sifted-1sn4hfb",
+  "euronews-156sbcb",
+  "eustartups-1gfu02p",
+  "techcabal-c7w0nv",
+  "scmp-1ja6mxx",
+  "ecb-1v6ozw3",
+  "lecho-122y3u6",
+  "dw-121djhv",
+  "scmp-14ttn7s",
+  "eustartups-1wmp6e7",
+  "sifted-1ki3kyw",
+  "scmp-wt99qi",
+  "scmp-1c2ewc0",
+  "eustartups-sx4b1e",
+  "euronews-k7j0cq",
+  "scmp-qqc7fc",
+  "euronews-1mcnf96",
+  "guardian-1u7jx8",
+  "scmp-tyd1cd",
+  "techcabal-kqp376",
+  "scmp-clbgtk",
+  "sifted-1937m7b",
+  "sifted-45et8h",
+  "scmp-1gkfv3h",
+  "scmp-9vpo77",
+  "guardian-1xbck9o",
+  "economist-1g6iilj",
+  "euronews-1dcv3fc",
+  "techcabal-2n2ae7"
  ]
 }
