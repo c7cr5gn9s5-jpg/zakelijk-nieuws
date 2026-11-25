@@ -1,141 +1,179 @@
 {
- "gemaaktOp": 1795482585466,
+ "gemaaktOp": 1795569017041,
  "model": "nachtelijke taak",
  "stories": [
   {
-   "id": "s0-bbc-1eawdhs",
-   "titel": "Jensen Huang terug als CEO van Nvidia na druk van Trump",
+   "id": "s0-dw-caewao",
+   "titel": "Nvidia zet Jensen Huang terug aan het roer, aandeel springt meer dan 30 procent hoger",
    "categorie": "tech",
    "regio": "wereld",
    "belang": "hoog",
-   "watGebeurt": "Nvidia heeft Jensen Huang opnieuw aangesteld als CEO. Hij was op 12 november opgestapt na onthullingen over buitenechtelijke relaties, onder meer met een vermoedelijke Chinese spion. De raad van bestuur stemde unaniem voor zijn terugkeer, nadat president Trump daarop had aangedrongen. Het aandeel sloot meer dan 30 procent hoger, Nvidia won bijna 1.000 miljard dollar aan beurswaarde en de Nasdaq steeg 6,5 procent.",
-   "waaromBelangrijk": "Nvidia is de spil van de AI-boom en trekt de hele beurs mee. Dat een president een raad van bestuur in feite overrulet, roept vragen op over goed bestuur en politieke invloed op bedrijven.",
-   "impactVoorJou": "Dit toont hoe afhankelijk de AI-markt is van één bedrijf en zelfs van één persoon. Wie later een AI-startup bouwt, zou die afhankelijkheid van een paar chipleveranciers kunnen meenemen in zijn risico-inschatting. Het is ook een sterk voorbeeld voor gesprekken over governance: wie beslist echt in een groot bedrijf?",
+   "watGebeurt": "De raad van bestuur van Nvidia heeft unaniem beslist om Jensen Huang opnieuw CEO te maken, enkele dagen nadat hij was opgestapt. Het aandeel sloot meer dan 30 procent hoger. Volgens Euronews drong president Trump aan op zijn terugkeer en steunde Elon Musk die campagne. Parlementsleden van beide Amerikaanse partijen uiten felle kritiek op de rol van Trump. Huang verontschuldigde zich bij zijn personeel en gaf toe dat hij de gedragscode schond door buitenechtelijke relaties.",
+   "waaromBelangrijk": "Nvidia levert de chips waar bijna de hele AI-sector op draait. Hoe het bedrijf bestuurd wordt, raakt dus de beurzen wereldwijd en de bredere AI-investeringen.",
+   "impactVoorJou": "Dit toont hoe sterk de hele AI-markt kan hangen aan één bedrijf en zelfs één persoon. Wie een AI-startup plant, doet er goed aan om niet afhankelijk te zijn van één leverancier van rekenkracht. Het kan ook een goed gespreksonderwerp zijn over corporate governance, dus hoe een raad van bestuur toezicht houdt.",
    "kansen": [
-    "Tools die het concentratierisico van bedrijven bij één leverancier of sleutelfiguur in kaart brengen",
-    "Onafhankelijke governance-analyse voor beleggers die snel willen inschatten hoe sterk een raad van bestuur staat"
+    "Tools die bedrijven helpen hun AI-toepassingen over meerdere chip- en cloudaanbieders te spreiden, zodat ze minder kwetsbaar zijn voor één leverancier.",
+    "Diensten rond governance en integriteitsonderzoek voor snelgroeiende techbedrijven."
    ],
-   "kanttekening": "Volgens governance-experts in The New York Times heeft Trump de raad in feite overruled. Huang moet op 1 december vragen beantwoorden in het Amerikaanse Congres. De Tijd wijst op juridische en ethische risico's op termijn; L'Echo meldt vermoedens van belangenvermenging, ook bij Republikeinen.",
+   "kanttekening": "Volgens Deutsche Welle wordt Huang ervan verdacht een relatie te hebben gehad met een Chinese inlichtingenbron; dat is een verdenking, geen vaststelling. Huang ontkent dat Trump doorslaggevend was voor zijn terugkeer, terwijl Trump volgens de BBC zegt dat hij Nvidia heeft 'overtuigd'.",
    "itemIds": [
-    "bbc-1eawdhs",
-    "guardian-ewz198",
-    "nyt-1br1apg",
-    "nyt-dnc3tl",
-    "bbc-uaas5",
-    "nyt-1anvbtb",
-    "nyt-jq6l2t",
-    "bbc-1idblzg",
     "dw-caewao",
     "euronews-o47jfc",
-    "euronews-opm6sv",
-    "lecho-122y4mo",
-    "tijd-ond-1ijtmnj",
-    "tijd-ond-1ijtmok"
+    "bbc-1eawdhs",
+    "euronews-2522s",
+    "vrt-zvgasx",
+    "guardian-19gipwc"
    ]
   },
   {
-   "id": "s1-nyt-9oasfm",
-   "titel": "VS zet Singaporese Megaspeed op zwarte handelslijst",
+   "id": "s1-nyt-15qrx49",
+   "titel": "Amerikaans justitieonderzoek naar Nvidia-chips die naar China zouden zijn gesluisd",
    "categorie": "beleid",
    "regio": "wereld",
-   "belang": "middel",
-   "watGebeurt": "De regering-Trump heeft sancties opgelegd aan Megaspeed, een Singaporees bedrijf dat centraal staat in het Nvidia-schandaal. Het bedrijf staat nu op de entity list, een Amerikaanse zwarte lijst voor handel. Daar gingen weken van onenigheid tussen topambtenaren aan vooraf.",
-   "waaromBelangrijk": "Exportbeperkingen op AI-chips zijn een belangrijk geopolitiek wapen. Elke tussenpersoon die op zo'n lijst belandt, maakt de chipketen naar Azië strakker gecontroleerd.",
-   "impactVoorJou": "Wie met hardware of AI-rekenkracht werkt, kan geraakt worden door strengere regels over wie wat aan wie mag leveren. Het toont dat leveranciers en tussenpersonen controleren steeds belangrijker zou kunnen worden.",
-   "kansen": [
-    "Software die bedrijven helpt hun leveranciers en klanten automatisch te toetsen aan sanctie- en exportlijsten"
-   ],
-   "kanttekening": "Slechts één bron. De artikels leggen niet uit welke rol Megaspeed precies speelde in het schandaal.",
-   "itemIds": [
-    "nyt-9oasfm"
-   ]
-  },
-  {
-   "id": "s2-tijd-ond-1ijtmog",
-   "titel": "Luchtverkeersleiders Skeyes dreigen met nieuwe staking in december",
-   "categorie": "economie",
-   "regio": "belgie",
    "belang": "hoog",
-   "watGebeurt": "Een staking bij luchtverkeersleider Skeyes verstoorde maandag het vliegverkeer in België. Volgens De Tijd raakten ongeveer 100.000 passagiers gedupeerd en bedroeg de economische schade meer dan 25 miljoen euro. De vakbonden dienden meteen een nieuwe stakingsaanzegging in voor december. Een staker getuigt bij VRT NWS over hoge werkdruk door personeelstekort.",
-   "waaromBelangrijk": "Eén kleine groep sleutelwerknemers kan een hele economie lamleggen. De Tijd schrijft dat de actie vooral ging over interne wrijvingen met de directie, niet alleen over het regeringsbeleid.",
-   "impactVoorJou": "Als je in december wilt vliegen, kan je reis in het gedrang komen. Voor een ondernemer is dit een les over kwetsbaarheid: één knelpunt in de keten kan alles stilleggen. Het personeelstekort in kritieke technische beroepen kan ook een markt openen.",
+   "watGebeurt": "Onderzoekers van het Amerikaanse ministerie van Justitie hebben volgens bronnen van The New York Times bewijs verzameld dat Nvidia-chips illegaal via andere bedrijven naar China zijn doorgesluisd. De Amerikaanse minister van Justitie ontweek vragen over het onderzoek. Het Nvidia-aandeel zakte 7 procent.",
+   "waaromBelangrijk": "Exportbeperkingen op geavanceerde chips zijn een kernpunt in de handelsstrijd tussen de VS en China. Een onderzoek kan leiden tot strengere controles op wie chips koopt.",
+   "impactVoorJou": "Strengere exportregels kunnen de toegang tot AI-chips duurder en trager maken, ook voor bedrijven buiten de VS. Voor een toekomstige ondernemer is het nuttig te begrijpen dat 'compliance', dus het naleven van regels, in de chipsector steeds zwaarder weegt.",
    "kansen": [
-    "Planningssoftware die werkdruk en bezetting in veiligheidskritische beroepen beter verdeelt",
-    "Diensten die bedrijven en reizigers sneller omboeken of compenseren bij stakingen"
+    "Software die verkopers van gevoelige technologie helpt nagaan wie de eindklant echt is (know-your-customer voor hardware)."
    ],
-   "kanttekening": "De bronnen noemen verschillende periodes: De Tijd spreekt van 6 tot 20 december, L'Echo van 9 december tot 9 januari. Of er effectief gestaakt wordt, is nog niet zeker.",
+   "kanttekening": "Het bewijs is gemeld door anonieme bronnen 'die vertrouwd zijn met het onderzoek'; er is geen formele aanklacht vermeld.",
    "itemIds": [
-    "tijd-ond-1ijtmog",
-    "lecho-122y4r4",
-    "tijd-ond-1ijtmng",
-    "bbc-lok157",
-    "vrt-12m4t3g"
+    "nyt-15qrx49",
+    "bbc-171sce2"
    ]
   },
   {
-   "id": "s3-tijd-ond-1ijtmi3",
-   "titel": "BNP Paribas financiert en bezit glasvezelnet van Orange Belgium",
+   "id": "s2-euronews-q5tqqn",
+   "titel": "Sanofi koopt Amerikaanse biotech Insmed voor 41 miljard dollar",
+   "categorie": "economie",
+   "regio": "europa",
+   "belang": "hoog",
+   "watGebeurt": "Het Franse farmabedrijf Sanofi neemt het Amerikaanse biofarmabedrijf Insmed volledig in cash over voor 41 miljard dollar (37,4 miljard euro). Het is een van zijn grootste deals ooit. Sanofi wil zo zijn pijplijn van nieuwe geneesmiddelen aanvullen voordat zijn bestverkopende middel zijn octrooibescherming verliest.",
+   "waaromBelangrijk": "Grote farmabedrijven kopen innovatie vaak in bij kleinere biotechbedrijven in plaats van alles zelf te ontwikkelen. Dat houdt de markt voor biotechstartups levendig.",
+   "impactVoorJou": "Dit illustreert een klassiek exitpad: een biotechbedrijf bouwt een veelbelovend middel en wordt overgenomen door een grote speler. Wie in life sciences wil ondernemen, kan uit dit soort deals leren welke ziektedomeinen grote farmabedrijven willen kopen.",
+   "kansen": [
+    "Diensten die biotechstartups helpen hun dossier klaar te maken voor overname of partnership met grote farmabedrijven."
+   ],
+   "kanttekening": "",
+   "itemIds": [
+    "euronews-q5tqqn"
+   ]
+  },
+  {
+   "id": "s3-tijd-ond-1ijto8i",
+   "titel": "GBL en CVC lijven Italiaanse farmagroep Recordati in",
    "categorie": "economie",
    "regio": "belgie",
    "belang": "middel",
-   "watGebeurt": "Orange Belgium laat de uitbouw van een deel van zijn glasvezelnet financieren door BNP Paribas, via een leasing tot 800 miljoen euro. In ruil wordt BNP Paribas eigenaar van dat netwerk. Orange wil tegen 2040 glasvezel aanbieden op twee derde van zijn markt en huurt daarnaast ook netten van concurrenten.",
-   "waaromBelangrijk": "Telecomnetwerken worden steeds vaker gefinancierd als infrastructuur door banken en beleggers in plaats van door de operator zelf. Dat verandert wie de netten in handen heeft.",
-   "impactVoorJou": "Dit is een voorbeeld van een slimme financieringsconstructie: een bedrijf houdt zijn balans licht door een bank de infrastructuur te laten bezitten. Zo'n model zou je later ook voor andere kapitaalintensieve projecten kunnen bekijken.",
-   "kansen": [
-    "Diensten rond glasvezel-aansluiting en installatie nu de uitrol in België versnelt"
-   ],
-   "kanttekening": "Het bedrag van 800 miljoen euro is een maximum: De Tijd schrijft dat de financiering kan oplopen tot dat bedrag.",
+   "watGebeurt": "De Brusselse holding GBL en het investeringsfonds CVC zijn er met een verhoogd bod in geslaagd de Italiaanse geneesmiddelenproducent Recordati volledig over te nemen. GBL brengt 1,4 miljard euro in. Het is de grootste investering ooit voor GBL.",
+   "waaromBelangrijk": "Belgische holdings zoals GBL beheren veel vermogen en kiezen bewust in welke sectoren ze investeren. Een recordinvestering in farma zegt iets over waar zij groei verwachten.",
+   "impactVoorJou": "Het toont dat zorg en farma voor grote investeerders als stabiele groeisector gelden. Dat kan relevant zijn als je later kapitaal zoekt voor een bedrijf in die sector.",
+   "kansen": [],
+   "kanttekening": "",
    "itemIds": [
-    "tijd-ond-1ijtmi3",
-    "lecho-122y3ta"
+    "tijd-ond-1ijto8i"
    ]
   },
   {
-   "id": "s4-tijd-ond-1ijtmlp",
-   "titel": "Vlaamse 'Waze van de binnenvaart' Tresco koopt Nederlands Green Maritime",
+   "id": "s4-tijd-ond-1ijto8b",
+   "titel": "Aerospacelab opent in Charleroi de grootste satellietenfabriek van Europa",
    "categorie": "startups",
    "regio": "belgie",
-   "belang": "middel",
-   "watGebeurt": "Tresco, een Vlaams bedrijf dat navigatiesoftware voor de binnenvaart maakt, koopt het Nederlandse Green Maritime. Dat bedrijf werkt met operationele data aan boord van zeeschepen. Met de overname zet Tresco een stap naar de zeevaart.",
-   "waaromBelangrijk": "Het toont hoe een Vlaamse nichespeler groeit door overnames in een aanpalende markt. Scheepvaart is een sector waar data en software nog volop terrein winnen.",
-   "impactVoorJou": "Een mooi lokaal voorbeeld van een niche die groot kan worden: software voor een traditionele sector. Het bewijst dat je niet in consumententech hoeft te zitten om een groeibedrijf te bouwen.",
+   "belang": "hoog",
+   "watGebeurt": "Aerospacelab heeft in Charleroi een megafabriek die volgens L'Echo tot 500 satellieten per jaar kan produceren. Volgens De Tijd is het de grootste satellietenfabriek van Europa. Oprichter Benoît Deper ziet al nood aan extra productiecapaciteit, in België of de buurlanden. Het bedrijf krijgt binnenkort de nieuwe naam Ectro.",
+   "waaromBelangrijk": "Europa wil minder afhankelijk zijn van Amerikaanse en Chinese ruimtevaart. Een Belgische scale-up die satellieten op grote schaal bouwt, past in die strategie.",
+   "impactVoorJou": "Ruimtevaart is niet langer enkel iets voor grote staatsbedrijven: een Belgische scale-up bouwt er een industriële fabriek. Rond zo'n fabriek ontstaat vaak een ecosysteem van toeleveranciers en dienstverleners, ook in Wallonië.",
    "kansen": [
-    "Datatools voor andere traditionele logistieke sectoren, zoals havens of vrachtvervoer over de weg"
+    "Toepassingen die satellietdata gebruiken voor landbouw, verzekeringen of logistiek.",
+    "Gespecialiseerde toelevering of testdiensten voor satellietbouwers in de regio."
    ],
-   "kanttekening": "Het overnamebedrag wordt niet vermeld.",
+   "kanttekening": "",
    "itemIds": [
-    "tijd-ond-1ijtmlp"
+    "tijd-ond-1ijto8b",
+    "lecho-122y5jm"
    ]
   },
   {
-   "id": "s5-lecho-122y4ls",
-   "titel": "CrowdStrike koopt Zscaler voor recordbedrag van 43,9 miljard dollar",
+   "id": "s5-guardian-1wq6ahx",
+   "titel": "EU legt volgende maand quota op voor Chinese hybride auto's",
+   "categorie": "beleid",
+   "regio": "europa",
+   "belang": "middel",
+   "watGebeurt": "De Europese Commissie voert volgende maand de aangekondigde plafonds in op het aantal Chinese hybride auto's dat de EU binnen mag. De tijdelijke quota gelden ook voor hybrides uit het VK, Japan en Turkije.",
+   "waaromBelangrijk": "Europa beschermt zijn auto-industrie tegen goedkope import. Dat kan de prijzen en de keuze voor consumenten beïnvloeden.",
+   "impactVoorJou": "Als je binnenkort een auto koopt, zou het aanbod aan betaalbare hybrides kleiner kunnen worden. Voor ondernemers toont het dat handelsbeleid een markt snel kan openen of sluiten.",
+   "kansen": [],
+   "kanttekening": "Het gaat om tijdelijke quota; hoe hoog de plafonds liggen, staat niet in de bron.",
+   "itemIds": [
+    "guardian-1wq6ahx"
+   ]
+  },
+  {
+   "id": "s6-vrt-1m9opin",
+   "titel": "Ook Action wil op zondag open",
+   "categorie": "economie",
+   "regio": "belgie",
+   "belang": "laag",
+   "watGebeurt": "Budgetketen Action onderhandelt met de vakbonden over opening op zondagvoormiddag. Volgens een woordvoerder zitten die gesprekken in de laatste fase. Volgens L'Echo is er bij Action een ontwerpakkoord en ook bij Inditex een beperkt akkoord, terwijl zondagsopening in de voedingsdistributie al veralgemeent.",
+   "waaromBelangrijk": "Zondagsopening verandert hoe winkels concurreren met webshops en hoe personeel wordt ingezet.",
+   "impactVoorJou": "Als winkels vaker open zijn, verschuift het koopgedrag. Voor wie in retail of personeelsplanning wil ondernemen, kan dat nieuwe vraag creëren.",
+   "kansen": [
+    "Flexibele planningssoftware of uitzendplatformen voor winkelpersoneel op zondag."
+   ],
+   "kanttekening": "Er is nog geen definitief akkoord bij Action.",
+   "itemIds": [
+    "vrt-1m9opin",
+    "lecho-122y6a9"
+   ]
+  },
+  {
+   "id": "s7-techcabal-4yued4",
+   "titel": "Wave krijgt licentie voor mobiel geld in Congo",
+   "categorie": "startups",
+   "regio": "wereld",
+   "belang": "middel",
+   "watGebeurt": "Wave is de eerste aanbieder van mobiel geld in elf jaar die een licentie krijgt in de DR Congo. Zijn model met gratis geldopnames kan Airtel Money en M-PESA onder druk zetten. Het land bereidt een verbod voor op betalingen met contante dollars voor goederen en diensten, terwijl digitale dollarbetalingen toegelaten blijven.",
+   "waaromBelangrijk": "In veel Afrikaanse landen is mobiel geld de belangrijkste manier van betalen. Een nieuwe speler met lagere kosten kan een hele markt hertekenen.",
+   "impactVoorJou": "Dit is het soort ontwikkeling dat je mist als je enkel Europees nieuws volgt. Het toont hoe fintech in opkomende markten vaak sneller en radicaler werkt dan hier, en hoe regelgeving een kans kan creëren.",
+   "kansen": [
+    "Diensten voor kleine handelaars om betalingen in meerdere munten digitaal te ontvangen en te beheren.",
+    "Overschrijvingen van de diaspora in Europa naar mobiele portemonnees in Centraal-Afrika."
+   ],
+   "kanttekening": "Of Wave de Congolese frank goedkoop genoeg kan maken om te gebruiken, is volgens TechCabal nog een open vraag.",
+   "itemIds": [
+    "techcabal-4yued4"
+   ]
+  },
+  {
+   "id": "s8-mittr-1h176i",
+   "titel": "Datacenters bouwen eigen gascentrales om niet op het net te wachten",
    "categorie": "tech",
    "regio": "wereld",
-   "belang": "hoog",
-   "watGebeurt": "Cyberbeveiliger CrowdStrike neemt Zscaler over voor 43,9 miljard dollar. Volgens L'Echo is dat een record in de cybersecuritysector. CrowdStrike wil zich zo versterken tegen dreigingen die door artificiële intelligentie makkelijker worden.",
-   "waaromBelangrijk": "Cybersecurity consolideert: grote spelers kopen elkaar op om een volledig pakket te bieden. AI maakt aanvallen goedkoper, wat de vraag naar beveiliging opdrijft.",
-   "impactVoorJou": "Als de grote spelers fuseren, kan er ruimte ontstaan voor kleinere, gespecialiseerde startups die nichetaken beter doen. Cybersecurity blijft een groeimarkt die je kan volgen.",
+   "belang": "middel",
+   "watGebeurt": "Een aansluiting op het elektriciteitsnet krijgen is een van de grootste hindernissen voor een nieuw datacenter; de wachttijd kan tot tien jaar oplopen. Sommige ontwikkelaars bouwen daarom eigen gascentrales naast hun datacenter, los van het net. Volgens MIT Technology Review doet onder meer xAI dat.",
+   "waaromBelangrijk": "De AI-boom botst op de grenzen van het elektriciteitsnet. Dat dwingt bedrijven tot eigen oplossingen, met gevolgen voor uitstoot en energieprijzen.",
+   "impactVoorJou": "Energie wordt een knelpunt voor AI-groei. Wie in energie of cleantech wil ondernemen, ziet hier een concrete, dringende vraag.",
    "kansen": [
-    "Betaalbare beveiliging voor kmo's die te klein zijn voor de grote platformen",
-    "Detectie van AI-gestuurde phishing en fraude"
+    "Batterijopslag of lokale energieopwekking op maat van datacenters.",
+    "Software die het energieverbruik van AI-werklast slim spreidt over tijd en locatie."
    ],
-   "kanttekening": "Slechts één bron. Details over timing en goedkeuring van de overname ontbreken.",
+   "kanttekening": "",
    "itemIds": [
-    "lecho-122y4ls"
+    "mittr-1h176i"
    ]
   },
   {
-   "id": "s6-sifted-1e0voog",
-   "titel": "Defensie-AI-startup Agon haalt 70 miljoen dollar op",
+   "id": "s9-sifted-1e0voog",
+   "titel": "Londense defensie-AI-startup Agon haalt 70 miljoen dollar op",
    "categorie": "startups",
    "regio": "europa",
    "belang": "middel",
-   "watGebeurt": "Agon, een Londense startup die soevereine AI-infrastructuur bouwt voor autonome militaire systemen, haalt 70 miljoen dollar op in een Series A-ronde. Die eerste grote investeringsronde waardeert het bedrijf op 450 miljoen dollar. Northzone leidt de ronde, met onder meer Lakestar als terugkerende investeerder.",
-   "waaromBelangrijk": "Europese defensietech trekt steeds meer durfkapitaal aan nu Europa wil herbewapenen. 'Soeverein' betekent hier dat Europa niet afhankelijk wil zijn van buitenlandse technologie.",
-   "impactVoorJou": "Defensie was lang taboe voor investeerders, maar wordt nu een volwaardige startupmarkt in Europa. Het kan nuttig zijn om te weten dat ook burgertechnologie, zoals software en sensoren, daar een afzetmarkt kan vinden.",
+   "watGebeurt": "Agon, een defensie-AI-startup uit Londen, haalt 70 miljoen dollar (ongeveer 64 miljoen euro) op in een Series A-ronde. De ronde wordt geleid door Northzone, met Lakestar onder de bestaande investeerders. De waardering bedraagt 450 miljoen dollar. Agon bouwt eigen Europese infrastructuur voor autonome militaire systemen.",
+   "waaromBelangrijk": "Europese investeerders stoppen steeds meer geld in defensietechnologie. Dat was enkele jaren geleden voor veel fondsen nog taboe.",
+   "impactVoorJou": "Defensie en 'soevereine' technologie, dus technologie die Europa zelf in handen heeft, wordt een groeimarkt voor startups. Dat kan kansen bieden, maar ook ethische keuzes vragen.",
    "kansen": [
-    "Dual-use technologie: oplossingen die zowel civiel als militair inzetbaar zijn"
+    "Toepassingen voor dubbel gebruik (civiel en militair), zoals beveiligde communicatie of drone-detectie."
    ],
    "kanttekening": "",
    "itemIds": [
@@ -144,279 +182,226 @@
    ]
   },
   {
-   "id": "s7-tijd-ond-1ijtmiv",
-   "titel": "Lego investeert 1 miljard euro in nieuwe fabriek in Portugal",
-   "categorie": "economie",
-   "regio": "europa",
-   "belang": "middel",
-   "watGebeurt": "De Deense speelgoedfabrikant Lego bouwt voor ongeveer 1 miljard euro een nieuwe fabriek in Portugal om aan de groeiende vraag te voldoen. Het wordt Lego's vierde Europese fabriek en volgens het bedrijf de technologisch meest geavanceerde. De productie zou in 2030 starten en er komen meer dan 1.000 banen.",
-   "waaromBelangrijk": "Grote industriële investeringen kiezen vaker voor Zuid-Europa. Portugal wint aan belang als vestigingsplaats.",
-   "impactVoorJou": "Het toont dat productie in Europa nog altijd groeit, vooral waar het goedkoper is en de overheid meewerkt. Voor een ondernemer is Portugal mogelijk een interessante markt om te volgen.",
-   "kansen": [],
-   "kanttekening": "De investering is gespreid over meerdere jaren.",
-   "itemIds": [
-    "tijd-ond-1ijtmiv",
-    "euronews-14fbxrq"
-   ]
-  },
-  {
-   "id": "s8-euronews-156sbcb",
-   "titel": "EU opent nieuw handelsonderzoek naar Chinese import",
+   "id": "s10-euronews-x91zgd",
+   "titel": "Frankrijk legt strategische voorraden zeldzame aarden aan",
    "categorie": "beleid",
    "regio": "europa",
    "belang": "middel",
-   "watGebeurt": "De Europese Unie start een nieuw onderzoek naar Chinese import van materialen voor defensie, hernieuwbare energie en transport. Het kan leiden tot brede importheffingen of quota. Brussel wil zo de Europese industrie beschermen tegen goedkope Chinese invoer.",
-   "waaromBelangrijk": "Handelsbescherming kan prijzen voor grondstoffen en onderdelen in Europa doen stijgen. Tegelijk krijgen Europese producenten meer ademruimte.",
-   "impactVoorJou": "Als je later een product bouwt met onderdelen uit China, kan dit je kosten verhogen. Omgekeerd zou een Europese leverancier van die materialen mogelijk meer kansen krijgen.",
+   "watGebeurt": "President Macron kondigde maandag tijdens een besloten vergadering met industriëlen aan dat Frankrijk strategische reserves van zeldzame aarden en kritieke metalen aanlegt. Die voorraden komen samen met een systeem van gezamenlijke aankopen.",
+   "waaromBelangrijk": "Zeldzame aarden zijn nodig voor batterijen, elektronica en defensie, en Europa is er sterk afhankelijk van import. Voorraden moeten de industrie beschermen tegen tekorten.",
+   "impactVoorJou": "Grondstoffen worden een strategisch thema. Dat kan ruimte geven voor bedrijven in recyclage of alternatieve materialen.",
    "kansen": [
-    "Europese alternatieven voor kritieke materialen of onderdelen die nu uit China komen"
+    "Recyclage van kritieke metalen uit oude elektronica en batterijen."
    ],
-   "kanttekening": "Het onderzoek is net gestart. Of er effectief heffingen komen, is nog niet beslist.",
+   "kanttekening": "Details over omvang en financiering staan niet in de bron.",
    "itemIds": [
-    "euronews-156sbcb"
+    "euronews-x91zgd"
    ]
   },
   {
-   "id": "s9-euronews-10lzx2r",
-   "titel": "Japan richt Aziatische oliewerkgroep op door verstoring in de Golf",
+   "id": "s11-scmp-dsdc99",
+   "titel": "BlackRock lanceert in Hongkong getokeniseerd geldmarktfonds met stablecoins",
    "categorie": "economie",
    "regio": "wereld",
    "belang": "middel",
-   "watGebeurt": "Japan lanceert een Aziatische werkgroep rond olie. Door de oorlog met Iran zijn olietransporten door de Straat van Hormuz verstoord. Aziatische landen bekijken grotere noodvoorraden, gedeelde opslag en nauwere samenwerking met leveranciers, nu tekorten hun economieën onder druk zetten.",
-   "waaromBelangrijk": "Energieonzekerheid in Azië kan wereldwijd prijzen en toeleveringsketens raken. Landen gaan samenwerken om zich in te dekken.",
-   "impactVoorJou": "Hogere energieprijzen kunnen ook in Europa doorwerken in kosten voor bedrijven en consumenten. Het onderstreept waarom energiezekerheid een groeiend thema is voor ondernemers.",
+   "watGebeurt": "Vermogensbeheerder BlackRock heeft zijn eerste getokeniseerd geldmarktfonds in Hongkong en Azië-Pacific gelanceerd. Professionele beleggers kunnen inschrijven met een nieuw uitgegeven lokale stablecoin. Hongkong zet zo zijn ambities rond digitale activa door.",
+   "waaromBelangrijk": "Een 'getokeniseerd' fonds bestaat als digitaal token op een blockchain. Dat grote spelers dit doen, toont dat de grens tussen klassieke financiën en crypto vervaagt.",
+   "impactVoorJou": "Als traditionele beleggingsproducten op blockchain komen, kan de infrastructuur van de financiële sector veranderen. Hongkong loopt hierin voor op Europa, wat inzicht geeft in waar de markt naartoe kan gaan.",
    "kansen": [
-    "Oplossingen voor energiebesparing en -opslag voor bedrijven die minder afhankelijk willen zijn van olie"
+    "Compliance- en rapportagetools voor getokeniseerde fondsen onder Europese regels."
    ],
-   "kanttekening": "Slechts één bron, met weinig details over welke landen meedoen.",
+   "kanttekening": "Het fonds staat alleen open voor professionele beleggers.",
    "itemIds": [
-    "euronews-10lzx2r"
+    "scmp-dsdc99"
    ]
   },
   {
-   "id": "s10-scmp-1c2ewc0",
-   "titel": "China wil wereldnormen bepalen voor brein-computerinterfaces",
+   "id": "s12-scmp-15n36g2",
+   "titel": "Winst van Xiaomi meer dan gehalveerd",
    "categorie": "tech",
    "regio": "wereld",
    "belang": "middel",
-   "watGebeurt": "China richt een nieuwe werkgroep op om normen vast te leggen voor brein-computerinterfaces, technologie die hersensignalen koppelt aan computers. Het Chinese ministerie van Industrie en Informatietechnologie maakte dat bekend. Een denktank van de staat vraagt beleggers om geduld in deze nog jonge maar drukke sector.",
-   "waaromBelangrijk": "Wie de normen schrijft, bepaalt vaak mee wie de markt wint. China probeert vroeg die positie in te nemen in een technologie van de toekomst.",
-   "impactVoorJou": "Deze sector is in Europa nog weinig bekend maar trekt in China veel bedrijven aan. Het kan interessant zijn om te volgen hoe medische technologie en AI hier samenkomen.",
+   "watGebeurt": "De aangepaste nettowinst van het Chinese techbedrijf Xiaomi daalde in het derde kwartaal met 56,8 procent. Stijgende kosten voor geheugenchips drukten de smartphonetak, en de verkoop van zijn elektrische auto's verzwakte. De top waarschuwt dat de druk op smartphonemakers volgend jaar aanhoudt.",
+   "waaromBelangrijk": "Duurdere geheugenchips, onder meer door de vraag vanuit AI, raken nu ook gewone consumentenelektronica.",
+   "impactVoorJou": "Smartphones en andere toestellen zouden duurder kunnen worden. Het toont hoe de AI-boom kosten verschuift naar andere sectoren.",
    "kansen": [
-    "Toepassingen van hersensignalen in revalidatie of zorg, waar de Europese markt nog weinig spelers telt"
+    "Refurbished en tweedehands elektronica, als nieuwe toestellen duurder worden."
    ],
-   "kanttekening": "De oproep tot geduld wijst erop dat de commerciële doorbraak nog niet vaststaat.",
+   "kanttekening": "De bron noemt de stijgende geheugenkosten, maar niet de oorzaak ervan; het verband met AI is een interpretatie.",
    "itemIds": [
-    "scmp-1c2ewc0"
+    "scmp-15n36g2"
    ]
   },
   {
-   "id": "s11-cnbc-14dyyv1",
-   "titel": "Amerikaanse robotstartup Foundation in geldnood",
+   "id": "s13-tijd-ond-1ijto7f",
+   "titel": "BlueAlp investeert 50 miljoen in Oostende om olie uit plastic te halen",
    "categorie": "startups",
-   "regio": "wereld",
+   "regio": "belgie",
    "belang": "laag",
-   "watGebeurt": "Werknemers van robotbedrijf Foundation, dat gesteund wordt door Eric Trump, verliezen hun ziekteverzekering omdat het bedrijf krap bij kas zit. Foundation zoekt een dringende overbruggingslening en praat met durfkapitaalfondsen. Het wacht nog op een investering van 150 miljoen dollar van het Zuid-Koreaanse Base Group.",
-   "waaromBelangrijk": "Ook in de hype rond robots en AI lopen startups tegen geldproblemen aan. Bekende namen als investeerder zijn geen garantie.",
-   "impactVoorJou": "Een les in cashbeheer: wie rekent op één grote investering die nog niet binnen is, loopt risico. Het loont om altijd een buffer te hebben voor vertragingen.",
-   "kansen": [],
-   "kanttekening": "Slechts één bron. De investering van Base Group is nog niet afgerond.",
+   "watGebeurt": "Het Nederlandse BlueAlp, specialist in het recycleren van plasticafval, verdubbelt de capaciteit van een overgenomen fabriek in Oostende met een investering van 50 miljoen euro. De vorige eigenaars raakten er niet uit en verloren 132 miljoen euro aan het project.",
+   "waaromBelangrijk": "Chemische recyclage, waarbij plastic wordt omgezet in olie, is een beloftevolle maar moeilijke technologie. Het verhaal toont zowel het potentieel als het risico.",
+   "impactVoorJou": "Het is een les in ondernemen: dezelfde fabriek kan bij de ene eigenaar mislukken en bij een andere slagen. Ervaring en schaal kunnen het verschil maken in zware industriële technologie.",
+   "kansen": [
+    "Inzameling en sortering van moeilijk recycleerbaar plastic als grondstof voor zulke fabrieken."
+   ],
+   "kanttekening": "",
    "itemIds": [
-    "cnbc-14dyyv1"
-   ]
-  },
-  {
-   "id": "s12-crunchbase-enw3qx",
-   "titel": "Crunchbase: de meeste unicorns zijn meer waard dan bij hun laatste ronde",
-   "categorie": "startups",
-   "regio": "wereld",
-   "belang": "laag",
-   "watGebeurt": "De meer dan 1.900 startups op de Unicorn Board van Crunchbase zijn samen ongeveer 9.000 miljard dollar waard op basis van hun laatst gemelde waardering. Crunchbase lanceert een nieuw model dat schat hoe die waarde sindsdien veranderd is. Volgens die schatting is de meerderheid van de unicorns nu meer waard dan bij hun laatste ronde.",
-   "waaromBelangrijk": "De waarde van niet-beursgenoteerde bedrijven is moeilijk te meten. Zo'n model geeft een idee van hoe de markt er echt voor staat.",
-   "impactVoorJou": "Het is een nuttig gegeven voor gesprekken over startups: waarderingen zijn schattingen, geen vaste feiten. Dat kan je helpen om berichten over 'miljardenbedrijven' kritischer te lezen.",
-   "kansen": [],
-   "kanttekening": "Het gaat om een schatting met een eigen model van Crunchbase, niet om echte transacties.",
-   "itemIds": [
-    "crunchbase-enw3qx"
+    "tijd-ond-1ijto7f"
    ]
   }
  ],
  "items": [
   {
-   "id": "cnbc-14dyyv1",
-   "sourceId": "cnbc",
-   "titel": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
-   "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
-   "snippet": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
-   "datum": 1795476499000
+   "id": "nyt-15qrx49",
+   "sourceId": "nyt",
+   "titel": "Blanche Downplays Questions Over Nvidia as Investigators Examine Company’s Customers",
+   "link": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html",
+   "snippet": "Justice Department investigators have gathered evidence of Nvidia’s high-powered computer chips being illegally diverted by other firms to China, according to people familiar with the inquiries.",
+   "datum": 1795562856000
   },
   {
-   "id": "nyt-9oasfm",
-   "sourceId": "nyt",
-   "titel": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
-   "link": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
-   "snippet": "The administration added Megaspeed to the entity list, a trade blacklist, after weeks of sparring among top officials on the decision.",
-   "datum": 1795475938000
+   "id": "bbc-171sce2",
+   "sourceId": "bbc",
+   "titel": "US attorney general dodges questions about Nvidia investigation",
+   "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+   "snippet": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+   "datum": 1795555182000
+  },
+  {
+   "id": "guardian-19gipwc",
+   "sourceId": "guardian",
+   "titel": "Nvidia CEO Jensen Huang apologizes to staff: ‘I made some terrible mistakes’",
+   "link": "https://www.theguardian.com/technology/2026/nov/24/jensen-huang-nvidia-apologizes-staff",
+   "snippet": "Huang acknowledges he violated code of conduct by having affairs, but denied Trump was instrumental in his return Jensen Huang apologized to staff on Tuesday for the tumult he’s caused at Nvidia. The company’s CEO acknowledged he violated the code of conduct for having extramarital affairs, but pushed back on the re…",
+   "datum": 1795552322000
+  },
+  {
+   "id": "tijd-ond-1ijto8i",
+   "sourceId": "tijd-ond",
+   "titel": "GBL krijgt zijn grootste investering ooit rond: Italiaanse farmareus Recordati ingelijfd",
+   "link": "https://www.tijd.be/r/t/1/id/10706828",
+   "snippet": "Met hun verhoogde bod zijn de Brusselse holding GBL en het investeringsfonds CVC er samen in geslaagd de Italiaanse geneesmiddelenproducent Recordati volledig in te lijven. Met een inbreng van 1,4 miljard euro is het voor GBL de grootste investering ooit.",
+   "datum": 1795550481000
+  },
+  {
+   "id": "tijd-ond-1ijto8b",
+   "sourceId": "tijd-ond",
+   "titel": "In de satellietenfabriek van Aerospacelab, de grootste in Europa: ‘Naar de sterren kijken? Wallonië bouwt ze nu zelf’",
+   "link": "https://www.tijd.be/r/t/1/id/10706821",
+   "snippet": "Met de megafactory van Aerospacelab, de grootste satellietenfabriek van Europa, staan Charleroi en Wallonië voorgoed op de kaart van de snelgroeiende ruimtevaartindustrie. Oprichter Benoît Deper ziet al behoefte aan extra productiecapaciteit, in België of de buurlanden.",
+   "datum": 1795549849000
+  },
+  {
+   "id": "lecho-122y6a9",
+   "sourceId": "lecho",
+   "titel": "Les magasins Action envisagent également une ouverture le dimanche",
+   "link": "https://www.lecho.be/r/t/1/id/10706827",
+   "snippet": "Les ouvertures le dimanche se généralisent dans la grande distribution alimentaire. Le non-food entend suivre le mouvement avec un protocole d’accord chez Action et un accord, certes limité, chez Inditex.",
+   "datum": 1795547888000
+  },
+  {
+   "id": "vrt-zvgasx",
+   "sourceId": "vrt",
+   "titel": "\"Meest corrupte Witte Huis ooit\": parlementsleden in VS kritisch over rol van Trump bij terugkeer van Nvidia-topman",
+   "link": "https://vrtnws.be/p.oLqYjjWve",
+   "snippet": "Amerikaanse parlementsleden van zowel de Democraten als Republikeinen uiten felle kritiek op de heraanstelling van Jensen Huang bij Nvidia en de rol van president Donald Trump daarin. Ze wijzen op het gevaar voor de nationale veiligheid, maar stellen zich ook vragen bij het persoonlijke gewin voor Trump. Volgens de…",
+   "datum": 1795543352000
+  },
+  {
+   "id": "vrt-1m9opin",
+   "sourceId": "vrt",
+   "titel": "Ook Action bereidt opening op zondagvoormiddag voor",
+   "link": "https://vrtnws.be/p.APQmXQGQy",
+   "snippet": "Budgetwinkelketen Action is met de vakbonden aan het onderhandelen over de opening van zijn winkels op zondagvoormiddag. Een woordvoerder van de keten zegt aan Belga dat die gesprekken zich in de laatste fase bevinden.",
+   "datum": 1795542952000
+  },
+  {
+   "id": "tijd-ond-1ijto7f",
+   "sourceId": "tijd-ond",
+   "titel": "BlueAlp investeert 50 miljoen euro in Oostende om olie uit plasticafval te halen",
+   "link": "https://www.tijd.be/r/t/1/id/10706812",
+   "snippet": "BlueAlp, de Nederlandse specialist in het recyclen van plasticafval, gaat de capaciteit van een overgenomen fabriek in Oostende verdubbelen. De investering is opmerkelijk, omdat de vorige eigenaren hun tanden op het project stukbeten en er 132 miljoen euro hebben opgebrand.",
+   "datum": 1795541522000
+  },
+  {
+   "id": "lecho-122y5jm",
+   "sourceId": "lecho",
+   "titel": "Avec sa megafactory, Aerospacelab prépare l’avenir du spatial europeén",
+   "link": "https://www.lecho.be/r/t/1/id/10706765",
+   "snippet": "La nouvelle usine d'Aerospacelab à Charleroi sera capable de produire jusqu'à 500 satellites par an. La société sera très bientôt rebaptisée Ectro, pour souligner sa transformation en acteur majeur du spatial européen.",
+   "datum": 1795536519000
+  },
+  {
+   "id": "euronews-q5tqqn",
+   "sourceId": "euronews",
+   "titel": "Why French pharma firm Sanofi is paying $41 billion for US company Insmed",
+   "link": "https://www.euronews.com/2026/11/24/why-french-pharma-firm-sanofi-is-paying-41-billion-for-us-company-insmed",
+   "snippet": "French drugmaker Sanofi has agreed a $41 billion (€37.4bn) all-cash takeover of Insmed, a US biopharma company. The deal, one of its biggest ever, is meant to refill its pipeline of new medicines before its best-selling drug loses patent protection.",
+   "datum": 1795534133000
+  },
+  {
+   "id": "scmp-15n36g2",
+   "sourceId": "scmp",
+   "titel": "Xiaomi profits plunge 57% as EV and smartphone headwinds bite",
+   "link": "https://www.scmp.com/business/china-business/article/3375663/xiaomi-profits-plunge-57-ev-and-smartphone-headwinds-bite",
+   "snippet": "Xiaomi’s adjusted net profit more than halved in the third quarter of the year as rising memory costs squeezed its smartphone business and sales of its electric cars weakened, with executives warning that pressure on handset makers would persist into next year. The Chinese tech giant’s adjusted net profit fell 56.8…",
+   "datum": 1795530605000
+  },
+  {
+   "id": "euronews-2522s",
+   "sourceId": "euronews",
+   "titel": "How Trump and Silicon Valley got Nvidia to bring back Jensen Huang",
+   "link": "https://www.euronews.com/2026/11/24/why-trump-and-silicon-valley-wanted-nvidias-jensen-huang-back",
+   "snippet": "Nvidia's board said Jensen Huang would not return. Six days later, the chipmaker announced his reinstatement after Donald Trump pressed for his return and Elon Musk backed the campaign. Here's how the reversal unfolded and what was at stake for the AI industry.",
+   "datum": 1795530561000
+  },
+  {
+   "id": "euronews-x91zgd",
+   "sourceId": "euronews",
+   "titel": "France to create strategic reserves of rare earths and critical metals",
+   "link": "https://www.euronews.com/2026/11/24/france-to-create-strategic-reserves-of-rare-earths-and-critical-metals",
+   "snippet": "This project was announced on Monday by Emmanuel Macron during a closed-door meeting with industrialists at the Élysée. These mineral stocks will be accompanied by a mechanism of \"joint purchases\".",
+   "datum": 1795520879000
+  },
+  {
+   "id": "mittr-1h176i",
+   "sourceId": "mittr",
+   "titel": "Data centers are getting their own natural gas power plants",
+   "link": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+   "snippet": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead opting to build their own off-grid, or behind-the-meter, gas power plants to fuel the AI boom. xAI’s…",
+   "datum": 1795518000000
+  },
+  {
+   "id": "guardian-1wq6ahx",
+   "sourceId": "guardian",
+   "titel": "EU to impose cap on Chinese hybrid EV imports next month",
+   "link": "https://www.theguardian.com/business/2026/nov/24/eu-cap-chinese-hybrid-ev-imports-tariff-uk",
+   "snippet": "Temporary quotas on vehicles entering the bloc will also apply to cars from the UK, Japan and Turkey The EU will next month impose its threatened caps on the number of Chinese hybrid cars that can be imported into the bloc, the European Commission has announced. The quotas will also apply to hybrids from Japan, Turk…",
+   "datum": 1795517980000
   },
   {
    "id": "bbc-1eawdhs",
    "sourceId": "bbc",
-   "titel": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
+   "titel": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
    "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
    "snippet": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
-   "datum": 1795475427000
+   "datum": 1795517617000
   },
   {
-   "id": "guardian-ewz198",
-   "sourceId": "guardian",
-   "titel": "Jensen Huang reinstated as Nvidia CEO after Trump intervenes",
-   "link": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
-   "snippet": "Share price surges as chipmaker reverses decision to remove chief executive after US president ‘convinced’ its board Comment: Nvidia’s humiliated board should resign out of embarrassment US politics – live updates Timeline: fall and comeback of Jensen Huang Nvidia has reinstated Jensen Huang as chief executive after…",
-   "datum": 1795472620000
+   "id": "techcabal-4yued4",
+   "sourceId": "techcabal",
+   "titel": "In the DRC, Wave’s next pricing test is the franc",
+   "link": "https://techcabal.com/2026/11/24/francophone-weekly-by-techcabal-049/",
+   "snippet": "Wave is the first mobile money provider to win a licence in the DRC in 11 years. Its free-withdrawal model could put pressure on Airtel Money and M-PESA just as the country prepares to ban cash dollar payments for goods and services. With digital dollar payments still allowed, can Wave make the Congolese franc cheap…",
+   "datum": 1795516959000
   },
   {
-   "id": "nyt-1br1apg",
-   "sourceId": "nyt",
-   "titel": "Jensen Huang Returns to Nvidia, Showing What Trump Will Do for AI",
-   "link": "https://www.nytimes.com/2026/11/23/business/trump-jensen-huang-nvidia.html",
-   "snippet": "President Trump intervened on behalf of the returning Nvidia chief in a bid to boost a key company driving the stock market. The company’s share price soared.",
-   "datum": 1795472387000
-  },
-  {
-   "id": "nyt-dnc3tl",
-   "sourceId": "nyt",
-   "titel": "With Jensen Huang’s Return as C.E.O., Trump Effectively Overrode Nvidia’s Board",
-   "link": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html",
-   "snippet": "Nvidia’s board said Mr. Huang would not be back. But President Trump, who pushed for Mr. Huang’s reinstatement, effectively overrode the board, governance experts said.",
-   "datum": 1795469212000
-  },
-  {
-   "id": "bbc-uaas5",
-   "sourceId": "bbc",
-   "titel": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
-   "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
-   "snippet": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
-   "datum": 1795469022000
-  },
-  {
-   "id": "nyt-1anvbtb",
-   "sourceId": "nyt",
-   "titel": "Stocks Surge After Jensen Huang Is Reinstated as Nvidia CEO",
-   "link": "https://www.nytimes.com/2026/11/22/business/nvidia-stock-huang-ai-sp500-markets.html",
-   "snippet": "The market had already started to bounce back from a sell-off last week. Then, the news that Nvidia reinstated its former chief executive sent shares soaring.",
-   "datum": 1795469011000
-  },
-  {
-   "id": "nyt-jq6l2t",
-   "sourceId": "nyt",
-   "titel": "Here’s the latest.",
-   "link": "https://www.nytimes.com/live/2026/11/23/technology/nvidia-jensen-huang-reinstated/nvidia-jensen-huang",
-   "snippet": "Mr. Huang resigned from Nvidia on Nov. 12 after revelations of multiple extramarital relationships.",
-   "datum": 1795468068000
-  },
-  {
-   "id": "vrt-12m4t3g",
-   "sourceId": "vrt",
-   "titel": "Stakende luchtverkeersleider getuigt over hoge werkdruk: \"Collega's vrezen dat er eerst doden moeten vallen voor er iets verandert\"",
-   "link": "https://vrtnws.be/p.pAx1Wwapm",
-   "snippet": "\"Collega's zeggen dat ze hun job niet langer veilig kunnen uitvoeren, maar door personeelstekorten worden ze toch verplicht om te blijven werken.\" Dat getuigt Wilfried*, een luchtverkeersleider bij Skeyes die vandaag deelnam aan de staking, aan VRT NWS. Volgens hem ligt de werkdruk al jaren te hoog, maar blijft het…",
-   "datum": 1795463671000
-  },
-  {
-   "id": "tijd-ond-1ijtmog",
-   "sourceId": "tijd-ond",
-   "titel": "Luchtverkeersleiders dreigen met nieuwe staking in december",
-   "link": "https://www.tijd.be/r/t/1/id/10706673",
-   "snippet": "Nog tijdens de actiedag van maandag hebben de vakbonden van de luchtverkeersleiders bij Skeyes een nieuwe stakingsaanzegging ingediend. Ze dreigen tussen zondag 6 en zondag 20 december het werk neer te leggen en daarmee het vliegverkeer in ons land plat te leggen.",
-   "datum": 1795462168000
-  },
-  {
-   "id": "tijd-ond-1ijtmnj",
-   "sourceId": "tijd-ond",
-   "titel": "Too big to fail: hoe Jensen Huang weer in het zadel werd gehesen bij Nvidia",
-   "link": "https://www.tijd.be/r/t/1/id/10706663",
-   "snippet": "Nog geen week geleden wilde de raad van bestuur van de chipmaker Nvidia het zelfs niet hebben over een mogelijke comeback van oprichter Jensen Huang als CEO. Maar stijgende nervositeit over de sector en politieke druk van op het allerhoogste niveau deden het tij keren.",
-   "datum": 1795461338000
-  },
-  {
-   "id": "tijd-ond-1ijtmok",
-   "sourceId": "tijd-ond",
-   "titel": "Terugkeer van Huang bij Nvidia opent vat vol risico’s",
-   "link": "https://www.tijd.be/r/t/1/id/10706677",
-   "snippet": "De terugkeer van Jensen Huang als CEO van Nvidia doet beleggers juichen, maar opent op termijn een vat vol juridische en ethische risico’s.",
-   "datum": 1795459485000
-  },
-  {
-   "id": "lecho-122y4r4",
-   "sourceId": "lecho",
-   "titel": "Nouveau préavis de grève chez Skeyes dès le 9 décembre",
-   "link": "https://www.lecho.be/r/t/1/id/10706682",
-   "snippet": "Les syndicats ACV et VSOA déposent un nouveau préavis de grève auprès du contrôleur aérien Skeyes, ouvrant la voie à de potentielles actions entre le 9 décembre et le 9 janvier.",
-   "datum": 1795459126000
-  },
-  {
-   "id": "tijd-ond-1ijtmng",
-   "sourceId": "tijd-ond",
-   "titel": "Luchtverkeersleiders staken niet tegen de regering, maar tegen de directie",
-   "link": "https://www.tijd.be/r/t/1/id/10706660",
-   "snippet": "De staking van een handvol luchtverkeersleiders heeft maandag de reisplannen van ongeveer 100.000 passagiers in de war gegooid en voor meer dan 25 miljoen euro aan economische schade berokkend. De actiedag tegen het regeringsbeleid werd vooral aangegrepen om bedrijfsinterne wrijvingen aan de kaak te stellen en lijkt…",
-   "datum": 1795458099000
-  },
-  {
-   "id": "lecho-122y3ta",
-   "sourceId": "lecho",
-   "titel": "Orange s'offre la fibre via un leasing à 800 millions d'euros signé avec BNP Paribas",
-   "link": "https://www.lecho.be/r/t/1/id/10706545",
-   "snippet": "Orange souhaite proposer une offre fibre sur les deux tiers de son marché d'ici à 2040. En plus de ses accords de location avec la concurrence, l'opérateur télécom va également déployer une partie du réseau. Il sera financé via un leasing signé avec BNP Paribas.",
-   "datum": 1795457114000
-  },
-  {
-   "id": "lecho-122y4mo",
-   "sourceId": "lecho",
-   "titel": "\"Je les ai convaincus\": comment Donald Trump a obtenu le retour de Jensen Huang chez Nvidia",
-   "link": "https://www.lecho.be/r/t/1/id/10706637",
-   "snippet": "Le Président américain a appelé le conseil d'administration de Nvidia à réengager son CEO déchu. Un soutien qui relance les soupçons de conflit d'intérêts et suscite des doutes jusque chez les républicains.",
-   "datum": 1795456842000
-  },
-  {
-   "id": "tijd-ond-1ijtmi3",
-   "sourceId": "tijd-ond",
-   "titel": "BNP Paribas breidt positie in België uit met instap in glasvezelnet Orange Belgium",
-   "link": "https://www.tijd.be/r/t/1/id/10706605",
-   "snippet": "De telecomoperator Orange Belgium gaat voor de uitbouw van zijn glasvezelnet in zee met de Franse bankreus BNP Paribas. In ruil voor een financiering die kan oplopen tot 800 miljoen euro, wordt BNP Paribas eigenaar van dat netwerk.",
-   "datum": 1795452287000
-  },
-  {
-   "id": "lecho-122y4ls",
-   "sourceId": "lecho",
-   "titel": "CrowdStrike rachète Zscaler pour 43,9 milliards de dollars, un record dans le secteur de la cybersécurité",
-   "link": "https://www.lecho.be/r/t/1/id/10706628",
-   "snippet": "Dans un contexte de cyberincidents à répétition, CrowdStrike acquiert Zscaler pour un montant record afin de renforcer sa position face à des menaces facilitées par l’intelligence artificielle.",
-   "datum": 1795449760000
-  },
-  {
-   "id": "tijd-ond-1ijtmlp",
-   "sourceId": "tijd-ond",
-   "titel": "Vlaamse 'Waze van de binnenvaart' trekt met overname Green Maritime naar zee",
-   "link": "https://www.tijd.be/r/t/1/id/10706643",
-   "snippet": "Het Vlaamse Tresco, gespecialiseerd in navigatiesoftware voor de binnenvaart, koopt het Nederlandse Green Maritime. Dat focust op operationele data aan boord van zeeschepen. De overname opent de deur van de zeevaart voor Tresco.",
-   "datum": 1795447656000
-  },
-  {
-   "id": "tijd-ond-1ijtmiv",
-   "sourceId": "tijd-ond",
-   "titel": "Lego bouwt voor miljard euro nieuwe fabriek in Portugal",
-   "link": "https://www.tijd.be/r/t/1/id/10706610",
-   "snippet": "Om aan de groeiende vraag te voldoen pompt de Deense speelgoedfabrikant Lego 1 miljard euro in een nieuwe vestiging in Portugal.",
-   "datum": 1795445757000
-  },
-  {
-   "id": "bbc-1idblzg",
-   "sourceId": "bbc",
-   "titel": "Nvidia reinstates CEO after affair with alleged spy",
-   "link": "https://www.bbc.co.uk/news/videos/cqze7lwdglngo?at_medium=RSS&at_campaign=rss",
-   "snippet": "Senior US government officials backed Nvidia's decision to reinstate Jensen Huang, the company says in a statement.",
-   "datum": 1795445465000
+   "id": "scmp-dsdc99",
+   "sourceId": "scmp",
+   "titel": "BlackRock taps Hong Kong stablecoins for new money market fund",
+   "link": "https://www.scmp.com/business/banking-finance/article/3375575/blackrock-taps-hong-kong-stablecoins-new-money-market-fund",
+   "snippet": "US asset manager BlackRock has launched its first tokenised money market fund in Hong Kong and the Asia-Pacific region, allowing investors to subscribe using a newly issued local stablecoin as the city pushes ahead with its digital asset ambitions. Professional investors can now use digital cash, including HKDAP – o…",
+   "datum": 1795500449000
   },
   {
    "id": "dw-caewao",
@@ -443,189 +428,139 @@
    "datum": 1795442194000
   },
   {
-   "id": "euronews-14fbxrq",
-   "sourceId": "euronews",
-   "titel": "LEGO to build €1bn factory in Portugal, creating more than 1,000 jobs",
-   "link": "https://www.euronews.com/2026/11/23/lego-to-build-1bn-factory-in-portugal-creating-more-than-1000-jobs",
-   "snippet": "The Danish toymaker plans to invest around €1 billion over several years in its fourth European factory. LEGO says the plant will be its most technologically advanced and is expected to start production in 2030.",
-   "datum": 1795441326000
-  },
-  {
    "id": "eustartups-1c40g8k",
    "sourceId": "eustartups",
    "titel": "UK-based Agon raises €63.98 million at €411.3 million valuation to build Europe’s sovereign defence AI infrastructure",
    "link": "https://www.eu-startups.com/2026/11/uk-based-agon-raises-e63-98-million-at-e411-3-million-valuation-to-build-europes-sovereign-defence-ai-infrastructure/",
    "snippet": "Agon, a London-based defence AI startup building sovereign infrastructure for autonomous military systems, has raised a €63.87 million ($70 million) Series A round at a valuation of €411.3 million ($450 million). The round was led by Northzone with participation from returning investors Lakestar, XYZ, Lux Capital, a…",
    "datum": 1795441217000
-  },
-  {
-   "id": "bbc-lok157",
-   "sourceId": "bbc",
-   "titel": "Flights cancelled in Belgium due to cost-of-living strike",
-   "link": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
-   "snippet": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
-   "datum": 1795440842000
-  },
-  {
-   "id": "euronews-10lzx2r",
-   "sourceId": "euronews",
-   "titel": "Japan launches Asian oil task force amid Gulf supply disruptions",
-   "link": "https://www.euronews.com/2026/11/23/japan-launches-asian-oil-task-force-amid-gulf-supply-disruptions",
-   "snippet": "Disruptions to oil shipments through the Strait of Hormuz due to the Iran war have pushed Asian countries to look at larger emergency reserves, shared storage, and closer cooperation with fuel suppliers as shortages squeeze their economies.",
-   "datum": 1795439901000
-  },
-  {
-   "id": "crunchbase-enw3qx",
-   "sourceId": "crunchbase",
-   "titel": "Most Unicorns Are Worth More Than Their Last Funding-Round Valuations, Crunchbase Estimates",
-   "link": "https://news.crunchbase.com/venture/unicorn-startup-current-valuations-thinking-machines-sierra-crunchbase/",
-   "snippet": "The more than 1,900 startups on the The Crunchbase Unicorn Board have a combined valuation of roughly $9 trillion, based on their last reported valuations. But Crunchbase’s new Current Valuation Model, which estimates how private-company values have changed since their last funding rounds, puts that figure closer to…",
-   "datum": 1795435219000
-  },
-  {
-   "id": "euronews-opm6sv",
-   "sourceId": "euronews",
-   "titel": "Donald Trump urges Nvidia to rehire former CEO Jensen Huang",
-   "link": "https://www.euronews.com/2026/11/23/donald-trump-urges-nvidia-to-rehire-former-ceo-jensen-huang",
-   "snippet": "US President Donald Trump has urged Nvidia's board to rehire Jensen Huang, joining calls for his return that include a petition with more than 200,000 signatures. The former CEO is due to face questions in Congress on 1 December.",
-   "datum": 1795434256000
-  },
-  {
-   "id": "euronews-156sbcb",
-   "sourceId": "euronews",
-   "titel": "EU targets Chinese imports in fresh trade defence investigation",
-   "link": "https://www.euronews.com/2026/11/23/eu-targets-chinese-imports-in-fresh-trade-defence-investigation",
-   "snippet": "The EU investigation could lead to sweeping tariffs or quotas on materials used in defence, renewable energy and transport, as Brussels steps up efforts to protect European industry from cheap Chinese imports.",
-   "datum": 1795430514000
-  },
-  {
-   "id": "scmp-1c2ewc0",
-   "sourceId": "scmp",
-   "titel": "As brain-computer interface boom enters next phase, China pushes to shape global standards",
-   "link": "https://www.scmp.com/business/china-business/article/3375442/brain-computer-interface-boom-enters-next-phase-china-pushes-shape-global-standards",
-   "snippet": "China will set up a new standard-setting task force for brain-computer interface (BCI) technologies, while a state-backed think tank has urged investors to remain patient as the nascent but increasingly crowded sector develops. The Ministry of Industry and Information Technology said it would create the new working…",
-   "datum": 1795420806000
   }
  ],
  "gezienIds": [
-  "bbc-1e3b600",
-  "scmp-11qisws",
-  "cnbc-14dyyv1",
-  "nyt-9oasfm",
+  "bbc-bihwae",
+  "scmp-1j5836r",
+  "nyt-15qrx49",
+  "nyt-ctzzkf",
+  "nyt-1b105yy",
+  "nyt-12b8c1b",
+  "nyt-165rk6u",
+  "nyt-1j6ep4r",
+  "nyt-1euo87j",
+  "nyt-1hugdil",
+  "nyt-xsal6h",
+  "vrt-o4pvl2",
+  "bbc-1tygcar",
+  "guardian-1hbpde9",
+  "scmp-1p03pqg",
+  "nyt-ywyuu8",
+  "nyt-dija40",
+  "bbc-171sce2",
+  "nyt-1crr639",
+  "vrt-1b9ukeb",
+  "lecho-122y6b1",
+  "economist-cofmms",
+  "guardian-19gipwc",
+  "bbc-rofhs3",
+  "tijd-ond-1ijto8i",
+  "tijd-ond-1ijto8b",
+  "vrt-15dc9j1",
+  "cnbc-1anevqv",
+  "tijd-ond-1ijtngt",
+  "lecho-122y6a9",
+  "vrt-zzd1z3",
+  "fed-1wfrx2d",
+  "vrt-9ma6hd",
+  "vrt-oxsr2u",
+  "vrt-19qdo2m",
+  "bbc-guvrxy",
+  "tijd-ond-1ijtnjp",
+  "economist-sg0d3o",
+  "vrt-yr8wbl",
+  "lecho-122y5mh",
+  "vrt-zvgasx",
+  "vrt-1m9opin",
+  "vrt-157lxlk",
+  "vrt-zw4eak",
+  "tijd-ond-1ijto7f",
+  "lecho-122y3x0",
+  "tijd-ond-1ijtnjr",
+  "bbc-vz7oaj",
+  "tijd-ond-1ijtnkl",
+  "tijd-ond-1ijto6m",
+  "lecho-122y5jm",
+  "lecho-122y5jo",
+  "lecho-122y5gw",
+  "tijd-ond-1ijtnio",
+  "euronews-q5tqqn",
+  "tijd-ond-1ijtnjl",
+  "mittr-1njyw75",
+  "techcabal-1hn6aeq",
+  "cnbc-inlehl",
+  "eustartups-158g8jh",
+  "scmp-15n36g2",
+  "euronews-2522s",
+  "sifted-1mznd8m",
+  "sifted-1o1dbch",
+  "lecho-122y5ki",
+  "lecho-122y5e6",
+  "lecho-122y5iq",
+  "techcabal-vljpvg",
+  "mittr-p0dlyf",
+  "bbc-xysl1p",
+  "euronews-2d4409",
+  "crunchbase-1kw11i",
+  "crunchbase-stpwat",
+  "cnbc-17z76kl",
+  "euronews-x91zgd",
+  "euronews-1jmu9ii",
+  "eustartups-1kkc51c",
+  "techcabal-a1dt7d",
+  "guardian-o8lxzb",
+  "sifted-1toimde",
+  "ecb-1objmu4",
+  "mittr-1h176i",
+  "guardian-1wq6ahx",
+  "dw-46pd7a",
   "bbc-1eawdhs",
-  "scmp-2rv65j",
-  "vrt-1by20wc",
-  "vrt-1yovnyq",
-  "guardian-ewz198",
-  "nyt-1br1apg",
+  "techcabal-4yued4",
+  "scmp-fsf5lj",
+  "eustartups-10xzg6c",
+  "scmp-y93cc5",
+  "scmp-1v427cj",
+  "scmp-oowau3",
+  "eustartups-q0o9ma",
+  "guardian-kdtgba",
+  "euronews-nu77gh",
+  "eustartups-2pd60g",
+  "techcabal-1gnvqvs",
+  "scmp-dsdc99",
+  "techcabal-1u7akus",
+  "euronews-vgy3ru",
+  "scmp-1kn56ij",
+  "sifted-1tjzm4o",
+  "scmp-qv4xb1",
+  "scmp-1txpkhc",
+  "scmp-csoazy",
+  "bbc-4q3t9w",
+  "bbc-hm2phw",
+  "bbc-1e3b600",
+  "cnbc-14dyyv1",
   "cnbc-hutfhu",
   "bbc-1ioycpb",
-  "nyt-5llbgh",
-  "nyt-dnc3tl",
-  "bbc-uaas5",
-  "nyt-1anvbtb",
-  "nyt-jq6l2t",
-  "nyt-1f4kxy6",
-  "vrt-12m4t3g",
-  "vrt-t4hraz",
-  "nyt-25odio",
-  "vrt-1ybhq0w",
-  "vrt-17rk4z8",
-  "vrt-nvrayp",
-  "tijd-ond-1ijtmog",
-  "tijd-ond-1ijtmoe",
-  "tijd-ond-1ijtmnj",
-  "vrt-1qc96mw",
-  "vrt-1oxx8jc",
-  "vrt-o3bblp",
-  "vrt-l3euyd",
-  "tijd-ond-1ijtmok",
-  "bbc-1ou73bn",
-  "vrt-1y4l871",
-  "lecho-122y4r4",
-  "nyt-1fy67xb",
-  "tijd-ond-1ijtmng",
-  "lecho-122y3ta",
-  "tijd-ond-1ijtmpb",
-  "lecho-122y4mo",
-  "bbc-14otiw6",
   "mittr-q9zmrd",
-  "bbc-89u3qz",
-  "tijd-ond-1ijtmi3",
   "techcabal-1rc944n",
-  "tijd-ond-1ijtmmq",
-  "nyt-1f7rgtx",
-  "bbc-178adss",
-  "lecho-122y4ls",
-  "bbc-5u1f7v",
-  "nyt-zisbty",
   "eustartups-1v0q4ah",
-  "nyt-6wqepe",
   "euronews-q5sbyi",
-  "lecho-122y4ml",
-  "tijd-ond-1ijtmlp",
-  "lecho-122y33m",
-  "tijd-ond-1ijtmiv",
   "guardian-1ln93ji",
-  "bbc-1idblzg",
   "eustartups-m7td3a",
   "ecb-16nw2jg",
   "dw-caewao",
   "euronews-o47jfc",
   "techcabal-3m314m",
-  "scmp-re9u1p",
   "sifted-1e0voog",
-  "bbc-374lpm",
   "euronews-14fbxrq",
   "eustartups-1c40g8k",
-  "bbc-lok157",
   "euronews-10lzx2r",
-  "mittr-1x6s07u",
-  "sifted-108rb7e",
-  "techcabal-l56q1o",
-  "techcabal-q3yoti",
-  "lecho-122y3ww",
-  "eustartups-ztu2yf",
-  "eustartups-wowikn",
-  "euronews-dyl3qz",
-  "crunchbase-enw3qx",
-  "euronews-opm6sv",
-  "eustartups-15sb09j",
-  "lecho-122y3w3",
-  "techcabal-1hzxexd",
-  "guardian-vl119x",
-  "lecho-122y2z3",
-  "mittr-tde7ap",
-  "row-1wsny37",
-  "dw-fmv7qu",
-  "sifted-1sn4hfb",
-  "euronews-156sbcb",
-  "eustartups-1gfu02p",
-  "techcabal-c7w0nv",
-  "scmp-1ja6mxx",
-  "ecb-1v6ozw3",
-  "lecho-122y3u6",
-  "dw-121djhv",
-  "scmp-14ttn7s",
-  "eustartups-1wmp6e7",
-  "sifted-1ki3kyw",
-  "scmp-wt99qi",
-  "scmp-1c2ewc0",
-  "eustartups-sx4b1e",
-  "euronews-k7j0cq",
-  "scmp-qqc7fc",
-  "euronews-1mcnf96",
-  "guardian-1u7jx8",
-  "scmp-tyd1cd",
-  "techcabal-kqp376",
-  "scmp-clbgtk",
-  "sifted-1937m7b",
-  "sifted-45et8h",
-  "scmp-1gkfv3h",
-  "scmp-9vpo77",
-  "guardian-1xbck9o",
-  "economist-1g6iilj",
-  "euronews-1dcv3fc",
-  "techcabal-2n2ae7"
+  "mittr-1x6s07u"
  ]
 }
