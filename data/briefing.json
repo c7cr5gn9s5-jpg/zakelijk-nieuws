@@ -1,589 +1,554 @@
 {
- "gemaaktOp": 1795655420799,
+ "gemaaktOp": 1795741814391,
  "model": "nachtelijke taak",
  "stories": [
   {
-   "id": "s0-bbc-skv75j",
-   "titel": "VS kondigen nieuwe importheffingen aan voor China, de EU en twaalf andere partners",
+   "id": "s0-tijd-ond-1ijua9f",
+   "titel": "SAP plant AI-herstructurering, 10.000 jobs op de helling",
+   "categorie": "tech",
+   "regio": "europa",
+   "belang": "hoog",
+   "watGebeurt": "De Duitse bedrijfssoftwaregroep SAP bereidt volgens het persagentschap Bloomberg een nieuwe herstructurering voor. Daarbij zouden minstens 10.000 jobs in gevaar zijn. Het doel is om klaar te zijn voor het AI-tijdperk en AI dieper in de software te verankeren.",
+   "waaromBelangrijk": "SAP is de grootste Europese softwarespeler. Als zo'n bedrijf zijn organisatie rond AI hertekent, is dat een signaal dat AI in bedrijfssoftware van experiment naar kernactiviteit verschuift.",
+   "impactVoorJou": "Dit kan een voorbode zijn van hoe grote softwarebedrijven hun personeel en producten de komende jaren zouden kunnen ombouwen. Voor een toekomstige ondernemer kan het interessant zijn: klanten van grote softwarepakketten zoeken mogelijk hulp om die AI-functies echt in hun werking in te passen.",
+   "kansen": [
+    "Kleine adviesbureaus of tools die kmo's helpen om AI-functies in bestaande ERP-software (pakketten voor boekhouding, voorraad en planning) echt te gebruiken.",
+    "Omscholings- of matchingplatform voor ervaren softwareprofielen die door herstructureringen vrijkomen."
+   ],
+   "kanttekening": "Het gaat om een bericht van Bloomberg, door beide bronnen zo toegeschreven. SAP heeft het in deze artikels niet zelf bevestigd en het aantal jobs is een schatting.",
+   "itemIds": [
+    "tijd-ond-1ijua9f",
+    "lecho-122ysb3"
+   ]
+  },
+  {
+   "id": "s1-vrt-1btvdne",
+   "titel": "Wallonië legt bouw van Google-datacenter stil wegens ontbrekende vergunning",
+   "categorie": "beleid",
+   "regio": "belgie",
+   "belang": "hoog",
+   "watGebeurt": "Het Waals Gewest heeft de bouwwerf van een groot datacenter van Google laten stilleggen. Google had sinds deze zomer geen bouwvergunning meer, maar ging de voorbije maanden toch door met de werken. Donderdag stelden de autoriteiten vast dat er nog 300 arbeiders aan het werk waren.",
+   "waaromBelangrijk": "Datacenters zijn de ruggengraat van AI en clouddiensten, maar ze vragen veel ruimte, stroom en water. Dit toont dat ook techreuzen kunnen botsen op lokale regels.",
+   "impactVoorJou": "Voor wie in tech wil ondernemen, is dit een herinnering dat vergunningen en lokale aanvaarding een echte bottleneck kunnen zijn voor digitale infrastructuur. Dat kan projecten vertragen en kosten opdrijven, ook voor kleinere spelers die van zulke infrastructuur afhangen.",
+   "kansen": [
+    "Diensten die bedrijven helpen met vergunningsdossiers en omgevingsimpact van energie-intensieve projecten.",
+    "Oplossingen om restwarmte van datacenters lokaal te benutten, wat de maatschappelijke aanvaarding kan verhogen."
+   ],
+   "kanttekening": "De bronnen noemen een andere gemeente: VRT NWS spreekt van Farciennes, L'Echo van Aiseau-Presles. De reactie van Google staat niet in deze artikels.",
+   "itemIds": [
+    "vrt-1btvdne",
+    "lecho-122ysx3"
+   ]
+  },
+  {
+   "id": "s2-guardian-560thn",
+   "titel": "Trump stelt nieuwe tarieven voor, China en Brazilië reageren scherp",
    "categorie": "beleid",
    "regio": "wereld",
    "belang": "hoog",
-   "watGebeurt": "De regering-Trump stelt nieuwe importheffingen voor op 14 handelspartners, onder wie China en de Europese Unie. Ze verwijst daarbij naar oneerlijke handelspraktijken. Volgens The Guardian komt er voor Chinese import 20 procent bij, tot ongeveer 40 procent in totaal, en zouden de heffingen begin volgend jaar ingaan.",
-   "waaromBelangrijk": "Hogere heffingen maken Europese export naar de VS duurder en kunnen handelsstromen verleggen. Dat raakt bedrijven die verkopen aan Amerikaanse klanten of afhangen van Chinese onderdelen.",
-   "impactVoorJou": "Wil je ooit een product naar de VS verkopen, dan kan handelsbeleid je marge net zo sterk bepalen als je product zelf. Het kan lonen om nu al te leren hoe bedrijven hun toeleveringsketen spreiden over meerdere landen.",
+   "watGebeurt": "De regering-Trump stelt nieuwe invoertarieven voor op goederen van 14 handelspartners, waaronder China en de EU. Peking noemt de heffingen 'politieke manipulatie' en houdt zich het recht voor om 'noodzakelijke maatregelen' te nemen. Brazilië zegt niet te zullen zwichten voor dit soort dreigementen. Volgens The New York Times stuurt Trump daarmee ook een boodschap naar handelspartners in Azië.",
+   "waaromBelangrijk": "Tarieven, extra belastingen op ingevoerde goederen, maken handel duurder en onzekerder. Ze kunnen prijzen, toeleveringsketens en investeringsbeslissingen wereldwijd beïnvloeden.",
+   "impactVoorJou": "Als je later een bedrijf hebt dat producten in- of uitvoert, kan zo'n tariefronde je marges en leveranciers rechtstreeks raken. Het kan ook verklaren waarom bedrijven hun productie spreiden over meer landen.",
    "kansen": [
-    "Software die kmo's in realtime toont welke heffingen op hun producten van toepassing zijn en wat een andere leverancier zou kosten.",
-    "Advies- of platformdiensten voor bedrijven die productie of inkoop willen verplaatsen weg van zwaar belaste landen."
+    "Software die kmo's snel laat doorrekenen wat nieuwe tarieven betekenen voor hun kostprijs en alternatieve leveranciers.",
+    "Diensten rond douane en herkomstregels voor bedrijven die handelsroutes willen verleggen."
    ],
-   "kanttekening": "Het gaat om een voorstel. De exacte percentages komen uit één bron, en volgens The New York Times botst de regering op juridische obstakels en extra toezicht van een nieuw Congres met een Democratische meerderheid.",
+   "kanttekening": "Het gaat om voorstellen; of en wanneer de tarieven ingaan, staat niet in deze artikels. Volgens een analyse van de BBC zijn deze tarieven minder bedreigend dan de eerste ronde, omdat landen hun handel al hebben omgeleid.",
    "itemIds": [
-    "bbc-skv75j",
-    "bbc-1r11na",
-    "nyt-929v3r",
-    "guardian-1q3u9jp"
+    "guardian-560thn",
+    "nyt-t3rome",
+    "bbc-12ce384"
    ]
   },
   {
-   "id": "s1-bbc-1um3q1q",
-   "titel": "Techaandelen in de VS zakken verder door twijfels over AI",
-   "categorie": "economie",
-   "regio": "wereld",
-   "belang": "hoog",
-   "watGebeurt": "De drie belangrijkste Amerikaanse beursindexen gingen woensdag opnieuw lager. De technologiebeurs Nasdaq stond vroeg in de handel bijna 4 procent lager. Nvidia en andere techbedrijven daalden terwijl beleggers handelsbeleid en het verloop van de rente afwogen.",
-   "waaromBelangrijk": "Een groot deel van de recente beursgroei hing aan de verwachtingen rond AI. Als beleggers daaraan twijfelen, kan dat doorwerken in hoeveel geld er naar techbedrijven en startups gaat.",
-   "impactVoorJou": "Een koude beurs maakt investeerders vaak voorzichtiger, ook in jonge bedrijven. Voor een toekomstige oprichter kan dat betekenen dat je moet tonen hoe je echt geld verdient, niet alleen dat je AI gebruikt.",
-   "kansen": [],
-   "kanttekening": "Beursbewegingen over één of twee dagen zeggen weinig over de lange termijn. De bronnen noemen meerdere oorzaken tegelijk: AI, handelsheffingen en inflatie.",
-   "itemIds": [
-    "bbc-1um3q1q",
-    "nyt-12tbwrl"
-   ]
-  },
-  {
-   "id": "s2-guardian-1ovug5p",
-   "titel": "Amerikaanse inflatie stijgt naar 3,8 procent, renteverhoging lijkt nabij",
-   "categorie": "economie",
-   "regio": "wereld",
-   "belang": "hoog",
-   "watGebeurt": "De prijzen in de VS stegen op een jaar tijd met 3,8 procent, het hoogste peil sinds mei. Volgens The Guardian komt dat door sterk stijgende energieprijzen. Het is de laatste inflatiemeting voor een belangrijke vergadering van de Amerikaanse centrale bank, die volgens The New York Times volgende maand algemeen een renteverhoging verwacht wordt.",
-   "waaromBelangrijk": "Een hogere rente maakt lenen duurder voor gezinnen en bedrijven. Amerikaanse rentebeslissingen werken vaak door op wereldwijde markten en op de waarde van de dollar.",
-   "impactVoorJou": "Duurder geld betekent meestal dat investeerders strenger kijken naar winstgevendheid. Wie een bedrijf start, zou in zo'n klimaat extra aandacht kunnen geven aan een laag kostenniveau en snelle inkomsten.",
-   "kansen": [
-    "Tools die kleine bedrijven helpen hun energiekosten op te volgen en te verlagen, nu energie de inflatie mee aanjaagt."
-   ],
-   "kanttekening": "De renteverhoging is een verwachting, nog geen beslissing.",
-   "itemIds": [
-    "guardian-1ovug5p",
-    "nyt-1kogbun"
-   ]
-  },
-  {
-   "id": "s3-tijd-ond-1ijtp2p",
-   "titel": "Europese pakjestaks doet omzet van Shein in Europa met 28 procent dalen",
-   "categorie": "economie",
-   "regio": "europa",
-   "belang": "hoog",
-   "watGebeurt": "De Chinese kledingverkoper Shein ziet zijn Europese omzet met 28 procent dalen. Dat komt door de Europese heffingen op kleine pakjes. Wereldwijd daalde de omzet in het derde kwartaal met 5,9 procent tot 10,27 miljard dollar.",
-   "waaromBelangrijk": "Het toont hoe snel één regel een bedrijfsmodel kan raken dat draait op heel goedkope losse pakjes uit China. Europese en lokale webshops krijgen daardoor mogelijk meer ademruimte.",
-   "impactVoorJou": "Regelgeving kan een markt plots openzetten. Wie de beweging snel ziet, zou kunnen inspelen op klanten die nu op zoek gaan naar een betaalbaar alternatief dichter bij huis.",
-   "kansen": [
-    "Een platform dat betaalbare mode van Europese makers bundelt met snelle levering uit een lokaal magazijn.",
-    "Diensten die niet-Europese webshops helpen voorraad in Europa op te slaan, zodat ze niet per los pakje belast worden."
-   ],
-   "kanttekening": "De daling van 28 procent geldt voor Europa, de daling van 5,9 procent voor de totale omzet. Beide cijfers komen van verschillende bronnen en spreken elkaar dus niet tegen.",
-   "itemIds": [
-    "tijd-ond-1ijtp2p",
-    "lecho-122y74k",
-    "scmp-1e98xdj"
-   ]
-  },
-  {
-   "id": "s4-techeu-12999tb",
-   "titel": "EU stelt fonds van 50 miljard euro voor in kwantum en strategische technologie",
-   "categorie": "beleid",
-   "regio": "europa",
-   "belang": "hoog",
-   "watGebeurt": "De Europese Unie stelde een Quantum Act voor. Daarbij hoort een voorgesteld investeringsfonds van 50 miljard euro dat moet investeren in kwantumcomputers, AI en andere technologie die Europa als strategisch beschouwt. Het doel is Europa tot wereldleider in kwantumtechnologie te maken.",
-   "waaromBelangrijk": "Europese techstartups klagen al lang over te weinig groeikapitaal. Een fonds dat aandelen neemt in bedrijven, in plaats van subsidies te geven, kan die kloof deels dichten.",
-   "impactVoorJou": "Als het fonds er komt, kan het later een geldbron zijn voor Europese diepe technologie. Ook wie zelf geen kwantumbedrijf start, kan profiteren door diensten te leveren aan de bedrijven die dat geld ontvangen.",
-   "kansen": [
-    "Software of diensten die kwantum- en AI-startups helpen met de administratie en rapportering die bij Europese financiering hoort."
-   ],
-   "kanttekening": "Het gaat om een voorstel. Sifted spreekt van 'plannen voor' een fonds, dus omvang en timing liggen nog niet vast.",
-   "itemIds": [
-    "techeu-12999tb",
-    "sifted-hldg54"
-   ]
-  },
-  {
-   "id": "s5-bbc-6883gf",
-   "titel": "VS keuren plan van SpaceX goed voor een miljoen satellieten als datacenters",
+   "id": "s3-nyt-1rn2kyn",
+   "titel": "Nvidia stopt verkoop aan vier Zuidoost-Aziatische landen na strengere Amerikaanse regels",
    "categorie": "tech",
    "regio": "wereld",
-   "belang": "middel",
-   "watGebeurt": "De Amerikaanse communicatietoezichthouder laat SpaceX toe tot een miljoen satellieten te lanceren die datacenters voor AI in de ruimte moeten huisvesten. Het netwerk heet Starmind en moet volgens SpaceX de goedkoopste en meest energiezuinige manier worden om aan de groeiende vraag naar AI-rekenkracht te voldoen.",
-   "waaromBelangrijk": "AI vraagt enorm veel stroom en datacenters op aarde botsen op netaansluitingen en vergunningen. Dit is een poging om dat probleem te omzeilen.",
-   "impactVoorJou": "Het toont waar de knelpunten in AI echt zitten: energie en ruimte, niet alleen software. Die knelpunten kunnen interessanter zijn om op te bouwen dan nog een AI-app.",
+   "belang": "hoog",
+   "watGebeurt": "Nvidia heeft de verkoop aan vier landen in Zuidoost-Azië stilgelegd. Dat volgt op een nieuwe Amerikaanse regel die bedrijven in die landen een vergunning zou opleggen om geavanceerde AI-chips te kopen. De VS verstrengen zo hun beperkingen rond China.",
+   "waaromBelangrijk": "AI-chips zijn een strategisch goed geworden. Exportregels bepalen steeds meer wie toegang heeft tot rekenkracht, en dus wie mee kan in de AI-race.",
+   "impactVoorJou": "Dit toont hoe geopolitiek de techmarkt kan opdelen. Voor een AI-startup kan toegang tot rekenkracht en de keuze van cloudregio's een strategische beslissing worden, niet alleen een technische.",
    "kansen": [
-    "Oplossingen die bestaande datacenters zuiniger maken, zoals betere koeling of slimmere spreiding van rekenwerk over de dag."
+    "Diensten die bedrijven helpen om te voldoen aan exportregels voor chips en AI-technologie.",
+    "Efficiëntere AI-modellen die met minder of oudere chips werken, voor markten met beperkte toegang."
    ],
-   "kanttekening": "Het gaat om een toelating, niet om werkende satellieten. Volgens L'Echo blijven de technische uitdagingen groot. De claims over kosten en energie komen van SpaceX zelf.",
+   "kanttekening": "Welke vier landen het precies zijn, staat niet in de aangeleverde samenvatting.",
    "itemIds": [
-    "bbc-6883gf",
-    "lecho-122yrak"
+    "nyt-1rn2kyn"
    ]
   },
   {
-   "id": "s6-euronews-opc83c",
-   "titel": "BYD in exclusieve gesprekken over autofabriek in Frankrijk",
+   "id": "s4-bbc-y27zkk",
+   "titel": "Norse Atlantic schrapt alle vluchten en dreigt failliet te gaan",
    "categorie": "economie",
    "regio": "europa",
    "belang": "middel",
-   "watGebeurt": "De Chinese elektrische-autobouwer BYD voert exclusieve gesprekken om de fabriek van Ineos Automotive in Hambach, in het Franse Moselle, over te nemen. Zo zou BYD in Frankrijk kunnen produceren. Het zou de tweede Europese fabriek van BYD worden, nu Europa de invoer strenger beperkt.",
-   "waaromBelangrijk": "Chinese autobouwers omzeilen Europese invoerbeperkingen door hier zelf te bouwen. Dat verhoogt de druk op Europese merken en hun toeleveranciers.",
-   "impactVoorJou": "Als Chinese spelers in Europa produceren, hebben ze lokale partners nodig: leveranciers, onderhoud, logistiek en software. Dat kan nieuwe klanten opleveren voor wie zich daarop richt.",
+   "watGebeurt": "De Noorse lagekostenmaatschappij Norse Atlantic heeft alle vluchten geschrapt. Het bedrijf zoekt dringend financiering en zal zonder reddingsboei het faillissement aanvragen. Volgens Euronews is de maatschappij zwaar geraakt door de sterk gestegen kerosineprijzen door de oorlog tegen Iran.",
+   "waaromBelangrijk": "Luchtvaart heeft dunne marges en is erg gevoelig voor brandstofprijzen. Een energieschok kan zwakkere spelers snel over de rand duwen.",
+   "impactVoorJou": "Voor jou als reiziger weinig directe impact, tenzij je bij deze maatschappij geboekt had. Als les voor ondernemers toont het hoe kwetsbaar een model is dat sterk afhangt van één kostenpost die je niet controleert.",
    "kansen": [
-    "Diensten die Chinese bedrijven helpen met Europese regels, personeel en lokale leveranciers bij het opstarten van een fabriek."
+    "Tools die reizigers bij een faillissement van een vliegmaatschappij snel helpen met terugbetaling en omboeken."
    ],
-   "kanttekening": "Het zijn gesprekken, nog geen afgeronde overname.",
+   "kanttekening": "Of er nog een redding komt, is onzeker. De koppeling met de oorlog tegen Iran komt van Euronews.",
    "itemIds": [
-    "euronews-opc83c",
-    "scmp-tv0uic"
+    "bbc-y27zkk",
+    "euronews-1pu4mxh"
    ]
   },
   {
-   "id": "s7-euronews-a19yd5",
-   "titel": "McKinsey: 3,7 miljoen industriebanen in Europa in gevaar",
+   "id": "s5-euronews-1jg7gfn",
+   "titel": "Britse discounter Poundland onder bewind, 11.000 jobs in gevaar",
    "categorie": "economie",
    "regio": "europa",
    "belang": "middel",
-   "watGebeurt": "Volgens een rapport van adviesbureau McKinsey staan ongeveer 3,7 miljoen banen in de Europese industrie rechtstreeks op de tocht. Bijna de helft van de industriële bedrijven in de regio zat in 2025 in financiële moeilijkheden. Cijfers van begin 2026 wijzen op een versnelling, maar McKinsey zegt dat de problemen op te lossen zijn.",
-   "waaromBelangrijk": "De industrie is een grote werkgever, ook in België. Een krimpende industrie raakt toeleveranciers, regio's en overheidsfinanciën.",
-   "impactVoorJou": "Waar oude industrie het moeilijk heeft, komen vaak mensen, gebouwen en kennis vrij. Een ondernemer zou kunnen kijken welke problemen die bedrijven zelf niet opgelost krijgen.",
+   "watGebeurt": "De Britse discountketen Poundland is onder bewind geplaatst, waardoor 11.000 jobs op het spel staan. Volgens Euronews is het een nieuwe klap voor de Britse retail, die lijdt onder zwakke consumentenbestedingen, hogere kosten en felle concurrentie. Het management en Britse parlementsleden wijzen naar de Amerikaanse eigenaar Gordon Brothers, die zegt dat de keten zonder hem vorig jaar al was omgevallen.",
+   "waaromBelangrijk": "Zelfs ketens die op lage prijzen mikken, raken in de problemen. Dat zegt veel over de druk op winkels in de straat en de koopkracht van consumenten.",
+   "impactVoorJou": "Dit kan een signaal zijn dat klassieke fysieke retail ook in de rest van Europa onder druk blijft. Voor een ondernemer kan het interessant zijn om te kijken welke noden van prijsbewuste klanten nu onbeantwoord blijven.",
    "kansen": [
-    "Tools die industriële kmo's helpen energie of grondstoffen te besparen.",
-    "Platformen die vakmensen uit krimpende sectoren koppelen aan groeiende sectoren."
+    "Platformen die leegstaande winkelpanden snel tijdelijk verhuren aan pop-ups en lokale makers."
    ],
-   "kanttekening": "Het is een schatting van één adviesbureau.",
+   "kanttekening": "Wie verantwoordelijk is voor de val, is betwist: het management en parlementsleden beschuldigen de eigenaar, de eigenaar ontkent.",
    "itemIds": [
-    "euronews-a19yd5"
+    "euronews-1jg7gfn",
+    "bbc-1a8mvwn",
+    "bbc-sttgw8"
    ]
   },
   {
-   "id": "s8-bbc-j55twa",
-   "titel": "Britse discountketen Poundland failliet, 11.000 banen bedreigd",
+   "id": "s6-tijd-ond-1ijtp0t",
+   "titel": "EnergyVision wint strijd om energiedivisie van Octa+",
    "categorie": "economie",
-   "regio": "europa",
+   "regio": "belgie",
    "belang": "middel",
-   "watGebeurt": "De Britse discountketen Poundland is onder bewind gesteld, een vorm van faillissementsbescherming, nadat de eigenaars geen koper vonden. Daardoor staan 11.000 banen op de tocht. De keten was een jaar geleden voor 1 pond gekocht door een Amerikaans bedrijf.",
-   "waaromBelangrijk": "Het toont hoe moeilijk het is voor fysieke winkels in het goedkope segment, waar ook online spelers sterk concurreren.",
-   "impactVoorJou": "Klassieke winkelketens verdwijnen niet zomaar. Er is meestal een fout in hun model. Bestuderen waarom zo'n keten faalt, kan helpen inschatten welke winkelconcepten wel nog werken.",
-   "kansen": [],
-   "kanttekening": "Alle artikels komen van dezelfde bron, de BBC.",
+   "watGebeurt": "Het Gentse energiebedrijf EnergyVision heeft de biedstrijd rond de elektriciteits- en aardgasdivisie van Octa+ gewonnen. Daardoor wordt het de vierde grootste energieleverancier voor gezinnen in Vlaanderen. Beleggers reageerden enthousiast en stuwden het aandeel naar een record.",
+   "waaromBelangrijk": "De Belgische energiemarkt voor gezinnen consolideert: kleinere leveranciers worden opgeslorpt door groeiende spelers. Dat verandert de concurrentie voor klanten.",
+   "impactVoorJou": "Als klant van Octa+ kan je leverancier veranderen. Als ondernemer zie je hier hoe een snelgroeiend bedrijf via overnames schaal kan kopen in plaats van klant per klant te winnen.",
+   "kansen": [
+    "Vergelijkings- en overstapdiensten die klanten helpen bij een overname van hun leverancier.",
+    "Energiediensten voor gezinnen, zoals slim verbruik en zonnepanelen, die grotere leveranciers als partner zouden kunnen aanbieden."
+   ],
+   "kanttekening": "De overnameprijs en de voorwaarden staan niet in deze artikels.",
    "itemIds": [
-    "bbc-j55twa",
-    "bbc-15674ts",
-    "bbc-138z9tw"
+    "tijd-ond-1ijtp0t",
+    "lecho-122yrce"
    ]
   },
   {
-   "id": "s9-lecho-122y6eu",
-   "titel": "Nscale twijfelt aan beursgang door onrust rond AI",
+   "id": "s7-techeu-1cvax95",
+   "titel": "Belgische cleantechstartup ARK Capture Solutions haalt 5,4 miljoen euro op",
+   "categorie": "startups",
+   "regio": "belgie",
+   "belang": "middel",
+   "watGebeurt": "ARK Capture Solutions, een Belgisch cleantechbedrijf, heeft 5,4 miljoen euro opgehaald. Het bedrijf ontwikkelt volledig elektrische installaties om CO2 uit industriële uitstoot te vangen. De ronde werd geleid door Aperam Ventures.",
+   "waaromBelangrijk": "Koolstofafvang, het opvangen van CO2 voor het de lucht in gaat, wordt belangrijk voor de zware industrie. Dat een staalgerelateerde investeerder mee instapt, wijst op interesse vanuit de industrie zelf.",
+   "impactVoorJou": "Dit is een voorbeeld van een Belgische deeptechstartup die rechtstreeks aansluit bij de noden van de industrie. Zo'n profiel kan inspireren als je overweegt om te ondernemen in klimaattechnologie.",
+   "kansen": [
+    "Software om de opgevangen CO2 te meten, te certificeren en te rapporteren voor industriële klanten.",
+    "Diensten die afgevangen CO2 een tweede leven geven als grondstof voor andere sectoren."
+   ],
+   "kanttekening": "",
+   "itemIds": [
+    "techeu-1cvax95"
+   ]
+  },
+  {
+   "id": "s8-sifted-145hzh0",
+   "titel": "ElevenLabs in gesprek over financiering tegen waardering van 33 miljard dollar",
    "categorie": "startups",
    "regio": "europa",
    "belang": "middel",
-   "watGebeurt": "De Britse startup Nscale, die rekenkracht in datacenters verhuurt, overweegt zijn geplande beursgang op Wall Street op te schorten. Het bedrijf mikte op een waardering van 35 miljard dollar. Volgens L'Echo staat vooral de verhuur van datacenters onder druk door de twijfels over AI.",
-   "waaromBelangrijk": "Beursgangen zijn een belangrijke uitweg voor investeerders in startups. Als die uitgesteld worden, kan er minder geld terugvloeien naar nieuwe jonge bedrijven.",
-   "impactVoorJou": "Een hoge waardering is pas iets waard als iemand ze uiteindelijk betaalt. Dit verhaal kan helpen om kritisch te kijken naar sectoren waar veel geld snel binnenstroomt.",
-   "kansen": [],
-   "kanttekening": "Volgens L'Echo 'denkt' Nscale aan uitstel; een beslissing is niet gemeld.",
-   "itemIds": [
-    "lecho-122y6eu"
-   ]
-  },
-  {
-   "id": "s10-vrt-couxka",
-   "titel": "Vier bedrijven van Limburgse bouwgroep Jansen failliet",
-   "categorie": "economie",
-   "regio": "belgie",
-   "belang": "middel",
-   "watGebeurt": "Vier dochterbedrijven van de bouwgroep Jansen uit Zonhoven gaan failliet. Daar werken in totaal 183 mensen. Voor de overige onderdelen van de groep wordt nog een overnemer gezocht.",
-   "waaromBelangrijk": "Een faillissement van deze omvang raakt ook onderaannemers en klanten met lopende bouwprojecten in de regio.",
-   "impactVoorJou": "De bouwsector is gevoelig voor rente en materiaalprijzen. Wie aan een idee in de bouw denkt, zou kunnen bekijken hoe je bouwbedrijven helpt hun kosten en planning beter te beheersen.",
+   "watGebeurt": "Het AI-spraakbedrijf ElevenLabs is volgens berichten in gesprek om geld op te halen tegen een waardering van 33 miljard dollar. Dat meldt Sifted op basis van andere berichtgeving.",
+   "waaromBelangrijk": "Als dit doorgaat, hoort ElevenLabs bij de meest waardevolle Europese techstartups. Het toont dat ook in Europa grote AI-bedrijven kunnen groeien.",
+   "impactVoorJou": "Spraak-AI wordt een basistechnologie waarop anderen kunnen bouwen. Voor een toekomstige ondernemer kan het slim zijn om niet zelf het model te bouwen, maar een toepassing voor een specifieke sector.",
    "kansen": [
-    "Software die kleinere bouwbedrijven waarschuwt wanneer een project financieel uit de hand dreigt te lopen."
+    "Spraakassistenten voor specifieke beroepen, zoals artsen of loodgieters, die gesprekken automatisch verwerken.",
+    "Meertalige audioversies van lokale content, zoals nieuwsbrieven of opleidingen."
    ],
-   "kanttekening": "De bronnen verschillen: volgens De Tijd verliezen alle 183 werknemers hun job, volgens VRT NWS hebben 55 van hen kans om aan de slag te blijven. De Tijd spreekt van vijf resterende onderdelen die hopen op een doorstart.",
+   "kanttekening": "Het gaat om berichten over gesprekken, geen afgeronde ronde. Sifted geeft alleen de kop, zonder verdere details.",
    "itemIds": [
-    "vrt-couxka",
-    "tijd-ond-1iju96y"
+    "sifted-145hzh0"
    ]
   },
   {
-   "id": "s11-tijd-ond-1ijtp5a",
-   "titel": "Ethias wil IT-dochter Keyes niet verkopen",
+   "id": "s9-nyt-1v5khuo",
+   "titel": "Nieuwe ECB-voorzitter: Pablo Hernández de Cos volgt Lagarde op",
    "categorie": "beleid",
-   "regio": "belgie",
-   "belang": "laag",
-   "watGebeurt": "Ethias-topman Philippe Lallemand ziet geen reden om het belang van de verzekeraar in IT-dochter Keyes, het vroegere NRB, te verkopen. De Vlaamse en Waalse overheid toonden zich daartoe nochtans bereid. Lallemand wil niet dat beslissingen over strategische IT in Amsterdam of Parijs genomen worden.",
-   "waaromBelangrijk": "Het debat gaat over wie in Europa de controle houdt over belangrijke IT-diensten. Dat thema van digitale soevereiniteit komt steeds vaker terug.",
-   "impactVoorJou": "Overheden en grote bedrijven letten meer op waar hun IT-leveranciers gevestigd zijn. Voor een Belgische of Europese startup in IT kan dat een verkoopargument zijn.",
-   "kansen": [
-    "IT-diensten voor overheden en verzekeraars die expliciet inzetten op Europese eigendom en opslag van gegevens."
-   ],
-   "kanttekening": "Het gaat om het standpunt van de topman; de overheden zelf komen in de artikels niet aan het woord.",
+   "regio": "europa",
+   "belang": "middel",
+   "watGebeurt": "De Europese Centrale Bank heeft Pablo Hernández de Cos gekozen als volgende voorzitter. Christine Lagarde vertrekt vroeger dan gepland. Ook twee komende vacatures in de directie maken ruimte voor nieuw leiderschap.",
+   "waaromBelangrijk": "De ECB bepaalt de rente in de eurozone. Wie aan het hoofd staat, kan mee bepalen hoe snel de rente stijgt of daalt, wat leningen en investeringen raakt.",
+   "impactVoorJou": "Op korte termijn verandert er weinig voor jou. Op langere termijn kan het beleid van de ECB bepalen hoe duur het is om een woning of een startup te financieren.",
+   "kansen": [],
+   "kanttekening": "Waarom Lagarde vroeger vertrekt en wanneer de wissel precies plaatsvindt, staat niet in het artikel.",
    "itemIds": [
-    "tijd-ond-1ijtp5a",
-    "lecho-122y777"
+    "nyt-1v5khuo"
    ]
   },
   {
-   "id": "s12-techcabal-1g31fgm",
-   "titel": "Wave haalde 25 miljoen gebruikers met lage kosten voor mobiel geld in West-Afrika",
+   "id": "s10-guardian-1ovug5p",
+   "titel": "VS: inflatie stijgt naar 3,8 procent, techaandelen blijven onder druk",
+   "categorie": "economie",
+   "regio": "wereld",
+   "belang": "middel",
+   "watGebeurt": "De inflatie in de VS steeg in oktober naar 3,8 procent op jaarbasis, het hoogste peil sinds mei. De stijging komt door sterk hogere energieprijzen. Het is de laatste meting voor een cruciale vergadering van de Federal Reserve. Tegelijk ging de verkoop van techaandelen woensdag door, uit bezorgdheid over de AI-handel.",
+   "waaromBelangrijk": "Hogere inflatie kan de Amerikaanse centrale bank aanzetten om de rente op te trekken. Dat maakt geld lenen duurder en kan de waardering van groeibedrijven, zoals techbedrijven, drukken.",
+   "impactVoorJou": "Als de rente stijgt, kan het moeilijker worden voor startups om geld op te halen. Dat kan ook in Europa doorwerken, omdat veel investeerders wereldwijd actief zijn.",
+   "kansen": [],
+   "kanttekening": "Of de Fed effectief de rente optrekt, staat niet vast.",
+   "itemIds": [
+    "guardian-1ovug5p"
+   ]
+  },
+  {
+   "id": "s11-euronews-6rcjgx",
+   "titel": "Argentinië belandt in technische recessie",
+   "categorie": "economie",
+   "regio": "wereld",
+   "belang": "laag",
+   "watGebeurt": "De Argentijnse economie kromp in het derde kwartaal met 1,8 procent, de tweede krimp op rij. Dat heet een technische recessie. Zwakke consumptie, dalende koopkracht en problemen in belangrijke sectoren remmen de groei en zetten de economische resultaten van president Javier Milei onder druk.",
+   "waaromBelangrijk": "Argentinië is een testcase voor een radicaal liberaal economisch beleid. Hoe dat uitdraait, wordt wereldwijd gevolgd.",
+   "impactVoorJou": "Weinig directe impact. Het is wel nuttige achtergrond voor gesprekken over hoe snel economische hervormingen effect hebben op gewone consumenten.",
+   "kansen": [],
+   "kanttekening": "",
+   "itemIds": [
+    "euronews-6rcjgx"
+   ]
+  },
+  {
+   "id": "s12-techcabal-7a4xrz",
+   "titel": "Nigeriaanse bedrijven kiezen Kenia voor hun volgende stap",
    "categorie": "startups",
    "regio": "wereld",
    "belang": "middel",
-   "watGebeurt": "Het fintechbedrijf Wave vertelt TechCabal hoe het met lage tarieven de prijzen voor mobiel geld in Franstalig West-Afrika naar beneden dwong. Het bedrijf telt 25 miljoen gebruikers. Volgens Wave houden structurele en regelgevende drempels informele bedrijven en vrouwen nog tegen om volop deel te nemen aan de digitale economie.",
-   "waaromBelangrijk": "Het is een voorbeeld van hoe een nieuwkomer een markt opent door de prijs radicaal te verlagen. In veel opkomende markten is de telefoon de bank.",
-   "impactVoorJou": "Dit soort verhalen mis je als je alleen Europees nieuws volgt. Het toont dat een eenvoudig, goedkoper aanbod een gevestigde markt kan openbreken.",
+   "watGebeurt": "Nigeriaanse bedrijven kopen in Kenia wat ze anders jaren zouden moeten opbouwen, meldt TechCabal. Dangote vond er een pijpleiding om brandstof tot bij klanten buiten Kenia te brengen. Moniepoint kocht een bank die al aan kleine bedrijven leent. Het gaat om energie, bankieren en kapitaalmarkten.",
+   "waaromBelangrijk": "Afrikaanse bedrijven breiden steeds meer uit binnen Afrika zelf, via overnames in plaats van van nul te starten. Dat is een trend die je in Europees nieuws zelden ziet.",
+   "impactVoorJou": "Dit toont een snelle manier om een nieuwe markt te betreden: koop een bestaande speler met licenties en klanten. Het is ook een herinnering dat Afrika een eigen dynamiek heeft die interessant kan zijn voor wie internationaal denkt.",
    "kansen": [
-    "Digitale tools voor informele handelaars in opkomende markten, zoals eenvoudige boekhouding via de telefoon."
+    "Adviesdiensten of platformen die grensoverschrijdende overnames tussen Afrikaanse markten begeleiden.",
+    "Tools voor kleine bedrijven in Oost-Afrika die met nieuwe digitale banken willen werken."
    ],
-   "kanttekening": "Het verhaal is gebaseerd op uitspraken van Wave zelf.",
+   "kanttekening": "Het is een analysestuk van één bron; de overnames zelf worden niet in detail beschreven.",
    "itemIds": [
-    "techcabal-1g31fgm"
+    "techcabal-7a4xrz"
+   ]
+  },
+  {
+   "id": "s13-scmp-133du8b",
+   "titel": "Chinese vastgoedschuldencrisis gaat nieuwe fase in",
+   "categorie": "economie",
+   "regio": "wereld",
+   "belang": "middel",
+   "watGebeurt": "Volgens analisten gaat de Chinese vastgoedschuldencrisis een nieuwe fase in. Projectontwikkelaars dreigen opnieuw in gebreke te blijven na jaren van uitstel van terugbetalingen, omdat de woningmarkt aanhoudend zwak is. China Vanke vraagt drie jaar uitstel voor een schuld van 1,2 miljard yuan.",
+   "waaromBelangrijk": "Vastgoed is een groot deel van de Chinese economie. Problemen daar kunnen de groei in China afremmen en zo ook de vraag naar Europese producten.",
+   "impactVoorJou": "Een zwakkere Chinese economie kan exporteurs in Europa raken en Chinese bedrijven aanzetten om nog harder in te zetten op buitenlandse markten. Dat zie je nu al in de automarkt.",
+   "kansen": [],
+   "kanttekening": "De inschatting dat er een tweede golf van herstructureringen komt, komt van analisten, niet van de bedrijven zelf.",
+   "itemIds": [
+    "scmp-133du8b"
    ]
   }
  ],
  "items": [
   {
-   "id": "bbc-6883gf",
-   "sourceId": "bbc",
-   "titel": "US approves SpaceX plan to send a million data satellites to space",
-   "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
-   "snippet": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
-   "datum": 1795651671000
+   "id": "scmp-133du8b",
+   "sourceId": "scmp",
+   "titel": "China’s property debt crisis deepens as second wave of restructurings looms",
+   "link": "https://www.scmp.com/business/markets/article/3375947/chinas-property-debt-crisis-deepens-second-wave-restructurings-looms",
+   "snippet": "China’s property debt crisis is entering a new phase as developers face the risk of defaulting again after years of repayment extensions, according to analysts, with a prolonged housing downturn leaving many unable to meet their obligations. China Vanke is seeking a three-year extension on a 1.2 billion yuan (US$180…",
+   "datum": 1795737606000
   },
   {
-   "id": "bbc-1um3q1q",
+   "id": "bbc-12ce384",
    "sourceId": "bbc",
-   "titel": "US stocks fall further as fears over AI intensify",
-   "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-   "snippet": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
-   "datum": 1795642998000
+   "titel": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+   "link": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+   "snippet": "Other countries have rerouted trade in response to his first tariff salvo, now they are looking beyond Trump's tenure.",
+   "datum": 1795722958000
   },
   {
-   "id": "nyt-12tbwrl",
+   "id": "nyt-1v5khuo",
    "sourceId": "nyt",
-   "titel": "Stocks Slump Again as Investors Fret About A.I., Tariffs and Inflation",
-   "link": "https://www.nytimes.com/2026/11/25/business/stocks-sp500-nvidia-ai.html",
-   "snippet": "Nvidia and other tech companies fell as investors weighed developments in global trade and the path of interest rates.",
-   "datum": 1795642362000
+   "titel": "European Central Bank Chooses Pablo Hernández de Cos as Next President",
+   "link": "https://www.nytimes.com/2026/11/26/business/ecb-pablo-hernandez-de-cos.html",
+   "snippet": "The early exit of Christine Lagarde as president of the European Central Bank, and two looming vacancies on the board, will make way for new leadership at the institution.",
+   "datum": 1795722094000
   },
   {
-   "id": "bbc-j55twa",
-   "sourceId": "bbc",
-   "titel": "Poundland collapses putting 11,000 jobs at risk",
-   "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
-   "snippet": "The discount chain has fallen into administration after its owners failed to find a buyer.",
-   "datum": 1795642270000
-  },
-  {
-   "id": "lecho-122yrak",
+   "id": "lecho-122ysx3",
    "sourceId": "lecho",
-   "titel": "SpaceX autorisé à déployer un million de satellites pour des centres de données dans l'espace",
-   "link": "https://www.lecho.be/r/t/1/id/10707029",
-   "snippet": "Le régulateur américain des communications autorise SpaceX à déployer jusqu’à un million de satellites pour héberger des centres de données spatiaux dédiés à l’IA. Les défis techniques, eux, restent importants.",
-   "datum": 1795641772000
+   "titel": "La Wallonie impose l'arrêt du chantier du data center de Google à Aiseau-Presles, faute de permis",
+   "link": "https://www.lecho.be/r/t/1/id/10707204",
+   "snippet": "Le chantier du vaste data center de Google, en Région wallonne, est mis à l'arrêt, faute de permis de bâtir. Ce jeudi, les autorités ont constaté que 300 ouvriers étaient pourtant sur place.",
+   "datum": 1795719482000
   },
   {
-   "id": "bbc-1r11na",
-   "sourceId": "bbc",
-   "titel": "What we know about Trump's Thanksgiving tariffs",
-   "link": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
-   "snippet": "Donald Trump is targeting China, the European Union and 12 other jurisdictions in a new round of tariffs.",
-   "datum": 1795635485000
-  },
-  {
-   "id": "nyt-1kogbun",
-   "sourceId": "nyt",
-   "titel": "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again",
-   "link": "https://www.nytimes.com/2026/11/25/business/economy/inflation-pce-interest-rates.html",
-   "snippet": "The Federal Reserve is widely expected to raise interest rates next month.",
-   "datum": 1795634010000
-  },
-  {
-   "id": "vrt-couxka",
+   "id": "vrt-1btvdne",
    "sourceId": "vrt",
-   "titel": "Vier bedrijven binnen Group Jansen uit Zonhoven failliet: minstens 128 werknemers verliezen job",
-   "link": "https://vrtnws.be/p.M9mMJv6AM",
-   "snippet": "Bouwbedrijf Group Jansen vraagt het faillissement aan voor 4 bedrijven binnen de groep. Bij de failliete bedrijven werken in totaal 183 mensen, voor 55 van hen bestaat er een kans dat ze aan de slag kunnen blijven. Voor de andere bedrijven binnen de groep wordt nog altijd naar een overnemer gezocht.",
-   "datum": 1795631904000
+   "titel": "Waals Gewest legt bouw van datacenter van Google in Farciennes stil",
+   "link": "https://vrtnws.be/p.3BwNWZQNJ",
+   "snippet": "Het Waals Gewest heeft de werkzaamheden op de bouwwerf van Google in Farciennes laten stilleggen. Google had sinds deze zomer geen vergunning meer voor de bouw van een groot datacenter, maar het technologiebedrijf is de voorbije maanden doorgegaan met de bouwwerken.",
+   "datum": 1795716823000
   },
   {
-   "id": "tijd-ond-1iju96y",
+   "id": "tijd-ond-1ijua9f",
    "sourceId": "tijd-ond",
-   "titel": "Vier dochters van Limburgse bouwgroep Jansen failliet",
-   "link": "https://www.tijd.be/r/t/1/id/10707009",
-   "snippet": "Vier dochterbedrijven van de noodlijdende Limburgse bouwgroep Jansen worden failliet verklaard, waardoor 183 mensen hun job verliezen. Voor de vijf resterende onderdelen hoopt de onderneming op een doorstart.",
-   "datum": 1795630005000
+   "titel": "'Duitse softwarereus SAP plant AI-reorganisatie: 10.000 jobs in gevaar'",
+   "link": "https://www.tijd.be/r/t/1/id/10707198",
+   "snippet": "Volgens het persagentschap Bloomberg staan bij de Duitse specialist in bedrijfssoftware SAP 10.000 jobs op de helling. SAP bereidt een herstructurering voor om klaar te zijn voor het AI-tijdperk en 'AI dieper in de software verankeren'.",
+   "datum": 1795715763000
   },
   {
-   "id": "bbc-15674ts",
-   "sourceId": "bbc",
-   "titel": "What's gone wrong at Poundland?",
-   "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
-   "snippet": "Poundland has collapse into administration. Why?",
-   "datum": 1795626032000
-  },
-  {
-   "id": "tijd-ond-1ijtp5a",
-   "sourceId": "tijd-ond",
-   "titel": "Ethias-baas Philippe Lallemand: 'Ik ga onze IT-dochter niet verkopen aan Fransen of Nederlanders'",
-   "link": "https://www.tijd.be/r/t/1/id/10706950",
-   "snippet": "Ethias-topman Philippe Lallemand ziet geen reden waarom de verzekeraar zijn belang in IT-dochter Keyes zou moeten verkopen, nadat de Vlaamse en Waalse overheid zich daartoe bereid hebben getoond. 'We zitten in een economische oorlog. Wil je dan echt naar Amsterdam of Parijs gaan voor beslissingen over strategische i…",
-   "datum": 1795625384000
-  },
-  {
-   "id": "lecho-122y777",
+   "id": "lecho-122ysb3",
    "sourceId": "lecho",
-   "titel": "Philippe Lallemand (CEO d'Ethias): \"Je ne vais pas vendre mon IT à des Français ou des Néerlandais\"",
-   "link": "https://www.lecho.be/r/t/1/id/10706955",
-   "snippet": "Pour Philippe Lallemand, CEO d'Ethias, l'avenir de l'assureur doit rester indépendant et belgo-belge, tout comme celui de sa filiale Keyes (ex-NRB). D'autant plus que le groupe dégage une croissance rentable, et généreuse envers ses actionnaires publics.",
-   "datum": 1795624233000
+   "titel": "Le leader européen de logiciels SAP envisage une restructuration axée sur l'IA: au moins 10.000 postes menacés",
+   "link": "https://www.lecho.be/r/t/1/id/10707194",
+   "snippet": "L'éditeur de logiciels SAP envisage une nouvelle restructuration. Au moins 10.000 postes pourraient être menacés, avec un cap assumé vers l'intelligence artificielle.",
+   "datum": 1795714926000
   },
   {
-   "id": "bbc-138z9tw",
+   "id": "euronews-6rcjgx",
+   "sourceId": "euronews",
+   "titel": "Argentina enters technical recession as weak consumption undermines Milei's economic gains",
+   "link": "https://www.euronews.com/2026/11/26/argentina-enters-technical-recession-as-weak-consumption-undermines-mileis-economic-gains",
+   "snippet": "Argentina's economy shrank 1.8% in the third quarter, its second straight contraction. Weak consumption, falling purchasing power and strain in key sectors are slowing growth and clouding Javier Milei's prospects.",
+   "datum": 1795713832000
+  },
+  {
+   "id": "bbc-sttgw8",
    "sourceId": "bbc",
-   "titel": "Why has Poundland collapsed and what happens next?",
-   "link": "https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss",
-   "snippet": "The retail chain has collapsed just one year after being bought for £1 by an American firm.",
-   "datum": 1795623870000
+   "titel": "When will Poundland shops close? Five key questions answered",
+   "link": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
+   "snippet": "Why is Poundland closing down, and what will happen to staff and suppliers?",
+   "datum": 1795713681000
   },
   {
-   "id": "bbc-skv75j",
-   "sourceId": "bbc",
-   "titel": "US announces new tariffs on host of countries including China",
-   "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-   "snippet": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-   "datum": 1795623694000
-  },
-  {
-   "id": "nyt-929v3r",
+   "id": "nyt-t3rome",
    "sourceId": "nyt",
-   "titel": "Trump Administration Unveils New Tariffs for China, EU and More, Citing Unfair Practices",
-   "link": "https://www.nytimes.com/2026/11/25/business/trump-tariffs-trade.html",
-   "snippet": "The latest escalation came as the administration confronts continued legal obstacles and new scrutiny from an incoming Democratic-led Congress.",
-   "datum": 1795622316000
+   "titel": "Trump’s Latest Tariffs Revive Focus on Pressuring China",
+   "link": "https://www.nytimes.com/2026/11/26/business/trump-tariffs-asia.html",
+   "snippet": "President Trump sent a message to trading partners across Asia, many of which depend on trade and investment from both the United States and China, that he is ready to escalate tariffs.",
+   "datum": 1795712611000
   },
   {
-   "id": "tijd-ond-1ijtp2p",
+   "id": "tijd-ond-1ijtp0t",
    "sourceId": "tijd-ond",
-   "titel": "Europese pakjestaks drukt omzet Shein met ruim een kwart",
-   "link": "https://www.tijd.be/r/t/1/id/10706926",
-   "snippet": "De Chinese kledingretailer Shein kampt met een omzetdaling van 28 procent in Europa. De Europese invoerheffingen geven de verkoper van goedkope pakjes een 'klap'.",
-   "datum": 1795621942000
+   "titel": "EnergyVision wordt met Octa+-deal de vierde grootste energieleverancier van Vlaanderen",
+   "link": "https://www.tijd.be/r/t/1/id/10706904",
+   "snippet": "Het energiebedrijf EnergyVision heeft de biedstrijd rond de elektriciteits- en aardgasdivisie van Octa+ gewonnen. De Gentse groep wordt dankzij de deal de vierde grootste energieleverancier voor gezinnen in Vlaanderen. Beleggers reageren enthousiast en sturen het aandeel naar een record.",
+   "datum": 1795709329000
+  },
+  {
+   "id": "bbc-y27zkk",
+   "sourceId": "bbc",
+   "titel": "Norse Atlantic suspends all flights as it faces potential collapse",
+   "link": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss",
+   "snippet": "The carrier is looking for urgent funding, but will file for bankruptcy without a financial lifeline.",
+   "datum": 1795703302000
+  },
+  {
+   "id": "lecho-122yrce",
+   "sourceId": "lecho",
+   "titel": "EnergyVision rachète les activités de fourniture d'électricité et de gaz d'Octa+",
+   "link": "https://www.lecho.be/r/t/1/id/10707049",
+   "snippet": "EnergyVision a remporté la bataille d’offres pour la division électricité et gaz d’Octa+. L'entreprise gantoise devient ainsi le quatrième fournisseur d’énergie des ménages en Flandre.",
+   "datum": 1795703288000
+  },
+  {
+   "id": "bbc-1a8mvwn",
+   "sourceId": "bbc",
+   "titel": "Simon Jack: Is Poundland's US owner to blame for its collapse?",
+   "link": "https://www.bbc.co.uk/news/articles/c62klzxvyzyqo?at_medium=RSS&at_campaign=rss",
+   "snippet": "Poundland's management and MPs blame the retailer's owners, Gordon Brothers, but the US firm says without them the chain would have collapsed last year.",
+   "datum": 1795700446000
+  },
+  {
+   "id": "nyt-1rn2kyn",
+   "sourceId": "nyt",
+   "titel": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
+   "link": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html",
+   "snippet": "The shipping halt, which hit four countries, follows a new U.S. rule that would require licenses for companies in the countries to buy advanced A.I. chips.",
+   "datum": 1795694641000
+  },
+  {
+   "id": "guardian-560thn",
+   "sourceId": "guardian",
+   "titel": "China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals",
+   "link": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+   "snippet": "Beijing says new levies amount to ‘political manipulation’, while Brazil ‘will not yield to this type of threat’ Trump proposing new tariffs on 14 partners including China and EU Beijing has said it reserves the right to take “necessary measures” after Donald Trump’s administration proposed new tariffs on goods from…",
+   "datum": 1795694422000
+  },
+  {
+   "id": "euronews-1pu4mxh",
+   "sourceId": "euronews",
+   "titel": "Norwegian low-cost carrier Norse Atlantic suspends flights as bankruptcy looms",
+   "link": "https://www.euronews.com/2026/11/26/norwegian-low-cost-carrier-norse-atlantic-suspends-flights-as-bankruptcy-looms",
+   "snippet": "Norwegian low-cost carrier Norse Atlantic, hit by surging jet fuel prices due to the war against Iran, said on Thursday that it was teetering on the verge of bankruptcy as it cancelled all flights for the day.",
+   "datum": 1795693593000
+  },
+  {
+   "id": "sifted-145hzh0",
+   "sourceId": "sifted",
+   "titel": "ElevenLabs in talks to raise funding at $33bn valuation, reports say",
+   "link": "https://sifted.eu/articles/elevenlabs-funding-round-raise-33-bn-latest/",
+   "snippet": "",
+   "datum": 1795690112000
+  },
+  {
+   "id": "techeu-1cvax95",
+   "sourceId": "techeu",
+   "titel": "ARK Capture Solutions secures €5.4M to scale its all-electric carbon capture technology",
+   "link": "https://tech.eu/2026/11/26/ark-capture-solutions-secures-eur54m-to-scale-its-all-electric-carbon-capture-technology/",
+   "snippet": "Belgian cleantechcompany ARK Capture Solutions, which develops fully electric carbon captureequipment for industrial emissions, has raised €5.4 million in a funding roundled by Aperam Ventures, with p...",
+   "datum": 1795681346000
+  },
+  {
+   "id": "euronews-1jg7gfn",
+   "sourceId": "euronews",
+   "titel": "UK discounter Poundland enters administration with 11,000 jobs at risk",
+   "link": "https://www.euronews.com/2026/11/26/uk-discounter-poundland-enters-administration-with-11000-jobs-at-risk",
+   "snippet": "The collapse of Poundland marks another major setback for Britain's struggling retail sector, which has been hit by weak consumer spending, rising costs and fierce competition.",
+   "datum": 1795676263000
+  },
+  {
+   "id": "techcabal-7a4xrz",
+   "sourceId": "techcabal",
+   "titel": "Why Nigerian companies are choosing Kenya for their next move",
+   "link": "https://techcabal.com/2026/11/26/nigerian-companies-eyeing-kenya/",
+   "snippet": "Dangote found a pipeline that can carry fuel to customers beyond Kenya. Moniepoint bought a bank that already lends to small businesses. Across energy, banking and capital markets, Nigerian companies are buying in Kenya what would take years to build from scratch.",
+   "datum": 1795671303000
   },
   {
    "id": "guardian-1ovug5p",
    "sourceId": "guardian",
    "titel": "US inflation hits highest since May after prices climb 3.8% over the last year",
    "link": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
-   "snippet": "Rise occurs amid soaring energy prices, according to last inflation reading before a crucial Fed board meeting The sell-off in the US tech stocks continued Wednesday as investors reacted to continued concern over the AI trade and fresh data that showed inflation jumped in October. The tech-heavy Nasdaq index was dow…",
+   "snippet": "Rise occurs amid soaring energy prices, according to last inflation reading before a crucial Fed board meeting The sell-off in US tech stocks continued on Wednesday as investors reacted to continued concern over the AI trade and fresh data that showed inflation jumped in October. The tech-heavy Nasdaq index was down…",
    "datum": 1795621575000
-  },
-  {
-   "id": "scmp-1e98xdj",
-   "sourceId": "scmp",
-   "titel": "Shein revenue falls 6% in third quarter as EU trade curbs hit sales hard",
-   "link": "https://www.scmp.com/business/companies/article/3375804/shein-revenue-falls-6-third-quarter-eu-trade-curbs-hit-sales-hard",
-   "snippet": "Shein’s revenue fell 5.9 per cent in the third quarter of the year as European trade restrictions weighed on sales, underscoring the retailer’s difficult start to life as a Hong Kong-listed company. Revenue for the three months ended September 30 dropped to US$10.27 billion, while the number of orders fulfilled fell…",
-   "datum": 1795619565000
-  },
-  {
-   "id": "guardian-1q3u9jp",
-   "sourceId": "guardian",
-   "titel": "Trump proposing new tariffs on 14 partners including China and EU",
-   "link": "https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe",
-   "snippet": "Administration is suggesting an added 20% tax on Chinese imports, which would bring the total to about 40% US politics live – latest updates Donald Trump is proposing new tariffs on 14 trading partners, including China and the European Union, that would go into effect early next year, the office of the US trade repr…",
-   "datum": 1795618784000
-  },
-  {
-   "id": "lecho-122y74k",
-   "sourceId": "lecho",
-   "titel": "La taxe européenne sur les colis ampute le chiffre d'affaires européen de Shein de 28%",
-   "link": "https://www.lecho.be/r/t/1/id/10706929",
-   "snippet": "Les taxes européennes sur les petits colis font mal, très mal. C'est ce qui ressort des chiffres du spécialiste chinois de la fast fashion, Shein. Au titre du troisième trimestre, il fait état d'un chiffre d’affaires de son activité européenne amputé d'un quart.",
-   "datum": 1795616688000
-  },
-  {
-   "id": "techcabal-1g31fgm",
-   "sourceId": "techcabal",
-   "titel": "Wave’s 25 million-user blueprint: How low fees disrupted Francophone West Africa’s mobile money ‘cartels’",
-   "link": "https://techcabal.com/2026/11/25/wave-in-waemu-region/",
-   "snippet": "Wave's Public Policy Lead tells TechCabal how the company forced down prices across the WAEMU region and details the structural and regulatory hurdles that still prevent informal businesses and women from participating fully in the digital economy.",
-   "datum": 1795610035000
-  },
-  {
-   "id": "lecho-122y6eu",
-   "sourceId": "lecho",
-   "titel": "L'orage boursier sur l'IA remet en doute l'IPO du groupe de neocloud Nscale",
-   "link": "https://www.lecho.be/r/t/1/id/10706877",
-   "snippet": "La start-up britannique songe à suspendre son projet d'entrée à Wall Street, où elle visait 35 milliards de dollars. La location de centres de données est particulièrement fragilisée par les doutes autour de l'IA.",
-   "datum": 1795608800000
-  },
-  {
-   "id": "euronews-a19yd5",
-   "sourceId": "euronews",
-   "titel": "Around 3.7 million jobs are at risk in Europe's struggling industry, report says",
-   "link": "https://www.euronews.com/2026/11/25/around-37-million-jobs-are-directly-at-risk-in-europes-struggling-industry-report-says",
-   "snippet": "McKinsey estimates that about 3.7 million jobs are directly at risk in Europe, as almost half of the region's industrial companies were under financial stress or in distress in 2025. Early 2026 data suggest the decline is speeding up, but McKinsey says the problems can be fixed.",
-   "datum": 1795608416000
-  },
-  {
-   "id": "sifted-hldg54",
-   "sourceId": "sifted",
-   "titel": "EU unveils Quantum Act with ‘plans for €50bn fund’ to boost sovereign tech",
-   "link": "https://sifted.eu/articles/au-quantum-act-sovereign-tech-fund/",
-   "snippet": "",
-   "datum": 1795608362000
-  },
-  {
-   "id": "techeu-12999tb",
-   "sourceId": "techeu",
-   "titel": "EU proposes €50BN equity fund to support quantum and essential sovereign tech",
-   "link": "https://tech.eu/2026/11/25/eu-proposes-eur50-billion-equity-fund-to-support-quantum-and-essential-sovereign-tech/",
-   "snippet": "The EU has proposed a €50 billion equity fund to invest in quantum computing, AI and other critical sovereign technology, as it today unveiled measures aimed at making Europe a global leader in quantu...",
-   "datum": 1795608300000
-  },
-  {
-   "id": "euronews-opc83c",
-   "sourceId": "euronews",
-   "titel": "BYD plans car production in France to boost its push into the European market",
-   "link": "https://www.euronews.com/2026/11/25/byd-plans-car-production-in-france-to-boost-its-push-into-the-european-market",
-   "snippet": "BYD has entered exclusive talks to buy Ineos Automotive's Hambach plant in Moselle. The deal could let the top electric carmaker build in France and boost its European presence.",
-   "datum": 1795592509000
-  },
-  {
-   "id": "scmp-tv0uic",
-   "sourceId": "scmp",
-   "titel": "BYD eyes a second European plant, enters talks with Ineos over a French assembly",
-   "link": "https://www.scmp.com/business/china-evs/article/3375711/byd-eyes-second-european-plant-enters-talks-ineos-over-french-assembly-france",
-   "snippet": "Chinese electric vehicle (EV) giant BYD has edged closer to a second plant in Europe after it entered exclusive talks to take over an assembly from Ineos Automotive in France, accelerating its plan for local production amid heightened import restrictions on the continent. The company said in a statement on Tuesday t…",
-   "datum": 1795589268000
   }
  ],
  "gezienIds": [
-  "bbc-6883gf",
-  "bbc-xrss11",
-  "scmp-eqod25",
-  "nyt-1eno8v7",
-  "scmp-5mvbfp",
+  "bbc-1qm1qzz",
+  "scmp-133du8b",
+  "bbc-1lhmjnm",
+  "bbc-1dz2iq2",
+  "scmp-1ho4fzz",
+  "nyt-uuhcdh",
+  "vrt-1dkafw3",
+  "vrt-1dl999e",
+  "nyt-c69qmc",
+  "vrt-1kuv3zv",
+  "vrt-1y3my6r",
+  "vrt-1wi8y5r",
+  "vrt-mpruj8",
+  "vrt-1ff2dc4",
+  "vrt-biomes",
+  "bbc-12ce384",
+  "nyt-1v5khuo",
+  "vrt-1rwtmkz",
+  "tijd-ond-1ijuavf",
+  "tijd-ond-1ijua7l",
+  "vrt-1g3ziea",
+  "lecho-122ysx3",
+  "vrt-lbdyvq",
+  "cnbc-18kh9b3",
+  "lecho-122ysab",
+  "vrt-1btvdne",
+  "lecho-122ysx0",
+  "tijd-ond-1ijua9f",
+  "lecho-122ysb8",
+  "lecho-122ysb3",
+  "euronews-6rcjgx",
+  "bbc-sttgw8",
+  "nyt-t3rome",
+  "tijd-ond-1ijtmmm",
+  "tijd-ond-1ijua7h",
+  "tijd-ond-1ijua8d",
+  "tijd-ond-1ijtp0t",
+  "tijd-ond-1ijua4v",
+  "lecho-122ys6i",
+  "bbc-19s48fy",
+  "nyt-1jestzo",
+  "nyt-87ai18",
+  "nyt-1j26tdx",
+  "euronews-1e1ci6q",
+  "nyt-1u47kxq",
+  "tijd-ond-1ijua10",
+  "techcabal-13c66pr",
+  "bbc-y27zkk",
+  "lecho-122yrce",
+  "bbc-rkxnwf",
+  "nyt-1j88ihm",
+  "scmp-nqh2e6",
+  "dw-eoyxtf",
+  "bbc-1a8mvwn",
+  "techcabal-4g1ag0",
+  "tijd-ond-1ijua3x",
+  "mittr-1fpk00d",
+  "techcabal-1giqte1",
+  "scmp-ltjlbf",
+  "bbc-14kd7z6",
+  "ecb-1500gv2",
+  "nyt-1rn2kyn",
+  "bbc-19ayyed",
+  "guardian-560thn",
+  "sifted-97teyd",
+  "techeu-lu329",
+  "lecho-122ys2x",
+  "euronews-fms5jm",
+  "euronews-1pu4mxh",
+  "techeu-1rx54cu",
+  "bbc-1n5extd",
+  "lecho-122yrfz",
+  "scmp-9xf2mr",
+  "euronews-8s23xl",
+  "sifted-145hzh0",
+  "lecho-122yre7",
+  "scmp-l8dutg",
+  "techeu-qkdikn",
+  "nyt-167ql0m",
+  "nyt-hh305f",
+  "scmp-szvwgq",
+  "mittr-ro72me",
+  "economist-upj9cj",
+  "economist-1t83ulx",
+  "economist-ckj3nm",
+  "techeu-p75u32",
+  "techeu-d79sf5",
+  "techeu-5e03qw",
+  "techeu-dfwolo",
+  "techeu-rz064y",
+  "techeu-1cvax95",
+  "scmp-tfj7j4",
+  "euronews-12sypn3",
+  "euronews-9qumoi",
+  "scmp-1fjx22k",
+  "euronews-1jg7gfn",
+  "techcabal-8uqd7l",
+  "scmp-1ru7fk1",
+  "scmp-1554y6i",
+  "techcabal-7a4xrz",
+  "scmp-ziryr",
+  "sifted-1uzs0yr",
+  "sifted-19gn7so",
+  "sifted-1vcfcb",
+  "sifted-15js5j2",
+  "sifted-1tmeucx",
+  "guardian-1rvt43f",
   "economist-zsutz6",
   "cnbc-10fbzzx",
-  "nyt-1dnbgsr",
-  "vrt-100popd",
-  "lecho-122yrbc",
-  "bbc-1um3q1q",
-  "nyt-1xsqaan",
-  "nyt-79e751",
-  "nyt-12tbwrl",
-  "bbc-j55twa",
-  "nyt-mk5qcg",
-  "lecho-122yrak",
-  "vrt-ys0jem",
-  "tijd-ond-1iju97v",
-  "vrt-1c05yew",
   "fed-1qvfcxn",
   "fed-1qupxve",
-  "lecho-122y769",
-  "bbc-1r11na",
-  "nyt-h3c93c",
-  "nyt-vovrmt",
-  "vrt-1lw1ki7",
-  "tijd-ond-1iju98l",
-  "vrt-17ejrvc",
   "guardian-2771ds",
-  "vrt-bc1mq",
-  "vrt-2n6n9y",
-  "nyt-1kogbun",
-  "vrt-bcbfv",
-  "vrt-uytvrl",
-  "tijd-ond-1ijtp95",
-  "vrt-suc6d7",
-  "vrt-ozyn3g",
-  "vrt-couxka",
-  "tijd-ond-1iju96y",
-  "bbc-sezudj",
-  "tijd-ond-1iju96v",
   "ecb-fx58t0",
-  "bbc-1p35lxz",
   "euronews-1f4k1al",
-  "bbc-15674ts",
   "mittr-1pbrbcn",
-  "bbc-fj6syw",
-  "tijd-ond-1ijtp5a",
-  "bbc-1edit6s",
-  "lecho-122y72q",
-  "tijd-ond-1ijtp1m",
-  "lecho-122y777",
-  "lecho-122yr8j",
-  "tijd-ond-1ijtl1x",
-  "bbc-138z9tw",
-  "bbc-skv75j",
-  "nyt-3wbzv5",
-  "nyt-929v3r",
   "techeu-igo4w6",
-  "lecho-122y73n",
-  "tijd-ond-1ijtp2p",
   "guardian-1ovug5p",
-  "tijd-ond-1ijtp77",
-  "scmp-1e98xdj",
   "sifted-1wls82m",
-  "guardian-1q3u9jp",
   "techcabal-12jomyg",
-  "nyt-3exmkp",
   "dw-saduc6",
-  "lecho-122y74k",
   "cnbc-15gfttn",
-  "mittr-9dw9pn",
-  "euronews-1dgik9v",
-  "techcabal-1g31fgm",
-  "lecho-122y6eu",
-  "techeu-1au805v",
-  "lecho-122y6b6",
-  "euronews-a19yd5",
-  "sifted-hldg54",
-  "techeu-12999tb",
-  "crunchbase-1d8lpar",
-  "crunchbase-i0ahts",
-  "techcabal-fflk4q",
-  "scmp-1x9phq6",
-  "techeu-1o9r6ax",
-  "techeu-h4mwgx",
-  "guardian-p5g2ls",
-  "row-okhog2",
-  "sifted-8zndv",
-  "scmp-r91kzt",
-  "techcabal-1bcsnpx",
-  "scmp-1lmxnme",
-  "ecb-1gt06pg",
-  "mittr-f4rjuf",
-  "techcabal-rxn690",
-  "techeu-h81a4b",
-  "techeu-vdf4zo",
-  "techcabal-k2695k",
-  "sifted-ma89bq",
-  "scmp-und19j",
-  "dw-bb9z9y",
-  "techeu-1gu9eff",
-  "scmp-1181a2y",
-  "techeu-badenh",
-  "techeu-1e7qb8a",
-  "euronews-opc83c",
-  "scmp-7r2bud",
-  "techcabal-15fjwvs",
-  "euronews-1al5ue",
-  "scmp-tv0uic",
-  "techcabal-1bk11qh",
-  "sifted-1wfvplg",
-  "scmp-1hjwx58",
-  "sifted-15tdtel",
-  "scmp-243q5n",
-  "guardian-1hbpde9",
-  "economist-cofmms",
-  "guardian-19gipwc",
-  "cnbc-1anevqv",
-  "fed-1wfrx2d",
-  "economist-sg0d3o",
-  "euronews-q5tqqn",
-  "techcabal-1hn6aeq",
-  "cnbc-inlehl",
-  "techeu-1c1wv8q",
-  "euronews-2522s",
-  "sifted-1mznd8m",
-  "sifted-1o1dbch",
-  "techcabal-vljpvg",
-  "mittr-p0dlyf"
+  "mittr-9dw9pn"
  ]
 }
