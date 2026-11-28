@@ -1,6 +1,870 @@
 {
- "opgehaaldOp": 1795739027057,
+ "opgehaaldOp": 1795825030293,
  "items": [
+  {
+   "id": "nyt-1h365va",
+   "sourceId": "nyt",
+   "titel": "NBC Pulls an Ad That Some Described as Antisemitic",
+   "link": "https://www.nytimes.com/2026/11/27/business/media/nbc-ad-snl.html",
+   "snippet": "The commercial appeared during a “Saturday Night Live” holiday special on Wednesday.",
+   "datum": 1795822194000
+  },
+  {
+   "id": "vrt-ing5j6",
+   "sourceId": "vrt",
+   "titel": "Kredietbeoordelaar S&P zet licht op oranje voor Frankrijk",
+   "link": "https://vrtnws.be/p.lObJndBvk",
+   "snippet": "De Amerikaanse kredietbeoordelaar Standard & Poor’s (S&P) behoudt de kredietrating van Frankrijk op A+, maar geeft die een ‘negatief vooruitzicht' mee. Het licht wordt op oranje gezet omdat het begrotingstekort en de staatsschuld van onze zuiderburen oplopen. Minister van Financiën Roland Lescure ziet dit als een si…",
+   "datum": 1795818401000
+  },
+  {
+   "id": "nyt-3tmfjw",
+   "sourceId": "nyt",
+   "titel": "How to Live Calmly, Despite Stock Market Whiplash",
+   "link": "https://www.nytimes.com/2026/11/27/business/nvidia-jensen-huang-trump-markets.html",
+   "snippet": "Nvidia has been down, up, and down again, and the market has followed. But there’s no need for long-term, diversified investors to alter their course, our columnist says.",
+   "datum": 1795817788000
+  },
+  {
+   "id": "guardian-kqlero",
+   "sourceId": "guardian",
+   "titel": "The explosion of extreme wealth is the major problem of our time | Bernie Sanders",
+   "link": "https://www.theguardian.com/commentisfree/2026/nov/27/the-explosion-of-extreme-wealth-is-the-major-problem-of-our-time",
+   "snippet": "At this pivotal moment in American history, let us move forward together to take on and defeat a powerful, greedy and corrupt ruling class We are at a pivotal moment in history. Never before in human history have so few people held so much wealth and so much power. And never before have we seen such an unprecedented…",
+   "datum": 1795817408000
+  },
+  {
+   "id": "cnbc-1li2jl7",
+   "sourceId": "cnbc",
+   "titel": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+   "link": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
+   "snippet": "Even as consumers face macroeconomic headwinds, retailers are expecting robust holiday spending through Black Friday and beyond.",
+   "datum": 1795816857000
+  },
+  {
+   "id": "lecho-122yulq",
+   "sourceId": "lecho",
+   "titel": "OpenAI accuse Apple de faire pression sur ses fournisseurs et d'imposer des clauses d'emploi déloyales",
+   "link": "https://www.lecho.be/r/t/1/id/10707409",
+   "snippet": "OpenAI accuse Apple de faire pression sur ses fournisseurs et de compliquer le recrutement de ses ingénieurs, sur fond de bras de fer judiciaire autour de secrets industriels.",
+   "datum": 1795814807000
+  },
+  {
+   "id": "vrt-5cmgao",
+   "sourceId": "vrt",
+   "titel": "Zware woningbrand in Sint-Genesius-Rode: vuur onder controle, strooidienst moet uitrukken door bevroren bluswater",
+   "link": "https://vrtnws.be/p.5wadAnOAJ",
+   "snippet": "In Sint-Genesius-Rode heeft vanavond een zware woningbrand gewoed. Die is intussen onder controle, maar de brandweer is nog aan het nablussen. Een bewoner werd uit voorzorg naar het ziekenhuis gebracht nadat die rook had ingeademd. Door de vrieskou is het bluswater op straat bevroren en moet de strooidienst uitrukken.",
+   "datum": 1795810695000
+  },
+  {
+   "id": "tijd-ond-1ijubtd",
+   "sourceId": "tijd-ond",
+   "titel": "Exit CEO en lege voorzittersstoel: Vlaamse machtsgreep bij luchthaven is worsteling",
+   "link": "https://www.tijd.be/r/t/1/id/10707349",
+   "snippet": "Een CEO die er de brui aan geeft, een voorzitter die nog geen voorzitter is en een opvolgingskwestie die hypergevoelig belooft te zijn. De machtsovername bij de luchthaven, waarvoor de Vlaamse regering vorig jaar 2,77 miljard neertelde, verloopt met horten en stoten.",
+   "datum": 1795808782000
+  },
+  {
+   "id": "tijd-ond-1ijubse",
+   "sourceId": "tijd-ond",
+   "titel": "Toestroom Chinese auto’s levert schatkist tot 1 miljard euro per jaar op",
+   "link": "https://www.tijd.be/r/t/1/id/10707337",
+   "snippet": "Alle Europese importheffingen ten spijt, gaat de opmars van automerken uit China door. De Vlaamse havens, de grootste toegangspoort van Europa, staan vol met tienduizenden Chinese wagens. De auto-invoer levert de schatkist al tot 1 miljard euro per jaar op.",
+   "datum": 1795808646000
+  },
+  {
+   "id": "vrt-9emdkf",
+   "sourceId": "vrt",
+   "titel": "Gemeente Beveren-Kruibeke-Zwijndrecht krijgt nieuwe naam: inwoners kiezen voor Terwaas",
+   "link": "https://vrtnws.be/p.8epLnLO8o",
+   "snippet": "De gemeente Beveren-Kruibeke-Zwijndrecht krijgt een nieuwe naam: Terwaas. Dat is vanavond bekendgemaakt tijdens een liveshow op de regionale zender TV Oost. \"Het is prachtig als familienaam voor de 13 verschillende deelgemeenten, die allemaal onderdeel zijn van het Waasland\", reageert burgemeester Marc Van de Vijver…",
+   "datum": 1795808409000
+  },
+  {
+   "id": "vrt-12b6kr4",
+   "sourceId": "vrt",
+   "titel": "VN-rapporteur voor de Palestijnen Francesca Albanese mag Costa Rica niet binnen wegens \"banden met terrorisme\"",
+   "link": "https://vrtnws.be/p.Yb5BPWBVy",
+   "snippet": "Francesca Albanese, de speciale rapporteur van de Verenigde Naties voor de Palestijnse gebieden, mag Costa Rica niet binnen. Ze is de toegang tot het land ontzegd vanwege \"banden met terrorisme\", meldt de immigratiedienst van Costa Rica.",
+   "datum": 1795807720000
+  },
+  {
+   "id": "nyt-1j88ihm",
+   "sourceId": "nyt",
+   "titel": "Photos: Macy’s Thanksgiving Day Parade History and Wacky Moments",
+   "link": "https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-parade-history-timeline.html",
+   "snippet": "It isn’t always easy to keep New York City’s Thanksgiving parade on track. Here’s a look back at notable moments and mishaps.",
+   "datum": 1795807716000
+  },
+  {
+   "id": "vrt-14qjjyi",
+   "sourceId": "vrt",
+   "titel": "\"Een stap achteruit in beschaving\": Demir wil strenger optreden tegen minder tolerantie voor holebi's in onderwijs",
+   "link": "https://vrtnws.be/p.Ovk5mB1eZ",
+   "snippet": "\"Er is een brede coalitie van haatdragers tegen holebirechten. Dat betekent dat er werk aan de winkel is in de opvoeding en het onderwijs.\" Dat zegt Vlaams minister van Onderwijs Zuhal Demir (N-VA) in een reactie op dalende tolerantie van leerlingen tegenover LGBTQ+-personen. Demir legt ook verantwoordelijkheid bij…",
+   "datum": 1795807299000
+  },
+  {
+   "id": "tijd-ond-1ijub3m",
+   "sourceId": "tijd-ond",
+   "titel": "Rauwe macht regeert, bewijst Huang-saga: ‘Bananenrepubliek? Dat is een belediging voor landen die bananen exporteren’",
+   "link": "https://www.tijd.be/r/t/1/id/10707296",
+   "snippet": "De spectaculaire en snelle rehabilitatie van Jensen Huang bij Nvidia laat zien dat de absolute elite een grote mate van straffeloosheid geniet. ‘Staatskapitalisme? Dat is nog een veel te beleefde term.’",
+   "datum": 1795806607000
+  },
+  {
+   "id": "vrt-1a4stjq",
+   "sourceId": "vrt",
+   "titel": "Van 'homo' als scheldwoord tot 'vrouwenwerk': leerkrachten zien traditionele opvattingen toenemen in de klas",
+   "link": "https://vrtnws.be/p.XEVoAJ1B0",
+   "snippet": "\"Vrouwen horen in de keuken\" en \"ik zeg niet meer tegen mijn leerlingen dat ik homo ben\". Leerkrachten merken dat heel wat leerlingen minder tolerant staan tegenover holebi's en vaker traditionele opvattingen hebben over mannen en vrouwen. Dat blijkt uit een rondvraag van VRT NWS. Experts wijzen onder meer naar soci…",
+   "datum": 1795805349000
+  },
+  {
+   "id": "tijd-ond-1ijua7e",
+   "sourceId": "tijd-ond",
+   "titel": "Bouwsector zoekt cash: ‘Wat heb je aan prachtconstructies neerzetten als ze niet opbrengen?’",
+   "link": "https://www.tijd.be/r/t/1/id/10707171",
+   "snippet": "Een rampwerf en een rechtszaak brachten het Wase bouwbedrijf Cordeel in moeilijkheden. Dat het stormt bij de nummer vier van het land, doet ook in de rest van de sector de onrust stijgen: de faillissementen pieken, de zoektocht naar cash wordt moeilijker en moeilijker. ‘Je kan niet eeuwig blijven hopen dat het beter…",
+   "datum": 1795805106000
+  },
+  {
+   "id": "euronews-11aeace",
+   "sourceId": "euronews",
+   "titel": "Azerbaijani and Armenian civil societies seek 'new history' in new round of peace talks",
+   "link": "https://www.euronews.com/2026/11/27/azerbaijani-and-armenian-civil-societies-seek-new-history-in-new-round-of-peace-talks",
+   "snippet": "Azerbaijan and Armenia's civil societies hold their fifth round of \"Peace Bridge\" talks to openly address differences and find a way forward together.",
+   "datum": 1795804613000
+  },
+  {
+   "id": "nyt-mlkp57",
+   "sourceId": "nyt",
+   "titel": "Stocks Rally at End of a Week of Wild Swings",
+   "link": "https://www.nytimes.com/2026/11/27/business/stocks-tech-stocks-ai.html",
+   "snippet": "Volatility has buffeted investors in an eventful but holiday-shortened series of trading sessions.",
+   "datum": 1795803234000
+  },
+  {
+   "id": "vrt-1dxmjxo",
+   "sourceId": "vrt",
+   "titel": "Zelensky vergelijkt Poetin met Hitler: waarom gaat vergelijking (niet) op?",
+   "link": "https://vrtnws.be/p.0YplVvexx",
+   "snippet": "De vergelijking die de Oekraïense president Zelensky maakt tussen Poetin en Hitler is niet correct, maar wel legitiem. Dat vindt politiek filosoof Stefan Rummens (KUL). Volgens hem zijn er gelijkenissen tussen Hitler en Poetin. \"Er zijn argumenten om het regime van Poetin een hedendaags fascisme te noemen.\"",
+   "datum": 1795802132000
+  },
+  {
+   "id": "tijd-ond-1ijub3j",
+   "sourceId": "tijd-ond",
+   "titel": "BASF-baas Markus Kamieth: ‘Europese chemie zal kleiner maar hopelijk gezonder zijn’",
+   "link": "https://www.tijd.be/r/t/1/id/10707293",
+   "snippet": "BASF-CEO Markus Kamieth wil vaart maken met de transformatie van de Duitse chemiereus, die vecht tegen goedkope Chinese concurrenten en een krimpende markt. Maar het klimaatbeleid in de EU staat in de weg, vindt hij. 'Het dreigt economisch interessant te worden om een perfect competitieve fabriek in Europa te sluiten.'",
+   "datum": 1795802022000
+  },
+  {
+   "id": "tijd-ond-1ijubvw",
+   "sourceId": "tijd-ond",
+   "titel": "Petroleumfederatie Energia: 'Eigen raffinaderijen helpen België door de energiecrisis'",
+   "link": "https://www.tijd.be/r/t/1/id/10707371",
+   "snippet": "De twee grote raffinaderijen in de Antwerpse haven leveren tijdens de huidige energiecrisis een grote bijdrage aan de energiebevoorrading in ons land. Maar die troefkaart behouden vergt zware investeringen. Er is 20 miljard euro nodig om ze tegen 2050 CO2-arm te maken.",
+   "datum": 1795802000000
+  },
+  {
+   "id": "vrt-6cvwdl",
+   "sourceId": "vrt",
+   "titel": "Hackers stalen gegevens van meer dan 1 miljoen Vlamingen via recyclageparken: overzicht van getroffen gemeenten",
+   "link": "https://vrtnws.be/p.w70LA9LDo",
+   "snippet": "Secutec en Socradar, de bedrijven die eerder deze week aan het licht brachten dat gegevens van meer dan 1 miljoen Vlamingen werden gestolen, hebben de lijst bekendgemaakt van getroffen gemeenten en intercommunales die getroffen zijn. Ethisch hacker Inti De Ceukelaire vreest dat de lijst nog niet volledig is.",
+   "datum": 1795800963000
+  },
+  {
+   "id": "vrt-1nqso7t",
+   "sourceId": "vrt",
+   "titel": "Poolse grenswacht zet twee verdwaalde honden over de Russische grens",
+   "link": "https://vrtnws.be/p.dLR4kDQ1L",
+   "snippet": "Poolse grenswachters hebben 2 verdwaalde honden uitgezet naar Rusland. De dieren waren per ongeluk over de grens met Kaliningrad gelopen, de Russische exclave tussen Polen en Litouwen.",
+   "datum": 1795799182000
+  },
+  {
+   "id": "nyt-1m4ftju",
+   "sourceId": "nyt",
+   "titel": "It’s Boom Times for Old TV Shows. New TV, Not So Much.",
+   "link": "https://www.nytimes.com/2026/11/27/business/media/old-tv-shows-mad-men.html",
+   "snippet": "Fewer original series, decision fatigue and a desire for comfort have viewers escaping to the past.",
+   "datum": 1795798968000
+  },
+  {
+   "id": "vrt-693xc8",
+   "sourceId": "vrt",
+   "titel": "Nieuwe fiets- en wandelbrug over Hasseltse kanaalkom feestelijk geopend als 'Lijmbrug'",
+   "link": "https://vrtnws.be/p.5wadoo6yd",
+   "snippet": "In Hasselt is vrijdagavond de nieuwe fiets- en wandelbrug over de kanaalkom officieel geopend. 10 jaar na de afbraak van de vorige brug verbindt de nieuwe constructie opnieuw de oostelijke en westelijke oever van de Blauwe Boulevard. Tegelijk werd ook de officiële naam onthuld: de Lijmbrug.",
+   "datum": 1795798328000
+  },
+  {
+   "id": "vrt-19tma0q",
+   "sourceId": "vrt",
+   "titel": "Federaal parket onderzoekt linken tussen ons land en dodelijke raid in Overasselt, in Nederland",
+   "link": "https://vrtnws.be/p.RaJ7O8pQX",
+   "snippet": "Het federaal parket bij ons voert een onderzoek naar de dodelijke aanval op het huis van een drugscrimineel in Overasselt, in Nederland, begin september. Dat bevestigt het parket aan VRT NWS. De 3 verdachten die in ons land werden opgepakt, zijn intussen overgeleverd aan de Nederlandse justitie.",
+   "datum": 1795798188000
+  },
+  {
+   "id": "vrt-1rm0zpd",
+   "sourceId": "vrt",
+   "titel": "Jongeman (18) veroordeeld tot 15 maanden cel voor aanval met steakmes in asielcentrum in Lanaken",
+   "link": "https://vrtnws.be/p.LNWya13Ak",
+   "snippet": "Een voormalige bewoner (18) van het asielcentrum Ter Dennen in Lanaken is veroordeeld tot 15 maanden cel omdat hij een andere bewoner (25) aanviel met een steakmes. De mannen hadden ruzie over een elektrische step.",
+   "datum": 1795798095000
+  },
+  {
+   "id": "vrt-1h2fi4n",
+   "sourceId": "vrt",
+   "titel": "Na 5 jaar in oud café Volksmacht: OverKop-huis in Pelt krijgt nieuwe plek in het groen, vlakbij Wico",
+   "link": "https://vrtnws.be/p.Wkj59POq7",
+   "snippet": "Het OverKop-huis in Pelt krijgt na 5 jaar een nieuwe locatie. In 2021 opende het OverKop-huis in Pelt op de locatie van de Volksmacht, een oud café dat de deuren gesloten had. Het huurcontract in dat pand liep af en voldeed niet meer aan de wensen van de jongeren, die meer in het groen wilden zitten. \"We gaan nu naa…",
+   "datum": 1795797999000
+  },
+  {
+   "id": "vrt-gvt4j6",
+   "sourceId": "vrt",
+   "titel": "Politie vindt 720 gram cannabis bij koppel in Houthulst na controle van man op step",
+   "link": "https://vrtnws.be/p.xZYRbMMYZ",
+   "snippet": "Woensdagmiddag hield de politie in Houthulst een verdachte man op een step tegen. De agenten vielen later binnen in een huis en daar vonden ze 720 gram cannabis.",
+   "datum": 1795797898000
+  },
+  {
+   "id": "tijd-ond-1ijubu1",
+   "sourceId": "tijd-ond",
+   "titel": "Federale overheid wil zich minder afhankelijk maken van externe consultants",
+   "link": "https://www.tijd.be/r/t/1/id/10707350",
+   "snippet": "De federale ministerraad heeft vrijdag een plan goedgekeurd om overheidsinstellingen in de toekomst minder een beroep te laten doen op externe consultants. Een interne pool om knowhow te delen en beter toezicht op de uitgaven moeten helpen de kosten te drukken.",
+   "datum": 1795797883000
+  },
+  {
+   "id": "lecho-122ytuw",
+   "sourceId": "lecho",
+   "titel": "Un record à 32 millions attendu pour la production audiovisuelle indépendante en 2026",
+   "link": "https://www.lecho.be/r/t/1/id/10707340",
+   "snippet": "Cette année, les chaînes de télévision, les plateformes et les distributeurs devront avoir contribué à hauteur de 32 millions d'euros à la production audiovisuelle locale en Fédération Wallonie-Bruxelles.",
+   "datum": 1795797491000
+  },
+  {
+   "id": "vrt-1rmn3uy",
+   "sourceId": "vrt",
+   "titel": "Man onder voorwaarden vrijgelaten na steekincident met partner in Middelkerke",
+   "link": "https://vrtnws.be/p.LNWyaMK1P",
+   "snippet": "Woensdagavond raakte een vrouw zwaargewond na een steekincident in Middelkerke. Haar partner, een 55-jarige man, werd opgepakt door de politie, maar hij werd vandaag onder voorwaarden vrijgelaten.",
+   "datum": 1795796999000
+  },
+  {
+   "id": "vrt-94l1io",
+   "sourceId": "vrt",
+   "titel": "Kickbokser Jamal Ben Saddik krijgt 4 jaar cel voor rol bij uithaling van 200 kilo cocaïne in Antwerpse haven",
+   "link": "https://vrtnws.be/p.Gvo5QQJGv",
+   "snippet": "Kickbokser Jamal Ben Saddik (36) is door de correctionele rechtbank van Antwerpen veroordeeld tot 4 jaar cel voor zijn rol bij de uithaling van 200 kilo cocaïne in de Antwerpse haven. Hij ontkende de feiten en zei dat hij zijn Sky ECC-toestel had uitgeleend, maar de rechtbank geloofde dat niet. Ben Saddik krijgt ook…",
+   "datum": 1795796892000
+  },
+  {
+   "id": "vrt-12gp3vg",
+   "sourceId": "vrt",
+   "titel": "Ganshoren neemt maatregelen na brandstichtingen: samenscholingsverbod in 'Villawijk'",
+   "link": "https://vrtnws.be/p.Yb5BXPZn4",
+   "snippet": "De gemeenteraad van Ganshoren heeft donderdagavond unaniem een samenscholingsverbod goedgekeurd in de 'Villawijk', in de buurt van de Van Overbekelaan. Dat meldt burgemeester Jean-Paul Van Laethem (LB/Les Engagés) vrijdag.",
+   "datum": 1795796760000
+  },
+  {
+   "id": "vrt-19uhpq9",
+   "sourceId": "vrt",
+   "titel": "80.000 werklozen krijgen binnenkort alsnog werkloosheidsuitkering gestort",
+   "link": "https://vrtnws.be/p.RaJ7OajLA",
+   "snippet": "80.000 werklozen die door de hervorming van de werkloosheid in de tijd hun uitkering hebben verloren, krijgen de komende maanden hun werkloosheidsuitkering alsnog op hun rekening gestort. Dat verneemt persagentschap Belga bij de Rijksdienst voor Arbeidsvoorziening (RVA).",
+   "datum": 1795796719000
+  },
+  {
+   "id": "vrt-1hmzkqm",
+   "sourceId": "vrt",
+   "titel": "Van lege drankblikjes tot fout parkeren: buurt ongelukkig met flatgebouw vol arbeidsmigranten in Turnhout",
+   "link": "https://vrtnws.be/p.Wkj5W3JKx",
+   "snippet": "Op de Steenweg op Antwerpen in Turnhout is er wrevel over een flatgebouw dat volledig bewoond wordt door arbeidsmigranten die in Nederland werken. Volgens buurtbewoners blokkeren hun pendelbusjes vaak opritten, en zouden de arbeiders ook lege drankblikjes op straat achterlaten. R. uit Polen is 1 van de arbeidsmigran…",
+   "datum": 1795796545000
+  },
+  {
+   "id": "vrt-vo7bbe",
+   "sourceId": "vrt",
+   "titel": "Straathoekwerkers op speelplaats en agenten rond de school: extra maatregelen voor heropening Don Bosco in Genk",
+   "link": "https://vrtnws.be/p.6KpeKk3Q4",
+   "snippet": "De politie en gemeenschapsdienst zullen maandag aanwezig zijn bij de heropening van Don Bosco in Genk. Dat is beslist op een overleg tussen de stad en de schooldirectie. De politie zal in de omgeving rond de school postvatten. De Genkse straathoekwerkers zullen ook op de speelplaats staan. Er komt ook extra psycholo…",
+   "datum": 1795796367000
+  },
+  {
+   "id": "vrt-1nu4t12",
+   "sourceId": "vrt",
+   "titel": "Station van Kortrijk definitief beschermd: renovatieplannen van gebouw uit 1951 kunnen uitgewerkt worden",
+   "link": "https://vrtnws.be/p.ZWKlWAXBV",
+   "snippet": "Het stationsgebouw van Kortrijk is definitief beschermd als monument. Dat heeft Vlaams minister van Onroerend Erfgoed Ben Weyts (N-VA) beslist. Het station was lange tijd bedreigd en zou gesloopt worden, maar nu wordt gekozen voor renovatie. Door deze bescherming kunnen de plannen uitgewerkt worden.",
+   "datum": 1795796360000
+  },
+  {
+   "id": "tijd-ond-1ijubu2",
+   "sourceId": "tijd-ond",
+   "titel": "'Chips van Nvidia duiken op in Chinees datacenter gelinkt aan Alice Huang'",
+   "link": "https://www.tijd.be/r/t/1/id/10707351",
+   "snippet": "Een Chinees datacenter werkt met krachtige Blackwell-chips van het Amerikaanse techbedrijf Nvidia. Het datacenter is gelinkt aan Alice Huang, de vermeende Chinese spionne met wie Nvidia-topman Jensen Huang een affaire had. Dat meldt het persbureau Bloomberg.",
+   "datum": 1795796130000
+  },
+  {
+   "id": "tijd-ond-1ijub2l",
+   "sourceId": "tijd-ond",
+   "titel": "Antwerpse chemiebedrijven kunnen 23 miljard liter water besparen, maar botsen op milieuregels",
+   "link": "https://www.tijd.be/r/t/1/id/10707282",
+   "snippet": "Een groot waterbesparingsproject in de haven van Antwerpen dreigt vast te lopen op hoge kosten en strenge milieuregels. 'De technologie werkt. Nu moeten ook de haalbare businesscase en de regelgeving volgen.'",
+   "datum": 1795795808000
+  },
+  {
+   "id": "bbc-1bnvx02",
+   "sourceId": "bbc",
+   "titel": "Will new energy fixes cost more in January?",
+   "link": "https://www.bbc.co.uk/news/videos/cwjd7y4jk581o?at_medium=RSS&at_campaign=rss",
+   "snippet": "Energy bills will soar by 26% for millions of households in January after a surge in gas prices sparked by the Iran war.",
+   "datum": 1795795532000
+  },
+  {
+   "id": "vrt-1cotkqr",
+   "sourceId": "vrt",
+   "titel": "Raad van State schrapt vergunning voor heraanleg Louis Bertrandlaan in Schaarbeek",
+   "link": "https://vrtnws.be/p.11p01Bm4G",
+   "snippet": "De Raad van State vernietigde donderdag de vergunning die in 2023 aan de gemeente Schaarbeek werd afgeleverd voor de heraanleg van de statige Louis Bertrandlaan. Buurtbewoners hadden beroep aangetekend en krijgen nu gelijk.",
+   "datum": 1795795500000
+  },
+  {
+   "id": "vrt-1bjzba1",
+   "sourceId": "vrt",
+   "titel": "Voortvluchtige moordverdachte in Sri Lanka opgepakt nadat hij met scooter tegen olifant botst",
+   "link": "https://vrtnws.be/p.VLNaLGMM5",
+   "snippet": "In Sri Lanka is een voortvluchtige moordverdachte gearresteerd nadat hij tijdens zijn vlucht met een scooter tegen een olifant was gebotst. De 49-jarige man wordt ervan verdacht een vrouw te hebben doodgestoken.",
+   "datum": 1795795427000
+  },
+  {
+   "id": "vrt-nn4u37",
+   "sourceId": "vrt",
+   "titel": "Brugge opent voor de feestdagen 2 nieuwe voetgangersbruggen: \"We willen de voetgangersstroom beter spreiden\"",
+   "link": "https://vrtnws.be/p.aDeoD1dZa",
+   "snippet": "Aan de Brugse Vesten zijn 2 nieuwe voetgangersbruggen geopend. De Pickerybrug en de Keizerinnebrug vormen tijdens de drukke eindejaarsperiode tijdelijke extra verbindingen tussen de stationsomgeving en de Begijnenvest.",
+   "datum": 1795795267000
+  },
+  {
+   "id": "vrt-1bdeerp",
+   "sourceId": "vrt",
+   "titel": "Komende 2 weekends hinder op het spoor tussen Herentals en Hamont",
+   "link": "https://vrtnws.be/p.oLqlBQyLo",
+   "snippet": "In de weekends van 28 en 29 november en 5 en 6 december voert spoorwegbeheerder Infrabel werkzaamheden uit aan de spoorlijn Herentals-Hamont. Dit weekend rijden er daardoor geen treinen tussen Herentals en Hamont, het weekend daarop rijden er geen treinen tussen Herentals en Mol. De NMBS legt vervangbussen in, de di…",
+   "datum": 1795795230000
+  },
+  {
+   "id": "tijd-ond-1ijubu9",
+   "sourceId": "tijd-ond",
+   "titel": "Nieuwe baas voor Gentse staalfabriek van ArcelorMittal",
+   "link": "https://www.tijd.be/r/t/1/id/10707358",
+   "snippet": "De Belgische vestigingen van ArcelorMittal krijgen een nieuwe baas: Nico Dewachtere.",
+   "datum": 1795795033000
+  },
+  {
+   "id": "vrt-1nv6dny",
+   "sourceId": "vrt",
+   "titel": "Schermen stonden tijd lang op zwart in alle Belgische treinstations, IT-probleem opgelost",
+   "link": "https://vrtnws.be/p.ZWKlWqqZm",
+   "snippet": "Door een computerprobleem hebben de beeldschermen met reizigersinformatie in alle treinstations in België een uur lang op zwart gestaan. Ook de omroepinstallaties lagen plat. Intussen werkt alles weer, meldt spoorbeheerder Infrabel.",
+   "datum": 1795794916000
+  },
+  {
+   "id": "lecho-122y79x",
+   "sourceId": "lecho",
+   "titel": "Le projet de blindé léger franco-belge victime de la guerre en Ukraine",
+   "link": "https://www.lecho.be/r/t/1/id/10706984",
+   "snippet": "Le projet franco-belge de véhicule blindé d'aide à l'engagement (VBAE) va être fortement remanié pour tenir compte des enseignements de la guerre en Ukraine, notamment en matière d'engins non habités.",
+   "datum": 1795794807000
+  },
+  {
+   "id": "vrt-1nlnj8y",
+   "sourceId": "vrt",
+   "titel": "Vrees voor nieuwe verkiezingen groeit ook bij burgemeesters: \"Hoop dat ze in Brussel hun verstand gebruiken\"",
+   "link": "https://vrtnws.be/p.JN45VlRpG",
+   "snippet": "Krijgen we 'de verkiezingen die niemand wil'? Zover is het voor alle duidelijkheid nog niet, maar de vraag wordt wel steeds luider gesteld. Wanneer zouden vervroegde verkiezingen kunnen plaatsvinden? En zijn steden en gemeenten daar wel klaar voor? \"Dit zou een immense opdracht worden.\"",
+   "datum": 1795794736000
+  },
+  {
+   "id": "vrt-igmf3c",
+   "sourceId": "vrt",
+   "titel": "Vlaanderen belooft Nationaal Park Hoge Kempen jaarlijks 600.000 euro subsidies",
+   "link": "https://vrtnws.be/p.lObJdoAvq",
+   "snippet": "De Vlaamse regering heeft de toekomstplannen van het Nationaal Park Hoge Kempen tot 2031 goedgekeurd. Het park zal jaarlijks kunnen rekenen op ruim 600.000 euro steun. Daarmee worden onder meer 2 nieuwe toegangspoorten uitgebouwd in Gruitrode (Oudsbergen) en Neeroeteren (Maaseik) en worden betere natuurverbindingen…",
+   "datum": 1795794470000
+  },
+  {
+   "id": "vrt-nx389w",
+   "sourceId": "vrt",
+   "titel": "Regen en koude gooien planning boogbrug Bertem in de war: Tervuursesteenweg pas vanaf maart opnieuw opengesteld",
+   "link": "https://vrtnws.be/p.aDeoPwMOb",
+   "snippet": "De werken aan de boogbrug in Bertem lopen enkele maanden vertraging op. Dat maakt Vlaams wegbeheerder AWV (Agentschap Wegen en Verkeer) vandaag bekend op zijn website. Onder meer de ongunstige weersomstandigheden en een hoge grondwaterstand liggen aan de grondslag van het uitstel.",
+   "datum": 1795794203000
+  },
+  {
+   "id": "vrt-1flde7k",
+   "sourceId": "vrt",
+   "titel": "Provincie keurt bouwvergunning goed voor 1 woontoren bij Fort Napoleon in Oostende, voorlopige \"niet\" voor andere toren",
+   "link": "https://vrtnws.be/p.KK85OpaVq",
+   "snippet": "Het provinciebestuur van West-Vlaanderen heeft een bouwvergunning goedgekeurd om een woontoren met 93 appartementen te plaatsen bij het Fort Napoleon in Oostende. Voor de 2e woontoren weigert de provincie de aanvraag voorlopig. Verschillende milieuverenigingen protesteren al jaren en ze stapten naar de Raad van Stat…",
+   "datum": 1795794189000
+  },
+  {
+   "id": "nyt-1puhfdu",
+   "sourceId": "nyt",
+   "titel": "Holiday Deals Are Tempting. Here’s How to Avoid Buyer’s Remorse.",
+   "link": "https://www.nytimes.com/2026/11/27/business/holiday-shopping-deals-spending.html",
+   "snippet": "Some deals are too good to be true. Experts suggest doing the math, making lists and avoiding using “buy now, pay later” platforms to make purchases.",
+   "datum": 1795793396000
+  },
+  {
+   "id": "nyt-16fkxpa",
+   "sourceId": "nyt",
+   "titel": "Black Friday Deals and Holiday Sales Are Big Money for Influencers",
+   "link": "https://www.nytimes.com/2026/11/27/business/influencers-black-friday-deals-holiday-shopping.html",
+   "snippet": "A growing part of a brand’s Black Friday and Cyber Monday marketing strategy rests on paying top dollar for social media influencers to post videos.",
+   "datum": 1795793345000
+  },
+  {
+   "id": "nyt-1vy7kzu",
+   "sourceId": "nyt",
+   "titel": "Climate Talks Imploded, but the ‘Age of Electricity’ Rolls On, Energy Chief Says",
+   "link": "https://www.nytimes.com/2026/11/27/business/fatih-birol-iea-cop31-electrification.html",
+   "snippet": "Fatih Birol, head of the International Energy Agency, said that market forces, data centers and energy security are driving the clean transition anyway.",
+   "datum": 1795792738000
+  },
+  {
+   "id": "euronews-1vr7ykt",
+   "sourceId": "euronews",
+   "titel": "Trump tariffs brought EU and Indonesia closer on trade, minister tells Euronews",
+   "link": "https://www.euronews.com/2026/11/27/trump-tariffs-brought-eu-and-indonesia-closer-on-trade-minister-tells-euronews",
+   "snippet": "US tariffs brought the EU and Indonesia closer, Indonesia's Coordinating Minister for Economic Affairs Airlangga Hartarto said in an exclusive interview with Euronews. After a decade of talks, the two sides signed a deal last week, and the minister expects it to lift trade by 50% in three years.",
+   "datum": 1795789754000
+  },
+  {
+   "id": "dw-1o7eb7i",
+   "sourceId": "dw",
+   "titel": "Airline Norse Atlantic files for bankruptcy, succumbing to aviation fuel costs",
+   "link": "https://www.dw.com/en/airline-norse-atlantic-files-for-bankruptcy-succumbing-to-aviation-fuel-costs/a-80076728?maca=en-rss-en-bus-2091-rdf",
+   "snippet": "The low-cost airline was only founded a few years ago and had been struggling to turn a profit. The spike in aviation fuel prices caused by the war in Iran has now driven Norway's Norse Atlantic into bankruptcy.",
+   "datum": 1795789200000
+  },
+  {
+   "id": "guardian-16t7d3h",
+   "sourceId": "guardian",
+   "titel": "Amazon’s sale deals deceive customers, thinktank alleges",
+   "link": "https://www.theguardian.com/global/2026/nov/27/amazon-sale-deals-deceive-customers-black-friday-cyber-monday",
+   "snippet": "Two-thirds of Black Friday and Cyber Monday sale products were priced the same or lower in previous months Groundwork Collaborative finds, a claim Amazon disputes An Apple Watch on sale for $680. A pair of women’s Hunter yellow rainboots discounted for $127, and a pair of men’s UGG boots, $180. A Carhartt beanie jus…",
+   "datum": 1795788012000
+  },
+  {
+   "id": "ecb-1bi3a8",
+   "sourceId": "ecb",
+   "titel": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+   "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html",
+   "snippet": "",
+   "datum": 1795788000000
+  },
+  {
+   "id": "lecho-122ytsa",
+   "sourceId": "lecho",
+   "titel": "Accord social pour les 312 travailleurs menacés chez D'Ieteren Automotive",
+   "link": "https://www.lecho.be/r/t/1/id/10707315",
+   "snippet": "Quelque 132 possibilités de reclassement en interne ont été identifiées. Un \"beau package\" de départ a également été négocié. Les travailleurs seront bientôt fixés sur leur cas personnel.",
+   "datum": 1795787962000
+  },
+  {
+   "id": "euronews-1w515yo",
+   "sourceId": "euronews",
+   "titel": "Uzbekistan and Kazakhstan reopen key border crossing for up to 100,000 travellers a day",
+   "link": "https://www.euronews.com/2026/11/27/uzbekistan-and-kazakhstan-reopen-key-border-crossing-for-up-to-100000-travellers-a-day",
+   "snippet": "The reopening comes as the EU seeks stronger transport and trade links with Central Asia. The upgraded checkpoint could also ease pressure on regional freight routes and support cross-border tourism.",
+   "datum": 1795787030000
+  },
+  {
+   "id": "lecho-122ytt6",
+   "sourceId": "lecho",
+   "titel": "Des puces Nvidia interdites d'exportation retrouvées dans un data center lié à Alice Huang",
+   "link": "https://www.lecho.be/r/t/1/id/10707324",
+   "snippet": "Des documents remis aux autorités chinoises attestent de la présence de puces Blackwell de Nvidia dans un centre de données à Shanghai lié à Alice Huang et à Megaspeed. Leur exportation vers la Chine est pourtant soumise à l'autorisation de Washington.",
+   "datum": 1795786373000
+  },
+  {
+   "id": "scmp-84vsm8",
+   "sourceId": "scmp",
+   "titel": "Sky’s the limit: Chinese woman pilot rises to airline captain decade after historic flight",
+   "link": "https://www.scmp.com/economy/article/3376019/skys-limit-chinese-woman-pilot-rises-airline-captain-decade-after-historic-flight",
+   "snippet": "Chinese pilot Wang Zheng has been promoted to captain at American Airlines, 10 years after being widely recognised as the first Asian woman to fly solo around the world. “From the solitary courage of flying solo around the world in a single-engine aircraft a decade ago, to putting on the four stripes and taking on t…",
+   "datum": 1795786206000
+  },
+  {
+   "id": "lecho-122ys7i",
+   "sourceId": "lecho",
+   "titel": "Qui est Bending Spoons, l'entreprise tech italienne croqueuse de plateformes numériques?",
+   "link": "https://www.lecho.be/r/t/1/id/10707157",
+   "snippet": "Avec le rachat de Mailchimp pour 3,68 milliards de dollars - sa plus importante acquisition à ce jour - le conglomérat italien Bending Spoons poursuit sa conquête effrénée des marques numériques et des produits logiciels reconnus.",
+   "datum": 1795785373000
+  },
+  {
+   "id": "mittr-13mlszd",
+   "sourceId": "mittr",
+   "titel": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+   "link": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/",
+   "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Our 2027 Innovators Under 35 competition is now open Every year, MIT Technology Review honors 35 of the world’s brightest young scientists, entrepreneurs, and inventors in our Inn…",
+   "datum": 1795784400000
+  },
+  {
+   "id": "techcabal-1evqdro",
+   "sourceId": "techcabal",
+   "titel": "Supercoin’s Gideon Greaves sees a business in moving money without dollars",
+   "link": "https://techcabal.com/2026/11/27/supercoin-gideon-greaves-payment-strategy/",
+   "snippet": "The commercial test is whether Supercoin can trade enough rand and shillings to give payment companies a better rate and deliver the money as quickly as their existing providers.",
+   "datum": 1795778071000
+  },
+  {
+   "id": "dw-2knvqa",
+   "sourceId": "dw",
+   "titel": "Indian workers fill Germany's labor gaps but face hurdles and risks",
+   "link": "https://www.dw.com/en/indian-workers-fill-germany-s-labor-gaps-but-face-hurdles-and-risks/a-80072882?maca=en-rss-en-bus-2091-rdf",
+   "snippet": "The number of Indians working in Germany has grown rapidly in recent years. But many continue to face challenges in the labor market. Some also fall victim to recruitment scams, leaving them vulnerable to exploitation.",
+   "datum": 1795777560000
+  },
+  {
+   "id": "sifted-1rw6u50",
+   "sourceId": "sifted",
+   "titel": "Welcome to venture feudalism",
+   "link": "https://sifted.eu/articles/welcome-to-venture-feudalism/",
+   "snippet": "",
+   "datum": 1795777105000
+  },
+  {
+   "id": "sifted-5b2ccr",
+   "sourceId": "sifted",
+   "titel": "Can Europe’s neolabs live up to the hype?",
+   "link": "https://sifted.eu/articles/europe-neolab-live-up-to-hype/",
+   "snippet": "",
+   "datum": 1795776620000
+  },
+  {
+   "id": "mittr-1orkv1n",
+   "sourceId": "mittr",
+   "titel": "Our 2027 Innovators Under 35 competition is now open",
+   "link": "https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/",
+   "snippet": "Every year, the editors at MIT Technology Review select 35 of the world’s top young scientists, entrepreneurs, and inventors to honor as our newest class of Innovators Under 35. And starting today, our 2027 competition is officially open for nominations. We’re on the hunt for researchers and founders who are enginee…",
+   "datum": 1795776527000
+  },
+  {
+   "id": "techcabal-1bnw6y4",
+   "sourceId": "techcabal",
+   "titel": "After two decades in global finance, Tamer Bahgat is betting on social commerce in Nigeria",
+   "link": "https://techcabal.com/2026/11/27/how-tamer-bahgat-founded-we-yan/",
+   "snippet": "How Tamer Bahgat built we.yan, a digital ecosystem that brings communication, commerce, and financial services onto a single platform.",
+   "datum": 1795776114000
+  },
+  {
+   "id": "euronews-2j5upi",
+   "sourceId": "euronews",
+   "titel": "German sofware giant SAP weighs at least 10,000 job cuts amid AI shift, reports say",
+   "link": "https://www.euronews.com/2026/11/27/german-sofware-giant-sap-weighs-at-least-10000-job-cuts-amid-ai-shift-reports-say",
+   "snippet": "If confirmed, the cuts could affect about 9% of the company's global workforce. SAP's shares in Frankfurt were down on Friday morning.",
+   "datum": 1795775872000
+  },
+  {
+   "id": "nyt-uuhcdh",
+   "sourceId": "nyt",
+   "titel": "Jensen Huang Is Back, and So Is His Plaque at Denny’s",
+   "link": "https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html",
+   "snippet": "The chain said it had restored a plaque honoring Mr. Huang above a booth in San Jose, Calif., where he is said to have developed the idea for Nvidia.",
+   "datum": 1795774643000
+  },
+  {
+   "id": "bbc-1xklkxe",
+   "sourceId": "bbc",
+   "titel": "My self-care ritual is a meal at a fancy restaurant - on my own",
+   "link": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
+   "snippet": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
+   "datum": 1795774236000
+  },
+  {
+   "id": "nyt-1iug7t8",
+   "sourceId": "nyt",
+   "titel": "As Prices Rise, Americans Are Making Trade-Offs Rather Than Cutting Back",
+   "link": "https://www.nytimes.com/2026/11/27/business/inflation-consumer-spending-trade-offs-holidays.html",
+   "snippet": "Within strong consumer spending lie the decisions many families are making to stretch their dollars to cover the meals, trips and activities they value most.",
+   "datum": 1795773761000
+  },
+  {
+   "id": "nyt-oz12qz",
+   "sourceId": "nyt",
+   "titel": "2 TV Shows Take on Sam Bankman-Fried and FTX",
+   "link": "https://www.nytimes.com/2026/11/27/business/media/sam-bankman-fried-ftx-altruists.html",
+   "snippet": "The limited series “The Altruists” and the documentary “The Boy Who Stole Billions?” offer different takes on the crypto exchange founder’s role in one of the largest frauds in history.",
+   "datum": 1795773729000
+  },
+  {
+   "id": "nyt-1ivpucm",
+   "sourceId": "nyt",
+   "titel": "48 Hours in Tokyo With an Airline Pilot",
+   "link": "https://www.nytimes.com/2026/11/27/travel/48-hours-tokyo-layover.html",
+   "snippet": "A Boeing 787 pilot visits some favorite restaurants, a Snoopy museum and a tranquil shrine.",
+   "datum": 1795773634000
+  },
+  {
+   "id": "scmp-2ocu59",
+   "sourceId": "scmp",
+   "titel": "Failed California billionaire tax proposal gets close look in China tax circles",
+   "link": "https://www.scmp.com/business/china-business/article/3376043/failed-california-billionaire-tax-proposal-gets-close-look-china-tax-circles",
+   "snippet": "The failure of a billionaire tax proposal in California is drawing attention in Chinese tax circles, with a former senior tax official dissecting the vote and implications in a state-run newspaper as Beijing steps up its own scrutiny of the super-rich. Zhang Zhiyong, a former deputy head of the State Taxation Admini…",
+   "datum": 1795773611000
+  },
+  {
+   "id": "guardian-kyhuea",
+   "sourceId": "guardian",
+   "titel": "‘It’s not helping’: calls for guardrails and regulations as AI use rises at US retailers",
+   "link": "https://www.theguardian.com/us-news/2026/nov/27/ai-retailer-consumer-guardrails",
+   "snippet": "Labor leaders and advocates urge protections for workers and consumers as AI use becomes more commonplace As millions of Americans begin holiday shopping this Black Friday, consumers and workers alike are already seeing how artificial intelligence is reshaping the retail landscape. Anna, a cashier in a southern Oreg…",
+   "datum": 1795773602000
+  },
+  {
+   "id": "mittr-18fkvxu",
+   "sourceId": "mittr",
+   "titel": "How cutting-edge prosthetics can help probe the human mind",
+   "link": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/",
+   "snippet": "Over the last few weeks, I’ve been talking to Alexander (Avi) Davidson. There are a lot of remarkable things about Avi. He sustained a horrific injury as a teenager, which left him paralyzed and without a left hand. Today, he uses his own experience to guide his practice as a trauma therapist. He’s also taking…",
+   "datum": 1795773600000
+  },
+  {
+   "id": "techcabal-a3w8ku",
+   "sourceId": "techcabal",
+   "titel": "Seati Moloi: The Soweto boy who wants Africa to build its own Google",
+   "link": "https://techcabal.com/2026/11/27/seati-moloi-khoi-tech-soweto/",
+   "snippet": "From selling lollipops as a child in Soweto to showcasing wearable technology at London Tech Week, Seati Moloi is building Khoi Tech with a bigger ambition: to see Africa create and own the technology shaping its future.",
+   "datum": 1795772125000
+  },
+  {
+   "id": "lecho-122ysx4",
+   "sourceId": "lecho",
+   "titel": "Action, Aldi, Wibra, Halfprice... Pourquoi les chaînes discount envahissent les anciens Cora",
+   "link": "https://www.lecho.be/r/t/1/id/10707205",
+   "snippet": "Cinq des sept anciens hypermarchés Cora réaménagés ont été inaugurés ce vendredi. Dans ces espaces repris par Mitiska Reim, les enseignes à petits prix occupent une place centrale. Un choix délibéré du promoteur, qui répond à une évolution profonde de la consommation. Et les chiffres montrent que la Wallonie offre e…",
+   "datum": 1795771592000
+  },
+  {
+   "id": "euronews-42ir27",
+   "sourceId": "euronews",
+   "titel": "France's inflation slows to 2.9% in November as energy prices fall",
+   "link": "https://www.euronews.com/2026/11/27/frances-inflation-slows-to-29-in-november-as-energy-prices-fall",
+   "snippet": "Consumer prices fell by 0.7% in November 2026, after rising by 0.4% in October, according to the latest figures from Insee, published this Friday.",
+   "datum": 1795771497000
+  },
+  {
+   "id": "scmp-1wcye0t",
+   "sourceId": "scmp",
+   "titel": "Will exit of key executive cloud WuXi Biologics’ US outlook?",
+   "link": "https://www.scmp.com/business/companies/article/3375993/will-exit-key-executive-cloud-wuxi-biologics-us-outlook",
+   "snippet": "The planned departure of a top executive at WuXi Biologics’ US arm has sparked debate over the geopolitical pressures facing the Chinese biotech services giant, although analysts remain upbeat about the company’s outlook in the American market. Nuno Fontes, president of WuXi Biologics’ US subsidiary, said in a Linke…",
+   "datum": 1795770008000
+  },
+  {
+   "id": "ecb-9psntu",
+   "sourceId": "ecb",
+   "titel": "ECB Consumer Expectations Survey results – October 2026",
+   "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261127~2e53af695e.en.html",
+   "snippet": "",
+   "datum": 1795770000000
+  },
+  {
+   "id": "bbc-1u1zous",
+   "sourceId": "bbc",
+   "titel": "'We're scared to turn our heating on'",
+   "link": "https://www.bbc.co.uk/news/videos/c6jd7yj4ve9xo?at_medium=RSS&at_campaign=rss",
+   "snippet": "Energy bills will soar by 26% for millions of households in January after a surge in gas prices sparked by the Iran war.",
+   "datum": 1795769220000
+  },
+  {
+   "id": "scmp-19oi3cy",
+   "sourceId": "scmp",
+   "titel": "Jensen Huang is back at Nvidia, but the US still needs a plan B",
+   "link": "https://www.scmp.com/opinion/world-opinion/article/3375731/jensen-huang-back-nvidia-us-still-needs-plan-b",
+   "snippet": "Jensen Huang is back at Nvidia, and investors have delivered their verdict. After the board reinstated him on November 23, shares rose 31.5 per cent. US President Donald Trump welcomed the decision, linking Huang’s leadership to the prosperity of the American economy. The board said meetings with Huang had satisfied…",
+   "datum": 1795768207000
+  },
+  {
+   "id": "scmp-1fzyi2l",
+   "sourceId": "scmp",
+   "titel": "Hong Kong gold imports surge 24.4% in October to 4-month high on lower bullion prices",
+   "link": "https://www.scmp.com/business/commodities/article/3376000/hong-kong-gold-imports-surge-244-october-four-month-high-lower-bullion-prices",
+   "snippet": "Hong Kong’s gold imports surged in October to a four-month high, riding the momentum of lower prices and adding weight to the city’s push to establish itself as an international gold trading hub. The city imported 139.6 tonnes of unwrought, non-monetary gold last month, up 24.4 per cent from 112.3 tonnes in Septembe…",
+   "datum": 1795766413000
+  },
+  {
+   "id": "techcabal-1wmqxje",
+   "sourceId": "techcabal",
+   "titel": "Nigeria, Togo seek investors for $50 million data park project",
+   "link": "https://techcabal.com/2026/11/27/nigeria-togo-seek-data-park-investors/",
+   "snippet": "Nigeria and Togo are seeking private investors for a $30 million to $50 million twin data park project, with one facility in each country.",
+   "datum": 1795766027000
+  },
+  {
+   "id": "lecho-122ysz2",
+   "sourceId": "lecho",
+   "titel": "Elia relève ses prévisions de bénéfice pour l'année 2026",
+   "link": "https://www.lecho.be/r/t/1/id/10707229",
+   "snippet": "Les actifs régulés d'Elia bénéficieront de l'augmentation des taux d'intérêt, ce qui pousse le groupe à revoir ses prévisions annuelles à la hausse. Une nouvelle dépréciation de son activité américaine vient (un peu) gâcher la fête.",
+   "datum": 1795763756000
+  },
+  {
+   "id": "scmp-193iag3",
+   "sourceId": "scmp",
+   "titel": "How Chinese tech firms can leverage Qianhai and Hong Kong’s advantages to achieve growth",
+   "link": "https://www.scmp.com/native/business/topics/chinas-gba-innovation-hub/article/3375615/how-chinese-tech-firms-can-leverage-qianhai-and-hong-kongs-advantages-achieve-growth",
+   "snippet": "Government officials at this month’s 33rd Asia-Pacific Economic Cooperation (Apec) Economic Leaders’ Meeting in Shenzhen were keen to continue their business collaboration efforts amid ongoing global uncertainty and the rapid adoption of artificial intelligence-driven technology. Southern China’s modern metropolis a…",
+   "datum": 1795762813000
+  },
+  {
+   "id": "scmp-19expog",
+   "sourceId": "scmp",
+   "titel": "Nvidia’s 31% surge, 20-40% US tariffs on China: 5 figures investors are watching this week",
+   "link": "https://www.scmp.com/business/china-business/article/3375991/nvidias-31-surge-20-40-us-tariffs-china-5-figures-investors-are-watching-week",
+   "snippet": "After Nvidia shares skyrocketed on Monday, capital markets across the United States and Asia experienced another volatile week, paring gains amid widespread concerns over the AI trade and a new round of US tariffs targeting major economies, including China. Below are five figures that captured market attention this…",
+   "datum": 1795762813000
+  },
+  {
+   "id": "scmp-18iaylc",
+   "sourceId": "scmp",
+   "titel": "China’s State Council says it is considering more measures to bolster flagging stocks",
+   "link": "https://www.scmp.com/business/china-business/article/3376011/chinas-state-council-says-it-considering-more-measures-bolster-flagging-stocks",
+   "snippet": "China will consider rolling out fresh measures to support the stock market, which top policymakers say is critical to economic growth, according to a State Council meeting. The government would continue to improve the market-stabilising mechanism, efficiently implement existing policies and plan incremental ones, ac…",
+   "datum": 1795762583000
+  },
+  {
+   "id": "euronews-26qhx4",
+   "sourceId": "euronews",
+   "titel": "Germany's IG Metall reaches pay deal amid industrial crisis",
+   "link": "https://www.euronews.com/2026/11/27/germanys-ig-metall-reaches-pay-deal-amid-industrial-crisis",
+   "snippet": "A pay deal that could cover 3.7 million workers across Germany raises wages in two stages and lets struggling manufacturers seek labour cost savings in return for binding pledges to invest and protect jobs in Germany.",
+   "datum": 1795761842000
+  },
+  {
+   "id": "bbc-qosfoh",
+   "sourceId": "bbc",
+   "titel": "How much is your rent in Birmingham?",
+   "link": "https://www.bbc.co.uk/news/videos/ckg5r02mqp4no?at_medium=RSS&at_campaign=rss",
+   "snippet": "We ask people in the UK's second biggest how much they pay for their homes.",
+   "datum": 1795759892000
+  },
+  {
+   "id": "scmp-1we9xk9",
+   "sourceId": "scmp",
+   "titel": "Bayer unveils big China investment, outpacing US peers hesitant on Washington curbs",
+   "link": "https://www.scmp.com/business/companies/article/3375999/bayer-unveils-big-china-investment-outpacing-us-peers-hesitant-washington-curbs",
+   "snippet": "German pharmaceutical giant Bayer on Thursday announced its largest single investment in China, while US biotechs face hurdles due to newly proposed restrictions by Washington. Bayer announced plans to invest up to 500 million euros (US$550 million) in its Beijing production site, making it the company’s largest sin…",
+   "datum": 1795759887000
+  },
+  {
+   "id": "bbc-1fonvfq",
+   "sourceId": "bbc",
+   "titel": "The food bank helping pet owners with rising bills",
+   "link": "https://www.bbc.co.uk/news/articles/c623jgz7zmg8o?at_medium=RSS&at_campaign=rss",
+   "snippet": "RSPCA hands out food, vet vouchers, cat litter and toys to pet owners struggling with bills.",
+   "datum": 1795759873000
+  },
+  {
+   "id": "techcabal-16najtj",
+   "sourceId": "techcabal",
+   "titel": "👨🏿‍🚀TechCabal Daily – La Visa loca",
+   "link": "https://techcabal.com/2026/11/27/%f0%9f%91%a8%f0%9f%8f%bf%f0%9f%9a%80techcabal-daily-la-visa-loca/",
+   "snippet": "In today's edition: EasyEquities locks customer accounts after breach || Visa opens Cameroon office || Mukuru partners PayPal for international payments || Who secured the bag? 💰",
+   "datum": 1795759613000
+  },
+  {
+   "id": "lecho-122ys9a",
+   "sourceId": "lecho",
+   "titel": "Signatur Biosciences lève cinq millions de dollars pour évaluer l'intérêt d'une chimiothérapie",
+   "link": "https://www.lecho.be/r/t/1/id/10707175",
+   "snippet": "La start-up développe un test rapide évaluant l'utilité pour les patientes touchées par un cancer du sein de passer par la case chimiothérapie. Fondée par le Belge Célestin de Wergifosse, la biotech est une spin-off de l'Imperial College passée par Y Combinator.",
+   "datum": 1795759200000
+  },
+  {
+   "id": "nyt-zp9wh7",
+   "sourceId": "nyt",
+   "titel": "Judge Blocks F.C.C. From Targeting Disney’s Local ABC Licenses",
+   "link": "https://www.nytimes.com/2026/11/25/business/media/disney-fcc-abc-ruling.html",
+   "snippet": "A preliminary injunction halted an early regulatory review of the network’s operations in eight cities, including New York, Los Angeles and Chicago.",
+   "datum": 1795756746000
+  },
+  {
+   "id": "sifted-1nx9huc",
+   "sourceId": "sifted",
+   "titel": "'Never say never': US fintech giant Ramp on more European acquisitions",
+   "link": "https://sifted.eu/articles/ramp-europe-expansion-interview/",
+   "snippet": "",
+   "datum": 1795755658000
+  },
+  {
+   "id": "sifted-nltole",
+   "sourceId": "sifted",
+   "titel": "‘We’re not migration software’: Conduct’s CEO on building an AI operating system for enterprise IT teams",
+   "link": "https://sifted.eu/articles/conduct-ceo-on-building-an-ai-operating-system-for-enterprise-it-teams/",
+   "snippet": "",
+   "datum": 1795755627000
+  },
+  {
+   "id": "lecho-122ys7k",
+   "sourceId": "lecho",
+   "titel": "Avec \"Les Nouveaux Entrepreneurs\", la RTBF met l’entrepreneuriat en prime time",
+   "link": "https://www.lecho.be/r/t/1/id/10707159",
+   "snippet": "La RTBF diffuse ce vendredi soir \"Les Nouveaux Entrepreneurs\", un prime time visant à stimuler l'entrepreneuriat chez les jeunes.",
+   "datum": 1795755600000
+  },
+  {
+   "id": "scmp-1qq6am",
+   "sourceId": "scmp",
+   "titel": "Spirit of recovery: JPMorgan sees fresh upside in liquor giant Kweichow Moutai",
+   "link": "https://www.scmp.com/business/china-business/article/3375983/spirit-recovery-jpmorgan-sees-fresh-upside-liquor-giant-kweichow-moutai",
+   "snippet": "Kweichow Moutai has won a rare vote of confidence from Wall Street, with JPMorgan Chase upgrading the Chinese baijiu giant that has been struggling with slowing growth in recent years. The US bank raised its recommendation on Kweichow Moutai’s Shanghai-listed shares to overweight from neutral and set a price target…",
+   "datum": 1795752023000
+  },
+  {
+   "id": "scmp-1kl4wyd",
+   "sourceId": "scmp",
+   "titel": "How innovation turns disruption into opportunity to power next era of growth",
+   "link": "https://www.scmp.com/native/business/topics/future-wealth/article/3375760/how-innovation-turns-disruption-opportunity-power-next-era-growth",
+   "snippet": "Technological advances are rapidly reshaping the way the world does business. It means senior executives and investors must keep up with the latest trends in innovation and embrace them to ensure they stay relevant and use their strengths to make the most of emerging opportunities. The annual UBS Disruptive Technolo…",
+   "datum": 1795748411000
+  },
+  {
+   "id": "nyt-1rn2kyn",
+   "sourceId": "nyt",
+   "titel": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
+   "link": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html",
+   "snippet": "The shipping halt, which hit four countries, follows a new U.S. rule that would require licenses for companies in the countries to buy advanced A.I. chips.",
+   "datum": 1795747541000
+  },
+  {
+   "id": "scmp-l8wmpd",
+   "sourceId": "scmp",
+   "titel": "Beauty defies consumers’ spending slowdown as China’s brands look to expand globally",
+   "link": "https://www.scmp.com/business/china-business/article/3375887/beauty-defies-consumers-spending-slowdown-chinas-brands-look-expand-globally",
+   "snippet": "As holiday shopping gets under way across the globe with Black Friday sales, beauty products and services are grabbing a bigger share of consumers’ budgets while many retail categories lose traction. Beauty stands out as one of the few categories that have sustained growth over the past three years, according to a r…",
+   "datum": 1795741208000
+  },
+  {
+   "id": "bbc-1o1fihq",
+   "sourceId": "bbc",
+   "titel": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
+   "link": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_medium=RSS&at_campaign=rss",
+   "snippet": "Networks of plumbers and electricians are scamming people on a large scale, the BBC reveals.",
+   "datum": 1795741129000
+  },
   {
    "id": "bbc-1qm1qzz",
    "sourceId": "bbc",
@@ -42,84 +906,12 @@
    "datum": 1795734010000
   },
   {
-   "id": "nyt-uuhcdh",
-   "sourceId": "nyt",
-   "titel": "Jensen Huang Is Back, and So Is His Plaque at Denny’s",
-   "link": "https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html",
-   "snippet": "The chain said it had restored a plaque honoring Mr. Huang above a booth in San Jose, Calif., after he was reinstated at Nvidia, the company he is said to have co-founded while eating there.",
-   "datum": 1795728316000
-  },
-  {
-   "id": "vrt-1dkafw3",
-   "sourceId": "vrt",
-   "titel": "\"Onhoudbaar\": huisjesmelkers in Nederland dumpen arbeidsmigranten in ondermaatse panden over grens met België",
-   "link": "https://vrtnws.be/p.bDodODqbN",
-   "snippet": "Huisjesmelkers in Nederland kopen en huren woningen in grensgemeenten in België om er op grote schaal arbeidsmigranten in onder te brengen. Dat blijkt uit onderzoek van onderzoeksplatform Apache en het Nederlandse tv-programma Pointer. Het gaat vaak om Oost-Europeanen die in soms gebrekkige omstandigheden wonen. Dat…",
-   "datum": 1795726793000
-  },
-  {
-   "id": "vrt-1dl999e",
-   "sourceId": "vrt",
-   "titel": "Europese Unie begaat \"strategische vergissing\" als ze bespaart op begroting, waarschuwt Macron",
-   "link": "https://vrtnws.be/p.bDodOqww5",
-   "snippet": "De Europese Unie is \"een strategische vergissing\" aan het begaan met de voorgestelde besparingen op haar volgende meerjarenbegroting. Daarvoor waarschuwt de Franse president Emmanuel Macron op de Europese top in Brussel. De Europese lidstaten buigen zich daar over de begroting voor de jaren 2028-2034.",
-   "datum": 1795726155000
-  },
-  {
    "id": "nyt-c69qmc",
    "sourceId": "nyt",
    "titel": "Dan Carney Has Died. He Co-Founded Pizza Hut and Then Made It Ubiquitous.",
    "link": "https://www.nytimes.com/2026/11/26/business/dan-carney-dead.html",
    "snippet": "The franchise with the iconic red roof began small, in a tiny brick hut in Kansas. Little more than a decade later, it was the world’s biggest pizza chain. He was 95.",
    "datum": 1795725435000
-  },
-  {
-   "id": "vrt-1kuv3zv",
-   "sourceId": "vrt",
-   "titel": "Aandeel Bpost 3 keer minder waard dan prior-zegel, toch blijft CEO optimistisch: \"Beste leverancier in pakjesmarkt\"",
-   "link": "https://vrtnws.be/p.JN40onn68",
-   "snippet": "Hoewel de beurskoers van Bpost is gekelderd tot 0,74 euro per aandeel, blijft CEO Chris Peeters optimistisch over de toekomst van het postbedrijf. Dat zegt hij in VRT NWS Terzake. \"Bpost zit in volle transformatie van klassiek postbedrijf naar een onderneming die haar aandeel heeft in de commerciële pakjesmarkt.\"",
-   "datum": 1795724029000
-  },
-  {
-   "id": "vrt-1y3my6r",
-   "sourceId": "vrt",
-   "titel": "Volksjury is duidelijk: man uit Roeselare schuldig aan moord met 122 messteken op echtgenote",
-   "link": "https://vrtnws.be/p.jGkmRbNkw",
-   "snippet": "De volksjury heeft Jan Buyck (64) schuldig verklaard aan de moord op zijn echtgenote Marie-Anne Brackx (56). De Roeselarenaar bracht het slachtoffer met 122 messteken om het leven. De verdediging ontkende ook niet dat de beschuldigde met voorbedachten rade handelde. Welke straf de dader krijgt, zal in de loop van vr…",
-   "datum": 1795723652000
-  },
-  {
-   "id": "vrt-1wi8y5r",
-   "sourceId": "vrt",
-   "titel": "Schoolbuurt in Halle krijgt knip en eenrichtingsstraten, oppositie vreest dat drukte gewoon verschuift",
-   "link": "https://vrtnws.be/p.11pNDqm6q",
-   "snippet": "De stad Halle voert in de nabije toekomst nieuwe verkeersmaatregelen in de Don Boscowijk in om sluipverkeer te weren. Op verschillende plaatsen komt eenrichtingsverkeer, en de stad sluit een toegangsweg af. Volgens de oppositie zullen de maatregelen de druk op de woonstraten net opvoeren.",
-   "datum": 1795723647000
-  },
-  {
-   "id": "vrt-mpruj8",
-   "sourceId": "vrt",
-   "titel": "Aparte buscorridor en slimme verkeerslichten zorgen voor vlottere verbinding tussen Evergem en Gent",
-   "link": "https://vrtnws.be/p.nwvbmBO9Z",
-   "snippet": "Een evaluatie van De Lijn toont dat de aparte buscorridor en de verkeerslichten op de Christoffelweg in Evergem hebben gezorgd voor een vlottere verbinding. Tijdens de spits stijgt de gemiddelde snelheid van de bus van 19 naar 25 kilometer per uur. Ook aan de Wiedauwkaai in Gent heeft de bus nu een eigen corridor; d…",
-   "datum": 1795723366000
-  },
-  {
-   "id": "vrt-1ff2dc4",
-   "sourceId": "vrt",
-   "titel": "Europees cyberproject voor 21 gemeenten in Oost-Vlaanderen en Vlaams-Brabant loopt een jaar langer",
-   "link": "https://vrtnws.be/p.E1djppL7W",
-   "snippet": "Het Europese project rond cyberweerbaarheid voor 21 Vlaamse gemeenten is met een jaar verlengd. Dat zegt Joke Schauvliege (CD&V), gedeputeerde bij de provincie Oost-Vlaanderen. Het gaat om 15 gemeenten in Oost-Vlaanderen en 6 in Vlaams-Brabant. Dankzij het project beschikken de lokale besturen over een back-upsystee…",
-   "datum": 1795723154000
-  },
-  {
-   "id": "vrt-biomes",
-   "sourceId": "vrt",
-   "titel": "Met verkoop Godelieveschool en lening wil Tielt Vlaamse besparing opvangen: \"Geen projecten schrappen\"",
-   "link": "https://vrtnws.be/p.ew4L1nO3q",
-   "snippet": "Het stadsbestuur van Tielt verzekert dat er deze legislatuur geen projecten geschrapt of uitgesteld worden door de besparingen. Tielt moet wel 4 miljoen euro extra zien te vinden om de balans in evenwicht te houden. Met een lening hoopt het bestuur alvast 2 miljoen euro op te halen. De overige helft wil Tielt bekome…",
-   "datum": 1795722996000
   },
   {
    "id": "bbc-12ce384",
@@ -135,55 +927,7 @@
    "titel": "European Central Bank Chooses Pablo Hernández de Cos as Next President",
    "link": "https://www.nytimes.com/2026/11/26/business/ecb-pablo-hernandez-de-cos.html",
    "snippet": "The early exit of Christine Lagarde as president of the European Central Bank, and two looming vacancies on the board, will make way for new leadership at the institution.",
-   "datum": 1795722094000
-  },
-  {
-   "id": "vrt-1rwtmkz",
-   "sourceId": "vrt",
-   "titel": "Militaire junta in Guinee-Bissau stelt verkiezingen voor president en parlement 2 jaar uit",
-   "link": "https://vrtnws.be/p.RaJRmdJKX",
-   "snippet": "De militaire junta in Guinee-Bissau, in West-Afrika, heeft de presidents- en parlementsverkiezingen met 2 jaar uitgesteld, tot 26 november 2028. Dat blijkt uit een presidentieel decreet dat het Franse persagentschap AFP kon inzien. Normaal gezien hadden de verkiezingen op 6 december 2026 moeten plaatsvinden.",
-   "datum": 1795721169000
-  },
-  {
-   "id": "tijd-ond-1ijuavf",
-   "sourceId": "tijd-ond",
-   "titel": "Volvo-moeder Geely voert Belgisch offensief op",
-   "link": "https://www.tijd.be/r/t/1/id/10707208",
-   "snippet": "Volvo Cars-moeder Geely voert zijn Europese offensief verder op. In ons land wil de Chinese autobouwer tegen volgend jaar een vaste waarde zijn in de top 20 van bestverkochte automerken door zich vooral te richten op de particuliere koper.",
-   "datum": 1795720691000
-  },
-  {
-   "id": "tijd-ond-1ijua7l",
-   "sourceId": "tijd-ond",
-   "titel": "Cruciale dagen voor biedingen op Belfius",
-   "link": "https://www.tijd.be/r/t/1/id/10707178",
-   "snippet": "De kandidaten voor een minderheidsbelang in Belfius kunnen eind deze week een finaal, beste bod op tafel leggen. Ze krijgen een herkansing nadat hun biedingen 'voorlopig nog als onvoldoende' werden bevonden, bevestigt minister van Financiën Jan Jambon.",
-   "datum": 1795719881000
-  },
-  {
-   "id": "vrt-1g3ziea",
-   "sourceId": "vrt",
-   "titel": "Minstens 11 doden bij droneaanval op vrachtwagen in Soedan, paramilitairen beschuldigen leger",
-   "link": "https://vrtnws.be/p.Wkj3JX4Ox",
-   "snippet": "In het zuiden van Soedan zijn minstens 11 mensen gedood bij een droneaanval op een vrachtwagen die mensen en goederen vervoerde naar de markt. Dat melden medische bronnen aan het persagentschap AFP. De aanval vond plaats in de stad Ghubeish, in een gebied in de zuidelijke deelstaat West-Kordofan dat wordt gecontrole…",
-   "datum": 1795719608000
-  },
-  {
-   "id": "lecho-122ysx3",
-   "sourceId": "lecho",
-   "titel": "La Wallonie impose l'arrêt du chantier du data center de Google à Aiseau-Presles, faute de permis",
-   "link": "https://www.lecho.be/r/t/1/id/10707204",
-   "snippet": "Le chantier du vaste data center de Google, en Région wallonne, est mis à l'arrêt, faute de permis de bâtir. Ce jeudi, les autorités ont constaté que 300 ouvriers étaient pourtant sur place.",
-   "datum": 1795719482000
-  },
-  {
-   "id": "vrt-lbdyvq",
-   "sourceId": "vrt",
-   "titel": "Auto rijdt tegen verlichtingspaal en belandt op zijn zij in Waarschoot: bestuurder (19) in levensgevaar",
-   "link": "https://vrtnws.be/p.mRJO8R8eQ",
-   "snippet": "Een bestuurder van 19 verkeert in levensgevaar na een zwaar ongeval aan 't Hand in Waarschoot (Lievegem). Een 20-jarige passagier werd aanvankelijk ook in kritieke toestand naar het ziekenhuis gebracht, maar verkeert niet meer in levensgevaar.",
-   "datum": 1795717890000
+   "datum": 1795722095000
   },
   {
    "id": "cnbc-18kh9b3",
@@ -192,86 +936,6 @@
    "link": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html",
    "snippet": "The microdrama category has exploded at a time when traditional forms of media face waning interest and YouTube claims more viewing hours.",
    "datum": 1795717663000
-  },
-  {
-   "id": "lecho-122ysab",
-   "sourceId": "lecho",
-   "titel": "RTL diffusera les matchs des clubs belges en Champions League et en Europa League",
-   "link": "https://www.lecho.be/r/t/1/id/10707189",
-   "snippet": "Dès la saison prochaine et jusqu'en 2031, RTL et VTM diffuseront en clair les matchs européens des clubs belges grâce à un partenariat avec Canal+, nouveau détenteur des droits pour la Belgique.",
-   "datum": 1795717260000
-  },
-  {
-   "id": "vrt-1btvdne",
-   "sourceId": "vrt",
-   "titel": "Waals Gewest legt bouw van datacenter van Google in Farciennes stil",
-   "link": "https://vrtnws.be/p.3BwNWZQNJ",
-   "snippet": "Het Waals Gewest heeft de werkzaamheden op de bouwwerf van Google in Farciennes laten stilleggen. Google had sinds deze zomer geen vergunning meer voor de bouw van een groot datacenter, maar het technologiebedrijf is de voorbije maanden doorgegaan met de bouwwerken.",
-   "datum": 1795716823000
-  },
-  {
-   "id": "vrt-j1lrke",
-   "sourceId": "vrt",
-   "titel": "Man in bestelwagen biedt meisje (9) snoepje aan in Hombeek: politie start onderzoek",
-   "link": "https://vrtnws.be/p.DYMjpqoKy",
-   "snippet": "In Hombeek, bij Mechelen, is de politie een onderzoek gestart naar een man in een witte bestelwagen, na een klacht van ouders. De man zou hun dochter van 9 een snoepje hebben aangeboden. Ze ging niet in op het aanbod en fietste verder. De politie verwittigde ook de school van het meisje.",
-   "datum": 1795716693000
-  },
-  {
-   "id": "vrt-1exd6r4",
-   "sourceId": "vrt",
-   "titel": "Buurtbewoners geven input over nieuw zorgpark van Hasselts Jessa Ziekenhuis: \"Willen impact op de omgeving zo veel mogelijk beperken\"",
-   "link": "https://vrtnws.be/p.qENyXENKw",
-   "snippet": "Het Jessa Ziekenhuis, de stad Hasselt en het Agentschap Wegen en Verkeer hebben vandaag een eerste dialoogmarkt georganiseerd over de komst van het nieuwe ziekenhuis op de Salvatorsite. Zo'n 150 buurtbewoners schreven zich in om de plannen in te kijken en hun vragen te delen voor het verplichte milieueffectenrapport…",
-   "datum": 1795716430000
-  },
-  {
-   "id": "lecho-122ysx0",
-   "sourceId": "lecho",
-   "titel": "Le patron d'Euroclear Bernard Frenay annoncé comme nouveau CEO du groupe Dexia",
-   "link": "https://www.lecho.be/r/t/1/id/10707201",
-   "snippet": "Le Belge Bernard Frenay, qui pilote aujourd'hui les activités européennes d'Euroclear, deviendra le nouveau CEO de Dexia dès le premier janvier, a fait savoir le groupe financier ce jeudi dans un communiqué.",
-   "datum": 1795716389000
-  },
-  {
-   "id": "vrt-1nxbr62",
-   "sourceId": "vrt",
-   "titel": "België niet verplicht gezin van terminaal zieke arts Mohammed Ayesh (48) uit Gaza te evacueren, zegt rechter",
-   "link": "https://vrtnws.be/p.5waK3lqpl",
-   "snippet": "Het verzoek van de terminaal zieke Palestijnse chirurg Mohammed Ayesh (48) om België te verplichten zijn vrouw en 4 kinderen uit de Gazastrook te evacueren, is afgewezen door de Franstalige rechtbank van eerste aanleg in Brussel. Het gezin van de erkende vluchteling heeft Belgische visa gekregen in het kader van de…",
-   "datum": 1795716260000
-  },
-  {
-   "id": "tijd-ond-1ijua9f",
-   "sourceId": "tijd-ond",
-   "titel": "'Duitse softwarereus SAP plant AI-reorganisatie: 10.000 jobs in gevaar'",
-   "link": "https://www.tijd.be/r/t/1/id/10707198",
-   "snippet": "Volgens het persagentschap Bloomberg staan bij de Duitse specialist in bedrijfssoftware SAP 10.000 jobs op de helling. SAP bereidt een herstructurering voor om klaar te zijn voor het AI-tijdperk en 'AI dieper in de software verankeren'.",
-   "datum": 1795715763000
-  },
-  {
-   "id": "vrt-2147fp",
-   "sourceId": "vrt",
-   "titel": "Man (41) ernstig gewond na messteken in stationsbuurt van Aalst, dader nog spoorloos",
-   "link": "https://vrtnws.be/p.aDeMX5J8y",
-   "snippet": "In de stationsbuurt van Aalst is een man van 41 ernstig gewond geraakt nadat iemand hem meerdere keren met een mes stak. Van de dader of daders is volgens het parket nog geen spoor. Het slachtoffer verblijft in het ziekenhuis, maar zijn leven is niet in gevaar.",
-   "datum": 1795715751000
-  },
-  {
-   "id": "lecho-122ysb8",
-   "sourceId": "lecho",
-   "titel": "Sandra Stibale prendra les rênes d'Ikea Belgique en février prochain",
-   "link": "https://www.lecho.be/r/t/1/id/10707199",
-   "snippet": "André Schmidtgall avait, lors de la présentation des résultats annuels la semaine dernière, brièvement évoqué son prochain départ de la direction belge d'Ikea. Confirmation, ce jeudi, avec l'annonce de l'arrivée de sa successeure.",
-   "datum": 1795715524000
-  },
-  {
-   "id": "lecho-122ysb3",
-   "sourceId": "lecho",
-   "titel": "Le leader européen de logiciels SAP envisage une restructuration axée sur l'IA: au moins 10.000 postes menacés",
-   "link": "https://www.lecho.be/r/t/1/id/10707194",
-   "snippet": "L'éditeur de logiciels SAP envisage une nouvelle restructuration. Au moins 10.000 postes pourraient être menacés, avec un cap assumé vers l'intelligence artificielle.",
-   "datum": 1795714926000
   },
   {
    "id": "euronews-6rcjgx",
@@ -290,172 +954,12 @@
    "datum": 1795713681000
   },
   {
-   "id": "vrt-1x4quyf",
-   "sourceId": "vrt",
-   "titel": "\"Het zou wel eens sneller kunnen gaan dan we denken\": hoe realistisch is plan van Musk voor 1 miljoen datacenter-satellieten?",
-   "link": "https://vrtnws.be/p.11pNdmZxn",
-   "snippet": "Het plan van SpaceX om 1 miljoen datacenter-satellieten uit te rollen, roept heel wat vragen op. Het kan leiden tot meer lichtvervuiling en mogelijke botsingen in de ruimte. Verschillende technologische uitdagingen, zoals de koeling, zijn nog niet opgelost. \"Het zou weleens sneller kunnen gaan dan we denken\", merkt…",
-   "datum": 1795712780000
-  },
-  {
    "id": "nyt-t3rome",
    "sourceId": "nyt",
    "titel": "Trump’s Latest Tariffs Revive Focus on Pressuring China",
    "link": "https://www.nytimes.com/2026/11/26/business/trump-tariffs-asia.html",
    "snippet": "President Trump sent a message to trading partners across Asia, many of which depend on trade and investment from both the United States and China, that he is ready to escalate tariffs.",
-   "datum": 1795712611000
-  },
-  {
-   "id": "tijd-ond-1ijtmmm",
-   "sourceId": "tijd-ond",
-   "titel": "Van Nvidia tot Waalse gemeentebesturen: niemand lijkt veilig voor mysterieuze Gentlemen-hackers",
-   "link": "https://www.tijd.be/r/t/1/id/10706653",
-   "snippet": "Een Russische groep cybercriminelen die zichzelf The Gentlemen noemt, heeft op een jaar tijd wereldwijd al meer dan duizend slachtoffers gemaakt met een innovatief 'Netflix voor hackers'. Ook in België liggen steeds meer bedrijven en organisaties in het vizier. 'Ik voel me een oorlogsslachtoffer.'",
-   "datum": 1795712011000
-  },
-  {
-   "id": "vrt-1eqc0dn",
-   "sourceId": "vrt",
-   "titel": "Deze besparingen op de loonindex waren de spreekwoordelijke druppel voor Vooruit",
-   "link": "https://vrtnws.be/p.qENyNEyPl",
-   "snippet": "Niet raken aan de index: dat was een belangrijke voorwaarde die Vooruit-voorzitter Conner Rousseau naar voren schoof voor hij weer verder onderhandelt over de begroting. Wat lag dan precies op tafel over de index dat de socialisten zo boos maakte? Welke speelruimte hebben de onderhandelaars nog?",
-   "datum": 1795711647000
-  },
-  {
-   "id": "tijd-ond-1ijua7h",
-   "sourceId": "tijd-ond",
-   "titel": "Euroclear-topper Bernard Frenay gaat Dexia leiden",
-   "link": "https://www.tijd.be/r/t/1/id/10707174",
-   "snippet": "De Belg Bernard Frenay, die momenteel de Europese activiteiten van het effectenhuis Euroclear leidt, wordt op Nieuwjaar de nieuwe topman van Dexia. Daarmee krijgt de geïmplodeerde financiële groep sneller dan verwacht een nieuwe CEO.",
-   "datum": 1795711271000
-  },
-  {
-   "id": "vrt-17xz3ar",
-   "sourceId": "vrt",
-   "titel": "Grote hoop sluikstort aangetroffen aan bos in Perk: vrachtwagen zonder platen gespot in de buurt",
-   "link": "https://vrtnws.be/p.XEVkV3mjO",
-   "snippet": "In de Breemstraat in Perk (Steenokkerzeel) is donderdagmorgen een hoop sluikstort aangetroffen aan de rand van een bos. De politie zoekt de dader en analyseert camerabeelden. \"Het lijkt wel alsof iemand een volledige huisraad met een vrachtwagen heeft afgevoerd\", zegt burgemeester Kurt Ryon (Klaver/N-VA).",
-   "datum": 1795710433000
-  },
-  {
-   "id": "vrt-1209uh",
-   "sourceId": "vrt",
-   "titel": "Politie zoekt verdachte van verschillende aanrandingen in Willebroek",
-   "link": "https://vrtnws.be/p.y31y1w40Q",
-   "snippet": "De politie van de zone Rivierenland is op zoek naar een man die verdacht wordt van verschillende aanrandingen in Willebroek. Ze verspreidde een foto van de verdachte op de fiets en met een trui van het merk Balenciaga.",
-   "datum": 1795710187000
-  },
-  {
-   "id": "tijd-ond-1ijua8d",
-   "sourceId": "tijd-ond",
-   "titel": "Canal+, VTM en RTL delen voetbal en lokale content",
-   "link": "https://www.tijd.be/r/t/1/id/10707183",
-   "snippet": "De Franse mediagroep Canal+ sluit een strategisch partnerschap met DPG Media en RTL Belgium. VTM kan daardoor de Belgische wedstrijden in de UEFA Champions League en Europa League blijven uitzenden.",
-   "datum": 1795710100000
-  },
-  {
-   "id": "vrt-r6rxt5",
-   "sourceId": "vrt",
-   "titel": "Celstraf voor zeventiger uit Scherpenheuvel-Zichem na aanranding van kwetsbare vrouw",
-   "link": "https://vrtnws.be/p.dLRoyZw35",
-   "snippet": "Een man van 77 uit Scherpenheuvel-Zichem is veroordeeld tot 3 jaar cel, waarvan de helft met uitstel, omdat hij een kwetsbare vrouw meermaals heeft aangerand. Zijn advocaat gaf een deel van de feiten toe, maar de man haalde dat pleidooi zelf onderuit. Hij werd ook ontzet uit zijn rechten en moet de vrouw een schadev…",
-   "datum": 1795709649000
-  },
-  {
-   "id": "tijd-ond-1ijtp0t",
-   "sourceId": "tijd-ond",
-   "titel": "EnergyVision wordt met Octa+-deal de vierde grootste energieleverancier van Vlaanderen",
-   "link": "https://www.tijd.be/r/t/1/id/10706904",
-   "snippet": "Het energiebedrijf EnergyVision heeft de biedstrijd rond de elektriciteits- en aardgasdivisie van Octa+ gewonnen. De Gentse groep wordt dankzij de deal de vierde grootste energieleverancier voor gezinnen in Vlaanderen. Beleggers reageren enthousiast en sturen het aandeel naar een record.",
-   "datum": 1795709329000
-  },
-  {
-   "id": "vrt-1cgckmh",
-   "sourceId": "vrt",
-   "titel": "Verkeerschaos dreigt in Brussel door Black Friday, opening Kanal én start Winterpret: politie roept op met openbaar vervoer te komen",
-   "link": "https://vrtnws.be/p.3BwNx3d6D",
-   "snippet": "De politie van Brussel vraagt iedereen die morgen naar de hoofdstad komt dat zoveel mogelijk met het openbaar vervoer te doen. Door de combinatie van shoppers voor Black Friday, de opening van het nieuwe cultuurcentrum Kanal én het startschot van Winterpret, dreigt verkeerschaos.",
-   "datum": 1795709326000
-  },
-  {
-   "id": "vrt-z3am39",
-   "sourceId": "vrt",
-   "titel": "Waterproblemen blijven aanslepen in Tongeren: eerste lek is intussen hersteld, tweede nog niet",
-   "link": "https://vrtnws.be/p.6KpjV450e",
-   "snippet": "Na eerdere waterproblemen is in Tongeren een nieuw waterlek ontstaan aan de achterkant van het station. Die bevindt zich onder het wegdek van de Elderseweg. Het andere, grotere waterlek, waardoor meer dan 1.000 inwoners in Wellen, Tongeren-Borgloon en Sint-Truiden zonder water zaten, is intussen wel opgelost.",
-   "datum": 1795709321000
-  },
-  {
-   "id": "vrt-sdn4wi",
-   "sourceId": "vrt",
-   "titel": "Vrouw zwaargewond na steekpartij in Middelkerke, partner haalde uit met een steakmes",
-   "link": "https://vrtnws.be/p.8epjX6lLo",
-   "snippet": "In de Heirweg in Middelkerke is gisterenavond een 58-jarige vrouw zwaargewond geraakt nadat haar partner uithaalde met een steakmes. Ze werd met zware verwondingen afgevoerd naar het ziekenhuis, maar is buiten levensgevaar.",
-   "datum": 1795709314000
-  },
-  {
-   "id": "tijd-ond-1ijua4v",
-   "sourceId": "tijd-ond",
-   "titel": "N-VA start afrekening met De Lijn-topvrouw Schoubs, maar proces roept vragen op",
-   "link": "https://www.tijd.be/r/t/1/id/10707149",
-   "snippet": "Minister van Mobiliteit Annick De Ridder is CEO Ann Schoubs naar de uitgang aan het duwen bij De Lijn. De N-VA vindt al langer dat de topvrouw niet voldoet, maar volgens de vakbonden staat de nakende exit niet los van haar kritiek op de Vlaamse regering.",
-   "datum": 1795709290000
-  },
-  {
-   "id": "lecho-122ys6i",
-   "sourceId": "lecho",
-   "titel": "Microcrédit: 74% des entrepreneurs financés par Microstart sont encore actifs après deux ans",
-   "link": "https://www.lecho.be/r/t/1/id/10707144",
-   "snippet": "Chaque entrepreneur dont l'activité est soutenue par Microstart génère 1,7 emploi. L'organisme de microcrédit ambitionne d'accompagner 1.000 entrepreneurs supplémentaires dans les deux ans.",
-   "datum": 1795708867000
-  },
-  {
-   "id": "vrt-cplpte",
-   "sourceId": "vrt",
-   "titel": "Primeur in Oostduinkerke: geelbruine helmharpoenzwam voor het eerst in België gespot",
-   "link": "https://vrtnws.be/p.ew4LoEmdK",
-   "snippet": "Tijdens een excursie in de Zeebermduinen in Oostduinkerke hebben onderzoekers een bijzondere paddenstoel gevonden: de geelbruine helmharpoenzwam is voor het eerst in België aangetroffen. De zwam is een bedreigde soort. \"Deze ontdekking is heel positief voor de biodiversiteit en voor de typische duinsoorten\", meent p…",
-   "datum": 1795708564000
-  },
-  {
-   "id": "vrt-1ehmh4r",
-   "sourceId": "vrt",
-   "titel": "Noodweer in de Verenigde Staten stuurt Thanksgiving-plannen van miljoenen mensen in de war",
-   "link": "https://vrtnws.be/p.E1djBBlkV",
-   "snippet": "Krachtige windstoten, overstromingen en zware sneeuwval: grote delen van de Verenigde Staten worden momenteel getroffen door noodweer. Dat veroorzaakt grote hinder voor het reisverkeer, net op het moment dat miljoenen mensen zich verplaatsen om Thanksgiving te vieren.",
-   "datum": 1795708361000
-  },
-  {
-   "id": "vrt-c4nnfh",
-   "sourceId": "vrt",
-   "titel": "Zwembad van Meise blijft dicht na ongeval met auto in gevel: \"Schade is groter dan we dachten\"",
-   "link": "https://vrtnws.be/p.ew4LPqo56",
-   "snippet": "De schade aan het zwembad van Meise is groter dan gedacht, nadat er een auto in de gevel van het zwembad is gereden. Er is niet alleen een groot gat in de muur, maar ook een scheur die loopt tot aan de inkomhal. Voorlopig blijft het zwembad dicht, en kunnen scholen en sportclubs er niet terecht.",
-   "datum": 1795708215000
-  },
-  {
-   "id": "vrt-3fp20l",
-   "sourceId": "vrt",
-   "titel": "\"Tragedie voor de sector\": felle kritiek op verdwijnen van muziekmuseum in Antwerps Vleeshuis",
-   "link": "https://vrtnws.be/p.KK8Y9y3WL",
-   "snippet": "Verschillende instrumentenbouwers en muzikanten zijn niet te spreken over de sluiting van het muziekmuseum Vleeshuis in Antwerpen, door de besparingen van de stad. In dat museum staan tal van unieke en oude muziekinstrumenten. Het Vleeshuis wordt dan wel volledig gerenoveerd, maar verliest zijn museumfunctie. \"Ieder…",
-   "datum": 1795707707000
-  },
-  {
-   "id": "vrt-1bk5twq",
-   "sourceId": "vrt",
-   "titel": "380 aanmeldingen bij Zorgcentrum na Seksueel Geweld in Genk: Esther en Claudia getuigen",
-   "link": "https://vrtnws.be/p.3BwNJB5yP",
-   "snippet": "In 2025 behandelde het Zorgcentrum na Seksueel Geweld 380 slachtoffers. Dat is volgens coördinator Liesbet Paulissen slechts het topje van de ijsberg. Vooral mannen, personen uit de LGBTQ+-gemeenschap en mensen met een handicap vinden moeilijker hun weg naar de hulpverlening. Claudia en Esther, beide slachtoffer van…",
-   "datum": 1795707706000
-  },
-  {
-   "id": "vrt-1xgsyy0",
-   "sourceId": "vrt",
-   "titel": "Koster en 2 priesters buiten vervolging gesteld in onderzoek naar vermeende feiten van kindermisbruik en moord in Kalmthout",
-   "link": "https://vrtnws.be/p.11pNvONJe",
-   "snippet": "De raadkamer in Antwerpen heeft de drie verdachten in het onderzoek naar een vermeende kindermoord en kindermisbruik in de pastorie van Nieuwmoer bij Kalmthout buiten vervolging gesteld. Dat werd vernomen bij het parket van Antwerpen.",
-   "datum": 1795707444000
+   "datum": 1795712612000
   },
   {
    "id": "bbc-19s48fy",
@@ -506,14 +1010,6 @@
    "datum": 1795704628000
   },
   {
-   "id": "tijd-ond-1ijua10",
-   "sourceId": "tijd-ond",
-   "titel": "'Bestuur Nyrstar kan niet meer oordelen in belang vennootschap'",
-   "link": "https://www.tijd.be/r/t/1/id/10707102",
-   "snippet": "De raad van bestuur van Nyrstar heeft een structureel belangenconflict en kan niet meer oordelen in het belang van de beursgenoteerde vennootschap. Dat is de mening van een groep kleine aandeelhouders van Nyrstar die voor de vijfde keer de aanstelling van een voorlopig bewindvoerder vraagt. Nyrstar verwerpt de eis.",
-   "datum": 1795704138000
-  },
-  {
    "id": "techcabal-13c66pr",
    "sourceId": "techcabal",
    "titel": "Kenyan prosecutors drop criminal investigation into FlexPay over $240,000 Naivas dispute",
@@ -530,28 +1026,12 @@
    "datum": 1795703302000
   },
   {
-   "id": "lecho-122yrce",
-   "sourceId": "lecho",
-   "titel": "EnergyVision rachète les activités de fourniture d'électricité et de gaz d'Octa+",
-   "link": "https://www.lecho.be/r/t/1/id/10707049",
-   "snippet": "EnergyVision a remporté la bataille d’offres pour la division électricité et gaz d’Octa+. L'entreprise gantoise devient ainsi le quatrième fournisseur d’énergie des ménages en Flandre.",
-   "datum": 1795703288000
-  },
-  {
    "id": "bbc-rkxnwf",
    "sourceId": "bbc",
    "titel": "Millions of people to see average monthly mortgage payments rise by £100",
    "link": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss",
    "snippet": "More people face higher mortgage repayments when they roll off a fixed deal than previously estimated.",
    "datum": 1795701620000
-  },
-  {
-   "id": "nyt-1j88ihm",
-   "sourceId": "nyt",
-   "titel": "Photos: Macy’s Thanksgiving Day Parade History and Wacky Moments",
-   "link": "https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-parade-history-timeline.html",
-   "snippet": "It isn’t always easy to keep New York City’s Thanksgiving parade on track. Here’s a look back at notable moments and mishaps.",
-   "datum": 1795700753000
   },
   {
    "id": "scmp-nqh2e6",
@@ -586,14 +1066,6 @@
    "datum": 1795700066000
   },
   {
-   "id": "tijd-ond-1ijua3x",
-   "sourceId": "tijd-ond",
-   "titel": "Marktaandeel Bpost daalt voor het eerst onder de 50 procent",
-   "link": "https://www.tijd.be/r/t/1/id/10707138",
-   "snippet": "Het marktaandeel van Bpost in de Belgische postmarkt is in 2025 voor het eerst onder de 50 procent gedaald. Dat blijkt uit cijfers van regulator BIPT.",
-   "datum": 1795699848000
-  },
-  {
    "id": "mittr-1fpk00d",
    "sourceId": "mittr",
    "titel": "The Download: Better bionic hands and AI’s natural-gas boom",
@@ -618,28 +1090,12 @@
    "datum": 1795698014000
   },
   {
-   "id": "bbc-14kd7z6",
-   "sourceId": "bbc",
-   "titel": "Cost of living roadshow highlights support on offer",
-   "link": "https://www.bbc.co.uk/news/articles/cqz0ky4204jlo?at_medium=RSS&at_campaign=rss",
-   "snippet": "This event in Sheerness is funded by the Crisis and Resilience Fund for those facing cash issues.",
-   "datum": 1795697347000
-  },
-  {
    "id": "ecb-1500gv2",
    "sourceId": "ecb",
    "titel": "Meeting of 28-29 October 2026",
    "link": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
    "snippet": "",
    "datum": 1795696200000
-  },
-  {
-   "id": "nyt-1rn2kyn",
-   "sourceId": "nyt",
-   "titel": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
-   "link": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html",
-   "snippet": "The shipping halt, which hit four countries, follows a new U.S. rule that would require licenses for companies in the countries to buy advanced A.I. chips.",
-   "datum": 1795694641000
   },
   {
    "id": "bbc-19ayyed",
@@ -666,22 +1122,6 @@
    "datum": 1795694410000
   },
   {
-   "id": "techeu-lu329",
-   "sourceId": "techeu",
-   "titel": "Transportation: Europe’s 10 most-funded companies in H1 2026",
-   "link": "https://tech.eu/2026/11/26/transportation-europes-10-most-funded-companies-in-h1-2026/",
-   "snippet": "European transportation tech companies raised approximately€2.14 billion in H1 2026. The UK emerged as the leading market, accounting formore than half of the capital raised, followed by Sweden and Ge...",
-   "datum": 1795694400000
-  },
-  {
-   "id": "lecho-122ys2x",
-   "sourceId": "lecho",
-   "titel": "La famille des frites Clarebout investit dans un resort sur la Costa del Sol",
-   "link": "https://www.lecho.be/r/t/1/id/10707107",
-   "snippet": "La famille Clarebout s’associe à Immobel, dont Marnix Galle est l’actionnaire principal, pour développer à Marbella un resort haut de gamme comprenant 158 résidences et un hôtel.",
-   "datum": 1795693936000
-  },
-  {
    "id": "euronews-fms5jm",
    "sourceId": "euronews",
    "titel": "TUI boss wants EU to cut bureaucracy, attract talent and expand green energy",
@@ -698,28 +1138,12 @@
    "datum": 1795693593000
   },
   {
-   "id": "techeu-1rx54cu",
-   "sourceId": "techeu",
-   "titel": "What separates AI features that pay off from expensive demos [Sponsored]",
-   "link": "https://tech.eu/2026/11/26/what-separates-ai-features-that-pay-off-from-expensive-demos/",
-   "snippet": "Most AI features that stall between demo and production fail for a reason that has little to do with the model: nobody redesigned the work around them. The AI features I've seen earn their cost starte...",
-   "datum": 1795693114000
-  },
-  {
    "id": "bbc-1n5extd",
    "sourceId": "bbc",
    "titel": "Drivers over 70 face eye tests every three years under new plans",
    "link": "https://www.bbc.co.uk/news/articles/cjqlqerzv1eyo?at_medium=RSS&at_campaign=rss",
    "snippet": "The changes could see drivers over 70 stripped of licences if they do not meet standards.",
    "datum": 1795692105000
-  },
-  {
-   "id": "lecho-122yrfz",
-   "sourceId": "lecho",
-   "titel": "Des robots humanoïdes arrivent sur les lignes de Volvo Gand",
-   "link": "https://www.lecho.be/r/t/1/id/10707086",
-   "snippet": "Volvo Gand va voir des robots humanoïdes arriver sur ses lignes pour effectuer certaines tâches répétitives et physiquement contraignantes qui ne sont pas encore robotisées.",
-   "datum": 1795692046000
   },
   {
    "id": "scmp-9xf2mr",
@@ -746,14 +1170,6 @@
    "datum": 1795690112000
   },
   {
-   "id": "lecho-122yre7",
-   "sourceId": "lecho",
-   "titel": "La chaîne de pizzerias Mamma Roma est en réorganisation judiciaire",
-   "link": "https://www.lecho.be/r/t/1/id/10707068",
-   "snippet": "L'enseigne Mamma Roma a entamé une procédure de réorganisation judiciaire. Son atelier de production à Gembloux est en faillite. Les pertes cumulées de l'entreprise s'élèvent à 37 millions d'euros.",
-   "datum": 1795689905000
-  },
-  {
    "id": "scmp-l8dutg",
    "sourceId": "scmp",
    "titel": "Hong Kong Maritime Week 2026 showcases the SAR’s status as maritime capital city",
@@ -770,20 +1186,12 @@
    "datum": 1795688147000
   },
   {
-   "id": "techeu-qkdikn",
-   "sourceId": "techeu",
-   "titel": "Where the AI economy meets: RAISE Summit returns to Paris, 6–8 July 2027 [Sponsored]",
-   "link": "https://tech.eu/2026/11/26/where-the-ai-economy-meets-raise-summit-returns-to-paris-6-8-july-2027/",
-   "snippet": "RAISE Summit announced its fourth edition: 6–8 July 2027 at the Palais des Congrès de Paris, opening with the AI Gala in the Galerie des Batailles at the Château de Versailles. More than 15,000 attend...",
-   "datum": 1795687800000
-  },
-  {
    "id": "nyt-167ql0m",
    "sourceId": "nyt",
    "titel": "‘Avengers’ and ‘Dune’ Have Hollywood Dreaming of a December Windfall",
    "link": "https://www.nytimes.com/2026/11/26/business/media/avengers-infinity-vision-dune.html",
    "snippet": "“Avengers: Doomsday” and “Dune: Part Three” are expected to open to at least $350 million in ticket sales. Some forecasts approach $500 million.",
-   "datum": 1795687346000
+   "datum": 1795687347000
   },
   {
    "id": "nyt-hh305f",
@@ -850,14 +1258,6 @@
    "datum": 1795685990000
   },
   {
-   "id": "techeu-p75u32",
-   "sourceId": "techeu",
-   "titel": "General Catalyst backs 17-year-old Austrian's quant trading startup",
-   "link": "https://tech.eu/2026/11/26/general-catalyst-backs-17-year-old-austrians-quant-trading-startup/",
-   "snippet": "A 17-year-old Austrian International Mathematical Olympiad medallisthas raised pre-seed funding led by General Catalyst for his quant tradingstartup looking to take on giants like Jane Street and Cita...",
-   "datum": 1795685640000
-  },
-  {
    "id": "bbc-6883gf",
    "sourceId": "bbc",
    "titel": "Musk's plan to send a million SpaceX data satellites into space approved",
@@ -866,52 +1266,12 @@
    "datum": 1795685264000
   },
   {
-   "id": "techeu-d79sf5",
-   "sourceId": "techeu",
-   "titel": "Audun raises $3M to modernise debt collection with AI",
-   "link": "https://tech.eu/2026/11/26/audun-raises-3m-to-modernise-debt-collection-with-ai/",
-   "snippet": "NorwegianAI-native debt collection company Audun has raised $3 million in funding fromAlliance VC, Y Combinator, Robinhood Ventures, Skyfall, First Degree and angelinvestors across Europe and the Unit...",
-   "datum": 1795684500000
-  },
-  {
-   "id": "techeu-5e03qw",
-   "sourceId": "techeu",
-   "titel": "From €10,000 to 6 million connected cars: The bootstrapped rise of Lithuania's OBDeleven",
-   "link": "https://tech.eu/2026/11/26/from-eur10000-to-6-million-connected-cars-the-bootstrapped-rise-of-obdeleven/",
-   "snippet": "As cars become increasingly software-defined, owning a vehicle no longer necessarily means having full access to the technology that makes it function. Proprietary diagnostic protocols, software restr...",
-   "datum": 1795683600000
-  },
-  {
-   "id": "techeu-dfwolo",
-   "sourceId": "techeu",
-   "titel": "EU-INC is in crisis but $1M-backed Shuttle isn’t waiting for Europe to fix cross-border fundraising",
-   "link": "https://tech.eu/2026/11/26/eu-inc-is-in-crisis-but-1m-backed-shuttle-isnt-waiting-for-europe-to-fix-cross-border-fundraising/",
-   "snippet": "Shuttle, an Irish fintech whose regulated platform allows investment syndicates and fund managers to raise and deploy capital across borders, has launched with authorisation from the Financial Conduct...",
-   "datum": 1795683420000
-  },
-  {
-   "id": "techeu-rz064y",
-   "sourceId": "techeu",
-   "titel": "WaterSense raises €5.75M to build Europe's water intelligence infrastructure",
-   "link": "https://tech.eu/2026/11/26/watersense-raises-eur575m-to-build-europes-water-intelligence-infrastructure/",
-   "snippet": "Water intelligence company WaterSense hassecured €5.75 million in funding through a combination of grants and a pre-seedround co-led by b2venture and Movens Capital, with participation fromvastpoint. ...",
-   "datum": 1795682700000
-  },
-  {
    "id": "bbc-j55twa",
    "sourceId": "bbc",
    "titel": "Poundland collapses putting 11,000 jobs at risk",
    "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
    "snippet": "The discount chain has fallen into administration after its owners failed to find a buyer.",
    "datum": 1795681469000
-  },
-  {
-   "id": "techeu-1cvax95",
-   "sourceId": "techeu",
-   "titel": "ARK Capture Solutions secures €5.4M to scale its all-electric carbon capture technology",
-   "link": "https://tech.eu/2026/11/26/ark-capture-solutions-secures-eur54m-to-scale-its-all-electric-carbon-capture-technology/",
-   "snippet": "Belgian cleantechcompany ARK Capture Solutions, which develops fully electric carbon captureequipment for industrial emissions, has raised €5.4 million in a funding roundled by Aperam Ventures, with p...",
-   "datum": 1795681346000
   },
   {
    "id": "scmp-tfj7j4",
@@ -960,14 +1320,6 @@
    "link": "https://techcabal.com/2026/11/26/%f0%9f%91%a8%f0%9f%8f%bf%f0%9f%9a%80techcabal-daily-a-house-breach/",
    "snippet": "In today's news: SA Home Loans hit by data breach || Dangote refinery to list on NGX || Raenest secures six US licences || WorldRemit founder launches Odola",
    "datum": 1795675183000
-  },
-  {
-   "id": "bbc-3dkjbg",
-   "sourceId": "bbc",
-   "titel": "Parents cutting basics at Christmas, charity warns",
-   "link": "https://www.bbc.co.uk/news/articles/cq1k98gpzmy4o?at_medium=RSS&at_campaign=rss",
-   "snippet": "The chief executive of Worthing Soup Kitchen says some families choose between food and presents.",
-   "datum": 1795673627000
   },
   {
    "id": "scmp-1ru7fk1",
@@ -1074,14 +1426,6 @@
    "datum": 1795661567000
   },
   {
-   "id": "nyt-zp9wh7",
-   "sourceId": "nyt",
-   "titel": "Judge Blocks F.C.C. From Targeting Disney’s Local ABC Licenses",
-   "link": "https://www.nytimes.com/2026/11/25/business/media/disney-fcc-abc-ruling.html",
-   "snippet": "A preliminary injunction halted an early regulatory review of the network’s operations in eight cities, including New York, Los Angeles and Chicago.",
-   "datum": 1795658480000
-  },
-  {
    "id": "nyt-z7y8gq",
    "sourceId": "nyt",
    "titel": "Trump Rejoiced in the Market’s Nvidia Surge. It Didn’t Last Long.",
@@ -1178,22 +1522,6 @@
    "datum": 1795642585000
   },
   {
-   "id": "nyt-12tbwrl",
-   "sourceId": "nyt",
-   "titel": "Stocks Slump Again as Investors Fret About A.I., Tariffs and Inflation",
-   "link": "https://www.nytimes.com/2026/11/25/business/stocks-sp500-nvidia-ai.html",
-   "snippet": "Nvidia and other tech companies fell as investors weighed developments in global trade and the path of interest rates.",
-   "datum": 1795642362000
-  },
-  {
-   "id": "nyt-mk5qcg",
-   "sourceId": "nyt",
-   "titel": "Anthropic’s Stock Debut Could Hurt Tech Start-Ups",
-   "link": "https://www.nytimes.com/2026/11/25/technology/anthropic-stock-tech-start-ups.html",
-   "snippet": "As the share price drops, it could act as a brake on Silicon Valley’s frenzied investing in younger companies.",
-   "datum": 1795642258000
-  },
-  {
    "id": "fed-1qvfcxn",
    "sourceId": "fed",
    "titel": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
@@ -1218,28 +1546,12 @@
    "datum": 1795635485000
   },
   {
-   "id": "nyt-vovrmt",
-   "sourceId": "nyt",
-   "titel": "Traveling to Bhutan in 2026: Wood-Fired Pizzas and Monks With Cellphones",
-   "link": "https://www.nytimes.com/2026/11/25/travel/bhutan-travel.html",
-   "snippet": "The view of the Himalayan country as ancient and immutable is being challenged by young Bhutanese who are opening restaurants and shops, and getting beyond “gross national happiness.” A traveler explores.",
-   "datum": 1795635280000
-  },
-  {
    "id": "guardian-2771ds",
    "sourceId": "guardian",
    "titel": "UK food inflation could hit 5% next year, Bank of England says",
    "link": "https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england",
    "snippet": "Sharp rise expected as cost pressures mount, with experts factoring in energy price cap hike and potential impact of El Niño Food price inflation in the UK could hit 5% next year, the Bank of England has said, despite rising less sharply than feared since the onset of the Iran war. The deputy governor Clare Lombarde…",
    "datum": 1795634757000
-  },
-  {
-   "id": "nyt-1kogbun",
-   "sourceId": "nyt",
-   "titel": "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again",
-   "link": "https://www.nytimes.com/2026/11/25/business/economy/inflation-pce-interest-rates.html",
-   "snippet": "The Federal Reserve is widely expected to raise interest rates next month.",
-   "datum": 1795634010000
   },
   {
    "id": "ecb-fx58t0",
@@ -1274,38 +1586,6 @@
    "datum": 1795625807000
   },
   {
-   "id": "bbc-138z9tw",
-   "sourceId": "bbc",
-   "titel": "Why has Poundland collapsed and what happens next?",
-   "link": "https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss",
-   "snippet": "The retail chain has collapsed just one year after being bought for £1 by an American firm.",
-   "datum": 1795623870000
-  },
-  {
-   "id": "nyt-3wbzv5",
-   "sourceId": "nyt",
-   "titel": "Martha Firestone Ford, Owner of Detroit Lions, Dies at 101",
-   "link": "https://www.nytimes.com/2026/11/24/business/martha-firestone-ford-dead.html",
-   "snippet": "Mrs. Ford, who took over the team after the 2014 death of her husband, William Clay Ford Sr., was one of a handful of female owners in the N.F.L.",
-   "datum": 1795623533000
-  },
-  {
-   "id": "nyt-929v3r",
-   "sourceId": "nyt",
-   "titel": "Trump Administration Unveils New Tariffs for China, EU and More, Citing Unfair Practices",
-   "link": "https://www.nytimes.com/2026/11/25/business/trump-tariffs-trade.html",
-   "snippet": "The latest escalation came as the administration confronts continued legal obstacles and new scrutiny from an incoming Democratic-led Congress.",
-   "datum": 1795622316000
-  },
-  {
-   "id": "techeu-igo4w6",
-   "sourceId": "techeu",
-   "titel": "Permut raises €3M to turn conversational AI into a revenue driver for brands",
-   "link": "https://tech.eu/2026/11/25/permut-raises-eur3m-to-turn-conversational-ai-into-a-revenue-driver-for-brands/",
-   "snippet": "Permut, a conversational AI agent platform that businesses can deploy across any channel they use to engage with their customers, has closed a €3 million seed round.Permut solves a challenge many dire...",
-   "datum": 1795622220000
-  },
-  {
    "id": "guardian-1ovug5p",
    "sourceId": "guardian",
    "titel": "US inflation hits highest since May after prices climb 3.8% over the last year",
@@ -1330,14 +1610,6 @@
    "datum": 1795618817000
   },
   {
-   "id": "techcabal-12jomyg",
-   "sourceId": "techcabal",
-   "titel": "Amini wants to turn Africa’s paper archives into data for AI",
-   "link": "https://techcabal.com/2026/11/25/amini-africa-paper-archives-data-ai/",
-   "snippet": "Amini, a startup building sovereign AI infrastructure, has released Soma-1X Lite, an open-weight AI model designed to convert paper-based records into machine-readable data.",
-   "datum": 1795618464000
-  },
-  {
    "id": "dw-saduc6",
    "sourceId": "dw",
    "titel": "German firms eye Africa as global trade shocks hit traditional markets",
@@ -1352,14 +1624,6 @@
    "link": "https://www.cnbc.com/2026/11/25/secondhand-holiday-shopping-grows-as-shoppers-seek-value.html",
    "snippet": "More consumers are shopping secondhand this holiday season as they emphasize value and uniqueness in their purchases.",
    "datum": 1795616221000
-  },
-  {
-   "id": "nyt-1crr639",
-   "sourceId": "nyt",
-   "titel": "Luxury Water Is Luring Drinkers Who Have Lost Their Thirst for Alcohol",
-   "link": "https://www.nytimes.com/2026/11/24/business/luxury-water-fiji-evian-voss.html",
-   "snippet": "Several newcomers are pushing into the high-end water space, which has long been occupied by brands like Fiji, Evian and Voss.",
-   "datum": 1795615260000
   },
   {
    "id": "mittr-9dw9pn",
@@ -1378,30 +1642,6 @@
    "datum": 1795611666000
   },
   {
-   "id": "nyt-f0el15",
-   "sourceId": "nyt",
-   "titel": "Why the Nvidia Rally Fizzled",
-   "link": "https://www.nytimes.com/2026/11/25/business/dealbook/nvidia-huang-ai-rally.html",
-   "snippet": "Jensen Huang may be running Nvidia again, but investors are losing faith in the artificial intelligence boom the chipmaker has underpinned.",
-   "datum": 1795611235000
-  },
-  {
-   "id": "techcabal-1g31fgm",
-   "sourceId": "techcabal",
-   "titel": "Wave’s 25 million-user blueprint: How low fees disrupted Francophone West Africa’s mobile money ‘cartels’",
-   "link": "https://techcabal.com/2026/11/25/wave-in-waemu-region/",
-   "snippet": "Wave's Public Policy Lead tells TechCabal how the company forced down prices across the WAEMU region and details the structural and regulatory hurdles that still prevent informal businesses and women from participating fully in the digital economy.",
-   "datum": 1795610035000
-  },
-  {
-   "id": "techeu-1au805v",
-   "sourceId": "techeu",
-   "titel": "Aqura Systems raises £2.1M to advance AI-powered fish farm monitoring",
-   "link": "https://tech.eu/2026/11/25/aqura-systems-raises-ps21m-to-advance-ai-powered-fish-farm-monitoring/",
-   "snippet": "Scottishaquatech company Aqura Systems has raised £2.1 million in a funding round ledby Archangels alongside Scottish Enterprise to advance its AI-powered roboticmonitoring platform for fish farms. Th...",
-   "datum": 1795608600000
-  },
-  {
    "id": "euronews-a19yd5",
    "sourceId": "euronews",
    "titel": "Around 3.7 million jobs are at risk in Europe's struggling industry, report says",
@@ -1416,14 +1656,6 @@
    "link": "https://sifted.eu/articles/au-quantum-act-sovereign-tech-fund/",
    "snippet": "",
    "datum": 1795608362000
-  },
-  {
-   "id": "techeu-12999tb",
-   "sourceId": "techeu",
-   "titel": "EU proposes €50BN equity fund to support quantum and essential sovereign tech",
-   "link": "https://tech.eu/2026/11/25/eu-proposes-eur50-billion-equity-fund-to-support-quantum-and-essential-sovereign-tech/",
-   "snippet": "The EU has proposed a €50 billion equity fund to invest in quantum computing, AI and other critical sovereign technology, as it today unveiled measures aimed at making Europe a global leader in quantu...",
-   "datum": 1795608300000
   },
   {
    "id": "crunchbase-1d8lpar",
@@ -1442,52 +1674,12 @@
    "datum": 1795608009000
   },
   {
-   "id": "techcabal-fflk4q",
-   "sourceId": "techcabal",
-   "titel": "He built a million-dollar business abroad. Now he wants to build Africa’s next generation of coders",
-   "link": "https://techcabal.com/2026/11/25/chizzy-nnamchi-built-a-career-continents/",
-   "snippet": "After more than three decades in a career, what keeps someone going? Is it the money, the excitement of the work, or the desire to see what else they can achieve? For Chizzy Nnamchi, it is the excitement of imagining what is possible and helping others realise their potential. At 61, after decades of working […]",
-   "datum": 1795606664000
-  },
-  {
    "id": "scmp-1x9phq6",
    "sourceId": "scmp",
    "titel": "As profits fall, China’s carmakers pass financial strain on to suppliers, expert says",
    "link": "https://www.scmp.com/economy/china-economy/article/3375781/profits-fall-chinas-carmakers-pass-financial-strain-suppliers-expert-says",
    "snippet": "China’s auto industry faces mounting cash-flow pressure as receivables climb and collection periods lengthen amid a price war, an industry expert says, warning that the strain is squeezing suppliers’ finances and undermining long-term investment in innovation. As of the end of September, outstanding receivables in C…",
    "datum": 1795606254000
-  },
-  {
-   "id": "techeu-1o9r6ax",
-   "sourceId": "techeu",
-   "titel": "Tom Blomfield has left Anthropic after less than six months",
-   "link": "https://tech.eu/2026/11/25/tom-blomfield-leaves-anthropic-after-less-than-six-months/",
-   "snippet": "Tom Blomfield, the Monzo co-founder and one of the UK’s most high-profile technology entrepreneurs, has left his role at AI giant Anthropic after less than six months, according to several sources. Bl...",
-   "datum": 1795606200000
-  },
-  {
-   "id": "techeu-h4mwgx",
-   "sourceId": "techeu",
-   "titel": "‘Europe must do whatever it takes’: Tech founders and political leaders demand decisive action on Ukraine",
-   "link": "https://tech.eu/2026/11/25/europe-must-do-whatever-it-takes-tech-founders-and-political-leaders-demand-decisive-action-on-ukraine/",
-   "snippet": "More than 85 senior European figures, including four former Presidents of the European Parliament, two former heads of state and two former prime ministers, have joined members of the European Young L...",
-   "datum": 1795604820000
-  },
-  {
-   "id": "nyt-ptq7nn",
-   "sourceId": "nyt",
-   "titel": "Watch the Task Force Panel Discussions From the DealBook Summit",
-   "link": "https://www.nytimes.com/2026/11/25/business/dealbook/watch-task-force-dealbook-summit.html",
-   "snippet": "See the full conversations, led by journalists from The Times, about the impact of the midterm elections, what to expect next in the A.I. revolution, how to make America healthier and the future of work and purpose.",
-   "datum": 1795604464000
-  },
-  {
-   "id": "guardian-p5g2ls",
-   "sourceId": "guardian",
-   "titel": "Our ‘Paris manifesto’ proposes how to deal with extreme wealth in the AI age | Open letter",
-   "link": "https://www.theguardian.com/commentisfree/2026/nov/25/paris-manifesto-open-letter-ai-oligarchy",
-   "snippet": "It is possible for democracy to reverse the dynamic of oligarchy. But we must act now The explosion of extreme wealth in the world is the defining social fact of our times. When Forbes magazine began ranking the world’s largest fortunes in 1987, the wealth of the richest 0.0001% of our planet’s population equaled 3%…",
-   "datum": 1795604447000
   },
   {
    "id": "row-okhog2",
@@ -1506,38 +1698,6 @@
    "datum": 1795603253000
   },
   {
-   "id": "scmp-r91kzt",
-   "sourceId": "scmp",
-   "titel": "Huawei forms patent teams for chips and AI, eyeing ecosystem to rival Nvidia",
-   "link": "https://www.scmp.com/tech/big-tech/article/3375756/huawei-forms-patent-teams-chips-and-ai-eyeing-ecosystem-rival-nvidia",
-   "snippet": "Huawei Technologies has established dedicated patent teams for semiconductors and artificial intelligence as it seeks to establish an overseas foothold for a computing ecosystem to rival Nvidia’s. Extending an intellectual property (IP) operation rooted in telecommunications, the Shenzhen-based company had now creat…",
-   "datum": 1795602607000
-  },
-  {
-   "id": "techcabal-1bcsnpx",
-   "sourceId": "techcabal",
-   "titel": "Takealot grows revenue 27% as Amazon, Temu heat up e-commerce race",
-   "link": "https://techcabal.com/2026/11/25/takealot-revenue-growth-amazon-shein-temu/",
-   "snippet": "Takealot grew revenue 27% to $571 million as it strengthens its position against Amazon, Shein and Temu, drawing on its local merchant network, delivery infrastructure and wider group technology.",
-   "datum": 1795602551000
-  },
-  {
-   "id": "nyt-t87lfp",
-   "sourceId": "nyt",
-   "titel": "How to Use Your Apps With Fewer Taps",
-   "link": "https://www.nytimes.com/2026/11/25/technology/personaltech/apps-widgets.html",
-   "snippet": "With pop-up menus and widgets, your phone or tablet gives you quick ways to check information and get things done with less effort.",
-   "datum": 1795601036000
-  },
-  {
-   "id": "scmp-1lmxnme",
-   "sourceId": "scmp",
-   "titel": "China’s K-shaped economy better for mainland markets than Hong Kong stocks: UBS",
-   "link": "https://www.scmp.com/business/markets/article/3375763/chinas-k-shaped-economy-better-mainland-markets-hong-kong-stocks-ubs",
-   "snippet": "UBS Global Wealth Management prefers mainland Chinese stocks to Hong Kong-listed ones for 2027, warning that China’s “K-shaped” economy has left the offshore market on the weaker side of the divide. The bank’s chief investment office downgraded Hong Kong-listed Chinese equities – tracked by the MSCI China Index – to…",
-   "datum": 1795600922000
-  },
-  {
    "id": "ecb-1gt06pg",
    "sourceId": "ecb",
    "titel": "Card payments edge past cash in shops; euro area consumers want both",
@@ -1554,52 +1714,12 @@
    "datum": 1795600800000
   },
   {
-   "id": "techcabal-rxn690",
-   "sourceId": "techcabal",
-   "titel": "Nigerian cybersecurity startup Aeon extends pre-seed round to $2 million",
-   "link": "https://techcabal.com/2026/11/25/aeon-extends-pre-seed-round-to-2-million/",
-   "snippet": "Aeon has extended its pre-seed round to $2 million to expand its engineering team and accelerate product development.",
-   "datum": 1795600709000
-  },
-  {
-   "id": "bbc-1rr4cd0",
-   "sourceId": "bbc",
-   "titel": "Interest rate affect on Guernsey's housing market",
-   "link": "https://www.bbc.co.uk/news/videos/c6x29vne7lnko?at_medium=RSS&at_campaign=rss",
-   "snippet": "As interest rates rise, we look at the impact this could have on Guernsey's housing market.",
-   "datum": 1795600593000
-  },
-  {
-   "id": "techeu-h81a4b",
-   "sourceId": "techeu",
-   "titel": "Payhawk backer Eleven secures €57M first close for Fund IV",
-   "link": "https://tech.eu/2026/11/25/payhawk-backer-eleven-secures-eur57m-first-close-for-fund-iv/",
-   "snippet": "Investment firm Eleven, an early-stage investor behind 160+ startups across Europe, has reached a €57 million first close for its fourth fund, with the European Investment Fund (EIF) returning as an a...",
-   "datum": 1795600121000
-  },
-  {
-   "id": "techeu-vdf4zo",
-   "sourceId": "techeu",
-   "titel": "Build, back or partner: how Fortum is investing in the future of energy",
-   "link": "https://tech.eu/2026/11/25/build-back-or-partner-how-fortum-is-investing-in-the-future-of-energy/",
-   "snippet": "As electrification accelerates, energy companies face a dual challenge: meeting growing demand for clean electricity while managing the volatility associated with renewable generation. For Nordic ener...",
-   "datum": 1795599000000
-  },
-  {
    "id": "sifted-ma89bq",
    "sourceId": "sifted",
    "titel": "How much do you know about your AI agents?",
    "link": "https://sifted.eu/articles/how-much-do-you-know-about-your-ai-agents-brnd/",
    "snippet": "",
    "datum": 1795597246000
-  },
-  {
-   "id": "scmp-und19j",
-   "sourceId": "scmp",
-   "titel": "AstraZeneca’s China strategy: fewer sales staff, more investment?",
-   "link": "https://www.scmp.com/business/companies/article/3375725/astrazenecas-china-strategy-fewer-sales-staff-more-investment",
-   "snippet": "British-Swedish drug maker AstraZeneca has reportedly begun a major round of job cuts in China amid declining sales in the country, even as it joins other global pharmaceutical giants in expanding investment in the rising biotech powerhouse. The company began laying off up to 20 per cent of its China-based community…",
-   "datum": 1795597206000
   },
   {
    "id": "dw-bb9z9y",
@@ -1610,52 +1730,12 @@
    "datum": 1795596660000
   },
   {
-   "id": "techeu-1gu9eff",
-   "sourceId": "techeu",
-   "titel": "Pronto Ventures launches in Turin to accelerate startup growth across Europe",
-   "link": "https://tech.eu/2026/11/25/pronto-ventures-launches-in-turin-to-accelerate-startup-growth-across-europe/",
-   "snippet": "Pronto Ventures, founded by formerTechstars Managing Director Martin Olczyk, has launched at OGR Torino tosupport early-stage startups through investment opportunities, hands-onbusiness development, e...",
-   "datum": 1795596000000
-  },
-  {
-   "id": "scmp-1181a2y",
-   "sourceId": "scmp",
-   "titel": "Chinese private funds retreat from record highs as AI bubble jitters hit Nvidia backers",
-   "link": "https://www.scmp.com/business/markets/article/3375713/chinese-private-funds-retreat-record-highs-ai-bubble-jitters-hit-nvidia-backers",
-   "snippet": "A 12-month-long expansion by China’s private investment funds ended in October as market turmoil and fears of an AI bubble forced a retreat by investors. Total assets under management by private investment funds in China amounted to 25.22 trillion yuan (US$3.78 trillion) at the end of October, down from a record 25.…",
-   "datum": 1795593610000
-  },
-  {
-   "id": "techeu-badenh",
-   "sourceId": "techeu",
-   "titel": "Anthropic backer Jaan Tallinn backs Sequent",
-   "link": "https://tech.eu/2026/11/25/anthropic-backer-jann-tallinn-backs-sequent/",
-   "snippet": "The investor who led Anthropic's first major funding round is backing a startup that builds AI tools to help developers mathematically verify how software behaves, amid AI’s growing use in detecting s...",
-   "datum": 1795593600000
-  },
-  {
-   "id": "techeu-1e7qb8a",
-   "sourceId": "techeu",
-   "titel": "Bound secures $50M to advance FX risk management for mid-market companies",
-   "link": "https://tech.eu/2026/11/25/bound-secures-50m-to-advance-fx-risk-management-for-mid-market-companies/",
-   "snippet": "AI-powered foreign exchange (FX) riskmanagement platform Bound has secured a three-year $50 million debt facilityfrom global alternative credit manager Viola Credit to support its growingtrading book ...",
-   "datum": 1795593094000
-  },
-  {
    "id": "euronews-opc83c",
    "sourceId": "euronews",
    "titel": "BYD plans car production in France to boost its push into the European market",
    "link": "https://www.euronews.com/2026/11/25/byd-plans-car-production-in-france-to-boost-its-push-into-the-european-market",
    "snippet": "BYD has entered exclusive talks to buy Ineos Automotive's Hambach plant in Moselle. The deal could let the top electric carmaker build in France and boost its European presence.",
    "datum": 1795592509000
-  },
-  {
-   "id": "scmp-7r2bud",
-   "sourceId": "scmp",
-   "titel": "BYD apologises for wheel-rim error; Chinese car buyers go electric: 7 EV reads",
-   "link": "https://www.scmp.com/business/china-evs/article/3375716/byd-apologises-wheel-rim-error-chinese-car-buyers-go-electric-7-ev-reads",
-   "snippet": "We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. BYD apologises for wheel-rim error as China cracks down on car quality issues BYD has apologised for an…",
-   "datum": 1795591811000
   },
   {
    "id": "euronews-1al5ue",
@@ -1666,28 +1746,12 @@
    "datum": 1795590625000
   },
   {
-   "id": "scmp-tv0uic",
-   "sourceId": "scmp",
-   "titel": "BYD eyes a second European plant, enters talks with Ineos over a French assembly",
-   "link": "https://www.scmp.com/business/china-evs/article/3375711/byd-eyes-second-european-plant-enters-talks-ineos-over-french-assembly-france",
-   "snippet": "Chinese electric vehicle (EV) giant BYD has edged closer to a second plant in Europe after it entered exclusive talks to take over an assembly from Ineos Automotive in France, accelerating its plan for local production amid heightened import restrictions on the continent. The company said in a statement on Tuesday t…",
-   "datum": 1795589268000
-  },
-  {
    "id": "sifted-1wfvplg",
    "sourceId": "sifted",
    "titel": "25 biotech startups to watch, according to VCs",
    "link": "https://sifted.eu/articles/25-biotech-startups-to-watch-according-to-vcs/",
    "snippet": "",
    "datum": 1795582847000
-  },
-  {
-   "id": "scmp-1hjwx58",
-   "sourceId": "scmp",
-   "titel": "China Resources dropped from exclusive talks as Kingboard buys distressed tower: sources",
-   "link": "https://www.scmp.com/business/banking-finance/article/3375688/china-resources-dropped-exclusive-talks-kingboard-buys-distressed-tower-sources",
-   "snippet": "Hong Kong receivers ended an exclusivity arrangement with state-owned China Resources and agreed to sell a distressed office tower to Kingboard Holdings for HK$2.7 billion (US$344.3 million), opting for a higher offer, according to two people familiar with the matter. China Resources was the prospective buyer under…",
-   "datum": 1795582809000
   },
   {
    "id": "sifted-15tdtel",
@@ -1698,38 +1762,6 @@
    "datum": 1795582806000
   },
   {
-   "id": "scmp-243q5n",
-   "sourceId": "scmp",
-   "titel": "Shein to pay US$100 million to settle US shipping, customer service claims",
-   "link": "https://www.scmp.com/tech/article/3375701/shein-pay-us100-million-settle-us-shipping-customer-service-claims",
-   "snippet": "Chinese fast-fashion ⁠giant Shein will pay US$100 million ⁠to settle with the US Federal Trade ⁠Commission (FTC) over claims it misled consumers on shipping times, product reviews and the origin of cotton in some of its goods, according to court documents filed on Tuesday. Shein also agreed ⁠not to misrepresent ship…",
-   "datum": 1795582463000
-  },
-  {
-   "id": "scmp-nu79zr",
-   "sourceId": "scmp",
-   "titel": "After Beijing crackdown, Tiger Brokers’ holding firm logs record US$1b inflow in Hong Kong",
-   "link": "https://www.scmp.com/business/companies/article/3375689/after-beijing-crackdown-tiger-brokers-holding-firm-logs-record-us1b-inflow-hong-kong",
-   "snippet": "The Nasdaq-listed parent company of online brokerage Tiger Brokers, UP Fintech Holding, says its net asset inflows in Hong Kong approached US$1 billion in the third quarter, the highest since it entered the market, according to the firm. Of the 48,500 newly funded clients added in the quarter – an increase of 54.1 p…",
-   "datum": 1795575625000
-  },
-  {
-   "id": "scmp-1m0nthl",
-   "sourceId": "scmp",
-   "titel": "Jensen Huang’s return steadies Nvidia, but China curbs, US scrutiny show no sign of easing",
-   "link": "https://www.scmp.com/tech/big-tech/article/3375632/jensen-huangs-return-steadies-nvidia-china-curbs-us-scrutiny-show-no-sign-easing",
-   "snippet": "Jensen Huang’s return as Nvidia’s CEO may steady the chipmaker’s leadership and calm jitters across the global artificial intelligence supply chain, but it is unlikely to ease US export restrictions on China as national security scrutiny in Washington intensifies, analysts say. The reinstatement of Huang on Monday,…",
-   "datum": 1795575617000
-  },
-  {
-   "id": "scmp-180sba7",
-   "sourceId": "scmp",
-   "titel": "China’s biggest fund firms bet stocks to trough after state support runs on all cylinders",
-   "link": "https://www.scmp.com/business/china-business/article/3375678/chinas-biggest-fund-firms-bet-stocks-trough-after-state-support-runs-all-cylinders",
-   "snippet": "China’s biggest money managers said the nation’s stocks were a long-term buy after the drumbeat of state support for equities gained further traction. E Fund Management, the biggest mutual-fund firm on the Chinese mainland with 2.8 trillion yuan (US$420.4 billion) of assets under management, said the ongoing drive f…",
-   "datum": 1795568271000
-  },
-  {
    "id": "bbc-1p2umwl",
    "sourceId": "bbc",
    "titel": "Why tiny cars are taking off across Europe",
@@ -1738,482 +1770,242 @@
    "datum": 1795566845000
   },
   {
-   "id": "scmp-1j5836r",
-   "sourceId": "scmp",
-   "titel": "As CATL’s grip on Chinese EV makers loosens, Xpeng doubles down on battery production",
-   "link": "https://www.scmp.com/business/china-evs/article/3375583/catls-grip-chinese-ev-makers-loosens-xpeng-doubles-down-battery-production",
-   "snippet": "Chinese electric vehicle (EV) maker Xpeng is ramping up its battery pack manufacturing despite widening losses, seeking greater supply chain independence as carmakers continue to diversify away from Contemporary Amperex Technology Ltd (CATL). The Guangzhou-based firm recently signed a 1.8 billion yuan (US$270 millio…",
-   "datum": 1795564839000
-  },
-  {
-   "id": "guardian-1hbpde9",
-   "sourceId": "guardian",
-   "titel": "Tech sell-off resumes as euphoria from Jensen Huang’s Nvidia return subsides",
-   "link": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang",
-   "snippet": "Sell-off signals investors are bracing for further volatility in key AI sector driving economic growth worldwide Technology shares led a market retreat on Tuesday as caution returned after Jensen Huang’s extraordinary return to Nvidia days after he was forced to resign, with investors bracing for further volatility…",
-   "datum": 1795557921000
-  },
-  {
-   "id": "economist-cofmms",
-   "sourceId": "economist",
-   "titel": "Are America’s supply chains really more vulnerable than China’s?",
-   "link": "https://www.economist.com/finance-and-economics/2026/11/24/are-americas-supply-chains-really-more-vulnerable-than-chinas",
-   "snippet": "Mapping the vulnerabilities in global commerce",
-   "datum": 1795552454000
-  },
-  {
-   "id": "guardian-19gipwc",
-   "sourceId": "guardian",
-   "titel": "Nvidia CEO Jensen Huang apologizes to staff: ‘I made some terrible mistakes’",
-   "link": "https://www.theguardian.com/technology/2026/nov/24/jensen-huang-nvidia-apologizes-staff",
-   "snippet": "Huang acknowledges he violated code of conduct by having affairs, but denied Trump was instrumental in his return Jensen Huang apologized to staff on Tuesday for the tumult he has caused at Nvidia. The company’s CEO acknowledged he violated the code of conduct for having extramarital affairs, but pushed back on the…",
-   "datum": 1795552322000
-  },
-  {
-   "id": "cnbc-1anevqv",
-   "sourceId": "cnbc",
-   "titel": "Retail turnarounds are taking hold just in time for the holiday season",
-   "link": "https://www.cnbc.com/2026/11/24/retail-turnarounds-holiday-season.html",
-   "snippet": "Retail earnings reports on Tuesday pointed to a mix of factors behind the strong results, including a resilient consumer and stronger execution.",
-   "datum": 1795548399000
-  },
-  {
-   "id": "fed-1wfrx2d",
-   "sourceId": "fed",
-   "titel": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
-   "snippet": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
-   "datum": 1795546800000
-  },
-  {
-   "id": "economist-sg0d3o",
-   "sourceId": "economist",
-   "titel": "Copper shows how AI is messing with markets",
-   "link": "https://www.economist.com/finance-and-economics/2026/11/24/copper-shows-how-ai-is-messing-with-markets",
-   "snippet": "The pitfalls of being a proxy bet for a technological revolution",
-   "datum": 1795543958000
-  },
-  {
-   "id": "euronews-q5tqqn",
-   "sourceId": "euronews",
-   "titel": "Why French pharma firm Sanofi is paying $41 billion for US company Insmed",
-   "link": "https://www.euronews.com/2026/11/24/why-french-pharma-firm-sanofi-is-paying-41-billion-for-us-company-insmed",
-   "snippet": "French drugmaker Sanofi has agreed a $41 billion (€37.4bn) all-cash takeover of Insmed, a US biopharma company. The deal, one of its biggest ever, is meant to refill its pipeline of new medicines before its best-selling drug loses patent protection.",
-   "datum": 1795534133000
-  },
-  {
-   "id": "cnbc-inlehl",
-   "sourceId": "cnbc",
-   "titel": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
-   "link": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html",
-   "snippet": "Best Buy beat quarterly expectations for its fiscal third-quarter earnings results on Tuesday and raised its full-year guidance.",
-   "datum": 1795531918000
-  },
-  {
-   "id": "techeu-1c1wv8q",
-   "sourceId": "techeu",
-   "titel": "Arken Labs launches to bring AI-driven automation to physical infrastructure",
-   "link": "https://tech.eu/2026/11/24/arken-labs-launches-to-bring-ai-driven-automation-to-physical-infrastructure/",
-   "snippet": "Berlin-based AIstartup Arken Labs has been launched by thermondo founder Philipp Pausder andstartup investor Tim Winter to streamline the planning and delivery of physicalinfrastructure projects. Foun...",
-   "datum": 1795531737000
-  },
-  {
-   "id": "euronews-2522s",
-   "sourceId": "euronews",
-   "titel": "How Trump and Silicon Valley got Nvidia to bring back Jensen Huang",
-   "link": "https://www.euronews.com/2026/11/24/why-trump-and-silicon-valley-wanted-nvidias-jensen-huang-back",
-   "snippet": "Nvidia's board said Jensen Huang would not return. Six days later, the chipmaker announced his reinstatement after Donald Trump pressed for his return and Elon Musk backed the campaign. Here's how the reversal unfolded and what was at stake for the AI industry.",
-   "datum": 1795530561000
-  },
-  {
-   "id": "sifted-1mznd8m",
-   "sourceId": "sifted",
-   "titel": "Why Europe’s sovereignty debate is heading to Luxembourg this March",
-   "link": "https://sifted.eu/articles/europes-sovereignty-debate-luxembourg-brnd/",
-   "snippet": "",
-   "datum": 1795530559000
-  },
-  {
-   "id": "sifted-1o1dbch",
-   "sourceId": "sifted",
-   "titel": "Exclusive: Starling veteran to take over as CEO",
-   "link": "https://sifted.eu/articles/starling-veteran-to-take-over-as-ceo/",
-   "snippet": "",
-   "datum": 1795528666000
-  },
-  {
-   "id": "mittr-p0dlyf",
-   "sourceId": "mittr",
-   "titel": "The Download: AI’s gas power boom and a consciousness reality check",
-   "link": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
-   "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obstacles to building a data center is getting approval to connect to the grid, a wait that…",
-   "datum": 1795525800000
-  },
-  {
-   "id": "euronews-2d4409",
-   "sourceId": "euronews",
-   "titel": "US and Armenia launch Trump-backed regional transit route as Baku welcomes move",
-   "link": "https://www.euronews.com/2026/11/24/us-and-armenia-launch-trump-backed-regional-transit-route-as-baku-welcomes-move",
-   "snippet": "A year after the Washington summit that brought peace between Armenia and Azerbaijan, the Trump Route for International Peace and Prosperity (TRIPP) project has entered its construction phase amid broader geopolitical reshaping in the region and beyond.",
-   "datum": 1795522896000
-  },
-  {
-   "id": "crunchbase-1kw11i",
-   "sourceId": "crunchbase",
-   "titel": "AI Bias In HR: Why Polished Work Gets Overrated And What to Do About It",
-   "link": "https://news.crunchbase.com/workplace/ai-bias-in-hr-hiring-job-applications/",
-   "snippet": "Employees and job-seekers alike are all using AI to create polished work and applications that appear perfect. In that environment, how can we promote and hire the right people?",
-   "datum": 1795521648000
-  },
-  {
-   "id": "crunchbase-stpwat",
-   "sourceId": "crunchbase",
-   "titel": "Startups Are Picking Names That Can Work Even If The Original Business Model Doesn’t",
-   "link": "https://news.crunchbase.com/startups/startup-name-trends-2026-ai/",
-   "snippet": "Startup naming tends to be a cyclical endeavor. For a few years, founders might be enamoured of silly monikers, made-up words, and creative misspellings. Then the pendulum swings, and startups defer to simple names that describe what they actually do. So where are we now? Probably somewhere in the middle. Per a Crun…",
-   "datum": 1795521621000
-  },
-  {
-   "id": "cnbc-17z76kl",
-   "sourceId": "cnbc",
-   "titel": "Some U.S. food banks see demand top pandemic levels",
-   "link": "https://www.cnbc.com/2026/11/24/us-food-banks-demand-snap.html",
-   "snippet": "A combination of high costs and restrictions to federal aid have led to soaring demand at many food banks in the U.S.",
-   "datum": 1795521601000
-  },
-  {
-   "id": "euronews-x91zgd",
-   "sourceId": "euronews",
-   "titel": "France to create strategic reserves of rare earths and critical metals",
-   "link": "https://www.euronews.com/2026/11/24/france-to-create-strategic-reserves-of-rare-earths-and-critical-metals",
-   "snippet": "This project was announced on Monday by Emmanuel Macron during a closed-door meeting with industrialists at the Élysée. These mineral stocks will be accompanied by a mechanism of \"joint purchases\".",
-   "datum": 1795520879000
-  },
-  {
-   "id": "euronews-1jmu9ii",
-   "sourceId": "euronews",
-   "titel": "How Jensen Huang's return to Nvidia made the world trillions richer",
-   "link": "https://www.euronews.com/2026/11/24/how-jensen-huangs-return-to-nvidia-made-the-world-trillions-richer",
-   "snippet": "Jensen Huang's return as Nvidia CEO made him about $34 billion (€31bn) richer and added roughly $950 billion (€871bn) to the chipmaker's value in a single day. US President Donald Trump, Nvidia's staff and stock markets from New York to Seoul gained too, while Europe got a smaller lift.",
-   "datum": 1795520235000
-  },
-  {
-   "id": "guardian-o8lxzb",
-   "sourceId": "guardian",
-   "titel": "US school bus drivers decline amid low pay and poor work conditions",
-   "link": "https://www.theguardian.com/education/2026/nov/24/school-bus-driver-decline-budget",
-   "snippet": "Total number of drivers dropped 5% over the last year and fell 15% compared with 2019 levels, new report finds The number of school bus drivers in the US has dropped 5% over the last year as drivers continue to experience low pay, poor working conditions and school budget shortfalls, according to a new report. The t…",
-   "datum": 1795518045000
-  },
-  {
-   "id": "sifted-1toimde",
-   "sourceId": "sifted",
-   "titel": "Who could be Starling’s next CEO?",
-   "link": "https://sifted.eu/articles/starlings-next-ceo/",
-   "snippet": "",
-   "datum": 1795518037000
-  },
-  {
-   "id": "ecb-1objmu4",
-   "sourceId": "ecb",
-   "titel": "Boris Vujčić: Resilience in an age of shocks: lessons from central and eastern Europe",
-   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261124~17928e5456.en.html",
-   "snippet": "",
-   "datum": 1795518000000
-  },
-  {
-   "id": "mittr-1h176i",
-   "sourceId": "mittr",
-   "titel": "Data centers are getting their own natural gas power plants",
-   "link": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
-   "snippet": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead opting to build their own off-grid, or behind-the-meter, gas power plants to fuel the AI boom. xAI’s…",
-   "datum": 1795518000000
-  },
-  {
-   "id": "guardian-1wq6ahx",
-   "sourceId": "guardian",
-   "titel": "EU to impose cap on Chinese hybrid EV imports next month",
-   "link": "https://www.theguardian.com/business/2026/nov/24/eu-cap-chinese-hybrid-ev-imports-tariff-uk",
-   "snippet": "Temporary quotas on vehicles entering the bloc will also apply to cars from the UK, Japan and Turkey The EU will next month impose its threatened caps on the number of Chinese hybrid cars that can be imported into the bloc, the European Commission has announced. The quotas will also apply to hybrids from Japan, Turk…",
-   "datum": 1795517980000
-  },
-  {
-   "id": "dw-46pd7a",
-   "sourceId": "dw",
-   "titel": "How cautious investors are struggling to avoid the AI bubble",
-   "link": "https://www.dw.com/en/how-cautious-investors-are-struggling-to-avoid-the-ai-bubble/a-80016412?maca=en-rss-en-bus-2091-rdf",
-   "snippet": "From Nvidia to Coreweave, AI and tech stocks have swung sharply in recent months. Some investors still see plenty of room to run, while others are trying to diversify — and finding it harder than expected.",
-   "datum": 1795517940000
-  },
-  {
-   "id": "guardian-kdtgba",
-   "sourceId": "guardian",
-   "titel": "Trump, Nvidia and power: could we be nearing the end of tech’s Gilded Age?",
-   "link": "https://www.theguardian.com/technology/2026/nov/24/trump-nvidia-gilded-age",
-   "snippet": "Oligarchs believe they’re untouchable – the blue wave offers hope that the rampant corruption of the Trump era may soon be over Nvidia staff: what do you think of Jensen Huang’s return as chief executive? One can imagine high-fives all around Nvidia’s boardroom after the board reinstated Jensen Huang to the CEO suit…",
-   "datum": 1795507211000
-  },
-  {
-   "id": "euronews-nu77gh",
-   "sourceId": "euronews",
-   "titel": "The man behind Nvidia: Jensen Huang’s rise and dramatic return",
-   "link": "https://www.euronews.com/2026/11/24/the-man-behind-nvidia-jensen-huangs-rise-and-dramatic-return",
-   "snippet": "A look at Jensen Huang’s extraordinary journey from founding Nvidia to building it into an AI giant, and the scandal that preceded his shock return as CEO.",
-   "datum": 1795506296000
-  },
-  {
-   "id": "euronews-vgy3ru",
-   "sourceId": "euronews",
-   "titel": "Jensen Huang is back at Nvidia. What does it mean for Europe's AI stocks?",
-   "link": "https://www.euronews.com/2026/11/24/jensen-huang-is-back-at-nvidia-what-does-it-mean-for-europes-ai-stocks",
-   "snippet": "Europe's chip stocks rallied after Nvidia reinstated Jensen Huang as CEO, with Donald Trump cheering the board's decision. But Nokia, ASML and other AI names have only recovered part of what they lost during his absence.",
-   "datum": 1795499241000
-  },
-  {
-   "id": "sifted-1tjzm4o",
-   "sourceId": "sifted",
-   "titel": "Cybersecurity startups mapped: 108 companies guarding Europe's digital frontline",
-   "link": "https://sifted.eu/articles/cybersecurity-startups-mapped-108-companies-guarding-europes-digital-frontline/",
-   "snippet": "",
-   "datum": 1795496422000
-  },
-  {
-   "id": "nikkei-5cspfe",
+   "id": "nikkei-s7xuh",
    "sourceId": "nikkei",
-   "titel": "Japan's JERA aims to build Anthropic, Meta data centers near power plants",
-   "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-jera-aims-to-build-anthropic-meta-data-centers-near-power-plants",
+   "titel": "Taiwan votes for thousands of officials with all eyes on Taipei mayor races",
+   "link": "https://asia.nikkei.com/politics/taiwan-votes-for-thousands-of-officials-with-all-eyes-on-taipei-mayor-races",
    "snippet": "",
    "datum": 0
   },
   {
-   "id": "nikkei-d2ohjo",
+   "id": "nikkei-et8uf7",
    "sourceId": "nikkei",
-   "titel": "Indonesia pays high price to keep fuel cheap under Prabowo's blanket subsidy",
-   "link": "https://asia.nikkei.com/spotlight/policy-asia/indonesia-pays-high-price-to-keep-fuel-cheap-under-prabowo-s-blanket-subsidy",
+   "titel": "Century-old Hong Kong teahouse reinvents 'yum cha' after dark",
+   "link": "https://asia.nikkei.com/business/food-beverage/century-old-hong-kong-teahouse-reinvents-yum-cha-after-dark",
    "snippet": "",
    "datum": 0
   },
   {
-   "id": "nikkei-g2qzv2",
+   "id": "nikkei-1a7znsz",
    "sourceId": "nikkei",
-   "titel": "Trump-Xi summits unlikely to solve China's rare-earth licensing maze",
-   "link": "https://asia.nikkei.com/opinion/trump-xi-summits-unlikely-to-solve-china-s-rare-earth-licensing-maze",
+   "titel": "Australian state election provides 'dry run' for federal contest",
+   "link": "https://asia.nikkei.com/politics/australian-state-election-provides-dry-run-for-federal-contest",
    "snippet": "",
    "datum": 0
   },
   {
-   "id": "nikkei-z4xu1a",
+   "id": "nikkei-1rddtr3",
    "sourceId": "nikkei",
-   "titel": "Taiwan weathers wave of cyberattacks ahead of Saturday's elections",
-   "link": "https://asia.nikkei.com/spotlight/cybersecurity/taiwan-weathers-wave-of-cyberattacks-ahead-of-saturday-s-elections",
+   "titel": "Hitachi shares stagnate as investors seek fresher growth story",
+   "link": "https://asia.nikkei.com/business/markets/equities/hitachi-shares-stagnate-as-investors-seek-fresher-growth-story",
    "snippet": "",
    "datum": 0
   },
   {
-   "id": "nikkei-1gg95gp",
+   "id": "nikkei-rufr0q",
    "sourceId": "nikkei",
-   "titel": "Nissan poised to import cars from China to Japan for first time",
-   "link": "https://asia.nikkei.com/business/automobiles/nissan-poised-to-import-cars-from-china-to-japan-for-first-time",
+   "titel": "Tokyo leads world in office rent, price growth as employers vie for prime space",
+   "link": "https://asia.nikkei.com/business/markets/property/tokyo-leads-world-in-office-rent-price-growth-as-employers-vie-for-prime-space",
    "snippet": "",
    "datum": 0
   },
   {
-   "id": "nikkei-pkcvw",
+   "id": "nikkei-1suf1v6",
    "sourceId": "nikkei",
-   "titel": "Nvidia, Kioxia team on AI server memory as alternative to South Korean chips",
-   "link": "https://asia.nikkei.com/business/tech/semiconductors/nvidia-kioxia-team-on-ai-server-memory-as-alternative-to-south-korean-chips",
+   "titel": "Japan's recruitment of foreign truck drivers at just 4% of goal",
+   "link": "https://asia.nikkei.com/spotlight/japan-immigration/japan-s-recruitment-of-foreign-truck-drivers-at-just-4-of-goal",
    "snippet": "",
    "datum": 0
   },
   {
-   "id": "nikkei-1mmommh",
+   "id": "nikkei-13e4uym",
    "sourceId": "nikkei",
-   "titel": "AI firms with poor safeguards face inspections under Japan draft law",
-   "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/ai-firms-with-poor-safeguards-face-inspections-under-japan-draft-law",
+   "titel": "Linear thinking: Can Japan's fastest train speed up inland economies?",
+   "link": "https://asia.nikkei.com/spotlight/big-in-asia/linear-thinking-can-japan-s-fastest-train-speed-up-inland-economies",
    "snippet": "",
    "datum": 0
   },
   {
-   "id": "nikkei-17u7gjk",
+   "id": "nikkei-4d7y8t",
    "sourceId": "nikkei",
-   "titel": "Suzuki turns to rare metal-free batteries amid China supply risks",
-   "link": "https://asia.nikkei.com/business/automobiles/electric-vehicles/suzuki-turns-to-rare-metal-free-batteries-amid-china-supply-risks",
+   "titel": "Itochu poised for Southeast Asian cloud services growth with Malaysia deal",
+   "link": "https://asia.nikkei.com/business/business-deals/itochu-poised-for-southeast-asian-cloud-services-growth-with-malaysia-deal",
    "snippet": "",
    "datum": 0
   },
   {
-   "id": "nikkei-orgur0",
+   "id": "nikkei-1fu043",
    "sourceId": "nikkei",
-   "titel": "China made Shenzhen a showcase for tech prowess at APEC summit",
-   "link": "https://asia.nikkei.com/techasia/china-made-shenzhen-a-showcase-for-tech-prowess-at-apec-summit",
+   "titel": "Japan's Happy Nuts Day bets on US taste for premium peanut butter",
+   "link": "https://asia.nikkei.com/business/food-beverage/japan-s-happy-nuts-day-bets-on-us-taste-for-premium-peanut-butter",
    "snippet": "",
    "datum": 0
   },
   {
-   "id": "nikkei-1vhd9g8",
+   "id": "nikkei-d4x7yc",
    "sourceId": "nikkei",
-   "titel": "Asia rejects basis of new Trump tariffs as US gathers China ammunition",
-   "link": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/asia-rejects-basis-of-new-trump-tariffs-as-us-gathers-china-ammunition",
+   "titel": "Japan auto parts makers lose global lead as China drives EV transition",
+   "link": "https://asia.nikkei.com/business/automobiles/japan-auto-parts-makers-lose-global-lead-as-china-drives-ev-transition",
    "snippet": "",
    "datum": 0
   },
   {
-   "id": "nikkei-1vw7w38",
+   "id": "nikkei-1g86v8p",
    "sourceId": "nikkei",
-   "titel": "36% minimum wage hike tests Bangladesh garment sector's low-cost model",
-   "link": "https://asia.nikkei.com/spotlight/work/36-minimum-wage-hike-tests-bangladesh-garment-sector-s-low-cost-model",
+   "titel": "Toyota starts China comeback bid with extended-range EV",
+   "link": "https://asia.nikkei.com/spotlight/electric-cars-in-china/toyota-starts-china-comeback-bid-with-extended-range-ev",
    "snippet": "",
    "datum": 0
   },
   {
-   "id": "nikkei-shwzwy",
+   "id": "nikkei-oxn31m",
    "sourceId": "nikkei",
-   "titel": "Wife of Japanese journalist held in Russia pleads for his release",
-   "link": "https://asia.nikkei.com/politics/international-relations/wife-of-japanese-journalist-held-in-russia-pleads-for-his-release",
+   "titel": "China's auto exports to rise 50% amid intensifying competition at home",
+   "link": "https://asia.nikkei.com/business/automobiles/china-s-auto-exports-to-rise-50-amid-intensifying-competition-at-home",
    "snippet": "",
    "datum": 0
   },
   {
-   "id": "nikkei-1inic6z",
+   "id": "nikkei-b4lg7v",
    "sourceId": "nikkei",
-   "titel": "Humanoid robots meet factory reality on Toyota's home turf",
-   "link": "https://asia.nikkei.com/business/automobiles/humanoid-robots-meet-factory-reality-on-toyota-s-home-turf",
+   "titel": "China targets overseas tourist dollars with relaxed duty-free, lodging rules",
+   "link": "https://asia.nikkei.com/business/travel-leisure/china-targets-overseas-tourist-dollars-with-relaxed-duty-free-lodging-rules",
    "snippet": "",
    "datum": 0
   },
   {
-   "id": "nikkei-1pt2zbr",
+   "id": "nikkei-11l1mq2",
    "sourceId": "nikkei",
-   "titel": "Pakistan-US economic ties to grow further, with exception of crypto",
-   "link": "https://asia.nikkei.com/economy/trade/pakistan-us-economic-ties-to-grow-further-with-exception-of-crypto2",
+   "titel": "Japan's data center subsidies to weigh local impact as backlash grows",
+   "link": "https://asia.nikkei.com/business/technology/japan-s-data-center-subsidies-to-weigh-local-impact-as-backlash-grows",
    "snippet": "",
    "datum": 0
   },
   {
-   "id": "nikkei-12be60h",
+   "id": "nikkei-1wvsd5r",
    "sourceId": "nikkei",
-   "titel": "FSB flags leverage risks in sovereign bond markets amid public debt rise",
-   "link": "https://asia.nikkei.com/business/markets/fsb-flags-leverage-risks-in-sovereign-bond-markets-amid-public-debt-rise",
+   "titel": "Breguet, other Swiss watch brands make time for young, wealthy Thais",
+   "link": "https://asia.nikkei.com/business/business-trends/breguet-other-swiss-watch-brands-make-time-for-young-wealthy-thais",
    "snippet": "",
    "datum": 0
   },
   {
-   "id": "nikkei-1t191k4",
+   "id": "nikkei-5se895",
    "sourceId": "nikkei",
-   "titel": "Hong Kong fire survivors and families mark anniversary as questions linger",
-   "link": "https://asia.nikkei.com/economy/fires/hong-kong-fire-survivors-and-families-mark-anniversary-as-questions-linger",
+   "titel": "Indonesia, Philippines and UAE to begin talks on joining CPTPP trade pact",
+   "link": "https://asia.nikkei.com/economy/indonesia-philippines-and-uae-to-begin-talks-on-joining-cptpp-trade-pact",
    "snippet": "",
    "datum": 0
   },
   {
-   "id": "nikkei-x19sdi",
+   "id": "nikkei-m5oi",
    "sourceId": "nikkei",
-   "titel": "Bank of Korea hikes rate to 3.25% against backdrop of strong economy",
-   "link": "https://asia.nikkei.com/economy/central-banks/bank-of-korea-hikes-rate-to-3.25-against-backdrop-of-strong-economy",
+   "titel": "Taiwan elections: 5 things to know about city races eyed by China and US",
+   "link": "https://asia.nikkei.com/politics/taiwan-elections-5-things-to-know-about-city-races-eyed-by-china-and-us",
    "snippet": "",
    "datum": 0
   },
   {
-   "id": "nikkei-yijdxg",
+   "id": "nikkei-lh4rw",
    "sourceId": "nikkei",
-   "titel": "Fall of Shanghai party chief clouds China's leadership reset in 2027",
-   "link": "https://asia.nikkei.com/politics/fall-of-shanghai-party-chief-clouds-china-s-leadership-reset-in-2027",
+   "titel": "Trump's 'double Kissinger' can reduce global nuclear risks",
+   "link": "https://asia.nikkei.com/opinion/trump-s-double-kissinger-can-reduce-global-nuclear-risks",
    "snippet": "",
    "datum": 0
   },
   {
-   "id": "nikkei-137kheg",
+   "id": "nikkei-19beop6",
    "sourceId": "nikkei",
-   "titel": "Nvidia turmoil casts pall over high-flying global AI chip industry",
-   "link": "https://asia.nikkei.com/business/tech/semiconductors/nvidia-turmoil-casts-pall-over-high-flying-global-ai-chip-industry",
+   "titel": "Renewables key for 'economic, national security': Maldives climate chief",
+   "link": "https://asia.nikkei.com/editor-s-picks/interview/renewables-key-for-economic-national-security-maldives-climate-chief",
    "snippet": "",
    "datum": 0
   },
   {
-   "id": "nikkei-1b67um6",
+   "id": "nikkei-1nbq5kv",
    "sourceId": "nikkei",
-   "titel": "Japan arcade snags world record with 600 claw machines",
-   "link": "https://asia.nikkei.com/business/media-entertainment/japan-arcade-snags-world-record-with-600-claw-machines",
+   "titel": "India's resilient GDP growth story rubs up against sticky inflation",
+   "link": "https://asia.nikkei.com/economy/india-s-resilient-gdp-growth-story-rubs-up-against-sticky-inflation",
    "snippet": "",
    "datum": 0
   },
   {
-   "id": "nikkei-1rsupux",
+   "id": "nikkei-1mucnz9",
    "sourceId": "nikkei",
-   "titel": "Nvidia's shares drop, credit rating on watch two days after Huang's return",
-   "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-s-shares-drop-credit-rating-on-watch-two-days-after-huang-s-return",
+   "titel": "China's Sany pushes AI into heavy machinery as overseas sales grow",
+   "link": "https://asia.nikkei.com/business/technology/china-s-sany-pushes-ai-into-heavy-machinery-as-overseas-sales-grow",
    "snippet": "",
    "datum": 0
   },
   {
-   "id": "nikkei-1hlwqe6",
+   "id": "nikkei-1hhc3v5",
    "sourceId": "nikkei",
-   "titel": "Japan's Mitsui plans $125bn business asset overhaul to boost ROE",
-   "link": "https://asia.nikkei.com/business/companies/japan-s-mitsui-plans-125bn-business-asset-overhaul-to-boost-roe",
+   "titel": "Editor's Choice: How will the global chip game unfold in 2027?",
+   "link": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-how-will-the-global-chip-game-unfold-in-2027",
    "snippet": "",
    "datum": 0
   },
   {
-   "id": "nikkei-1xf738a",
+   "id": "nikkei-ua9jfe",
    "sourceId": "nikkei",
-   "titel": "Japan's Preferred Networks sows seeds of physical AI with robots, software and chips",
-   "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-preferred-networks-sows-seeds-of-physical-ai-with-robots-software-and-chips2",
+   "titel": "Australian LNG exporters must reserve some supply to lower domestic prices",
+   "link": "https://asia.nikkei.com/business/energy/australian-lng-exporters-must-reserve-some-supply-to-lower-domestic-prices",
    "snippet": "",
    "datum": 0
   },
   {
-   "id": "nikkei-qsatrm",
+   "id": "nikkei-102lj81",
    "sourceId": "nikkei",
-   "titel": "Huang back at Nvidia as China builds own chip production system",
-   "link": "https://asia.nikkei.com/opinion/huang-back-at-nvidia-as-china-builds-own-chip-production-system",
+   "titel": "New Zealand ruling coalition misses majority as election results announced",
+   "link": "https://asia.nikkei.com/politics/new-zealand-ruling-coalition-misses-majority-as-election-results-announced",
    "snippet": "",
    "datum": 0
   },
   {
-   "id": "nikkei-1v28qvg",
+   "id": "nikkei-10wpo3c",
    "sourceId": "nikkei",
-   "titel": "China widens graft crackdown, putting ex-officials, crypto in crosshairs",
-   "link": "https://asia.nikkei.com/politics/china-widens-graft-crackdown-putting-ex-officials-crypto-in-crosshairs",
+   "titel": "Indonesia fund Danantara's debut report spurs doubts over sweeping mandate",
+   "link": "https://asia.nikkei.com/economy/indonesia-fund-danantara-s-debut-report-spurs-doubts-over-sweeping-mandate",
    "snippet": "",
    "datum": 0
   },
   {
-   "id": "nikkei-1ezb72e",
+   "id": "nikkei-17zg9w5",
    "sourceId": "nikkei",
-   "titel": "How a Bain-led deal made SK Hynix Kioxia's top shareholder",
-   "link": "https://asia.nikkei.com/business/tech/semiconductors/how-a-bain-led-deal-made-sk-hynix-kioxia-s-top-shareholder",
+   "titel": "In Focus: Hokkaido's Hakodate attracts tourists as local population shrinks",
+   "link": "https://asia.nikkei.com/photos/in-focus-hokkaido-s-hakodate-attracts-tourists-as-local-population-shrinks",
    "snippet": "",
    "datum": 0
   },
   {
-   "id": "nikkei-tg2tgj",
+   "id": "nikkei-4e4zro",
    "sourceId": "nikkei",
-   "titel": "Analysis: US grants Mao Zedong's 'chairman' title to Xi Jinping",
-   "link": "https://asia.nikkei.com/editor-s-picks/china-up-close/analysis-us-grants-mao-zedong-s-chairman-title-to-xi-jinping",
+   "titel": "Bosch rises in India as tough regulations require more complex auto parts",
+   "link": "https://asia.nikkei.com/business/automobiles/bosch-rises-in-india-as-tough-regulations-require-more-complex-auto-parts",
    "snippet": "",
    "datum": 0
   },
   {
-   "id": "nikkei-1o83ybs",
+   "id": "nikkei-ih00jw",
    "sourceId": "nikkei",
-   "titel": "Trump rebuilds tariff wall with new duties on China, Japan and others",
-   "link": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/trump-rebuilds-tariff-wall-with-new-duties-on-china-japan-and-others",
+   "titel": "Humanoids beware! Japan prefers smarter factory machines",
+   "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/humanoids-beware!-japan-prefers-smarter-factory-machines",
    "snippet": "",
    "datum": 0
   },
   {
-   "id": "nikkei-1cjmiqd",
+   "id": "nikkei-1dd38sd",
    "sourceId": "nikkei",
-   "titel": "US deploys F-15EX jets to Okinawa in fighter-drone warfare push",
-   "link": "https://asia.nikkei.com/politics/defense/us-deploys-f-15ex-jets-to-okinawa-in-fighter-drone-warfare-push",
+   "titel": "Cathay reinforces position in Asian hub fight as parent Swire cashes in",
+   "link": "https://asia.nikkei.com/business/transportation/cathay-reinforces-position-in-asian-hub-fight-as-parent-swire-cashes-in",
    "snippet": "",
    "datum": 0
   },
   {
-   "id": "nikkei-11lcs3x",
+   "id": "nikkei-14plnnx",
    "sourceId": "nikkei",
-   "titel": "Japan may need public to pay more to fund defense buildup: advisers",
-   "link": "https://asia.nikkei.com/politics/defense/japan-may-need-public-to-pay-more-to-fund-defense-buildup-advisers",
+   "titel": "Japan's JERA aims to build data centers for Anthropic, other AI players near power plants",
+   "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-jera-aims-to-build-data-centers-for-anthropic-other-ai-players-near-power-plants",
    "snippet": "",
    "datum": 0
   }
@@ -2223,119 +2015,120 @@
    "ok": false,
    "aantal": 0,
    "fout": "HTTP 404",
-   "at": 1795739025995
+   "at": 1795825028313
   },
   "tijd-ond": {
    "ok": true,
    "aantal": 10,
-   "at": 1795739025995
+   "at": 1795825028313
   },
   "lecho": {
    "ok": true,
    "aantal": 10,
-   "at": 1795739025995
+   "at": 1795825028313
   },
   "vrt": {
    "ok": true,
    "aantal": 30,
-   "at": 1795739025995
+   "at": 1795825028313
   },
   "sifted": {
    "ok": true,
    "aantal": 17,
-   "at": 1795739025995
+   "at": 1795825028313
   },
   "techeu": {
-   "ok": true,
-   "aantal": 20,
-   "at": 1795739025995
+   "ok": false,
+   "aantal": 0,
+   "fout": "HTTP 403",
+   "at": 1795825028313
   },
   "eustartups": {
    "ok": false,
    "aantal": 0,
    "fout": "HTTP 403",
-   "at": 1795739025995
+   "at": 1795825028313
   },
   "ecb": {
    "ok": true,
-   "aantal": 4,
-   "at": 1795739025995
+   "aantal": 5,
+   "at": 1795825028313
   },
   "euronews": {
    "ok": true,
-   "aantal": 20,
-   "at": 1795739025995
+   "aantal": 19,
+   "at": 1795825028313
   },
   "dw": {
    "ok": true,
-   "aantal": 4,
-   "at": 1795739025995
+   "aantal": 5,
+   "at": 1795825028313
   },
   "guardian": {
    "ok": true,
-   "aantal": 10,
-   "at": 1795739025995
+   "aantal": 7,
+   "at": 1795825028313
   },
   "bbc": {
    "ok": true,
-   "aantal": 25,
-   "at": 1795739025995
+   "aantal": 27,
+   "at": 1795825028313
   },
   "economist": {
    "ok": true,
-   "aantal": 6,
-   "at": 1795739025995
+   "aantal": 4,
+   "at": 1795825028313
   },
   "nyt": {
    "ok": true,
    "aantal": 30,
-   "at": 1795739025995
+   "at": 1795825028313
   },
   "cnbc": {
    "ok": true,
-   "aantal": 6,
-   "at": 1795739025995
+   "aantal": 4,
+   "at": 1795825028313
   },
   "techcrunch": {
    "ok": false,
    "aantal": 0,
    "fout": "HTTP 403",
-   "at": 1795739025995
+   "at": 1795825028313
   },
   "crunchbase": {
    "ok": true,
-   "aantal": 4,
-   "at": 1795739025995
+   "aantal": 2,
+   "at": 1795825028313
   },
   "mittr": {
    "ok": true,
-   "aantal": 7,
-   "at": 1795739025995
+   "aantal": 8,
+   "at": 1795825028313
   },
   "fed": {
    "ok": true,
-   "aantal": 3,
-   "at": 1795739025995
+   "aantal": 2,
+   "at": 1795825028313
   },
   "nikkei": {
    "ok": true,
    "aantal": 30,
-   "at": 1795739025995
+   "at": 1795825028313
   },
   "scmp": {
    "ok": true,
    "aantal": 30,
-   "at": 1795739025995
+   "at": 1795825028313
   },
   "row": {
    "ok": true,
    "aantal": 1,
-   "at": 1795739025995
+   "at": 1795825028313
   },
   "techcabal": {
    "ok": true,
    "aantal": 10,
-   "at": 1795739025995
+   "at": 1795825028313
   }
  }
 }
